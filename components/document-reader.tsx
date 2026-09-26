@@ -6,8 +6,8 @@ import Link from "next/link";
 
 import type { DocChange } from "@/lib/document-data";
 import { useDocStore } from "@/lib/store";
-import { statusStyles } from "@/components/change-overlay";
 import { DocumentFilePicker } from "@/components/document-file-picker";
+import { SplitPane } from "@/components/split-pane";
 
 interface LlmAnalysis {
   model: string;
@@ -53,12 +53,12 @@ export function DocumentReader() {
     [changes, section],
   );
 
-  const changeIndex = Math.max(
-    0,
-    sectionChanges.findIndex((c) => c.id === selectedId),
-  );
   const focusedChange =
     (selectedId && sectionChanges.find((c) => c.id === selectedId)) || sectionChanges[0] || null;
+  const changeIndex = Math.max(
+    0,
+    sectionChanges.findIndex((c) => c.id === focusedChange?.id),
+  );
 
   const [llm, setLlm] = useState<LlmAnalysis | null>(null);
   const [llmLoading, setLlmLoading] = useState(false);
@@ -67,12 +67,24 @@ export function DocumentReader() {
   const [rewriteNotice, setRewriteNotice] = useState("");
   const [editing, setEditing] = useState(false);
   const [draft, setDraft] = useState("");
+  /** Session-only: clears on refresh — like visited links. */
+  const [viewedIds, setViewedIds] = useState<Set<string>>(() => new Set());
   const offline = process.env.NEXT_PUBLIC_STATIC_EXPORT === "true";
+
+  function markViewed(id: string) {
+    setViewedIds((prev) => {
+      if (prev.has(id)) return prev;
+      const next = new Set(prev);
+      next.add(id);
+      return next;
+    });
+  }
 
   useEffect(() => {
     setSectionIndex(0);
     setLlm(null);
     setLlmError(null);
+    setViewedIds(new Set());
   }, [meta.docId, sections.length]);
 
   useEffect(() => {
@@ -104,17 +116,6 @@ export function DocumentReader() {
     setSectionIndex((i) => Math.min(sections.length - 1, Math.max(0, i + delta)));
   }
 
-  function goChange(delta: number) {
-    if (sectionChanges.length === 0) return;
-    const idx = sectionChanges.findIndex((c) => c.id === focusedChange?.id);
-    const next = sectionChanges[Math.min(sectionChanges.length - 1, Math.max(0, (idx < 0 ? 0 : idx) + delta))];
-    if (next) {
-      selectChange(next.id);
-      setLlm(null);
-      setLlmError(null);
-    }
-  }
-
   function goGlobalChange(delta: number) {
     const ordered = changes;
     if (ordered.length === 0) return;
@@ -123,6 +124,7 @@ export function DocumentReader() {
     const next = ordered[nextIdx];
     const sIdx = sections.findIndex((s) => s.id === next.sectionId);
     if (sIdx >= 0) setSectionIndex(sIdx);
+    markViewed(next.id);
     selectChange(next.id);
     setLlm(null);
     setLlmError(null);
@@ -239,17 +241,6 @@ export function DocumentReader() {
           onClick={() => goSection(1)}
         />
         <span className="mx-1 hidden h-4 w-px bg-border sm:block" />
-        <NavBtn
-          label="← Change"
-          disabled={!focusedChange || changeIndex <= 0}
-          onClick={() => goChange(-1)}
-        />
-        <NavBtn
-          label="Change →"
-          disabled={!focusedChange || changeIndex >= sectionChanges.length - 1}
-          onClick={() => goChange(1)}
-        />
-        <span className="mx-1 hidden h-4 w-px bg-border sm:block" />
         <NavBtn label="Prev change (doc)" onClick={() => goGlobalChange(-1)} />
         <NavBtn label="Next change (doc)" onClick={() => goGlobalChange(1)} />
         <span className="ml-auto font-mono text-[11px] text-ink-faint">
@@ -260,7 +251,8 @@ export function DocumentReader() {
         </span>
       </div>
 
-      <div className="grid items-start gap-5 lg:grid-cols-[minmax(0,1fr)_min(360px,38%)]">
+      <SplitPane
+        main={
         <article className="rounded-card border border-border bg-surface px-5 py-5 sm:px-6 sm:py-6">
           {!section ? (
             <p className="text-[13px] text-ink-muted">Load a review set to begin.</p>
@@ -281,6 +273,7 @@ export function DocumentReader() {
               const change = para.changeId ? getChange(para.changeId) : undefined;
               const isSelected = Boolean(change && focusedChange?.id === change.id);
               const showMarks = Boolean(change);
+              const viewed = Boolean(change && viewedIds.has(change.id));
               const display = paragraphDisplay(para.text, change);
 
               return (
@@ -293,34 +286,33 @@ export function DocumentReader() {
                     disabled={!change}
                     onClick={() => {
                       if (!change) return;
+                      markViewed(change.id);
                       selectChange(change.id);
                       setLlm(null);
                       setLlmError(null);
                     }}
                     className={clsx(
                       "w-full rounded-md px-2.5 py-2 text-left text-[13.5px] leading-[1.65] transition-colors text-ink",
-                      showMarks && change?.status === "pending" && "bg-doe-muted/70 ring-1 ring-doe/25",
+                      // Unviewed open items: full red (like unread)
+                      showMarks &&
+                        !viewed &&
+                        (change?.status === "pending" || change?.status === "rejected") &&
+                        "bg-doe-muted/70 ring-1 ring-doe/25",
+                      // Viewed open items: slight pink (like visited links)
+                      showMarks &&
+                        viewed &&
+                        (change?.status === "pending" || change?.status === "rejected") &&
+                        "bg-doe-soft/45 ring-1 ring-doe/15",
                       showMarks && change?.status === "edited" && "bg-accent-muted ring-1 ring-accent/25",
                       showMarks &&
                         change?.status === "accepted" &&
                         "bg-accepted-muted/70 ring-1 ring-accepted/20",
-                      showMarks &&
-                        change?.status === "rejected" &&
-                        "bg-doe-muted/70 ring-1 ring-doe/25",
                       isSelected && "ring-2 ring-accent",
                       change && "pressable cursor-pointer hover:brightness-[0.98]",
                       !change && "cursor-default",
                     )}
                   >
                     {display}
-                    {change && showMarks ? (
-                      <span className="mt-2 flex flex-wrap items-center gap-2">
-                        <span className={statusStyles(change.status)}>{change.status}</span>
-                        <span className="font-mono text-[10px] text-ink-faint">
-                          +{change.lineCount} −{change.lineCount} · p.{change.page}
-                        </span>
-                      </span>
-                    ) : null}
                   </button>
                 </div>
               );
@@ -329,8 +321,9 @@ export function DocumentReader() {
             </>
           )}
         </article>
-
-        <aside className="lg:sticky lg:top-16 lg:self-start">
+        }
+        aside={
+        <aside className="w-full">
           <div className="flex max-h-[calc(100vh-6rem)] min-h-[420px] flex-col overflow-hidden rounded-card border border-border bg-surface">
             <div className="border-b border-border-subtle px-4 py-3">
               <p className="text-[11px] font-semibold uppercase tracking-[0.08em] text-accent">
@@ -575,7 +568,8 @@ export function DocumentReader() {
             ) : null}
           </div>
         </aside>
-      </div>
+        }
+      />
     </div>
   );
 }
