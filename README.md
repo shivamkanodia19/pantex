@@ -50,3 +50,11 @@ See [FUTURE_SCOPE.md](./FUTURE_SCOPE.md) for the product/tech-slide cache, DOE p
 | [`public/sources/DEMO_DIFF_DOE_O_483.1B_to_483.1C.md`](./public/sources/DEMO_DIFF_DOE_O_483.1B_to_483.1C.md) | Precomputed “LLM” diff (presentation) |
 
 Text extracts (`.txt`) sit beside the PDFs for the ingest story.
+
+## Deterministic DOE comparison
+
+In Source Search → DOE, choose the older/newer bundled orders and click **Find differences**. The browser verifies each PDF's SHA-256 against its page-indexed extract, then compares whitespace-normalized word tokens in a worker. No AI or server endpoint is involved; GitHub Pages supports the same workflow.
+
+The preview and downloadable standalone HTML retain the complete files, including attachments. Red/green blocks indicate textual removal/addition, not a finding that obligations were retired. Large unmatched blocks use a labeled whole-block replacement when fine alignment exceeds the work limit. Counts include unaligned words in those blocks.
+
+Regenerate extracts with `python3 scripts/extract-doe-comparison.py`; verify reproducibility with `python3 scripts/extract-doe-comparison.py --check` using the pypdf version recorded in the JSON assets. The script preserves PDF page indices and records every omitted running-header line. Ordinary hyphens, punctuation, capitalization, and quantities remain significant. Layout-only PDF content and images are outside this text comparison.
