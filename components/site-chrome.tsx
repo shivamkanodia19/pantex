@@ -9,6 +9,7 @@ const NAV = [
   { href: "/document", label: "Document", match: (p: string) => p.startsWith("/document") },
   { href: "/new", label: "New Document", match: (p: string) => p.startsWith("/new") },
   { href: "/changes", label: "Changes", match: (p: string) => p.startsWith("/changes") },
+  { href: "/sources", label: "Sources", match: (p: string) => p.startsWith("/sources") },
 ] as const;
 
 export function SiteChrome({ children }: { children: React.ReactNode }) {

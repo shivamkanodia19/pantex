@@ -6,6 +6,7 @@ import Link from "next/link";
 
 import type { DocChange } from "@/lib/document-data";
 import { sectionTitle } from "@/lib/document-data";
+import { getSourceDocs } from "@/lib/sources";
 import { useDocStore } from "@/lib/store";
 
 interface LlmAnalysis {
@@ -98,6 +99,22 @@ export function DoeAnalysisPanel({ change }: { change: DocChange | null }) {
         <p className="mt-3 text-[13px] leading-relaxed text-ink-muted">
           Select a highlighted clause in the document to open Haiku match analysis here.
         </p>
+        <div className="mt-5 space-y-2 border-t border-border-subtle pt-4">
+          <p className="text-[10px] font-semibold uppercase tracking-[0.1em] text-ink-faint">
+            Reference corpus
+          </p>
+          {getSourceDocs().map((src) => (
+            <a
+              key={src.id}
+              href={src.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="pressable block text-[12px] font-medium text-accent hover:underline"
+            >
+              {src.shortTitle} ↗
+            </a>
+          ))}
+        </div>
         <p className="mt-auto pt-6 text-[11px] text-ink-faint">
           Screen 2 of Write · Claude Haiku
         </p>
@@ -309,6 +326,36 @@ export function DoeAnalysisPanel({ change }: { change: DocChange | null }) {
             Open DOE order
             <span aria-hidden>↗</span>
           </a>
+        </div>
+
+        <div className="rounded-card border border-border bg-canvas px-3 py-3">
+          <p className="text-[10px] font-semibold uppercase tracking-[0.1em] text-ink-faint">
+            Reference corpus
+          </p>
+          <ul className="mt-2 space-y-2">
+            {getSourceDocs().map((src) => (
+              <li key={src.id}>
+                <a
+                  href={src.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="pressable block text-[12px] font-medium text-accent hover:underline"
+                >
+                  {src.shortTitle}
+                  <span className="ml-1 font-normal text-ink-faint" aria-hidden>
+                    ↗
+                  </span>
+                </a>
+                <p className="mt-0.5 text-[11px] leading-snug text-ink-muted">{src.docId}</p>
+              </li>
+            ))}
+          </ul>
+          <Link
+            href="/sources"
+            className="pressable mt-3 inline-block text-[11px] font-semibold text-ink-muted hover:text-accent"
+          >
+            All sources →
+          </Link>
         </div>
 
         <p className="font-mono text-[11px] text-ink-faint">
