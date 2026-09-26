@@ -1,5 +1,6 @@
 export interface SourceDoc {
   id: string;
+  format: "procedure" | "pdf" | "markdown" | "text" | "external";
   folder: "pantex" | "doe";
   kind: "pantex" | "doe";
   title: string;
@@ -21,11 +22,14 @@ export function getSourceDocs(): SourceDoc[] {
   return [
     {
       id: "src-px-ops-2204",
+      format: "procedure",
       folder: "pantex",
       kind: "pantex",
-      title: "PX-OPS-2204 — Material Access, Work Control & Emergency Accountability",
+      title:
+        "PX-OPS-2204 — Material Access, Work Control & Emergency Accountability",
       shortTitle: "PX-OPS-2204",
-      description: "Site baseline procedure under DOE review (Rev. C). Open in Document for section-by-section analysis.",
+      description:
+        "Site baseline procedure under DOE review (Rev. C). Open in Document for full-document or section review.",
       href: `${base()}/document`,
       local: true,
       pages: 20,
@@ -34,6 +38,7 @@ export function getSourceDocs(): SourceDoc[] {
     },
     {
       id: "src-cd-0039",
+      format: "pdf",
       folder: "pantex",
       kind: "pantex",
       title: "CD-0039 — PXD Integrated Safety Management Program",
@@ -48,9 +53,11 @@ export function getSourceDocs(): SourceDoc[] {
     },
     {
       id: "src-doe-483-1b",
+      format: "pdf",
       folder: "doe",
       kind: "doe",
-      title: "DOE O 483.1B Chg 3 — Cooperative Research and Development Agreements",
+      title:
+        "DOE O 483.1B Chg 3 — Cooperative Research and Development Agreements",
       shortTitle: "DOE O 483.1B Chg 3",
       description:
         "Baseline CRADA order (approved 12-20-2016; Chg 3 10-28-2024). Superseded by 483.1C — used as the before side of the demo LLM diff.",
@@ -62,6 +69,7 @@ export function getSourceDocs(): SourceDoc[] {
     },
     {
       id: "src-doe-483-1c",
+      format: "pdf",
       folder: "doe",
       kind: "doe",
       title: "DOE O 483.1C — Cooperative Research and Development Agreements",
@@ -76,6 +84,7 @@ export function getSourceDocs(): SourceDoc[] {
     },
     {
       id: "src-doe-483-diff",
+      format: "markdown",
       folder: "doe",
       kind: "doe",
       title: "Demo LLM diff — 483.1B Chg 3 → 483.1C",
@@ -89,6 +98,7 @@ export function getSourceDocs(): SourceDoc[] {
     },
     {
       id: "src-delegations",
+      format: "external",
       folder: "doe",
       kind: "doe",
       title: "DOE Delegations Library",
@@ -102,11 +112,13 @@ export function getSourceDocs(): SourceDoc[] {
     },
     {
       id: "src-directives",
+      format: "external",
       folder: "doe",
       kind: "doe",
       title: "DOE Directives Library",
       shortTitle: "Directives Library",
-      description: "Active DOE Orders, Manuals, and Guides — authority corpus for CUI, COO, QA, emergency management, and related orders cited in review.",
+      description:
+        "Active DOE Orders, Manuals, and Guides — authority corpus for CUI, COO, QA, emergency management, and related orders cited in review.",
       href: "https://www.directives.doe.gov/",
       local: false,
       docId: "directives.doe.gov",

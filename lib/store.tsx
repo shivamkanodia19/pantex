@@ -5,8 +5,11 @@ import {
   useContext,
   useReducer,
   useState,
+  useCallback,
   type ReactNode,
 } from "react";
+
+import { SECTIONS } from "@/lib/document-data";
 
 import {
   initialReviewState,
@@ -21,7 +24,28 @@ function useDocumentState() {
     initialReviewState,
   );
   const [mode, setMode] = useState<"view" | "write">("view");
-  const [selectedId, selectChange] = useState<string | null>(null);
+  const [selectedId, setSelectedId] = useState<string | null>(null);
+  const [reviewView, setReviewView] = useState<"full" | "section">("full");
+  const [sectionId, setSectionId] = useState(SECTIONS[0].id);
+  const [editors, setEditors] = useState<Record<string, string>>({});
+  const selectChange = useCallback(
+    (id: string | null) => {
+      setSelectedId(id);
+      const change = state.changes.find((c) => c.id === id);
+      if (change) setSectionId(change.sectionId);
+    },
+    [state.changes],
+  );
+  const setEditor = useCallback((id: string, text: string) => {
+    setEditors((prev) => ({ ...prev, [id]: text }));
+  }, []);
+  const clearEditor = useCallback((id: string) => {
+    setEditors((prev) => {
+      const next = { ...prev };
+      delete next[id];
+      return next;
+    });
+  }, []);
 
   function act(
     type: ReviewAction["type"],
@@ -39,6 +63,13 @@ function useDocumentState() {
 
   return {
     ...state,
+    reviewView,
+    setReviewView,
+    sectionId,
+    setSectionId,
+    editors,
+    setEditor,
+    clearEditor,
     mode,
     setMode,
     selectedId,

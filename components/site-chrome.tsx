@@ -40,8 +40,8 @@ export function SiteChrome({ children }: { children: React.ReactNode }) {
               })}
             </nav>
           </div>
-          <span className="shrink-0 rounded-md border border-border bg-canvas px-2 py-0.5 font-mono text-[10px] uppercase tracking-[0.14em] text-ink-faint">
-            Local Haiku · section review
+          <span className="hidden shrink-0 sm:inline-block rounded-md border border-border bg-canvas px-2 py-0.5 font-mono text-[10px] uppercase tracking-[0.14em] text-ink-faint">
+            Document review
           </span>
         </div>
       </header>

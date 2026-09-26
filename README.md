@@ -23,13 +23,21 @@ ANTHROPIC_API_KEY=sk-ant-...
 ANTHROPIC_MODEL=claude-haiku-4-5
 ```
 
-Path: `/Users/shivam/aggiesinvent/.env.local`
+Create `.env.local` in the project root.
 
 ## Tabs
 
-1. **Source Search** — file finder (Pantex / DOE folders), no LLM  
-2. **Document** — section-by-section review; **Run LLM** per change (Haiku)  
-3. **Changes** — accordion of all recommendations  
+1. **Source Search** — Pantex / DOE libraries with inline procedure, PDF, and text previews. External libraries open separately. Browsing never calls AI.
+2. **Document** — switch between Full document (click-to-open review panel) and Section review (navigation and analysis sidebar). Both share selection, unsaved edits, decisions, and undo.
+3. **Changes** — accordion of all recommendations.
+
+Approve applies the proposal; Revert restores the original. Editing or rewording never silently applies a proposal. Review state and unsaved drafts last for the current session only. `/new` redirects to Document.
+
+Analyze and Reword are explicit, local-server actions. GitHub Pages disables live AI while keeping manual review functional. Seeded evidence is demo content, not independently verified. No live Anthropic test was performed for this milestone.
+
+## Verification
+
+Run `npm test` for review-state, mocked rewrite API, and source-filter tests; run `npx tsc --noEmit` for TypeScript validation.
 
 See [FUTURE_SCOPE.md](./FUTURE_SCOPE.md) for the product/tech-slide cache, DOE parse, and RAG story.
 
