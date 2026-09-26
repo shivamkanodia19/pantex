@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 
 import { DEFAULT_PACK_IDS, siteDocOptions } from "@/lib/review-packs";
 import { useDocStore } from "@/lib/store";
@@ -19,10 +19,11 @@ function writeSiteQuery(siteId: string) {
   window.history.replaceState(null, "", url.pathname + url.search);
 }
 
-/** Compact Pantex site-doc control — DOE pair is fixed (483.1B→483.1C). */
+/** Compact control — official CD-0039 only; DOE pair stays fixed under the hood. */
 export function DocumentFilePicker({ compact = false }: { compact?: boolean }) {
   const { siteId, loadReviewPack, sitePdfHref, meta } = useDocStore();
-  const sites = siteDocOptions();
+  const sites = useMemo(() => siteDocOptions(), []);
+  const pantexPdfs = sites;
   const booted = useRef(false);
   const safeSite = sites.some((d) => d.id === siteId)
     ? siteId
@@ -33,11 +34,14 @@ export function DocumentFilePicker({ compact = false }: { compact?: boolean }) {
     if (booted.current) return;
     booted.current = true;
     const qSite = readSiteQuery() || DEFAULT_PACK_IDS.siteId;
-    setDraftSite(qSite);
-    if (qSite !== siteId) {
-      loadReviewPack(qSite, DEFAULT_PACK_IDS.doeFromId, DEFAULT_PACK_IDS.doeToId);
+    const next = sites.some((d) => d.id === qSite)
+      ? qSite
+      : DEFAULT_PACK_IDS.siteId;
+    setDraftSite(next);
+    if (next !== siteId) {
+      loadReviewPack(next, DEFAULT_PACK_IDS.doeFromId, DEFAULT_PACK_IDS.doeToId);
     }
-    writeSiteQuery(qSite);
+    writeSiteQuery(next);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
@@ -68,18 +72,22 @@ export function DocumentFilePicker({ compact = false }: { compact?: boolean }) {
       }
     >
       <label className="flex items-center gap-2 text-[12px] text-ink-muted">
-        <span className="shrink-0 font-medium text-ink-faint">Pantex doc</span>
+        <span className="shrink-0 font-medium text-ink-faint">PDF</span>
         <select
-          aria-label="Pantex site document"
-          className="max-w-[min(100%,18rem)] rounded-md border border-border bg-canvas px-2 py-1 text-[12px] text-ink outline-none focus:border-accent"
+          aria-label="Source PDF"
+          className="max-w-[min(100%,20rem)] rounded-md border border-border bg-canvas px-2 py-1 text-[12px] text-ink outline-none focus:border-accent"
           value={draftSite}
           onChange={(e) => apply(e.target.value)}
         >
-          {sites.map((d) => (
-            <option key={d.id} value={d.id}>
-              {d.shortTitle}
-            </option>
-          ))}
+          {pantexPdfs.length > 0 ? (
+            <optgroup label="Pantex">
+              {pantexPdfs.map((d) => (
+                <option key={d.id} value={d.id}>
+                  {d.shortTitle}
+                </option>
+              ))}
+            </optgroup>
+          ) : null}
         </select>
       </label>
       {sitePdfHref ? (
@@ -94,7 +102,7 @@ export function DocumentFilePicker({ compact = false }: { compact?: boolean }) {
       ) : null}
       {!compact ? (
         <span className="font-mono text-[10px] text-ink-faint">
-          {meta.totalPages} pp
+          {meta.totalPages} pp · {sites.length} PDFs
         </span>
       ) : null}
     </div>

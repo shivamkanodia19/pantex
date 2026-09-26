@@ -1,0 +1,384 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov Office of Environment, Health, Safety and Security 
+U.S. Department of Energy ORDER 
+Washington, D.C. 
+Approved: 4-25-2011
+Chg 1 (MinChg): 1-17-2017 
+SUBJECT: INTEGRATED SAFETY MANAGEMENT 
+1. PURPOSE. To ensure that the Department of Energy (DOE), including the National
+Nuclear Security Administration (NNSA), systematically integrates safety into
+management and work practices at all levels, so that missions are accomplished
+efficiently while protecting the workers, the public, and the environment. Throughout this
+Order, “safety” is used synonymousl y with environment, safety, and health (ES&H).
+2. CANCELLATION. This Order supersedes DOE Order O 450.2, dated 4-25-11.
+Cancellation of a directive does not, by itself, modify or otherwise affect any contractual
+or regulatory obligation to comply with the directive. Contractor Requirements
+Documents (CRD) that have been incorporated into a contract remain in effect
+throughout the term of the contract unless, and until, the contract or regulatory 
+commitment is modified to either eliminate requirements that are no longer applicable or
+substitute a new set of requirements.
+3. APPLICABILITY.
+a. Departmental Applicability. Except for the equivalencies and exemptions in
+paragraph 3.c., this Order applies to all Departmental Elements.
+The Administrator of NNSA will assure that NNSA employees comply with their
+responsibilities under this Order. Nothing in this Order will be construed to
+interfere with the NNSA Administrator’s authority under section 3212(d) of
+Public Law (P.L.) 106-65 to establish Administration-specific policies unless 
+disapproved by the Secretary.
+b. DOE Contractors. This Order is not applicable to DOE contractors. Contractor
+requirements for integrated safety management (ISM) are implemented via the
+Department of Energy Acquisition Regulation (DEAR) clause at 48 C.F.R.
+970.5223-1, Integration of Environment, Safety, and Health into Work Planning
+and Execution, where prescribed by the DEAR. See 48 C.F.R. 923.7003, 952.223-
+71, and 970.2303-3.
+c. Equivalencies /Exemptions.
+(1) Equivalency. In accordance with the responsibilities and authorities
+assigned by Executive Order 12344, codified at 50 U.S.C., sections 2406
+and 2511, and to ensure consistency through the joint Navy/DOE Naval
+Nuclear Propulsion Program, the Deputy Administrator for Naval
+Reactors (Director) will implement and oversee requirements and
+practices pertaining to this Directive for activities under the Director's
+cognizance, as deemed appropriate by the Director.
+DOE O 450.2
+
+--- page 2 ---
+2   DOE O 450.2 
+4-25-2011
+(
+2) Exemption. C onsistent with Secretarial Delegation Order Number 00-
+033.00B to the Administrator and Chief Executive Office of Bonneville
+Power Administration (BPA), this Order does not apply to BPA.
+4. REQUIREMENTS.
+a. DOE line management1 organizations must document their approach for ensuring
+that both their DOE offices and their contractors establish ISM systems, including
+the implementing mechanisms, processes, and methods to be used in an ISM
+System Description Document. The ISM System Description Document must be
+consistent with the hazards and complexity of the facilities and work performed.
+Furthermore, this document must clearly describe how ISM Guiding Principles
+and Core Functions (see DOE P 450.4) have been applied and how relevant safety
+goals and objectives are established, documented, and implemented.
+b. DOE line managers must determine the adequacy for approval and frequency of
+updates of both their DOE offices’ and their contractors’ ISM System Description
+Documents.
+c. DOE line managers must determine the need for, and frequency of, DOE ISM
+Declarations (i.e., the status and effectiveness of ISM system implementation,
+including planning and execution of work) for facilities and activities based on 
+hazards, risks, and contractor performance history and document their decisions
+concerning high consequence activities, such as high-hazard nuclear operations.
+d. DOE line managers responsible for program and site offices’ overall ISM system
+implementation must designate a representative to serve on the ISM Champions
+Council.
+e. ISM Champions Council, functioning in accordance with its charter,2 must
+support line management in developing and sustaining vital, mature ISM systems
+throughout the Department so that work is reliably accomplished in a safe
+manner.
+f. DOE Safety Culture Improvement Panel, functioning in accordance with its
+charter3, must provide sustained leadership, consistent implementation, and an 
+enterprise-wide cross-organizational focus to continuous safety culture
+improvement.
+g. To ensure adequate safety in contractor management of DOE facilities while
+meeting mission goals, DOE line management must ensure that appropriate
+requirements are incorporated into contracts, oversee compliance, assess
+1 DOE line management refers to the unbroken chain of responsibility that extends from the Secretary of Energy to 
+the Deputy Secretary, to the Secretarial Officers who set program policy and plans and develop assigned programs, 
+and to the program and Field Element Managers who are responsible for execution of these programs. 
+2 The ISM Champions Council Charter is available on the DOE ISM Champions Web site. 
+3 The Safety Culture Improvement Panel charter is available on the DOE Safety Culture Improvement Panel web 
+site.
+
+--- page 3 ---
+DOE O 450.2 3 
+4-25-11
+contractor performance against established performance measures, analyze 
+relevant trends, and obtain relevant operational information for use as feedback 
+to improve safety. 
+h. Line management and support organizations, with safety management
+responsibility, must develop, issue, and maintain, separately or as part of the
+ISM System Description Document, an organizational Functions,
+Responsibilities, and Authorities (FRA) document that:
+(1) D escribes the organization and management structure;
+(2) Identifies the safety management functions applicable to the
+organization;
+(3) Identifies the organization’s functions and authorities that have been
+transferred to or from another organization or derived from a DOE safety
+directive or applicable governmental agency regulation;
+(4) Identifies who within the organization has the responsibility and
+authority to perform those functions;
+(5) Lists the delegated authorities;
+(6) Explains the general process for control and revision of the FRA
+document and the process used for delegations of authority;
+(7) Is readily accessible to all organizational employees;
+(8) Is approved by the head of the DOE organization to which the FRA
+document applies; and
+(9) Is reviewed annually and updated, if needed, to reflect changes to the
+delegations of authority and changes in responsibilities and
+authorizations as specified in DOE safety directives, applicable
+governmental agency regulations, and Secretarial memoranda.
+i. FRA documents for program offices that direct operations at locations where
+more than one DOE program office have work conducted must contain
+applicable memoranda of understanding (MOU) that define the allocation of
+safety management functions and responsibilities among the program offices.
+j. Following the process described in Appendix A, each Department’s line
+management organization must develop, issue, and maintain a documented
+process for delegation of authorities to perform safety management functions
+consistent with the hazards and complexity of the work. DOE's safety
+management responsibilities for ensuring adequate protection and safe
+operations must be met by DOE line management and cannot be delegated to
+contractors.
+
+--- page 4 ---
+4   DOE O 450.2 
+4-25-2011
+5. RESPONSIBILITIES.
+a. Secretary/Deputy Secretary.
+(1) Establish and communicate ES&H expectations.
+(2) Ensure effective operation of the ISM Champions Council and designate
+the DOE ISM Co-Champions to lead the Council.
+(3) Approve changes to the Charter of the ISM Champions Council.
+b. Secretarial Officers.
+(1) Develop and maintain an ISM System Description Document and an
+organizational FRA for their Headquarters office. The System Description
+and FRA can be provided in separate documents or in  the same document.
+(2) Review and (except for NNSA) approve Field Elements’ ISM System
+Descriptions. Monitor the status of Field Element and Field Element
+contractors’ ISM systems; monitor Field Elements’ establishment and
+implementation of safety goals and objectives.
+(3) Determine the need for, and frequency of, ISM Declarations for Field
+Element and contractor facilities and activities based on hazards, risk, and
+performance history with input from Field Elements.
+(4) Define the delegations of authorities and specify the responsibilities that
+are assigned to specific offices within their organizations in an FRA
+document.
+(5) Establish minimum expectations in terms of individual and organizational
+capabilities for assigned safety responsibilities or delegated safety
+authorities.
+(6) Establish secretarial office level MOUs, as appropriate, that define the
+agreed-upon procedures governing operations at locations where multiple
+program offices conduct work.
+c. Heads of DOE Field Elements.
+(1) Develop and maintain an ISM System Description Document and an
+organizational FRA for their Field Element separately or as part of the
+same document. For NNSA sites, approve and submit the ISM System
+Description to the Secretarial Officer.
+(2) Monitor the status of ISM systems for their contractors’ facilities and
+activities and provide feedback to their contractors to support continuous
+improvement.
+
+--- page 5 ---
+DOE O 450.2 5 
+4-25-11
+(3) Ensure the establishment of the annual Field Element safety goals and
+objectives and contractor safety performance objectives, measures, and
+commitments.
+(4) Support the Secretarial Office in determining the need for, and
+frequency of, Field Element and Field Element contractors’ ISM
+Declarations.
+(5) Determine whether and when to conduct ISM verifications of contractor
+ISM systems.
+(6) Implement the Field Element management systems to ensure DOE
+safety requirements and expectations are achieved.
+(7) Establish Field Element level MOUs, as appropriate, that define
+implementing methodologies for the procedures agreed-upon by the
+Secretarial Officers for governing operations at a location where
+multiple program offices conduct work. Incorporate the MOUs into
+organizational FRA documents, as appropriate.
+d. Associate Undersecretary for Environment, Health, Safety and Security
+(EHSS).
+(1) Serves as the senior manager of the Office of Primary Interest for DOE
+safety directives in support of line management.
+(2) Develops and maintain s a guidance document for implementation of
+ISM systems by DOE line management and DOE contractors.
+(3) Defines the delegation of authorities and specifies the responsibilities
+that are assigned to specific HSS offices in an FRA document.
+e. ISM Champions Council.
+(1) Assists DOE line management in developing, implementing, and
+maintaining effective ISM systems.
+(2) Serves as the primary forum for assisting DOE line managers in the
+development of Department-wide strategies for improving safety
+culture.
+(3) Reports on the acti vities of the ISM Champions Council to the Deputy
+Secretary, including initiatives to improve safety culture, with
+concurrence by the Associate Undersecretary for EHSS.
+(4) Informs the Secretary and the Deputy Secretary on the status of overall
+ISM implementation within the Department, as necessary .
+
+--- page 6 ---
+6   DOE O 450.2 
+4-25-2011
+f. Safety Culture Improvement Panel.
+(1) Strengthens the implementation of safety culture and safety conscious
+work environment throughout DOE.
+(2) Shares and, as necessary, develops improvement and sustainment tools for
+positive safety culture.
+(3) Provides high-level, line management attention to evaluating safety
+culture issues and strengths.
+(4) Provides a forum for evaluating DOE safety culture status, progress, and
+challenges, and communicates the results to the workforce.
+(5) Works to continuously improve DOE safety culture with representatives
+from across the complex.
+(6) Stays current in advances in organizational safety culture and how best
+practices can be applied to DOE.
+(7) Identifies opportunities to incorporate safety culture and the
+concepts/practices of a safety conscious work environment into leadership
+and employee training, in coordination with DOE's National Training
+Center, the Federal Technical Capability Panel, and DOE's Chief Learning
+Officer.
+6. CONTACT. Questions concerning this Order should be addressed to the Office of Health
+and Safety at (301) 903-7385.
+BY ORDER OF THE SECRETARY OF ENERGY: 
+EL
+IZABETH SHERWOOD-RANDALL 
+Deputy Secretary
+
+--- page 7 ---
+DOE O 450.2 Appendix A 
+4-25-2011 A-1
+Appendix A 
+Delegations of Authority to Perform Safety Management Functions 
+1. GENERAL REQUIREMENTS. When not prohibited by law or by the Secretary, DOE
+officials may delegate authority to perform their assigned safety management
+functions.
+a. Delegations of authority for safety functions, other than those related to nuclear
+facilities as described below, may be made to either a position or a person.
+b. Delegating officials remain fully accountable for the outcome of any actions
+taken that are associated with the delegated function(s) during the time that the
+delegation of authority is in effect.
+c. Delegating officials create and maintain documentation of such delegations that
+include descriptions of the circumstances under which the delegated authorities
+take effect, any limitations to the authorities delegated, and the time period for
+which the delegation is valid.
+d. A copy of the delegation of authority must be provided to the delegate.
+e. Unless otherwise stated, delegations of authority must remain in effect until
+they are modified, rescinded, or they expire.
+f. Delegating officials may modify or rescind in writing the delegation at any
+time.
+g. A copy of the rescission or modification must be provided to the delegate who
+previously had the delegated authority so that the delegate is aware of the
+rescission and can document the revised delegation in the appropriate FRA
+document.
+h. Delegation of program office authority to individuals in Field Element offices
+must not preclude the program offices from issuing requirements, expectations,
+and guidance affecting that authority or from participating in associated
+interactions with the operating or management contractor.
+i. Delegations of authority must be reviewed periodically (at least every 2 years).
+j. If the authority to perform a function listed in a DOE office’s FRA document is
+delegated to another office, the office receiving the delegation must be allowed
+to review and comment on that aspect of the associated FRA document and
+have its comments satisfactorily resolved. Both organizations must update their
+FRA documents to reflect the delegation
+2. NUCLEAR FACILITY SAFETY DELEGATION REQUIREMENTS. Delegation of
+nuclear safety authorities and self-assessment of this delegation process must comply
+with the process criteria and attributes specified below.
+
+--- page 8 ---
+Appendix A DOE O 450.2 
+A-2  4-25-2011
+a. Process Criteria.
+(1) Delegations must only be made to individuals who possess the necessary
+qualifications, experience, and expertise.
+(a) Approval of documented safety analyses, technical safety
+requirements, and unreviewed safety question procedures required
+pursuant to 10 C.F.R. part 830, subpart B, Safety Basis Requirements,
+must not be further delegated below the most senior-level program 
+officer or deputy at a Field Element office unless concurrence is
+obtained from the applicable Central Technical Authority (CTA).
+(b) Minimum expectations in terms of individual requirements for the
+most senior-level program officer at a Field Element office and his or
+her deputy must include (1) Senior Technical Safety Manager
+qualifications consistent with DOE Order 426.1 Chg 1, Federal
+Technical Capability, and (2) successful completion of the 1-week
+Nuclear Executive Leadership Training course.
+(c) The senior-level program officers at Headquarters that are expected
+to fulfill the responsibilities listed in (a) above are expected to have
+the same qualification as listed in (b) above.
+(2) Delegations must only be made where the candidate’s organization
+possesses, or has access to, sufficient staff (for example, a Service Center)
+with the necessary qualifications, experience, and expertise to support the
+candidate for the authorities being delegated.
+(3) Delegation must only be made where the candidate’s organization has the
+proper framework of processes and procedures, as well as adequate resources
+and funding, to implement the delegated authorities.
+(4) In those rare cases in which delegation must be made prior to the candidate
+fully satisfying the established criteria above, compensatory measures must
+be established.
+(5) There are field elements supporting more than one program office at a single
+site; therefore, to be consistent with line management responsibility for
+safety, the Assistant Managers for Environmental Management or equivalent
+position at Field Elements may be delegated safety authorities. These
+delegations must be made with the approval of the lead program field
+element manager.
+b. Process Attributes for Nuclear Safety Delegations.
+(1) Delegating officials must establish a documented process or procedure to
+ensure that delegations are made carefully and accurately, consistent with
+the process criteria and attributes defined in this Appendix.
+
+--- page 9 ---
+DOE O 450.2 Appendix A 
+4-25-2011 A-3
+(2) Delegating officials must establish their minimum expectations in terms of
+individual and organizational capabilities and capacities for the various
+delegations.
+(3) Delegating officials must document their review of these criteria for every
+delegation made.
+(4) Delegations must only be made to individuals, not to positions. The
+delegations must clearly identify to the extent to which further delegations
+are allowed, consistent with this criterion.
+(5) Delegation processes should consider the judgment of at least two senior
+managers.
+(6) Delegation processes must also address delegations of authority to
+subordinate Headquarters personnel.
+(7) Compensatory measures related to this process must receive concurrence 
+from the applicable CTA prior to delegation of authority.
+(8) Periodic reviews must be documented with the same criteria and rigor as
+the original delegations. Using the results of the delegation review, the
+reviewing officials must recommend to the applicable delegating officials
+whether to confirm, revise, or rescind the delegations or to institute
+compensatory measures or corrective actions as needed.
+(9) The CTA support staff must annually review the delegation process to
+evaluate whether it is adequate and functioning properly and to identify
+any concerns to the CTA, who will notify the Under Secretary and the
+Secretarial Office (SO) and recommend action as appropriate.
+c. Review of Delegations. An Under Secretary or SO with safety responsibilities
+related to nuclear facilities must periodically review (at intervals no greater than 2
+years) assigned safety responsibilities and delegated safety authorities and verify
+that the necessary capability and capacity to perform the responsibilities and
+authorities still exist. Safety responsibilities are documented in the FRA
+documents developed and approved by the Under Secretaries and SOs. Unless
+otherwise prohibited, the authority to take the necessary actions to fulfill the
+safety functions documented in any Under Secretary’s and SOs FRA documents
+may be delegated to either subordinate Field or Headquarters personnel.
+(1) Self-Assessments.
+(a) SOs must establish a documented process or procedure to ensure
+that self-assessments are conducted consistent with the criteria
+defined in this Appendix.
+
+--- page 10 ---
+Appendix A DOE O 450.2 
+A-4 4-25-2011
+(b) A documented comprehensive self-assessment must be performed
+periodically (at intervals no greater than 2 years) based on the
+criteria presented in this Appendix.
+(c) If the necessary capability or capacity to carry out assigned safety
+responsibilities or delegated safety authorities is found lacking,
+compensatory measures, corrective actions, or rescissions must be
+approved by the Under Secretary or SO and instituted as necessary.
+(d) Self-assessments must be performed by qualified, experienced
+personnel.
+(e) The CTA support staff must independently review the self-
+assessments for associated offices and identify any concerns to the
+CTA, who will notify the Under Secretary and SO and recommend
+actions as appropriate.
+(2) Assessment Criteria. The following criteria must be used in assessing
+individual and organizational capabilities or capacities to execute assigned
+safety responsibilities or delegated safety authorities:
+(a) Individuals possess the necessary qualifications, experience, and
+expertise to carry out their responsibilities.
+(b) Organizations have the proper framework of processes and
+procedures to implement the assigned responsibilities.
+(c) Organizations have adequate resources, including sufficient staff
+and funding to carry out the assigned responsibilities.
+(d) All assigned safety responsibilities or delegated safety authorities
+have been identified.
+(e) Each assigned safety responsibility or delegated safety authority
+has been reviewed and documented.

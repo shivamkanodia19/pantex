@@ -1,0 +1,712 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov Office of the Chief Information Officer 
+U.S. Department of Energy ORDER 
+ Washington, D.C.  
+Approved: 08-05-2026 
+ 
+SUBJECT:  RECORDS MANAGEMENT PROGRAM 
+1. PURPOSE.  To set forth requirements and responsibilities for creating and preserving 
+records containing adequate and proper documentation of the organization, functions, 
+policies, decisions, procedures, and essential transactions of the Department of Energy 
+(DOE) and to provide information necessary to protect the legal and financial rights of 
+the government and persons directly affected by DOE activities. 
+2. CANCELS/SUPERSEDES.  DOE O 243.1C, Records Management Program, dated 
+February 7, 2022.  Cancellation of a directive does not, by itself, modify or otherwise 
+affect any contractual or regulatory obligation to comply with the directive.  The 
+Contractor Requirements Document (CRD) incorporated into a contract remains in effect 
+throughout the term of the contract unless and until the contract or regulatory 
+commitment is modified either to eliminate requirements that are no longer applicable or 
+to substitute a new set of requirements. 
+3. APPLICABILITY. 
+a. Departmental Applicability.  Except for the equivalencies/exemptions in 
+paragraph 3.c., this Order applies to all DOE elements.  The Administrator of the 
+National Nuclear Security Administration (NNSA) must ensure that NNSA 
+employees comply with their responsibilities under this Order.  Nothing in this 
+Order will be construed to interfere with the NNSA Administrator’s authority 
+under Section 3212(d) of Public Law (P.L.) 106-65, National Defense 
+Authorization Act for Fiscal Year 2000, to establish Administration-specific 
+policies, unless disapproved by the Secretary. 
+DOE O 243.1D
+
+--- page 2 ---
+2 DOE O 243.1D 
+ 08-05-2026 
+b. DOE Contractors. 
+(1) The requirements of this Order shall be incorporated into applicable 
+contracts, including Management and Operating (M&O) contracts.  The 
+contractor is responsible for flowing down the requirements of this CRD, 
+if applicable.  Contractors shall comply with the requirements of 
+applicable federal, state, and local laws and regulations in carrying out the 
+requirements of this Order unless relief has been granted in writing.  
+Omission of any applicable law or regulation from the Order does not 
+affect the obligation of the contractor to comply with such law or 
+regulation.  Contractors must comply with the requirements of this Order, 
+except to the extent modified by the equivalencies or exemptions 
+identified herein or issued to the contractor in writing by DOE utilizing the 
+process outlined in DOE O 251.1E, Departmental Directives Program, 
+including as amended or updated.  Equivalencies/Exemptions.  
+Equivalencies and exemptions to this Order are processed in accordance 
+with DOE O 251.1, current version. 
+c. Equivalency.  In accordance with the responsibilities and authorities assigned by 
+Executive Order (EO) 12344, Naval Nuclear Propulsion Program, codified at 
+50 U.S.C. § 2406, Deputy Administrator for Naval Reactors, and § 2511 and to 
+ensure consistency throughout the joint Navy/DOE Naval Nuclear Propulsion 
+Program, the Deputy Administrator for Naval Reactors (Director) will implement 
+and oversee requirements and practices pertaining to this Directive for activities 
+under the Director's cognizance, as deemed appropriate. 
+4. REQUIREMENTS. 
+a. DOE shall implement a Records Management Program to comply with all 
+applicable requirements of the Federal Records Act and 36 Code of Federal 
+Regulations (CFR) Chapter XII, Subchapter B, Records Management, including 
+but not limited to requirements governing: 
+(1) Records creation, maintenance, use, and disposition. 
+(2) Records schedules and unscheduled records, including requirements that 
+unscheduled records must be retained, protected, and may not be 
+destroyed until disposition authority is approved by the National Archives 
+and Records Administration (NARA). 
+(3) In accordance with OMB M-19-21, Memorandum for Heads of Executive 
+Departments and Agencies, all DOE federal records must be managed in 
+electronic format to the fullest extent possible.  Electronic records 
+management includes:
+
+--- page 3 ---
+DOE O 243.1D 3 
+08-05-2026 
+(a) The creation, capture, management, retention, preservation, 
+metadata management, and disposition of federal records in 
+electronic formats in accordance with applicable federal records 
+laws, regulations, and Office of Management and Budget (OMB) 
+and NARA records management transition requirements. 
+(b) The integration of records management requirements into the 
+design, development, acquisition, operation, migration, 
+decommissioning, and replacement of electronic information 
+systems of record. 
+(c) The development of controls that preserve the authenticity, 
+reliability, integrity, usability, and accessibility of records for 
+required retention periods. 
+(d) Electronic communications management, where email and other 
+electronic messaging (including instant messages, text messages, 
+chat platforms, and social media) are used to conduct official 
+business, must be managed in accordance with 36 CFR § 1236.22, 
+Electronic Records Management.  Electronic communications that 
+meet the definition of federal records under 44 U.S.C. § 3301, 
+Definition of records, must be captured and preserved in 
+accordance with NARA-approved disposition schedules. 
+Official business requiring the use of electronic communications 
+must be conducted using authorized federal systems.  If any 
+official business were to be conducted through non-official 
+accounts, those communications must be forwarded to or otherwise 
+captured in an authorized federal system within 20 days of creation 
+or receipt. 
+(4) System migration and technological obsolescence.  When electronic 
+information systems that maintain federal records are retired, replaced, or 
+migrated, DOE elements must ensure that records and associated metadata 
+are successfully transferred to successor systems or other appropriate 
+storage in a manner that preserves record integrity, authenticity, and 
+accessibility.  DOE elements must plan for technological obsolescence to 
+ensure records remain usable and accessible until authorized disposition.  
+Verification of successful migration must be documented. 
+(5) Transfer and accessioning of permanent records.  Permanent electronic 
+records shall be transferred to NARA in NARA-approved formats and 
+with associated metadata required to support identification, context, 
+management, and preservation, in accordance with applicable NARA 
+regulations and guidance.
+
+--- page 4 ---
+4 DOE O 243.1D 
+ 08-05-2026 
+(6) The designation of a records management office and DOE Departmental 
+Records Officer (DRO) with appropriate authority to: 
+(a) Establish, oversee, and coordinate the Program. 
+(b) Coordinate notification to NARA of officials authorized to approve 
+records schedules and transfers. 
+(7) The creation and maintenance of records inventories and file plans. 
+(8) Essential (vital) records programs, including the identification, protection, 
+duplication, and accessibility of records necessary to support continuity of 
+operations and protect the legal rights of DOE. 
+(9) The issuance and dissemination of records management directives 
+establishing Program roles, responsibilities, and authorities. 
+(10) Records maintenance, organization, indexing, and retrieval control to 
+ensure records remain accessible, usable, and protected for the duration of 
+their retention periods. 
+(11) Records management training and guidance for all DOE personnel and 
+contractors as applicable. 
+(12) Measures to prevent, detect, and report on the unlawful or accidental 
+removal, defacing, alteration, or destruction of records in accordance with 
+36 CFR Part 1230, Unlawful or Accidental Removal, Defacing, 
+Alteration, or Destruction of Records. 
+(13) Compliance with requirements governing the storage of records in DOE 
+facilities, Federal Records Centers, and commercial records 
+storage facilities. 
+(14) Periodic evaluation of the Program to assess effectiveness and compliance 
+with applicable regulations, including results of evaluations and corrective 
+action plans to be reported to NARA as appropriate. 
+(15) Records created, received, or maintained by DOE contractors, as 
+implemented through the CRD (Attachment 1), including requirements for 
+ownership, delivery, retention, and disposition. 
+(16) Identification and distinction of federal records from nonrecord materials, 
+and management of nonrecord materials in accordance with applicable 
+law.  Contractor obligations related to the identification and distinction of 
+federal records are governed by the CRD (Attachment 1).
+
+--- page 5 ---
+DOE O 243.1D 5 
+08-05-2026 
+b. In addition to the requirements set in a., the Program shall: 
+(1) Establish Records Disposition Schedules (RDSs) and adopt applicable 
+National Archives and Records Administration General Records 
+Schedules (GRSs) as authoritative instructions for retention practices and 
+distinguishing records from nonrecords. 
+(2) Disseminate new or revised schedules as appropriate. 
+(3) Maintain a process for requesting extended retention approvals. 
+(4) Support the timely transfer of permanent records to NARA and authorized 
+disposal of temporary records in accordance with approved schedules and 
+NARA procedures. 
+(5) Conduct all required reviews to safeguard controlled unclassified 
+information (CUI) and classified material prior to the transfer and 
+accessioning of records.  Permanent classified records must undergo 
+declassification review in accordance with Executive Order 13526, 
+Classified National Security Information, and 32 CFR 2001, Classified 
+National Security Information, prior to transfer to NARA.  
+Declassification review documentation must accompany transferred 
+records.  DOE elements must report newly identified permanent classified 
+record collections requiring declassification review to appropriate 
+classification authorities and the DRO within 30 days of discovery. 
+(6) Preserve records subject to litigation holds, freezes, audits, investigations, 
+Freedom of Information Act (FOIA), or Privacy Act obligations until 
+formally released in writing by the issuing authority.  Holds must be 
+scoped to specific record categories.  Nothing in this Order alters 
+disclosure authorities or exemptions under 5 U.S.C. § 552, Public 
+information; agency rules, opinions, orders, records, and proceedings, or 
+5 U.S.C. § 552a, Records maintained on individuals; it establishes 
+preservation and recordkeeping controls to ensure DOE can meet those 
+legal obligations. 
+(7) In coordination with DOE’s FOIA and transparency functions, support the 
+identification of records of general interest or use to the public that are 
+appropriate for public disclosure, and facilitate their availability in 
+publicly accessible electronic formats, consistent with applicable law, 
+exemptions, and Departmental authorities.
+
+--- page 6 ---
+6 DOE O 243.1D 
+ 08-05-2026 
+5. RESPONSIBILITIES. 
+a. Secretary of Energy.  Ensure DOE establishes and maintains an active, continuing 
+Records Management Program in accordance with federal law. 
+b. DOE Senior Agency Official for Records Management. 
+(1) Provide executive oversight of DOE’s Records Management Program and 
+ensures Department-wide compliance with the requirements of this Order 
+and applicable federal records laws and regulations. 
+(2) Designate officials and groups as necessary to support the Records 
+Management Program. 
+(3) Provide required reports to NARA and supports records management 
+oversight activities. 
+c. DOE Departmental Records Officer. 
+(1) Manage and oversees implementation of the DOE Records Management 
+Program, including records scheduling, transfers, storage, program 
+evaluation, contractor records, integration with information systems, and 
+coordination with NARA. 
+(2) Establish subordinate roles, working groups, and procedures as necessary 
+to carry out Program requirements. 
+d. DOE Departmental Essential Records Manager. 
+(1) Establish and coordinate an Essential Records Program, maintaining 
+inventories, training documentation, records-protection measures, 
+evaluation measures, and emergency plans. 
+(2) Develop and maintain an Essential Records Plan, including the Essential 
+Records Packet. 
+e. Heads of DOE Elements. 
+(1) Establish and sustain element-level records management programs 
+consistent with this Order and applicable federal laws and regulations. 
+(2) Designate appropriate records management officials to support the 
+program established in (1). 
+(3) Ensure all DOE personnel comply with program, Order, and federal 
+records management requirements and that contractors comply with the 
+CRD (Attachment 1).
+
+--- page 7 ---
+DOE O 243.1D 7 
+08-05-2026 
+f. Records Management Officials. 
+(1) Support records identification, scheduling, storage, transfers, training, and 
+compliance monitoring as appropriate. 
+(2) Implement records-management activities and procedures developed by 
+their respective DOE Element Head. 
+g. DOE Workforce. 
+(1) Identify records created, received, or used on behalf of DOE. 
+(2) Manage records in accordance with approved schedules and procedures. 
+(3) Complete records management training as required. 
+(4) Prevent unauthorized removal or destruction of scheduled and 
+unscheduled records. 
+h. Enabling Functions (Information Technology, Contracting, Legal, Classification). 
+(1) Ensure systems, contracts, sensitivity reviews, and controls enable 
+compliance with records management requirements. 
+i. Contracting Officer. 
+(1) For all applicable contracts and upon notification that a site/facility 
+management contract is affected by this order, incorporate the 
+requirements into the affected contract(s) via the “Laws, Regulations, and 
+DOE Directives” clause of the contract, or through negotiation and 
+modification, as appropriate. 
+6. INVOKED STANDARDS.  This Order does not invoke any DOE technical standards or 
+industry standards as required methods.  NOTE:  DOE O 251.1, current version, provides 
+a definition for “invoked technical standard.” 
+7. REFERENCES.  See Attachment 2. 
+8. DEFINITIONS.  See Attachment 3. 
+9. CONTACT.  Questions concerning this Order should be addressed to the Departmental 
+Records Officer, Office of the Chief Information Officer, at doerm@hq.doe.gov 
+or (301) 903-3455. 
+ 
+JAMES P. DANLY 
+Deputy Secretary
+
+--- page 8 ---
+DOE O 243.1D Attachment 1 - CRD, Contractors Only 
+08-05-2026 Page 1-1  
+ 
+ATTACHMENT 1 
+CONTRACTOR REQUIREMENTS DOCUMENT (CRD) 
+DOE O 243.1D, RECORDS MANAGEMENT PROGRAM 
+This CRD establishes requirements for Department of Energy (DOE) and National Nuclear 
+Security Administration (NNSA) contractors who create or maintain federal records in 
+connection with the performance of DOE-funded tasks or activities. 
+The contractor is responsible for complying with the requirements of this CRD, regardless of 
+who performs the work.  The contractor is responsible for flowing down the requirements of this 
+CRD to subcontractors at any tier to the extent necessary to ensure the contractor’s compliance 
+with the requirements. 
+In addition to the requirements set forth in this CRD, contractors are responsible for complying 
+with Attachments 2 and 3 to DOE O 243.1D, which provide program information applicable to 
+contracts in which this CRD is inserted. 
+This CRD does not apply to contractor-owned records.  Contractor-owned records are records 
+not identified as federal records, including company proprietary information, records unrelated to 
+work performed under the DOE contract, corporate governance records, and other similar 
+records that belong to the contractor.  Contractor-owned records are defined in the contract 
+and/or through 48 CFR § 970.5204-3, Access to and ownership of records. Privacy Act systems 
+of record maintained on behalf of DOE (Federal Acquisition Regulation [FAR] 52.224-2, 
+Privacy Act) are federal records and are not contractor-owned records. 
+Contractors are not required to manage non-record materials as defined in 36 CFR § 1220.18, 
+What definitions apply to the regulations in Subchapter B? including extra copies kept only for 
+reference, transitory communications, and other materials excluded from the statutory definition 
+of federal records, as further described in Requirement 1. 
+1. REQUIREMENTS: 
+a. Contractors shall manage records created, received, or maintained under 
+DOE-funded work that meet the definition of federal records under 
+44 U.S.C. § 3301, Definition of Records, in accordance with federal records 
+laws and regulations. 
+Contractors are not required to manage non-record materials as defined in 
+36 CFR § 1220.18, including extra copies kept only for reference, transitory 
+communications, and other materials excluded from the statutory definition of 
+federal records. 
+Nothing in this CRD alters the statutory definition of federal records under 
+44 U.S.C. § 3301.  DOE retains responsibility for ensuring adequate and proper 
+documentation of its mission and activities.
+
+--- page 9 ---
+Attachment 1 – CRD, Contractors Only DOE O 243.1D 
+Page 1-2 08-05-2026 
+ 
+b. Implement records-management practices sufficient to identify, protect, retain, 
+and dispose of federal records in accordance with DOE-approved disposition 
+authorities.  Contractors are not required to replicate DOE’s internal records 
+governance structures. 
+c. Designate a single records management point of contact responsible for 
+coordinating contractor records management activities with DOE-designated 
+record officials.  Contractors may assign additional internal support roles at their 
+discretion based on organizational needs, contract scope, or risk. 
+d. Store records in a manner that ensures accessibility, retrievability, security, and 
+preservation consistent with the retention and preservation requirements 
+applicable to the federal records defined in this CRD. 
+e. Store records electronically when cost-effective and reasonably practicable.  This 
+CRD does not impose unfunded digitization or records remediation requirements.  
+Where digitization, conversion, or remediation is required, DOE will provide 
+written direction and address resourcing. 
+f. Maintain inventories and file plans only for designated records management 
+systems or repositories that contain federal records.  DOE may request submission 
+of inventories and file plans for designated records management systems when 
+necessary for defined oversight purposes.  Routine submissions are not required 
+unless otherwise specified by contract clause.  Requested updates to the file plan 
+should be limited to material changes from the prior submission. 
+g. Manage and dispose of federal records only in accordance with DOE-approved 
+Records Disposition Schedules or applicable National Archives and Records 
+Administration (NARA) General Records Schedules as designated by DOE. 
+h. Preserve records beyond their approved retention periods when they have been 
+placed under a destruction hold, freeze, or moratorium for purposes of audits, 
+inspections, investigations, litigation, Freedom of Information Act, or similar 
+obligations.  Where FAR 52.224-2 is included in the contract, contractors shall 
+comply with its requirements.  Holds shall be issued in writing, scoped to specific 
+record categories, and reviewed at least annually by DOE for continued necessity.  
+DOE will provide written release of the hold when it is no longer necessary; 
+contractors may request scope reduction or release with supporting rationale.  
+DOE shall respond to contractor requests within 60 days.  If no direction is 
+provided, the contractor shall notify the Departmental Records Officer (DRO) in 
+writing and request further guidance.  A hold suspends all disposition actions for 
+covered records effective upon contractor receipt of the written hold notice. 
+i. Promptly report any actual, impending, or suspected unlawful or accidental 
+removal, defacing, alteration, corruption, deletion, erasure, or destruction of 
+DOE records to the Contracting Officer and the DOE-designated Records 
+Management Official, to enable DOE to meet its notification and recovery 
+obligations to NARA.
+
+--- page 10 ---
+DOE O 243.1D Attachment 1 - CRD, Contractors Only 
+08-05-2026 Page 1-3  
+ 
+j. Sufficiently document authorized destruction of federal records to demonstrate 
+compliance with approved disposition authority. 
+k. DOE is responsible for the formal transfer or accessioning of permanent federal 
+records to NARA.  Contractors shall provide permanent federal records to DOE in 
+the form and condition in which they are maintained in the ordinary course of 
+contract performance, unless DOE provides written direction specifying 
+additional preparation, conversion, or digitization.  Electronic records must be 
+provided with associated metadata maintained in the ordinary course of business 
+sufficient to preserve context and usability. 
+Contractors shall not be required to transfer or accession records directly to 
+NARA unless expressly directed by DOE in writing and reflected in the contract.  
+Where transfer or accession is required, DOE will provide written direction and 
+address resourcing. 
+Contractors are not required to digitize, convert, migrate, or reformat records 
+solely for NARA transfer purposes unless expressly directed and funded by DOE. 
+Where records cannot be transferred at the time of contract completion, 
+contractors shall preserve them in their existing format and storage environment 
+in a manner that protects against loss, damage, or unauthorized destruction, 
+pending DOE direction.  DOE shall provide disposition direction within 180 days 
+of contract completion.  If no direction is provided, the contractor shall notify the 
+DRO in writing and request further guidance. 
+l. Ensure that personnel who create or manage federal records under this CRD 
+complete role-based training.  Contractors shall not be required to provide training 
+metrics absent written DOE request. 
+m. Ensure records remain under organizational custody and control upon 
+personnel departure. 
+n. Support DOE-directed records management evaluations.  DOE may conduct 
+contractor records management upon the following defined trigger events: 
+(1) Documented record loss, compromise, or substantiated audit finding 
+involving recordkeeping. 
+(2) Contract transition or closeout. 
+(3) Written determination by the Senior Agency Official for Records 
+Management that a specific, documented legal or statutory risk 
+requires review.
+
+--- page 11 ---
+Attachment 1 – CRD, Contractors Only DOE O 243.1D 
+Page 1-4 08-05-2026 
+ 
+DOE retains the discretion to conduct evaluations as necessary to ensure 
+compliance with applicable records management laws and regulations.  
+Evaluations shall be limited to designated records management systems that 
+maintain federal records under this CRD.  Routine or recurring evaluation cycles 
+are not required under this CRD.  Evaluations will not require the production of 
+contractor proprietary or privileged materials unless required under contract 
+or law. 
+o. Provide DOE access to federal records created or maintained under the contract, 
+as required to support audits, inspections, litigation, investigations, or other 
+authorized government purposes, consistent with contract terms. 
+p. Ensure electronic systems designated to maintain federal records under this CRD 
+provide sufficient controls to preserve the authenticity, reliability, integrity, 
+usability, and accessibility of records for the duration of their approved retention 
+periods.  These controls are required only for electronic systems that DOE 
+designates in writing as records management systems for specific record 
+categories under this CRD. 
+These requirements do not apply to general-purpose collaboration or productivity 
+tools unless designated as records management systems. 
+q. Manage electronic communications, including email, instant messages, texts, 
+chats, collaboration messages, and artificial-intelligence-assisted chat content that 
+meet the definition of federal records under 44 U.S.C. § 3301, Definition of 
+Records, and in accordance with 36 CFR § 1236.22, Electronic Records 
+Management. Communications that do not meet this definition are not required to 
+be captured or preserved. 
+(1) Contractors are not required to implement Capstone or role-based email 
+preservation unless expressly required by contract clause.  Email messages 
+documenting final decisions, authorizations, commitments, or essential 
+transactions as defined in this CRD shall be preserved.  Transitory 
+messages, including scheduling, informational notices, and routine 
+coordination, are not required to be preserved. 
+(2) Instant messages, texts, chats, collaboration messages, and artificial-
+intelligence-assisted chat content are not required to be captured as records 
+unless the communication contains the only documentation of a decision, 
+authorization, or essential transaction as defined in this CRD and is not 
+captured in another records management system.  Contractors should 
+establish policies discouraging the use of ephemeral platforms for 
+documenting final decisions or essential transactions.
+
+--- page 12 ---
+DOE O 243.1D Attachment 1 - CRD, Contractors Only 
+08-05-2026 Page 1-5  
+ 
+(3) Public-facing social media and externally hosted web content shall be 
+captured when constituting official DOE communications or 
+announcements.  Routine engagement, comment responses, and 
+duplicative cross-posting are not required to be captured unless they 
+contain unique official content. 
+r. Support DOE’s Essential Records Program by identifying and protecting records 
+specifically designated in writing by DOE as essential. 
+s. Ensure departing employees identify and transfer records in their custody and 
+ensure that all Scientific and Technical Information records are submitted in 
+accordance with DOE Order 241.1, Scientific and Technical Information 
+Management, as well as all requirements related to electronic record keeping 
+functionality.
+
+--- page 13 ---
+DOE O 243.1D Attachment 2 – Fede ral Employees and Contractors 
+08-05-2026 Page 2-1 
+ 
+ATTACHMENT 2 
+REFERENCES 
+This Attachment provides information applicable to DOE O 243.1C, Records Management 
+Program, and contracts in which the CRD (Attachment 1 to DOE O 243.1C) is inserted. 
+1. PUBLIC LAW (PL). 
+a. PL 115-336, 21st Century Integrated Digital Experience Act. 
+b. PL 107-347, E-Government Act of 2002. 
+c. PL 106-229, Electronic Signatures in Global and National Commerce Act 
+(ESIGN ACT). 
+d. PL 113-291, Federal Information Technology Acquisition Reform Act. 
+e. PL 113-187, Presidential and Federal Records Act, as amended. 
+f. PL 114-185, FOIA Improvement Act of 2016. 
+g. PL 105-261, Sec. 3161, “Kyl-Lott Amendment of Strom Thurmond National 
+Defense Authorization Act for Fiscal Year 1999.” 
+h. PL 106-65, National Nuclear Security Administration Act, Title XXXII. 
+i. PL 104-13, Paperwork Reduction Act of 1995, 44 U.S.C. § 3501 et seq. 
+2. UNITED STATES CODE (U.S.C.). 
+a. 5 U.S.C. § 552, Freedom of Information Act or FOIA (as amended). 
+b. 5 U.S.C. § 552a, The Privacy Act 1974 (as amended). 
+c. 42 U.S.C. § 7158, Naval Reactor and Military Application Programs. 
+d. 44 U.S.C. Ch 36, Management and Promotion of Electronic Government 
+Services. 
+e. 44 U.S.C., Public Printing and Documents, Chapter 21, “National Archives and 
+Records Administration”; Chapter 29, “Records Management by the Archivist of 
+the United States and by the Administrator of General Services”:  Chapter 31, 
+“Records Management by Federal Agencies”; Chapter 33, “Disposal of Records”; 
+and Chapter 35, “Coordination of Federal Information Policy.” 
+f. 44 U.S.C. § 2901, (2) “Definitions.” 
+g. 44 U.S.C. § 3101, “Records management by agency heads; general duties.” 
+h. 44 U.S.C. § 3301, “Definition of records.”
+
+--- page 14 ---
+Attachment 2 – Federal Employees and Contractors DOE O 243.1D 
+Page 2-2 08-05-2026 
+ 
+i. 44 U.S.C. § 3303, “Lists and schedules of records to be submitted to Archivist by 
+head of each Government agency.” 
+j. 44 U.S.C. § 3501, “Purposes.” 
+k. 50 U.S.C. § 2406, “Deputy Administrator for Naval Reactors.” 
+l. 50 U.S.C. § 2511, “Naval Nuclear Propulsion Program.” 
+3. UNITED STATES CODE OF FEDERAL REGULATIONS (CFR). 
+a. 36 CFR, Chapter XII Subchapter B, “Records Management.” 
+b. 41 CFR, § 102-193, Creation, Maintenance, and Use of Records (GSA role). 
+c. 48 CFR, § 4.805, “Storage, handling, and contract files.” 
+d. 48 CFR § 52.224-2, “Privacy Act.” 
+e. 48 CFR § 952.204-2, “Security requirements.” 
+f. 48 CFR § 952.204-70, “Classification/Declassification.” 
+g. 48 CFR § 952.223-71, “Integration of environment, safety, and health into work 
+planning and execution.” 
+h. 48 CFR § 952.223-72, “Radiation protection and nuclear criticality.” 
+i. 48 CFR § 952.223-75, “Preservation of individual occupational radiation 
+exposure records.” 
+j. 48 CFR § 970.0404, “Safeguarding classified information.” 
+k. 48 CFR § 970.0407, “Contractor records retention.” 
+l. 48 CFR § 970.5204-3, “Access to and ownership of records.” 
+m. 48 CFR § 970.5232-3, “Accounts, records, and inspection.” 
+4. EXECUTIVE ORDERS (EOs). 
+a. EO 12333, “United States Intelligence Activities,” dated December 4, 1981. 
+b. EO 12344, “Naval Nuclear Propulsion Program,” dated February 1, 1982. 
+c. EO 12656, “Assignment of Emergency Preparedness Responsibilities,” 
+dated March 16, 2012.
+
+--- page 15 ---
+DOE O 243.1D Attachment 2 – Fede ral Employees and Contractors 
+08-05-2026 Page 2-3 
+ 
+d. EO 13526, “Classified National Security Information,” dated December 29, 2009 
+(32 CFR Parts 2001 and 2003). 
+e. EO 13556, “Controlled Unclassified Information,” dated November 4, 2010 
+(32 CFR Part 2002). 
+5. DEPARTMENT OF HOMELAND SECURITY (DHS). 
+a. Homeland Security, Federal Continuity Directive 1 (FCD 1), “Federal Executive 
+Branch National Continuity Program and Requirements,” dated January 2017. 
+6. NATIONAL ARCHIVES AND RECORDS ADMINISTRATION (NARA). 
+a. AC 01.2020, “Memorandum to Federal Agency Contacts: Annual Move of 
+Permanent Records.” 
+b. NARA Bulletin 2008-06, Records Storage Facility Standards, dated August 25, 
+2008. 
+c. NARA Bulletin 2014-04, Revised Format Guidance for the Transfer of 
+Permanent Electronic Records, dated January 31, 2014. 
+d. NARA Bulletin 2015-04, Metadata Guidance for the Transfer of Permanent 
+Electronic Records, dated September 15, 2015. 
+e. NARA Bulletin 2017-01, Agency Records Management Training Requirements, 
+dated November 29, 2016. 
+f. NARA publication, Essential Records Guide. 
+g. NARA publication, Guidance for Coordinating the Evaluation of Capital 
+Planning and Investment Control (CPIC) Proposals for ERM Applications. 
+h. NARA Universal Electronic Records Management (UERM) Requirements 
+i. National Archives (NA) 14130, “Classified Records Transfer Checklist.” 
+7. OFFICE OF MANAGEMENT AND BUDGET (OMB). 
+a. OMB Circular Number A-11, “Preparation, Submission, and Execution of the 
+Budget,” dated July 2020. 
+b. OMB, Delivering Government Solutions in the 21st Century: Reform Plan and 
+Reorganization Recommendations 
+c. OMB M-19-21, Transition to Electronic Records, dated June 28, 2019. 
+d. Revision of OMB Circular No. A-130, “Managing Information as a Strategic 
+Resource,” dated July 28, 2016.
+
+--- page 16 ---
+Attachment 2 – Federal Employees and Contractors DOE O 243.1D 
+Page 2-4 08-05-2026 
+ 
+8. DEPARTMENT OF ENERGY (DOE). 
+a. DOE P 450.4, Integrated Safety Management Policy, current version. 
+b. DOE O 150.1, Continuity Programs, current version. 
+c. DOE O 200.1, Information Technology Management, current version. 
+d. DOE O 206.1, Department of Energy Privacy Program, current version. 
+e. DOE O 206.2, Identity, Credential, and Access Management (ICAM), current 
+version. 
+f. DOE O 241.1, Scientific and Technical Information Management, current version. 
+g. DOE O 251.1, Departmental Directives Program, current version. 
+h. DOE O 414.1, Quality Assurance, current version. 
+i. DOE O 420.1, Facility Safety, current version. 
+j. DOE O 470.4, Safeguards and Security Planning, current version. 
+k. DOE O 471.1, Identification and Protection of Unclassified Controlled Nuclear 
+Information, current version. 
+l. DOE O 471.7, Controlled Unclassified Information, current version. 
+m. DOE O 475.2, Identifying Classified Information, current version. 
+n. DOE OCIO Records Management Processes, Procedure for Conducting a 
+Records Inventory. 
+o. DOE Reference Book for Contract Administrators (Chapter 9). 
+p. ENG Form 6119, “Records Management Assessment Questionnaire/Checklist” 
+(see DOE Powerpedia webpages). 
+q. Records Management section of the DOE Chief Information Officer Website.
+
+--- page 17 ---
+DOE O 243.1D Attachment 3 – Fede ral Employees and Contractors 
+08-05-2026 Page 3-1 
+ 
+ATTACHMENT 3 
+DEFINITIONS 
+This Attachment provides information applicable to DOE O 243.1D, Records Management 
+Program, and contracts in which the CRD (Attachment 1 to DOE O 243.1D) is inserted. 
+1. Capstone.  Capstone is the NARA-recommended approach to email records management 
+that offers agencies the option of using a more simplified approach to managing email, 
+eliminating the need to write a unique agency schedule.  Participating in Capstone allows 
+an agency to use General Records Schedule (GRS) 6.1 (National Archives). 
+2. Contractor-Owned Records.  Records not identified as federal records (such as company 
+proprietary information, records unrelated to the work performed under a federal 
+contract, and other similar records) that belong to the contractor.  Contractor/corporate-
+owned records are defined in the contract and/or through the Access to an Ownership of 
+Records clause (48 CFR § 970.5204.3).  Privacy Act Systems of Records (Federal 
+Acquisition Regulation [FAR] 52-224-2) are NOT contractor-owned records. 
+3. Departmental Element.  A first-tier organization at Headquarters and in the field.  
+First-tier at Headquarters encompasses heads of the major Headquarters line programs 
+(e.g., Program Secretarial Officers).  First-level field element refers to first-level 
+organizations located outside the Washington Metropolitan area and encompasses 
+Operations Offices, Site Offices, Field Offices, and Regional Offices.  Additional 
+information is noted in the Correspondence Style Guide as directed by the Office of the 
+Executive Secretariat. 
+4. Department of Energy Records.  Federal records owned by the Department of Energy. 
+5. Disposition.  Any activity with respect to: 
+a. Disposal of temporary records that are no longer needed for the conduct of 
+business by destruction or donation. 
+b. Transfer of records to federal agency storage facilities or records centers. 
+c. Transfer to the National Archives of the United States (see definition) records 
+determined to have sufficient historical or other value to warrant 
+continued preservation. 
+6. Electronic Information System.  An information system that contains and provides access 
+to computerized federal records and other information (36 CFR § 1236.2, Definitions). 
+7. Electronic Record.  Information in an electronic state, determined to be a record, recorded 
+in a form only a computer can process, and that satisfies the definition of a federal record 
+under the Federal Records Act.  The term includes both the record content and the 
+associated metadata the agency determines is required to meet agency business needs 
+(36 CFR § 1220.18, What definitions apply to the regulations in Subchapter B?).
+
+--- page 18 ---
+Attachment 3 – Federal Employees and Contractors DOE O 243.1D 
+Page 3-2 08-05-2026 
+ 
+8. Essential Records.  Records that an agency needs to meet operational responsibilities 
+under national security emergencies or other emergency conditions (emergency operating 
+records) or to protect the legal and financial rights of the government and those affected 
+by government activities (legal and financial rights records).  Previously referred to as 
+vital records (36 CFR § 1223.2b and the NARA Essential Records Guide). 
+9. Federal Records.  Includes all recorded information, regardless of form or characteristics, 
+made or received by a federal agency under federal law or in connection with the 
+transaction of public business and preserved or appropriate for preservation by that 
+agency or its legitimate successor as evidence of the organization, functions, policies, 
+decisions, procedures, operations, or other activities of the United States Government or 
+because of the informational value of data in them (44 U.S.C. § 3301, Definition of 
+records, and 36 CFR § 1220.18). 
+10. File Plan.  The basic structure in records management that groups together records with 
+similar characteristics.  File plans can be a subset of the entire DOE/General Records 
+Schedules record-schedule series that would be specific to an organization, project, 
+program, or location within an agency.  A file plan may include the series, description, 
+disposition instruction (retention) and authority, and other specific instructions that 
+provide guidance for effective management of records. 
+11. Freedom Of Information Act (FOIA).  A United States federal law that grants the public 
+access to information possessed by government agencies.  Upon written request, U.S. 
+government agencies are required to release information unless it falls under one of nine 
+exemptions listed in the Act (5 U.S.C. § 552, Freedom of Information Act, as amended, 
+Public Law 114-185, June 30, 2016). 
+12. Inventory.  A systematic process used to discover, identify, and review an organization’s 
+systems, records holdings, forms, and processes. 
+13. Legal and Financial Rights Records.  Records critical to carrying out an organization’s 
+essential legal and financial functions vital to the protection of the legal and financial 
+rights of individuals who are directly affected by that organization’s activities.  These 
+records include high-value records, the loss of which would significantly impair the 
+execution of essential functions to the detriment of the legal or financial rights and 
+entitlements of the organization and the affected individuals (NARA Essential 
+Records Guide). 
+14. Litigation Hold.  A hold issued by the General Counsel, who notifies appropriate DOE 
+contacts when litigation involving DOE is ongoing or reasonably anticipated.  A hold 
+suspends any and all disposition actions on records that relate to or are affected by 
+pending or ongoing litigation.  Using a litigation hold ensures the records are available 
+for use during court proceedings.  Programs should suspend disposition actions for 
+records identified as responsive to the litigation hold notice. 
+15. Metadata.  Preserved contextual information describing the history, tracking, and/or 
+management of an electronic document (36 CFR § 1220.18).
+
+--- page 19 ---
+DOE O 243.1D Attachment 3 – Fede ral Employees and Contractors 
+08-05-2026 Page 3-3 
+ 
+16. National Archives and Records Administration.  An independent agency of the United 
+States government charged with the preservation and documentation of government and 
+historical records.  It is also tasked with increasing public access to those documents 
+which make up the National Archives (National Archives). 
+17. Nonrecord Materials.  Federally owned informational materials that do not meet the 
+statutory definition of “records” (44 U.S.C. § 3301) or have been excluded from coverage 
+by the definition.  Excluded are extra copies of documents kept only for reference, stocks 
+of publications and processed documents, and library or museum materials intended 
+solely for reference or exhibit (36 CFR § 1220.18). 
+18. Permanent Record.  Any federal record that has been determined by NARA to have 
+sufficient value to warrant its preservation in the National Archives of the United States, 
+even while it remains in agency custody.  The term also includes all records accessioned 
+by NARA into the National Archives of the United States (36 CFR § 1220.18). 
+19. Privacy Act.  A United States federal law that governs the collection, maintenance, use, 
+and dissemination of personally identifiable information about individuals that is 
+maintained in systems of records by federal agencies (5 U.S.C. § 552a, “Privacy Act 
+of 1974”). 
+20. Records Life Cycle.  A concept used to describe how a record is handled throughout its 
+lifespan.  The records life cycle has three main phases: creation, maintenance and use, 
+and disposition. 
+21. Records Management.  Planning, controlling, directing, organizing, training, promoting, 
+and other managerial activities involved with respect to records creation, records 
+maintenance and use, and records disposition in order to achieve adequate and proper 
+documentation of the policies and transactions of the federal government and effective 
+and economical management of Agency operations [44 U.S.C. § 2901(2)]. 
+22. Records Schedule.  This identifies records as either temporary or permanent.  All records 
+schedules must be approved by NARA.  A records schedule provides mandatory 
+instructions for the disposition of the records (including the transfer of permanent records 
+and disposal of temporary records) when they are no longer needed by the agency.  As 
+part of the ongoing records life cycle, disposition should occur in the normal course of 
+agency business.  Federal records must be scheduled (44 U.S.C. § 3303, Lists and 
+schedules of records to be submitted to the Archivist by head of each Government 
+agency) either by an agency schedule or a GRS. 
+23. Series.  File units or documents arranged according to a filing or classification system or 
+kept together because they relate to a particular subject or function, result from the same 
+activity, document a specific kind of transaction, take a particular physical form, or have 
+some other relationship arising out of their creation, receipt, or use, such as restrictions 
+on access and use.  Also called a records series (36 CFR § 1220.18).
+
+--- page 20 ---
+Attachment 3 – Federal Employees and Contractors DOE O 243.1D 
+Page 3-4 08-05-2026 
+ 
+24. Temporary Records.  Federal records NARA approves for either immediate disposal or 
+for disposal after a specified time or event (36 CFR § 1220.18). 
+25. Unscheduled Records.  Federal records, the final disposition of which has not been 
+approved by NARA on an SF 115, Request for Records Disposition Authority.

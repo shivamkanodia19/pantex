@@ -1,0 +1,4274 @@
+--- page 1 ---
+585 
+Department of Energy Pt. 851 
+screening test results, exposure meas-
+urements, and results of referrals for 
+specialized medical evaluations. 
+[64 FR 68905, Dec. 8, 1999, as amended at 71 
+FR 68733, Nov. 28, 2006; 80 FR 5008, Jan. 30, 
+2015; 88 FR 41293, June 26, 2023] 
+EDITORIAL NOTE: At 80 FR 5008, Jan. 30, 
+2015, § 850.39 was amended; however, the 
+amendment could not be incorporated due to 
+inaccurate amendatory instruction. 
+§ 850.40 Performance feedback. 
+(a) The responsible employer must 
+conduct periodic analyses and assess-
+ments of monitoring activities, haz-
+ards, medical surveillance, exposure re-
+duction and minimization, and occur-
+rence reporting data. 
+(b) To ensure that information is 
+available to maintain and improve all 
+elements of the CBDPP continuously, 
+the responsible employer must give re-
+sults of periodic analyses and assess-
+ments to the line managers, planners, 
+worker protection staff, workers, med-
+ical staff, and labor organizations rep-
+resenting beryllium-associated workers 
+who request such information. 
+APPENDIX A TO PART 850—C HRONIC BE-
+RYLLIUM DISEASE PREVENTION PRO-
+GRAM INFORMED CONSENT FORM 
+I, ______________ have carefully read and un-
+derstand the attached information about the 
+Be-LPT and other medical tests. I have had 
+the opportunity to ask any questions that I 
+may have had concerning these tests. 
+I understand that this program is vol-
+untary and I am free to withdraw at any 
+time from all or any part of the medical sur-
+veillance program. I understand that the 
+tests are confidential, but not anonymous. I 
+understand that if the results of any test 
+suggest a health problem, the examining 
+physician will discuss the matter with me, 
+whether or not the result is related to my 
+work with beryllium. I understand that my 
+employer will be notified of my diagnosis 
+only if I have a beryllium sensitization or 
+chronic beryllium disease. My employer will 
+not receive the results or diagnoses of any 
+health conditions not related to beryllium 
+exposure. 
+I understand that, if the results of one or 
+more of these tests indicate that I have a 
+health problem that is related to beryllium, 
+additional examinations will be rec-
+ommended. If additional tests indicate I do 
+have a beryllium sensitization or CBD, the 
+Site Occupational Medical Director may rec-
+ommend that I be removed from working 
+with beryllium. If I agree to be removed, I 
+understand that I may be transferred to an-
+other job for which I am qualified (or can be 
+trained for in a short period) and where my 
+beryllium exposures will be as low as pos-
+sible, but in no case above the action level. 
+I will maintain my total normal earnings, 
+seniority, and other benefits for up to two 
+years if I agree to be permanently removed. 
+I understand that if I apply for another job 
+or for insurance, I may be requested to re-
+lease my medical records to a future em-
+ployer or an insurance company. 
+I understand that my employer will main-
+tain all medical information relative to the 
+tests performed on me in segregated medical 
+files separate from my personnel files, treat-
+ed as confidential medical records, and used 
+or disclosed only as provided by the Ameri-
+cans with Disability Act, the Privacy Act of 
+1974, or as required by a court order or under 
+other law. 
+I understand that the results of my med-
+ical tests for beryllium will be included in 
+the Beryllium Registry maintained by DOE, 
+and that a unique identifier will be used to 
+maintain the confidentiality of my medical 
+information. Personal identifiers will not be 
+included in any reports generated from the 
+DOE Beryllium Registry. I understand that 
+the results of my tests and examinations 
+may be published in reports or presented at 
+meetings, but that I will not be identified. 
+I consent to having the following medical 
+evaluations: 
+/ / Physical examination concentrating on 
+my lungs and breathing 
+/ / Chest X-ray 
+/ / Spirometry (a breathing test) 
+/ / Blood test called the beryllium-induced 
+lymphocyte proliferation test or Be-LPT 
+/ / Other test(s). Specify: 
+llllllllllllllllllllllll
+Signature of Participant: 
+llllllllllllllllllllllll
+Date: ____________ 
+I have explained and discussed any ques-
+tions that the employee expressed con-
+cerning the Be-LPT, physical examination, 
+and other medical testing as well as the im-
+plications of those tests. 
+Name of Examining Physician: 
+llllllllllllllllllllllll
+Signature of Examining Physician: 
+llllllllllllllllllllllll
+Dated: ____________ 
+PART 851—WORKER SAFETY AND 
+HEALTH PROGRAM 
+Subpart A—General Provisions 
+Sec. 
+851.1 Scope and purpose. 
+851.2 Exclusions. 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00595 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 2 ---
+586 
+10 CFR Ch. III (1–1–24 Edition) § 851.1 
+851.3 Definitions. 
+851.4 Compliance order. 
+851.5 Enforcement. 
+851.6 Petitions for generally applicable rule-
+making. 
+851.7 Request for a binding interpretive rul-
+ing. 
+851.8 Informal requests for information. 
+Subpart B—Program Requirements 
+851.10 General requirements. 
+851.11 Development and approval of worker 
+safety and health program. 
+851.12 Implementation. 
+851.13 Compliance. 
+Subpart C—Specific Program 
+Requirements 
+851.20 Management responsibilities and 
+worker rights and responsibilities. 
+851.21 Hazard identification and assessment. 
+851.22 Hazard prevention and abatement. 
+851.23 Safety and health standards. 
+851.24 Functional areas. 
+851.25 Training and information. 
+851.26 Recordkeeping and reporting. 
+851.27 Materials incorporated by reference. 
+Subpart D—Variances 
+851.30 Consideration of variances. 
+851.31 Variance process. 
+851.32 Action on variance requests. 
+851.33 Terms and conditions. 
+851.34 Requests for conferences. 
+Subpart E—Enforcement Process 
+851.40 Investigations and inspections. 
+851.41 Settlement. 
+851.42 Preliminary notice of violation. 
+851.43 Final notice of violation. 
+851.44 Administrative appeal. 
+851.45 Direction to NNSA contractors. 
+APPENDIX A TO PART 851—W ORKER SAFETY 
+AND HEALTH FUNCTIONAL AREAS 
+APPENDIX B TO PART 851—G ENERAL STATE-
+MENT OF ENFORCEMENT POLICY 
+AUTHORITY: 42 U.S.C. 2201(i)(3), (p); 42 
+U.S.C. 2282c; 42 U.S.C. 5801 et seq.; 42 U.S.C. 
+7101 et seq.; 50 U.S.C. 2401 et seq.; 28 U.S.C. 2461 
+note. 
+SOURCE: 71 FR 6931, Feb. 9, 2006, unless oth-
+erwise noted. 
+EDITORIAL NOTE: Nomenclature changes to 
+part 851 appear at 88 FR 41293, June 26, 2023. 
+Subpart A—General Provisions 
+§ 851.1 Scope and purpose. 
+(a) The worker safety and health re-
+quirements in this part govern the con-
+duct of contractor activities at DOE 
+sites. 
+(b) This part establishes the: 
+(1) Requirements for a worker safety 
+and health program that reduces or 
+prevents occupational injuries, ill-
+nesses, and accidental losses by pro-
+viding DOE contractors and their 
+workers with safe and healthful work-
+places at DOE sites; and 
+(2) Procedures for investigating 
+whether a violation of a requirement of 
+this part has occurred, for determining 
+the nature and extent of any such vio-
+lation, and for imposing an appropriate 
+remedy. 
+§ 851.2 Exclusions. 
+(a) This part does not apply to work 
+at a DOE site: 
+(1) Regulated by the Occupational 
+Safety and Health Administration; or 
+(2) Operated under the authority of 
+the Director, Naval Nuclear Propul-
+sion, pursuant to Executive Order 
+12344, as set forth in Public Law 98–525, 
+42 U.S.C. 7158 note. 
+(b) This part does not apply to radio-
+logical hazards or nuclear explosives 
+operations to the extent regulated by 
+10 CFR Parts 20, 820, 830 or 835. 
+(c) This part does not apply to trans-
+portation to or from a DOE site. 
+(d) This part does not require compli-
+ance with any Occupational Safety and 
+Health Administration beryllium re-
+quirement except for any permissible 
+exposure limit for beryllium in 29 CFR 
+1910.1000. 
+[71 FR 6931, Feb. 9, 2006, as amended at 80 FR 
+69566, Nov. 10, 2015] 
+EFFECTIVE DATE NOTE: At 88 FR 86815, Dec. 
+15, 2023, § 851.2 was amended by revising para-
+graph (d), effective Jan. 16, 2024. For the con-
+venience of the user, the revised text is set 
+forth as follows: 
+§ 851.2 Exclusions. 
+* * * * * 
+(d) This part does not require compliance 
+with any Occupational Safety and Health 
+Administration requirements for beryllium 
+or beryllium compounds except as provided 
+in 10 CFR part 850, ‘‘Chronic Beryllium Dis-
+ease Prevention Program.’’ 
+* * * * * 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00596 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 3 ---
+587 
+Department of Energy § 851.3 
+§ 851.3 Definitions. 
+(a) As used in this part: 
+AEA means the Atomic Energy Act of 
+1954, 42 U.S.C. 2011 et seq. 
+Affected worker means a worker who 
+would be affected by the granting or 
+denial of a variance, or any authorized 
+representative of the worker, such as a 
+collective bargaining agent. 
+Closure facility means a facility that 
+is non-operational and is, or is ex-
+pected to be permanently closed and/or 
+demolished, or title to which is ex-
+pected to be transferred to another en-
+tity for reuse. 
+Closure facility hazard means a facil-
+ity-related condition within a closure 
+facility involving deviations from the 
+technical requirements of § 851.23 of 
+this part that would require costly and 
+extensive structural/engineering modi-
+fications to be in compliance. 
+Cognizant Secretarial Officer means, 
+with respect to a particular situation, 
+the Assistant Secretary, Deputy Ad-
+ministrator, Program Office Director, 
+or equivalent DOE official who has pri-
+mary line management responsibility 
+for a contractor, or any other official 
+to whom the CSO delegates in writing 
+a particular function under this part. 
+Compliance order means an order 
+issued by the Secretary to a contractor 
+that mandates a remedy, work stop-
+page, or other action to address a situ-
+ation that violates, potentially vio-
+lates, or otherwise is inconsistent with 
+a requirement of this part. 
+Consent order means any written doc-
+ument, signed by the Enforcement Di-
+rector and a contractor, containing 
+stipulations or conclusions of fact or 
+law and a remedy acceptable to both 
+DOE and the contractor. 
+Construction means combination of 
+erection, installation, assembly, demo-
+lition, or fabrication activities in-
+volved to create a new facility or to 
+alter, add to, rehabilitate, dismantle, 
+or remove an existing facility. It also 
+includes the alteration and repair (in-
+cluding dredging, excavating, and 
+painting) of buildings, structures, or 
+other real property, as well as any con-
+struction, demolition, and excavation 
+activities conducted as part of environ-
+mental restoration or remediation ef-
+forts. 
+Construction contractor means the 
+lowest tiered contractor with primary 
+responsibility for the execution of all 
+construction work described within a 
+construction procurement or author-
+ization document ( e.g., construction 
+contract, work order). 
+Construction manager means the indi-
+vidual or firm responsible to DOE for 
+the supervision and administration of a 
+construction project to ensure the con-
+struction contractor’s compliance with 
+construction project requirements. 
+Construction project means the full 
+scope of activities required on a con-
+struction worksite to fulfill the re-
+quirements of the construction pro-
+curement or authorization document. 
+Construction worksite is the area with-
+in the limits necessary to perform the 
+work described in the construction pro-
+curement or authorization document. 
+It includes the facility being con-
+structed or renovated along with all 
+necessary staging and storage areas as 
+well as adjacent areas subject to 
+project hazards. 
+Contractor means any entity, includ-
+ing affiliated entities, such as a parent 
+corporation, under contract with DOE, 
+or a subcontractor at any tier, that has 
+responsibilities for performing work at 
+a DOE site in furtherance of a DOE 
+mission. 
+Covered workplace means a place at a 
+DOE site where a contractor is respon-
+sible for performing work in further-
+ance of a DOE mission. 
+Director of the Office of Enforcement 
+(Enforcement Director) means the DOE 
+official designated by the Secretary, or 
+that person’s designee, to carry out the 
+enforcement authorities reflected in 
+subpart E of this part. 
+Director of the Office of Environment, 
+Health, Safety and Security (EHSS Direc-
+tor) means the DOE official to whom 
+the Secretary assigns the authority to 
+develop policy and technical assist-
+ance; safety analysis; and organiza-
+tional safety and security programs. 
+DOE means the United States De-
+partment of Energy, including the Na-
+tional Nuclear Security Administra-
+tion. 
+DOE Enforcement Officer means a 
+DOE official to whom the Enforcement 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00597 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 4 ---
+588 
+10 CFR Ch. III (1–1–24 Edition) § 851.3 
+Director assigns the authority to in-
+vestigate the nature and extent of com-
+pliance with the requirements of this 
+part. 
+DOE site means a DOE-owned or 
+-leased area or location or other area 
+or location controlled by DOE where 
+activities and operations are performed 
+at one or more facilities or places by a 
+contractor in furtherance of a DOE 
+mission. 
+Final notice of violation means a docu-
+ment that determines a contactor has 
+violated or is continuing to violate a 
+requirement of this part and includes: 
+(1) A statement specifying the re-
+quirement of this part to which the 
+violation relates; 
+(2) A concise statement of the basis 
+for the determination; 
+(3) Any remedy, including the 
+amount of any civil penalty; and 
+(4) A statement explaining the rea-
+soning behind any remedy. 
+Final Order means an order of DOE 
+that represents final agency action 
+and, if appropriate, imposes a remedy 
+with which the recipient of the order 
+must comply. 
+General Counsel means the General 
+Counsel of DOE. 
+Head of DOE Field Element means an 
+individual who is the manager or head 
+of the DOE operations office or field of-
+fice. 
+Interpretative ruling means a state-
+ment by the General Counsel con-
+cerning the meaning or effect of a re-
+quirement of this part which relates to 
+a specific factual situation but may 
+also be a ruling of general applicability 
+if the General Counsel determines such 
+action to be appropriate. 
+National defense variance means relief 
+from a safety and health standard, or 
+portion thereof, to avoid serious im-
+pairment of a national defense mission. 
+NNSA means the National Nuclear 
+Security Administration. 
+Nuclear explosive means an assembly 
+containing fissionable and/or 
+fusionable materials and main charge 
+high-explosive parts or propellants ca-
+pable of producing a nuclear detona-
+tion (e.g., a nuclear weapon or test de-
+vice). 
+Nuclear explosive operation means any 
+activity involving a nuclear explosive, 
+including activities in which main 
+charge high-explosive parts and pit are 
+collocated. 
+Occupational medicine provider means 
+the designated site occupational medi-
+cine director (SOMD) or the individual 
+providing medical services. 
+Permanent variance means relief from 
+a safety and health standard, or por-
+tion thereof, to contractors who can 
+prove that their methods, conditions, 
+practices, operations, or processes pro-
+vide workplaces that are as safe and 
+healthful as those that follow the 
+workplace safety and health standard 
+required by this part. 
+Preliminary notice of violation means a 
+document that sets forth the prelimi-
+nary conclusions that a contractor has 
+violated or is continuing to violate a 
+requirement of this part and includes: 
+(1) A statement specifying the re-
+quirement of this part to which the 
+violation relates; 
+(2) A concise statement of the basis 
+for alleging the violation; 
+(3) Any remedy, including the 
+amount of any proposed civil penalty; 
+and 
+(4) A statement explaining the rea-
+soning behind any proposed remedy. 
+Pressure systems means all pressure 
+vessels, and pressure sources including 
+cryogenics, pneumatic, hydraulic, and 
+vacuum. Vacuum systems should be 
+considered pressure systems due to 
+their potential for catastrophic failure 
+due to backfill pressurization. Associ-
+ated hardware ( e.g., gauges and regu-
+lators), fittings, piping, pumps, and 
+pressure relief devices are also integral 
+parts of the pressure system. 
+Remedy means any action (including, 
+but not limited to, the assessment of 
+civil penalties, the reduction of fees or 
+other payments under a contract, the 
+requirement of specific actions, or the 
+modification, suspension or rescission 
+of a contract) necessary or appropriate 
+to rectify, prevent, or penalize a viola-
+tion of a requirement of this part, in-
+cluding a compliance order issued by 
+the Secretary pursuant to this part. 
+Safety and health standard means a 
+standard that addresses a workplace 
+hazard by establishing limits, requiring 
+conditions, or prescribing the adoption 
+or use of one or more practices, means, 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00598 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 5 ---
+589 
+Department of Energy § 851.5 
+methods, operations, or processes, rea-
+sonably necessary or appropriate to 
+provide safe and healthful workplaces. 
+Secretary means the Secretary of En-
+ergy. 
+Temporary variance means a short- 
+term relief for a new safety and health 
+standard when the contractor cannot 
+comply with the requirements by the 
+prescribed date because the necessary 
+construction or alteration of the facil-
+ity cannot be completed in time or 
+when technical personnel, materials, or 
+equipment are temporarily unavail-
+able. 
+Unauthorized discharge means the dis-
+charge of a firearm under cir-
+cumstances other than: (1) during fire-
+arms training with the firearm prop-
+erly pointed down range (or toward a 
+target), or (2) the intentional firing at 
+hostile parties when deadly force is au-
+thorized. 
+Under Secretary means, with respect 
+to a particular situation, the DOE offi-
+cial who serves as the Under Secretary 
+for Science and Innovation, or Under 
+Secretary for Infrastructure, or the 
+Under Secretary for Nuclear Security/ 
+Administrator for National Nuclear Se-
+curity Administration who has pri-
+mary line management responsibility 
+for a contractor. 
+Variance means an exception to com-
+pliance with some part of a safety and 
+health standard granted by the Under 
+Secretary to a contractor. 
+Worker means an employee of a DOE 
+contractor person who performs work 
+in furtherance of a DOE mission at a 
+covered workplace. 
+Workplace hazard means a physical, 
+chemical, biological, or safety hazard 
+with any potential to cause illness, in-
+jury, or death to a person. 
+(b) Terms undefined in this part that 
+are defined in the Atomic Energy Act 
+of 1954 must have the same meaning as 
+under that Act. 
+[71 FR 6931, Feb. 9, 2006, as amended at 80 FR 
+5008, Jan. 30, 2015; 88 FR 41293, June 26, 2023] 
+EFFECTIVE DATE NOTE: At 88 FR 86815, Dec. 
+15, 2023, § 851.3 was amended by removing the 
+word ‘‘contactor’’ and adding in its place the 
+word ‘‘contractor’’ in the definition for 
+‘‘final notice of violation’’, effective Jan. 16, 
+2024. 
+§ 851.4 Compliance order. 
+(a) The Secretary may issue to any 
+contractor a Compliance Order that: 
+(1) Identifies a situation that vio-
+lates, potentially violates, or otherwise 
+is inconsistent with a requirement of 
+this part; 
+(2) Mandates a remedy, work stop-
+page, or other action; and, 
+(3) States the reasons for the remedy, 
+work stoppage, or other action. 
+(b) A Compliance Order is a final 
+order that is effective immediately un-
+less the Order specifies a different ef-
+fective date. 
+(c) Within 15 calendar days of the 
+issuance of a Compliance Order, the re-
+cipient of the Order may request the 
+Secretary to rescind or modify the 
+Order. A request does not stay the ef-
+fectiveness of a Compliance Order un-
+less the Secretary issues an order to 
+that effect. 
+(d) A copy of the Compliance Order 
+must be prominently posted, once 
+issued, at or near the location where 
+the violation, potential violation, or 
+inconsistency occurred until it is cor-
+rected. 
+§ 851.5 Enforcement. 
+(a) A contractor that is indemnified 
+under section 170d. of the AEA (or any 
+subcontractor or supplier thereto) and 
+that violates (or whose employee vio-
+lates) any requirement of this part 
+shall be subject to a civil penalty of up 
+to $115,061 for each such violation. If 
+any violation under this subsection is a 
+continuing violation, each day of the 
+violation shall constitute a separate 
+violation for the purpose of computing 
+the civil penalty. 
+(b) A contractor that violates any re-
+quirement of this part may be subject 
+to a reduction in fees or other pay-
+ments under a contract with DOE, pur-
+suant to the contract’s Conditional Pay-
+ment of Fee clause, or other contract 
+clause providing for such reductions. 
+(c) DOE may not penalize a con-
+tractor under both paragraphs (a) and 
+(b) of this section for the same viola-
+tion of a requirement of this part. 
+(d) For contractors listed in sub-
+section d. of section 234A of the AEA, 
+42 U.S.C. 2282a(d), the total amount of 
+civil penalties under paragraph (a) and 
+contract penalties under paragraph (b) 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00599 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 6 ---
+590 
+10 CFR Ch. III (1–1–24 Edition) § 851.6 
+of this section may not exceed the 
+total amount of fees paid by DOE to 
+the contractor in that fiscal year. 
+(e) DOE shall not penalize a con-
+tractor under both sections 234A and 
+234C of the AEA for the same violation. 
+(f) DOE enforcement actions through 
+civil penalties under paragraph (a) of 
+this section, start on February 9, 2007. 
+[71 FR 6931, Feb. 9, 2006, as amended at 74 FR 
+66033, Dec. 14, 2009; 79 FR 20, Jan. 2, 2014; 81 
+FR 41795, June 28, 2016; 81 FR 96352, Dec. 30, 
+2016; 83 FR 1292, Jan. 11, 2018; 83 FR 66084, 
+Dec. 26, 2018; 85 FR 831, Jan. 8, 2020; 86 FR 
+2956, Jan. 14, 2021; 87 FR 1064, Jan. 10, 2022; 88 
+FR 2194, Jan. 13, 2023] 
+§ 851.6 Petitions for generally applica-
+ble rulemaking. 
+(a) Right to file. Any person may file 
+a petition for generally applicable rule-
+making to amend or interpret provi-
+sions of this part. 
+(b) How to file. Any person who wants 
+to file a petition for generally applica-
+ble rulemaking pursuant to this sec-
+tion must file by mail or messenger in 
+an envelope addressed to the Office of 
+General Counsel, GC–1, U.S. Depart-
+ment of Energy, 1000 Independence Av-
+enue, SW., Washington, DC 20585. 
+(c) Content of rulemaking petitions. A 
+petition under this section must: 
+(1) Be labeled ‘‘Petition for Rule-
+making Under 10 CFR 851;’’ 
+(2) Describe with particularity the 
+provision of this part to be amended 
+and the text of regulatory language to 
+be added; and 
+(3) Explain why, if relevant, DOE 
+should not choose to make policy by 
+precedent through adjudication of peti-
+tions for assessment of civil penalty. 
+(d) Determinations upon rulemaking pe-
+titions. After considering the petition 
+and other information DOE deems rel-
+evant, DOE may grant the petition and 
+issue an appropriate rulemaking no-
+tice, or deny the petition because the 
+rule being sought: 
+(1) Would be inconsistent with statu-
+tory law; 
+(2) Would establish a generally appli-
+cable policy in a subject matter area 
+that should be left to case-by-case de-
+terminations; or 
+(3) For other good cause. 
+§ 851.7 Requests for a binding inter-
+pretive ruling. 
+(a) Right to file. Any person subject to 
+this part shall have the right to file a 
+request for an interpretive ruling that 
+is binding on DOE with regard to a 
+question as to how the regulations in 
+this part would apply to particular 
+facts and circumstances. 
+(b) How to file. Any person who wants 
+to file a request under this section 
+must file by mail or messenger in an 
+envelop addressed to the Office of Gen-
+eral Counsel, GC–1, U.S. Department of 
+Energy, 1000 Independence Avenue, 
+SW., Washington, DC 20585. 
+(c) Content of request for interpretive 
+ruling. A request under this section 
+must: 
+(1) Be in writing; 
+(2) Be labeled ‘‘Request for Interpre-
+tive Ruling Under 10 CFR 851;’’ 
+(3) Identify the name, address, tele-
+phone number, e-mail address, and any 
+designated representative of the person 
+filing the request; 
+(4) State the facts and circumstances 
+relevant to the request; 
+(5) Be accompanied by copies of rel-
+evant supporting documents if any; 
+(6) Specifically identify the pertinent 
+regulations and the related question on 
+which an interpretive ruling is sought; 
+and 
+(7) Include explanatory discussion in 
+support of the interpretive ruling being 
+sought. 
+(d) Public comment. DOE may give 
+public notice of any request for an in-
+terpretive ruling and provide an oppor-
+tunity for public comment. 
+(e) Opportunity to respond to public 
+comment. DOE may provide an oppor-
+tunity to any person who requests an 
+interpretive ruling to respond to public 
+comments relating to the request. 
+(f) Other sources of information. DOE 
+may: 
+(1) Conduct an investigation of any 
+statement in a request; 
+(2) Consider any other source of in-
+formation in evaluating a request for 
+an interpretive ruling; and 
+(3) Rely on previously issued inter-
+pretive rulings with addressing the 
+same or a related issue. 
+(g) Informal conference. DOE may con-
+vene an informal conference with the 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00600 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 7 ---
+591 
+Department of Energy § 851.11 
+person requesting the interpretive rul-
+ing. 
+(h) Effect of interpretive ruling. Except 
+as provided in paragraph (i) of this sec-
+tion, an interpretive ruling under this 
+section is binding on DOE only with re-
+spect to the person who requested the 
+ruling. 
+(i) Reliance on interpretive ruling. If 
+DOE issues an interpretive ruling 
+under this section, then DOE may not 
+subject the person who requested the 
+ruling to an enforcement action for 
+civil penalties for actions reasonably 
+taken in reliance on the ruling, but a 
+person may not act in reliance on an 
+interpretive ruling that is administra-
+tively rescinded or modified after op-
+portunity to comment, judicially in-
+validated, or overruled by statute or 
+regulation. 
+(j) Denial of requests for an interpretive 
+ruling. DOE may deny a request for an 
+interpretive ruling if DOE determines 
+that: 
+(1) There is insufficient information 
+upon which to base an interpretive rul-
+ing; 
+(2) The interpretive question posed 
+should be treated in a general notice of 
+proposed rulemaking; 
+(3) There is an adequate procedure 
+elsewhere in this part for addressing 
+the interpretive question such as a pe-
+tition for variance; or 
+(4) For other good cause. 
+(k) Public availability of interpretive 
+rulings. For information of interested 
+members of the public, DOE may file a 
+copy of interpretive rulings on a DOE 
+internet web site. 
+[71 FR 6931, Feb. 9, 2006; 71 FR 36661, June 28, 
+2006] 
+EFFECTIVE DATE NOTE: At 88 FR 86815, Dec. 
+15, 2023, § 851.7 was amended in paragraph (b), 
+by removing the word ‘‘envelop’’ and adding 
+in its place the word ‘‘envelope’’, effective 
+Jan. 16, 2024. 
+§ 851.8 Informal requests for informa-
+tion. 
+(a) Any person may informally re-
+quest information under this section as 
+to how to comply with the require-
+ments of this part, instead of applying 
+for a binding interpretive ruling under 
+§ 851.7. DOE responses to informal re-
+quests for information under this sec-
+tion are not binding on DOE and do not 
+preclude enforcement actions under 
+this part. 
+(b) Inquiries regarding the technical 
+requirements of the standards required 
+by this part must be directed to the Of-
+fice of Environment, Health, Safety 
+and Security, U.S. Department of En-
+ergy, 1000 Independence Avenue, SW., 
+Washington, DC 20585. 
+(c) Information regarding the general 
+statement of enforcement policy in the 
+appendix to this part must be directed 
+to the Office of Enterprise Assess-
+ments, Office of Enforcement, U.S. De-
+partment of Energy, 1000 Independence 
+Avenue, SW., Washington, DC 20585. 
+[71 FR 6931, Feb. 9, 2006, as amended at 71 FR 
+68733, Nov. 28, 2006; 80 FR 5009, Jan. 30, 2015] 
+Subpart B—Program Requirements 
+§ 851.10 General requirements. 
+(a) With respect to a covered work-
+place for which a contractor is respon-
+sible, the contractor must: 
+(1) Provide a place of employment 
+that is free from recognized hazards 
+that are causing or have the potential 
+to cause death or serious physical 
+harm to workers; and 
+(2) Ensure that work is performed in 
+accordance with: 
+(i) All applicable requirements of this 
+part; and 
+(ii) The worker safety and health pro-
+gram for that workplace. 
+(b) The written worker safety and 
+health program must describe how the 
+contractor complies with the: 
+(1) Requirements set forth in subpart 
+C of this part that are applicable to the 
+hazards associated with the contrac-
+tor’s scope of work; and 
+(2) Any compliance order issued by 
+the Secretary pursuant to § 851.4. 
+[71 FR 6931, Feb. 9, 2006, as amended at 80 FR 
+5009, Jan. 30, 2015] 
+§ 851.11 Development and approval of 
+worker safety and health program. 
+(a) Preparation and submission of work-
+er safety and health program. By Feb-
+ruary 26, 2007, contractors must submit 
+to the appropriate Head of DOE Field 
+Element for approval a written worker 
+safety and health program that pro-
+vides the methods for implementing 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00601 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 8 ---
+592 
+10 CFR Ch. III (1–1–24 Edition) § 851.12 
+the requirements of subpart C of this 
+part. 
+(1) If a contractor is responsible for 
+more than one covered workplace at a 
+DOE site, the contractor must estab-
+lish and maintain a single worker safe-
+ty and health program for the covered 
+workplaces for which the contractor is 
+responsible. 
+(2) If more than one contractor is re-
+sponsible for covered workplaces, each 
+contractor must: 
+(i) Establish and maintain a worker 
+safety and health program for the 
+workplaces for which the contractor is 
+responsible; and 
+(ii) Coordinate with the other con-
+tractors responsible for work at the 
+covered workplaces to ensure that 
+there are clear roles, responsibilities 
+and procedures to ensure the safety 
+and health of workers at multi-con-
+tractor workplaces. 
+(3) The worker safety and health pro-
+gram must describe how the contractor 
+will: 
+(i) Comply with the requirements set 
+forth in subpart C of this part that are 
+applicable to the covered workplace, 
+including the methods for imple-
+menting those requirements; and 
+(ii) Integrate the requirements set 
+forth in subpart C of this part that are 
+applicable to a covered workplace with 
+other related site-specific worker pro-
+tection activities and with the inte-
+grated safety management system. 
+(b) DOE evaluation and approval. The 
+Head of DOE Field Element must com-
+plete a review and provide written ap-
+proval of the contractor’s worker safe-
+ty and health program, within 90 days 
+of receiving the document. The worker 
+safety and health program and any up-
+dates are deemed approved 90 days 
+after submission if they are not specifi-
+cally approved or rejected by DOE ear-
+lier. 
+(1) Beginning May 25, 2007, no work 
+may be performed at a covered work-
+place unless an approved worker safety 
+and health program is in place for the 
+workplace. 
+(2) Contractors must send a copy of 
+the approved program to the EHSS Di-
+rector. 
+(3) Contractors must furnish a copy 
+of the approved worker safety and 
+health program, upon written request, 
+to the affected workers or their des-
+ignated representatives. 
+(c) Updates. (1) Contractors must sub-
+mit an update of the worker safety and 
+health program to the appropriate 
+Head of DOE Field Element, for review 
+and approval whenever a significant 
+change or addition to the program is 
+made, or a change in contractors oc-
+curs. 
+(2) Contractors must submit annually 
+to DOE either an updated worker safe-
+ty and health program for approval or 
+a letter stating that no changes are 
+necessary in the currently approved 
+worker safety and health program. 
+(3) Contactors must incorporate in 
+the worker safety and health program 
+any changes, conditions, or workplace 
+safety and health standards directed by 
+DOE consistent with the requirements 
+of this part and DEAR 970.5204–2, Laws, 
+Regulations and DOE Directives (De-
+cember, 2000) and associated contract 
+clauses. 
+(d) Labor Organizations. If a con-
+tractor employs or supervises workers 
+who are represented for collective bar-
+gaining by a labor organization, the 
+contractor must: 
+(1) Give the labor organization time-
+ly notice of the development and im-
+plementation of the worker safety and 
+health program and any updates there-
+to; and 
+(2) Upon timely request, bargain con-
+cerning implementation of this part, 
+consistent with the Federal labor laws. 
+[71 FR 6931, Feb. 9, 2006, as amended at 71 FR 
+68733, Nov. 28, 2006; 80 FR 5009, Jan. 30, 2015; 
+88 FR 41293, June 26, 2023] 
+§ 851.12 Implementation. 
+(a) Contractors must implement the 
+requirements of this part. 
+(b) Nothing in this part precludes a 
+contractor from taking any additional 
+protective action that is determined to 
+be necessary to protect the safety and 
+health of workers. 
+§ 851.13 Compliance. 
+(a) Contractors must achieve compli-
+ance with all the requirements of Sub-
+part C of this part, and their approved 
+worker safety and health program no 
+later than May 25, 2007. Contractors 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00602 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 9 ---
+593 
+Department of Energy § 851.20 
+may be required to comply contrac-
+tually with the requirements of this 
+rule before February 9, 2007. 
+(b) In the event a contractor has es-
+tablished a written safety and health 
+program, an Integrated Safety Manage-
+ment System (ISMS) description pur-
+suant to the DEAR Clause, or an ap-
+proved Work Smart Standards (WSS) 
+process before the date of issuance of 
+the final rule, the Contractor may use 
+that program, description, or process 
+as the worker safety and health pro-
+gram required by this part if the appro-
+priate Head of the DOE Field Element 
+approves such use on the basis of writ-
+ten documentation provided by the 
+contractor that identifies the specific 
+portions of the program, description, or 
+process, including any additional re-
+quirements or implementation meth-
+ods to be added to the existing pro-
+gram, description, or process, that sat-
+isfy the requirements of this part and 
+that provide a workplace as safe and 
+healthful as would be provided by the 
+requirements of this part. 
+(c) Nothing in this part shall be con-
+strued to limit or otherwise affect con-
+tractual obligations of a contractor to 
+comply with contractual requirements 
+that are not inconsistent with the re-
+quirements of this part. 
+Subpart C—Specific Program 
+Requirements 
+§ 851.20 Management responsibilities 
+and worker rights and responsibil-
+ities. 
+(a) Management responsibilities. Con-
+tractors are responsible for the safety 
+and health of their workforce and must 
+ensure that contractor management at 
+a covered workplace: 
+(1) Establish written policy, goals, 
+and objectives for the worker safety 
+and health program; 
+(2) Use qualified worker safety and 
+health staff ( e.g., a certified industrial 
+hygienist, or safety professional) to di-
+rect and manage the program; 
+(3) Assign worker safety and health 
+program responsibilities, evaluate per-
+sonnel performance, and hold personnel 
+accountable for worker safety and 
+health performance; 
+(4) Provide mechanisms to involve 
+workers and their elected representa-
+tives in the development of the worker 
+safety and health program goals, objec-
+tives, and performance measures and in 
+the identification and control of haz-
+ards in the workplace; 
+(5) Provide workers with access to in-
+formation relevant to the worker safe-
+ty and health program; 
+(6) Establish procedures for workers 
+to report without reprisal job-related 
+fatalities, injuries, illnesses, incidents, 
+and hazards and make recommenda-
+tions about appropriate ways to con-
+trol those hazards; 
+(7) Provide for prompt response to 
+such reports and recommendations; 
+(8) Provide for regular communica-
+tion with workers about workplace 
+safety and health matters; 
+(9) Establish procedures to permit 
+workers to stop work or decline to per-
+form an assigned task because of a rea-
+sonable belief that the task poses an 
+imminent risk of death, serious phys-
+ical harm, or other serious hazard to 
+workers, in circumstances where the 
+workers believe there is insufficient 
+time to utilize normal hazard reporting 
+and abatement procedures; and 
+(10) Inform workers of their rights 
+and responsibility by appropriate 
+means, including posting the DOE-des-
+ignated Worker Protection Poster in 
+the workplace where it is accessible to 
+all workers. 
+(b) Worker rights and responsibilities. 
+Workers must comply with the require-
+ments of this part, including the work-
+er safety and health program, which 
+are applicable to their own actions and 
+conduct. Workers at a covered work-
+place have the right, without reprisal, 
+to: 
+(1) Participate in activities described 
+in this section on official time; 
+(2) Have access to: 
+(i) DOE safety and health publica-
+tions; 
+(ii) The worker safety and health pro-
+gram for the covered workplace; 
+(iii) The standards, controls, and pro-
+cedures applicable to the covered work-
+place; 
+(iv) The safety and health poster that 
+informs the worker of relevant rights 
+and responsibilities; 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00603 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 10 ---
+594 
+10 CFR Ch. III (1–1–24 Edition) § 851.21 
+(v) Limited information on any rec-
+ordkeeping log (OSHA Form 300). Ac-
+cess is subject to Freedom of Informa-
+tion Act requirements and restrictions; 
+and 
+(vi) The DOE Form 5484.3 (the DOE 
+equivalent to OSHA Form 301) that 
+contains the employee’s name as the 
+injured or ill worker; 
+(3) Be notified when monitoring re-
+sults indicate the worker was over-
+exposed to hazardous materials; 
+(4) Observe monitoring or measuring 
+of hazardous agents and have the re-
+sults of their own exposure monitoring; 
+(5) Have a representative authorized 
+by employees accompany the Enforce-
+ment Director or his authorized per-
+sonnel during the physical inspection 
+of the workplace for the purpose of aid-
+ing the inspection. When no authorized 
+employee representative is available, 
+the Enforcement Director or his au-
+thorized representative must consult, 
+as appropriate, with employees on mat-
+ters of worker safety and health; 
+(6) Request and receive results of in-
+spections and accident investigations; 
+(7) Express concerns related to work-
+er safety and health; 
+(8) Decline to perform an assigned 
+task because of a reasonable belief 
+that, under the circumstances, the 
+task poses an imminent risk of death 
+or serious physical harm to the worker 
+coupled with a reasonable belief that 
+there is insufficient time to seek effec-
+tive redress through normal hazard re-
+porting and abatement procedures; and 
+(9) Stop work when the worker dis-
+covers employee exposures to immi-
+nently dangerous conditions or other 
+serious hazards; provided that any stop 
+work authority must be exercised in a 
+justifiable and responsible manner in 
+accordance with procedures established 
+in the approved worker safety and 
+health program. 
+[71 FR 6931, Feb. 9, 2006, as amended at 88 FR 
+41293, June 26, 2023] 
+§ 851.21 Hazard identification and as-
+sessment. 
+(a) Contractors must establish proce-
+dures to identify existing and potential 
+workplace hazards and assess the risk 
+of associated workers injury and ill-
+ness. Procedures must include methods 
+to: 
+(1) Assess worker exposure to chem-
+ical, physical, biological, or safety 
+workplace hazards through appropriate 
+workplace monitoring; 
+(2) Document assessment for chem-
+ical, physical, biological, and safety 
+workplace hazards using recognized ex-
+posure assessment and testing meth-
+odologies and using of accredited and 
+certified laboratories; 
+(3) Record observations, testing and 
+monitoring results; 
+(4) Analyze designs of new facilities 
+and modifications to existing facilities 
+and equipment for potential workplace 
+hazards; 
+(5) Evaluate operations, procedures, 
+and facilities to identify workplace 
+hazards; 
+(6) Perform routine job activity-level 
+hazard analyses; 
+(7) Review site safety and health ex-
+perience information; and 
+(8) Consider interaction between 
+workplace hazards and other hazards 
+such as radiological hazards. 
+(b) Contractors must submit to the 
+Head of DOE Field Element a list of 
+closure facility hazards and the estab-
+lished controls within 90 days after 
+identifying such hazards. The Head of 
+DOE Field Element, with concurrence 
+by the Cognizant Secretarial Officer, 
+has 90 days to accept the closure facil-
+ity hazard controls or direct additional 
+actions to either: 
+(1) Achieve technical compliance; or 
+(2) Provide additional controls to 
+protect the workers. 
+(c) Contractors must perform the ac-
+tivities identified in paragraph (a) of 
+this section, initially to obtain base-
+line information and as often there-
+after as necessary to ensure compli-
+ance with the requirements in this 
+Subpart. 
+§ 851.22 Hazard prevention and abate-
+ment. 
+(a) Contractors must establish and 
+implement a hazard prevention and 
+abatement process to ensure that all 
+identified and potential hazards are 
+prevented or abated in a timely man-
+ner. 
+(1) For hazards identified either in 
+the facility design or during the devel-
+opment of procedures, controls must be 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00604 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 11 ---
+595 
+Department of Energy § 851.23 
+incorporated in the appropriate facility 
+design or procedure. 
+(2) For existing hazards identified in 
+the workplace, contractors must: 
+(i) Prioritize and implement abate-
+ment actions according to the risk to 
+workers; 
+(ii) Implement interim protective 
+measures pending final abatement; and 
+(iii) Protect workers from dangerous 
+safety and health conditions; 
+(b) Contractors must select hazard 
+controls based on the following hier-
+archy: 
+(1) Elimination or substitution of the 
+hazards where feasible and appropriate; 
+(2) Engineering controls where fea-
+sible and appropriate; 
+(3) Work practices and administra-
+tive controls that limit worker expo-
+sures; and 
+(4) Personal protective equipment. 
+(c) Contractors must address hazards 
+when selecting or purchasing equip-
+ment, products, and services. 
+§ 851.23 Safety and health standards. 
+(a) Contractors must comply with 
+the following safety and health stand-
+ards that are applicable to the hazards 
+at their covered workplace: 
+(1) Title 10 Code of Federal Regula-
+tions (CFR) 850, ‘‘Chronic Beryllium 
+Disease Prevention Program.’’ 
+(2) Title 29 CFR, Parts 1904.4 through 
+1904.11, 1904.29 through 1904.33; and 
+1904.46, ‘‘Recording and Reporting Oc-
+cupational Injuries and Illnesses.’’ 
+(3) Title 29 CFR, Part 1910, ‘‘Occupa-
+tional Safety and Health Standards,’’ 
+excluding 29 CFR 1910.1096, ‘‘Ionizing 
+Radiation, and 29 CFR 1910.1000, Beryl-
+lium’’ 
+(4) Title 29 CFR, Part 1915, ‘‘Shipyard 
+Employment.’’ 
+(5) Title 29 CFR, Part 1917, ‘‘Marine 
+Terminals.’’ 
+(6) Title 29 CFR, Part 1918, ‘‘Safety 
+and Health Regulations for 
+Longshoring.’’ 
+(7) Title 29 CFR, Part 1926, ‘‘Safety 
+and Health Regulations for Construc-
+tion.’’ 
+(8) Title 29 CFR, Part 1928, ‘‘Occupa-
+tional Safety and Health Standards for 
+Agriculture.’’ 
+(9) American Conference of Govern-
+mental Industrial Hygienists 
+(ACGIH®), ‘‘Threshold Limit Values for 
+Chemical Substances and Physical 
+Agents and Biological Exposure Indi-
+ces,’’ (2016) (incorporated by reference, 
+see § 851.27) when the ACGIH ® Thresh-
+old Limit Values (TLVs) are lower 
+(more protective) than permissible ex-
+posure limits in 29 CFR part 1910 for 
+general industry and/or part 1926 for 
+construction. When the ACGIH TLVs 
+are used as exposure limits, contrac-
+tors must nonetheless comply with the 
+other provisions of any applicable ex-
+panded health standard found in 29 
+CFR part 1910 and/or part 1926. 
+(10) American National Standards In-
+stitute (ANSI/ASSE) Z88.2, ‘‘American 
+National Standard Practices for Res-
+piratory Protection,’’ (2015) (incor-
+porated by reference, see § 851.27). 
+(11) ANSI Z136.1, ‘‘Safe Use of La-
+sers,’’ (2014) (incorporated by reference, 
+see § 851.27). 
+(12) ANSI Z49.1, ‘‘Safety in Welding, 
+Cutting and Allied Processes,’’ sections 
+4.3 and E4.3 (2012) (incorporated by ref-
+erence, see § 851.27). 
+(13) National Fire Protection Asso-
+ciation (NFPA) 70, ‘‘National Electrical 
+Code,’’ (2017) (incorporated by ref-
+erence, see § 851.27). 
+(14) NFPA 70E, ‘‘Standard for Elec-
+trical Safety in the Workplace,’’ (2015) 
+(incorporated by reference, see § 851.27). 
+(b) Nothing in this part must be con-
+strued as relieving a contractor from 
+complying with any additional specific 
+safety and health requirement that it 
+determines to be necessary to protect 
+the safety and health of workers. 
+[71 FR 6931, Feb. 9, 2006, as amended at 80 FR 
+69566, Nov. 10, 2015; 82 FR 59954, Dec. 18, 2017] 
+EFFECTIVE DATE NOTE: At 88 FR 86815, Dec. 
+15, 2023, § 851.23 was amended by revising 
+paragraphs (a)(2), (3), (4), (7), and (9) and (b), 
+effective Jan. 16, 2024. For the convenience of 
+the user, the revised text is set forth as fol-
+lows: 
+§ 851.23 Safety and health standards. 
+(a) * * * 
+(2) Title 29 CFR, part 1904, ‘‘Recording and 
+Reporting Occupational Injuries and Ill-
+nesses’’, §§ 1904.4 through 1904.11, 1904.29 
+through 1904.33, and 1904.46. 
+(3) Title 29 CFR, part 1910, ‘‘Occupational 
+Safety and Health Standards,’’ excluding 29 
+CFR 1910.1096, ‘‘Ionizing Radiation’’; 29 CFR 
+1910.1000, ‘‘Air Contaminants,’’ Tables Z–1 
+and Z–2, as they relate to beryllium and be-
+ryllium compounds; and 29 CFR 1910.1024, 
+‘‘Beryllium.’’ 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00605 Fmt 8010 Sfmt 8003 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 12 ---
+596 
+10 CFR Ch. III (1–1–24 Edition) § 851.24 
+(4) Title 29 CFR, part 1915, ‘‘Occupational 
+Safety and Health Standards for Shipyard 
+Employment,’’ except for 29 CFR 1915.1024, 
+‘‘Beryllium.’’ 
+* * * * * 
+(7) Title 29 CFR, part 1926, ‘‘Safety and 
+Health Regulations for Construction,’’ ex-
+cept for 29 CFR 1926.1124, ‘‘Beryllium.’’ 
+* * * * * 
+(9) American Conference of Governmental 
+Industrial Hygienists (ACGIH ®), Threshold 
+Limit Values for Chemical Substances and 
+Physical Agents and Biological Exposure Indi-
+ces, (2016) (incorporated by reference, see 
+§ 851.27), excluding the threshold limit values 
+(TLVs®) for beryllium and beryllium com-
+pounds, when the ACGIH ® TLVs® are lower 
+(more protective) than permissible exposure 
+limits in 29 CFR part 1910 for general indus-
+try, 29 CFR part 1915 for shipyards, and/or 29 
+CFR part 1926 for construction. When the 
+ACGIH® TLVs® are used as exposure limits, 
+contractors must comply with the other pro-
+visions of any applicable expanded health 
+standard found in 29 CFR parts 1910, 1915, and 
+1926. 
+* * * * * 
+(b) Nothing in this part relieves contrac-
+tors from the responsibility to comply with 
+any additional safety and health require-
+ments that are necessary to protect the safe-
+ty and health of workers. 
+* * * * * 
+§ 851.24 Functional areas. 
+(a) Contractors must have a struc-
+tured approach to their worker safety 
+and health program which at a min-
+imum, include provisions for the fol-
+lowing applicable functional areas in 
+their worker safety and health pro-
+gram: construction safety; fire protec-
+tion; firearms safety; explosives safety; 
+pressure safety; electrical safety; in-
+dustrial hygiene; occupational medi-
+cine; biological safety; and motor vehi-
+cle safety. 
+(b) In implementing the structured 
+approach required by paragraph (a) of 
+this section, contractors must comply 
+with the applicable standards and pro-
+visions in appendix A of this part, enti-
+tled ‘‘Worker Safety and Health Func-
+tional Areas.’’ 
+§ 851.25 Training and information. 
+(a) Contractors must develop and im-
+plement a worker safety and health 
+training and information program to 
+ensure that all workers exposed or po-
+tentially exposed to hazards are pro-
+vided with the training and informa-
+tion on that hazard in order to perform 
+their duties in a safe and healthful 
+manner. 
+(b) The contractor must provide: 
+(1) Training and information for new 
+workers, before or at the time of initial 
+assignment to a job involving exposure 
+to a hazard; 
+(2) Periodic training as often as nec-
+essary to ensure that workers are ade-
+quately trained and informed; and 
+(3) Additional training when safety 
+and health information or a change in 
+workplace conditions indicates that a 
+new or increased hazard exists. 
+(c) Contractors must provide training 
+and information to workers who have 
+worker safety and health program re-
+sponsibilities that is necessary for 
+them to carry out those responsibil-
+ities. 
+§ 851.26 Recordkeeping and reporting. 
+(a) Recordkeeping. Contractors must: 
+(1) Establish and maintain complete 
+and accurate records of all hazard in-
+ventory information, hazard assess-
+ments, exposure measurements, and ex-
+posure controls. 
+(2) Ensure that the work-related inju-
+ries and illnesses of its workers and 
+subcontractor workers are recorded 
+and reported accurately and consistent 
+with DOE reporting directives. 
+(3) Comply with the applicable occu-
+pational injury and illness record-
+keeping and reporting workplace safety 
+and health standards in § 851.23 at their 
+site, unless otherwise directed by DOE. 
+(4) Not conceal nor destroy any infor-
+mation concerning non-compliance or 
+potential noncompliance with the re-
+quirements of this part. 
+(b) Reporting and investigation. Con-
+tractors must: 
+(1) Report and investigate accidents, 
+injuries and illness; and 
+(2) Analyze related data for trends 
+and lessons learned. 
+[71 FR 6931, Feb. 9, 2006, as amended at 82 FR 
+59954, Dec. 18, 2017] 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00606 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 13 ---
+597 
+Department of Energy § 851.27 
+§ 851.27 Materials incorporated by ref-
+erence. 
+(a) General. We incorporate by ref-
+erence the following standards into 
+part 851. The material has been ap-
+proved for incorporation by the Direc-
+tor of the Federal Register under 5 
+U.S.C. 552(a) and 1 CFR part 51. Any 
+subsequent amendment to a standard 
+by the standard-setting organization 
+will not affect the DOE regulations un-
+less and until amended by DOE. Mate-
+rial is incorporated as it exists on the 
+date of the approval. To use a subse-
+quent amendment to a standard, DOE 
+must publish a document in the F ED-
+ERAL REGISTER and the material must 
+be available to the public. All approved 
+material is available for inspection at 
+the U.S. Department of Energy, Office 
+of Environment, Health, Safety and Se-
+curity, Office of Worker Safety and 
+Health Policy, 1000 Independence Ave. 
+SW, Washington, DC 20585. 301–903–6061. 
+The material is available for inspection 
+at the National Archives and Records 
+Administration (NARA). For informa-
+tion on the availability of this mate-
+rial at NARA, call 202–741–6030 or go to: 
+www.archives.gov/federal-register/cfr/ibr- 
+locations.html. Standards can be ob-
+tained from the sources listed below. 
+(b) ACGIH®. American Conference of 
+Governmental Industrial Hygienist, 
+1330 Kemper Meadow Drive, Cincinnati, 
+OH 45240. Telephone number: 513–742– 
+2020, or go to: http://www.acgih.org. 
+(1) ACGIH®, Threshold Limit Values for 
+Chemical Substances and Physical Agents 
+and Biological Exposure Indices, 2016; 
+IBR approved for § 851.23. 
+(2) Reserved. 
+(c) ANSI. American National Stand-
+ards Institute, 1899 L Street NW, 11th 
+Floor, Washington, DC 20036. Telephone 
+number: 202–293–8020, or go to: http:// 
+www.ansi.org. 
+(1) ANSI Z49.1–2012, American National 
+Standard Safety in Welding, Cutting and 
+Allied Processes, sections 4.3 and E4.3, 
+ANSI approved March 9, 2012, IBR ap-
+proved for § 851.23. 
+(2) ANSI/ASSE Z88.2–2015, American 
+National Standard Practices for Res-
+piratory Protection, ANSI approved 
+March 4, 2015, IBR approved for § 851.23. 
+(3) ANSI Z136.1–2014, American Na-
+tional Standard for Safe Use of Lasers, 
+ANSI approved December 10, 2013, IBR 
+approved for § 851.23. 
+(d) ASME. American Society of Me-
+chanical Engineers, P.O. Box 2300, Fair-
+field, NJ 07007. Telephone: 800–843–2763, 
+or got to: http://www.asme.org. 
+(1) ASME Boilers and Pressure Vessel 
+Codes (BPVC) as follows: 
+(i) BPVC.I–2015, Section I—Rules for 
+Construction of Power Boilers, 2015 edi-
+tion, issued July 1, 2015; IBR approved 
+for appendix A, section 4, Pressure 
+Safety; 
+(ii) BPVC.II.A–2015, Section II—Mate-
+rials, Part A—Ferrous Material Specifica-
+tions (Beginning to SA–450), 2015 edition, 
+issued July 1, 2015; IBR approved for 
+appendix A, section 4, Pressure Safety; 
+(iii) BPVC.II.A–2015, Section II—Mate-
+rials, Part A—Ferrous Material Specifica-
+tions (SA–451 to End), 2015 edition, 
+issued July 1, 2015; IBR approved for 
+appendix A, section 4, Pressure Safety; 
+(iv) BPVC.II.B–2015, Section II—Mate-
+rials, Part B—Nonferrous Material Speci-
+fications, 2015 edition, issued July 1, 
+2015; IBR approved for appendix A, sec-
+tion 4, Pressure Safety; 
+(v) BPVC.II.C–2015, Section II—Mate-
+rials, Part C—Specification for Welding 
+Rods; Electrodes, and Filler Metals; 2015 
+edition, issued July 1, 2015; IBR ap-
+proved for appendix A, section 4, Pres-
+sure Safety; 
+(vi) BPVC.II.D.C–2015, Section II—Ma-
+terials, Part D—Properties (Customary); 
+2015 edition, issued July 1, 2015; IBR ap-
+proved for appendix A, section 4, Pres-
+sure Safety 
+(vii) BPVC.II.D.M–2015, Section II— 
+Materials, Part D—Properties (Metric); 
+2015 edition, issued July 1, 2015; IBR ap-
+proved for appendix A, section 4, Pres-
+sure Safety; 
+(viii) BPVC.III.A–2015, Section III— 
+Rules for Construction of Nuclear Facility 
+Components, Appendices; 2015 edition, 
+issued July 1, 2015; IBR approved for 
+appendix A, section 4, Pressure Safety; 
+(ix) BPVC.III.1.NB–2015, Section III— 
+Rules for Construction of Nuclear Facility 
+Components, Division I—Subsection NB, 
+Class 1 Components; 2015 edition, issued 
+July 1, 2015; IBR approved for appendix 
+A, section 4, Pressure Safety; 
+(x) BPVC.III.1.NC–2015, Section III— 
+Rules for Construction of Nuclear Facility 
+Components, Division I—Subsection NC, 
+Class 2 Components; 2015 edition, issued 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00607 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 14 ---
+598 
+10 CFR Ch. III (1–1–24 Edition) § 851.27 
+July 1, 2015; IBR approved for appendix 
+A, section 4, Pressure Safety; 
+(xi) BPVC.III.1.ND–2015, Section III— 
+Rules for Construction of Nuclear Facility 
+Components, Division I—Subsection ND, 
+Class 3 Components; 2015 edition, issued 
+July 1, 2015; IBR approved for appendix 
+A, section 4, Pressure Safety; 
+(xii) BPVC.III.1.NE–2015, Section III— 
+Rules for Construction of Nuclear Facility 
+Components, Division I—Subsection NE, 
+Class MC Components; 2015 edition, 
+issued July 1, 2015; IBR approved for 
+appendix A, section 4, Pressure Safety; 
+(xiii) BPVC.III.1.NF–2015, Section III— 
+Rules for Construction of Nuclear Facility 
+Components, Division I—Subsection NF, 
+Supports; 2015 edition, issued July 1, 
+2015; IBR approved for appendix A, sec-
+tion 4, Pressure Safety; 
+(xiv) BPVC.III.1.NG–2015, Section III— 
+Rules for Construction of Nuclear Facility 
+Components, Division I—Subsection NG, 
+Core Support Structures; 2015 edition, 
+issued July 1 2015; IBR approved for ap-
+pendix A, section 4, Pressure Safety; 
+(xv) BPVC.III.1.NH–2015, Section III— 
+Rules for Construction of Nuclear Facility 
+Components, Division I—Subsection NH, 
+Class 1 Components in Elevated Tempera-
+ture Service; 2015 edition, issued July 1, 
+2015; IBR approved for appendix A, sec-
+tion 4, Pressure Safety; 
+(xvi) BPVC.III.NCA–2015, Section III— 
+Rules for Construction of Nuclear Facil-
+ity; Components, Subsection NCA, Gen-
+eral Requirements for Division 1 and Divi-
+sion 2; 2015 edition, issued July 1, 2015; 
+IBR approved for appendix A, section 4, 
+Pressure Safety; 
+(xvii) BPVC.III.2–2015, Section III— 
+Rules for Construction of Nuclear Facility 
+Components, Division 2, Code for Concrete 
+Containments; 2015 edition, issued July 
+1, 2015; IBR approved for appendix A, 
+section 4, Pressure Safety; 
+(xviii) BPVC.III.3–2015, Section III— 
+Rules for Construction of Nuclear Facility 
+Components, Division 3, Containments for 
+Transportation and Storage of Spent Nu-
+clear Fuel and High Level Radioactive 
+Material and Waste; 2015 edition, issued 
+July 1, 2015; IBR approved for appendix 
+A, section 4, Pressure Safety; 
+(xix)) BPVC.III.5–2015, Section III— 
+Rules for Construction of Nuclear Facility 
+Components, Division 5, High Tempera-
+ture Reactors; 2015 edition, issued July 
+1, 2015; IBR approved for appendix A, 
+section 4, Pressure Safety; 
+(xx) BPVC.IV–2015, Section IV, Rules 
+for Construction of Heating Boilers; 2015 
+edition, issued July 1, 2015; IBR ap-
+proved for appendix A, section 4, Pres-
+sure Safety; 
+(xxi) BPVC.V–2015, Section V, Non-
+destructive Examination; 2015 edition, 
+issued July 1, 2015; IBR approved for 
+appendix A, section 4, Pressure Safety; 
+(xxii) BPVC.VI–2015, Section VI, Rec-
+ommended Rules for the Care and Oper-
+ation of Heating Boilers; 2015 edition, 
+issued July 1, 2015; IBR approved for 
+appendix A, section 4, Pressure Safety; 
+(xxiii) BPVC.VII–2015, Section VII, 
+Recommended Guidelines for the Care of 
+Power Boilers; 2015 edition, issued July 
+1, 2015; IBR approved for appendix A, 
+section 4, Pressure Safety; 
+(xxiv) BPVC.VIII.1–2015, Section 
+VIII—Rules for Construction of Pressure 
+Vessels, Division 1; 2015 edition, issued 
+July 1, 2015; IBR approved for appendix 
+A, section 4, Pressure Safety; 
+(xxv) BPVC.VIII.2–2015, Section VIII— 
+Rules for Construction of Pressure Ves-
+sels, Division 2, Alternative Rules; 2015 
+edition, issued July 1, 2015; IBR ap-
+proved for appendix A, section 4, Pres-
+sure Safety; 
+(xxvi) BPVC.VIII.3–2015, Section 
+VIII—Rules for Construction of Pressure 
+Vessels, Division 3, Alternative Rules for 
+Construction of High Pressure Vessels; 
+2015 edition, issued July 1, 2015; IBR ap-
+proved for appendix A, section 4, Pres-
+sure Safety; 
+(xxvii) BPVC.IX–2015, Section IX— 
+Welding, Brazing and Fusing Qualifica-
+tions, Qualification Standard for Welding, 
+Brazing, and Fusing Procedures; Welders; 
+Brazers; and Welding, Brazing, and Fus-
+ing Operators; 2015 edition, issued July 
+1, 2015; IBR approved for appendix A, 
+section 4, Pressure Safety; 
+(xxviii) BPVC.X–2015, Section X, 
+Fiber—Reinforced Plastic Pressure Ves-
+sels; 2015 edition, issued July 1, 2015; 
+IBR approved for appendix A, section 4, 
+Pressure Safety; 
+(xxix) BPVC.XI–2015, Section XI, Rules 
+for Inservice Inspection of Nuclear Power 
+Plant Components; 2015 edition, issued 
+July 1, 2015; IBR approved for appendix 
+A, section 4, Pressure Safety; 
+(xxx) BPVC.XII–2015, Section XII, 
+Rules for Construction and Continued 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00608 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 15 ---
+599 
+Department of Energy § 851.31 
+Service of Transport Tanks; issued July 
+1, 2015; IBR approved for appendix A, 
+section 4, Pressure Safety; 
+(xxxi) BPVC.CC.BPV–2015, Code Cases, 
+Boilers and Pressure Vessels; 2015 edi-
+tion, issued July 1, 2015; IBR approved 
+for appendix A, section 4, Pressure 
+Safety; and 
+(xxxii) BPVC.CC.NC–2015, Code Cases, 
+Nuclear Components; issued July 1, 2015, 
+IBR approved for appendix A, section 4, 
+Pressure Safety. 
+(2) ASME B31 codes for pressure pip-
+ing as follows: 
+(i) B31.1–2016, Power Piping, ASME 
+Code for Pressure Piping, B31, issued 
+June 30, 2016; IBR approved for appen-
+dix A, Section 4, Pressure Safety; 
+(ii) B31.3–2014, Process Piping, ASME 
+Code for Pressure Piping, B31, issued 
+February 27, 2015; IBR approved for ap-
+pendix A, Section 4, Pressure Safety; 
+(iii) B31.4–2016, Pipeline Transportation 
+Systems for Liquids and Slurries, ASME 
+Code for Pressure Piping, B31, issued 
+March 31, 2016; IBR approved for appen-
+dix A, Section 4, Pressure Safety; 
+(iv) B31.5–2016, Refrigeration Piping 
+and Heat Transfer Components, ASME 
+Code for Pressure Piping, B31, issued 
+June 29, 2016; IBR approved for appen-
+dix A, Section 4, Pressure Safety; 
+(v) B31.8–2016, Gas Transmission and 
+Distribution Piping Systems, ASME Code 
+for Pressure Piping, B31, issued Sep-
+tember 30, 2014; IBR approved for ap-
+pendix A, Section 4, Pressure Safety; 
+(vi) B31.8S–2014, Managing System In-
+tegrity of Gas Pipelines, ASME Code for 
+Pressure Piping, B31, Supplement to 
+ASME B31.8, issued September 30, 2014; 
+IBR approved for appendix A, Section 
+4, Pressure Safety; 
+(vii) B31.9–2014, Building Services Pip-
+ing, ASME Code for Pressure Piping, B31, 
+issued April 28, 2014; IBR approved for 
+appendix A, Section 4, Pressure Safety; 
+and 
+(viii) B31G–2012, Manual for Deter-
+mining the Remaining Strength of Cor-
+roded Pipelines, Supplement to ASME B31 
+Code for Pressure Piping, issued October 
+24, 2012; IBR approved for appendix A, 
+Section 4, Pressure Safety. 
+(e) NFPA. The National Fire Protec-
+tion Association, One Batterymarch 
+Park, Quincy, MA 02169. Telephone: 
+617–984–7423, or go to: http:// 
+www.nfpa.org. 
+(1) NFPA 70, National Electric Code, 
+(2017), issued August 4, 2016; IBR ap-
+proved for § 851.23; and 
+(2) NFPA 70E, Standard for Electrical 
+Safety in the Workplace, (2015 edition), 
+issued July 14, 2014; IBR approved for 
+§ 851.23. 
+[82 FR 59954, Dec. 18, 2017] 
+EFFECTIVE DATE NOTE: At 88 FR 86815, Dec. 
+15, 2023, § 851.27 was amended by revising 
+paragraph (a), effective Jan. 16, 2024. For the 
+convenience of the user, the revised text is 
+set forth as follows: 
+§ 851.27 Materials incorporated by ref-
+erence. 
+(a) Certain material is incorporated by ref-
+erence into this subpart with the approval of 
+the Director of the Federal Register in ac-
+cordance with 5 U.S.C. 552(a) and 1 CFR part 
+51. To enforce any edition other than that 
+specified in this section, the U.S. Depart-
+ment of Energy (DOE) must publish a docu-
+ment in the F EDERAL REGISTER and the ma-
+terial must be available to the public. All ap-
+proved incorporation by reference (IBR) ma-
+terial is available for inspection at DOE and 
+at the National Archives and Records Ad-
+ministration (NARA). Contact DOE: the U.S. 
+Department of Energy, Office of Environ-
+ment, Health, Safety and Security, Office of 
+Worker Safety and Health Policy, Mailstop 
+EHSS–11, 1000 Independence Ave. SW, Wash-
+ington, DC 20585; (301) 903–1165. For informa-
+tion on the availability of this material at 
+NARA, visit www.archives.gov/federal-register/ 
+cfr/ibr-locations or email: 
+fr.inspection@nara.gov. The material may be 
+obtained from the sources in the following 
+paragraphs of this section. 
+* * * * * 
+Subpart D—Variances 
+§ 851.30 Consideration of variances. 
+(a) Variances shall be granted by the 
+Under Secretary after considering the 
+recommendation of the EHSS Director. 
+The authority to grant a variance can-
+not be delegated. 
+(b) The application must satisfy the 
+requirements for applications specified 
+in § 851.31. 
+[71 FR 6931, Feb. 9, 2006, as amended at 71 FR 
+68733, Nov. 28, 2006; 80 FR 5009, Jan. 30, 2015; 
+88 FR 41293, June 26, 2023] 
+§ 851.31 Variance process. 
+(a) Application. Contractors desiring a 
+variance from a safety and health 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00609 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 16 ---
+600 
+10 CFR Ch. III (1–1–24 Edition) § 851.31 
+standard, or portion thereof, may sub-
+mit a written application containing 
+the information in paragraphs (c) and 
+(d) of this section to the appropriate 
+CSO. 
+(1) The CSO may forward the applica-
+tion to the EHSS Director. 
+(2) If the CSO does not forward the 
+application to the EHSS Director, the 
+CSO must return the application to the 
+contractor with a written statement 
+explaining why the application was not 
+forwarded. 
+(3) Upon receipt of an application 
+from a CSO, the EHSS Director must 
+review the application for a variance 
+and make a written recommendation 
+to: 
+(i) Approve the application; 
+(ii) Approve the application with con-
+ditions; or 
+(iii) Deny the application. 
+(b) Defective applications. If an appli-
+cation submitted pursuant to § 851.31(a) 
+is determined by the EHSS Director to 
+be incomplete, the EHSS Director may: 
+(1) Return the application to the con-
+tractor with a written explanation of 
+what information is needed to permit 
+consideration of the application; or 
+(2) Request the contractor to provide 
+necessary information. 
+(c) Content. All variance applications 
+submitted pursuant to paragraph (a) of 
+this section must include: 
+(1) The name and address of the con-
+tractor; 
+(2) The address of the DOE site or 
+sites involved; 
+(3) A specification of the standard, or 
+portion thereof, from which the con-
+tractor seeks a variance; 
+(4) A description of the steps that the 
+contractor has taken to inform the af-
+fected workers of the application, 
+which must include giving a copy 
+thereof to their authorized representa-
+tive, posting a statement, giving a 
+summary of the application and speci-
+fying where a copy may be examined at 
+the place or places where notices to 
+workers are normally posted; and 
+(5) A description of how affected 
+workers have been informed of their 
+right to petition the EHSS Director or 
+designee for a conference; and 
+(6) Any requests for a conference, as 
+provided in § 851.34. 
+(d) Types of variances. Contractors 
+may apply for the following types of 
+variances: 
+(1) Temporary variance. Applications 
+for a temporary variance pursuant to 
+paragraph (a) of this section must be 
+submitted at least 30 days before the 
+effective date of a new safety and 
+health standard and, in addition to the 
+content required by paragraph (c) of 
+this section, must include: 
+(i) A statement by the contractor ex-
+plaining the contractor is unable to 
+comply with the standard or portion 
+thereof by its effective date and a de-
+tailed statement of the factual basis 
+and representations of qualified per-
+sons that support the contractor’s 
+statement; 
+(ii) A statement of the steps the con-
+tractor has taken and plans to take, 
+with specific dates if appropriate, to 
+protect workers against the hazard 
+covered by the standard; 
+(iii) A statement of when the con-
+tractor expects to be able to comply 
+with the standard and of what steps the 
+contractor has taken and plans to 
+take, with specific dates if appropriate, 
+to come into compliance with the 
+standard; 
+(iv) A statement of the facts the con-
+tractor would show to establish that: 
+(A) The contractor is unable to com-
+ply with the standard by its effective 
+date because of unavailability of pro-
+fessional or technical personnel or ma-
+terials and equipment needed to come 
+into compliance with the standard or 
+because necessary construction or al-
+teration of facilities cannot be com-
+pleted by the effective date; 
+(B) The contractor is taking all 
+available steps to safeguard the work-
+ers against the hazards covered by the 
+standard; and 
+(C) The contractor has an effective 
+program for coming into compliance 
+with the standard as quickly as prac-
+ticable. 
+(2) Permanent variance. An applica-
+tion submitted for a permanent vari-
+ance pursuant to paragraph (a) of this 
+section must, in addition to the con-
+tent required in paragraph (c) of this 
+section, include: 
+(i) A description of the conditions, 
+practices, means, methods, operations, 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00610 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 17 ---
+601 
+Department of Energy § 851.32 
+or processes used or proposed to be 
+used by the contractor; and 
+(ii) A statement showing how the 
+conditions, practices, means, methods, 
+operations, or processes used or pro-
+posed to be used would provide workers 
+a place of employment which is as safe 
+and healthful as would result from 
+compliance with the standard from 
+which a variance is sought. 
+(3) National defense variance. (i) An 
+application submitted for a national 
+defense variance pursuant to paragraph 
+(a) of this section must, in addition to 
+the content required in paragraph (c) of 
+this section, include: 
+(A) A statement by the contractor 
+showing that the variance sought is 
+necessary to avoid serious impairment 
+of national defense; and 
+(B) A statement showing how the 
+conditions, practices, means, methods, 
+operations, or processes used or pro-
+posed to be used would provide workers 
+a safe and healthful place of employ-
+ment in a manner that, to the extent 
+practical taking into account the na-
+tional defense mission, is consistent 
+with the standard from which a vari-
+ance is sought. 
+(ii) A national defense variance may 
+be granted for a maximum of six 
+months, unless there is a showing that 
+a longer period is essential to carrying 
+out a national defense mission. 
+[71 FR 6931, Feb. 9, 2006; 71 FR 36661, June 28, 
+2006, as amended at 71 FR 68733, Nov. 28, 2006; 
+80 FR 5009, Jan. 30, 2015; 88 FR 41293, June 26, 
+2023] 
+§ 851.32 Action on variance requests. 
+(a) Procedures for an approval rec-
+ommendation. (1) If the EHSS Director 
+recommends approval of a variance ap-
+plication, the EHSS Director must for-
+ward to the Under Secretary the vari-
+ance application and the approval rec-
+ommendation including a discussion of 
+the basis for the recommendation and 
+any terms and conditions proposed for 
+inclusion as part of the approval. 
+(2) If the Under Secretary approves a 
+variance, the Under Secretary must no-
+tify the EHSS Director who must no-
+tify the Office of Enforcement and the 
+CSO who must promptly notify the 
+contractor. 
+(3) The notification must include a 
+reference to the safety and health 
+standard or portion thereof that is the 
+subject of the application, a detailed 
+description of the variance, the basis 
+for the approval and any terms and 
+conditions of the approval. 
+(4) If the Under Secretary denies a 
+variance, the Under Secretary must no-
+tify the EHSS Director who must no-
+tify the appropriate CSO who must no-
+tify the contractor. 
+(5) The notification must include the 
+grounds for denial. 
+(b) Approval criteria. A variance may 
+be granted if the variance: 
+(1) Is consistent with section 3173 of 
+the NDAA; 
+(2) Does not present an undue risk to 
+worker safety and health; 
+(3) Is warranted under the cir-
+cumstances; 
+(4) Satisfies the requirements of 
+§ 851.31 of this part for the type of vari-
+ance requested. 
+(c) Procedures for a denial recommenda-
+tion. (1) If the EHSS Director rec-
+ommends denial of a variance applica-
+tion, the EHSS Director must notify 
+the CSO of the denial recommendation 
+and the grounds for the denial rec-
+ommendation. 
+(2) Upon receipt of a denial rec-
+ommendation, the CSO may: 
+(i) Notify the contractor that the 
+variance application is denied on the 
+grounds cited by the EHSS Director; or 
+(ii) Forward to the Under Secretary 
+the variance application, the denial 
+recommendation, the grounds for the 
+denial recommendation, and any infor-
+mation that supports an action dif-
+ferent than that recommended by the 
+EHSS Director. 
+(3) If the CSO forwards the applica-
+tion to the Under Secretary, the proce-
+dures in paragraphs (a)(2), (3), (4) and 
+(5) of this section apply. 
+(4) A denial of an application pursu-
+ant to this section shall be without 
+prejudice to submitting of another ap-
+plication 
+(d) Grounds for denial of a variance. A 
+variance may be denied if: 
+(1) Enforcement of the violation 
+would be handled as a de minimis viola-
+tion (defined as a deviation from the 
+requirement of a standard that has no 
+direct or immediate relationship to 
+safety or health, and no enforcement 
+action will be taken); 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00611 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 18 ---
+602 
+10 CFR Ch. III (1–1–24 Edition) § 851.33 
+(2) When a variance is not necessary 
+for the conditions, practice, means, 
+methods, operations, or processes used 
+or proposed to be used by contractor; 
+(3) Contractor does not demonstrate 
+that the approval criteria are met. 
+[71 FR 6931, Feb. 9, 2006, as amended at 71 FR 
+68733, Nov. 28, 2006; 80 FR 5009, Jan. 30, 2015; 
+88 FR 41293, June 26, 2023] 
+§ 851.33 Terms and conditions. 
+A variance may contain appropriate 
+terms and conditions including, but 
+not limited to, provisions that: 
+(a) Limit its duration; 
+(b) Require alternative action; 
+(c) Require partial compliance; and 
+(d) Establish a schedule for full or 
+partial compliance. 
+§ 851.34 Requests for conferences. 
+(a) Within the time allotted by a no-
+tice of the filling of an application, any 
+affected contractor or worker may file 
+with the EHSS Director a request for a 
+conference on the application for a 
+variance. 
+(b) A request for a conference filed 
+pursuant to paragraph (a) of this sec-
+tion must include: 
+(1) A concise statement explaining 
+how the contractor or worker would be 
+affected by the variance applied for, in-
+cluding relevant facts; 
+(2) A specification of any statement 
+or representation in the application 
+which is denied, and a concise sum-
+mary of the evidence that would be ad-
+duced in support of each denial; and 
+(3) Any other views or arguments on 
+any issue of fact or law presented. 
+(c) The EHSS Director, or designee, 
+must respond to a request within fif-
+teen days and, if the request is granted, 
+indicate the time and place of the con-
+ference and the DOE participants in 
+the conference. 
+[71 FR 6931, Feb. 9, 2006, as amended at 71 FR 
+68733, Nov. 28, 2006; 80 FR 5009, Jan. 30, 2015; 
+88 FR 41294, June 26, 2023] 
+Subpart E—Enforcement Process 
+§ 851.40 Investigations and inspec-
+tions. 
+(a) The Enforcement Director may 
+initiate and conduct investigations and 
+inspections relating to the scope, na-
+ture, and extent of compliance by a 
+contractor with the requirements of 
+this part and take such action as the 
+Enforcement Director deems necessary 
+and appropriate to the conduct of the 
+investigation or inspection. DOE En-
+forcement Officers have the right to 
+enter work areas without delay to the 
+extent practicable, to conduct inspec-
+tions under this subpart. 
+(b) Contractors must fully cooperate 
+with the Enforcement Director during 
+all phases of the enforcement process 
+and provide complete and accurate 
+records and documentation as re-
+quested by the Enforcement Director 
+during investigation or inspection ac-
+tivities. 
+(c) Any worker or worker representa-
+tive may request that the Enforcement 
+Director initiate an investigation or 
+inspection pursuant to paragraph (a) of 
+this section. A request for an investiga-
+tion or inspection must describe the 
+subject matter or activity to be inves-
+tigated or inspected as fully as possible 
+and include supporting documentation 
+and information. The worker or worker 
+representative has the right to remain 
+anonymous upon filing a request for an 
+investigation or inspection. 
+(d) The Enforcement Director must 
+inform any contractor that is the sub-
+ject of an investigation or inspection in 
+writing at the initiation of the inves-
+tigation or inspection and must inform 
+the contractor of the general purpose 
+of the investigation or inspection. 
+(e) DOE shall not disclose informa-
+tion or documents that are obtained 
+during any investigation or inspection 
+unless the Enforcement Director di-
+rects or authorizes the public disclo-
+sure of the investigation. Prior to such 
+authorization, DOE must determine 
+that disclosure is not precluded by the 
+Freedom of Information Act, 5 U.S.C. 
+552 and part 1004 of this title. Once dis-
+closed pursuant to the Enforcement Di-
+rector’s authorization, the information 
+or documents are a matter of public 
+record. 
+(f) A request for confidential treat-
+ment of information for purposes of the 
+Freedom of Information Act does not 
+prevent disclosure by the Enforcement 
+Director if the Enforcement Director 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00612 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 19 ---
+603 
+Department of Energy § 851.42 
+determines disclosure to be in the pub-
+lic interest and otherwise permitted or 
+required by law. 
+(g) During the course of an investiga-
+tion or inspection, any contractor may 
+submit any document, statement of 
+facts, or memorandum of law for the 
+purpose of explaining the contractor’s 
+position or furnish information which 
+the contractor considers relevant to a 
+matter or activity under investigation 
+or inspection. 
+(h) The Enforcement Director may 
+convene an informal conference to dis-
+cuss any situation that might be a vio-
+lation of a requirement of this part, its 
+significance and cause, any corrective 
+action taken or not taken by the con-
+tractor, any mitigating or aggravating 
+circumstances, and any other informa-
+tion. A conference is not normally open 
+to the public and DOE does not make a 
+transcript of the conference. The En-
+forcement Director may compel a con-
+tractor to attend the conference. 
+(i) If facts disclosed by an investiga-
+tion or inspection indicate that further 
+action is unnecessary or unwarranted, 
+the Enforcement Director may close 
+the investigation without prejudice. 
+(j) The Enforcement Director may 
+issue enforcement letters that commu-
+nicate DOE’s expectations with respect 
+to any aspect of the requirements of 
+this part, including identification and 
+reporting of issues, corrective actions, 
+and implementation of the contractor’s 
+safety and health program; provided 
+that an enforcement letter may not 
+create the basis for any legally en-
+forceable requirement pursuant to this 
+part. 
+(k) The Enforcement Director may 
+sign, issue and serve subpoenas. 
+[71 FR 6931, Feb. 9, 2006, as amended at 88 FR 
+41294, June 26, 2023] 
+§ 851.41 Settlement. 
+(a) DOE encourages settlement of a 
+proceeding under this subpart at any 
+time if the settlement is consistent 
+with this part. The Enforcement Direc-
+tor and a contractor may confer at any 
+time concerning settlement. A settle-
+ment conference is not open to the pub-
+lic and DOE does not make a transcript 
+of the conference. 
+(b) Notwithstanding any other provi-
+sion of this part, the Enforcement Di-
+rector may resolve any issues in an 
+outstanding proceeding under this sub-
+part with a consent order. 
+(1) The Enforcement Director and the 
+contractor, or a duly authorized rep-
+resentative thereto, must sign the con-
+sent order and indicate agreement to 
+the terms contained therein. 
+(2) A contractor is not required to 
+admit in a consent order that a re-
+quirement of this part has been vio-
+lated. 
+(3) DOE is not required to make a 
+finding in a consent order that a con-
+tractor has violated a requirement of 
+this part. 
+(4) A consent order must set forth the 
+relevant facts that form the basis for 
+the order and what remedy, if any, is 
+imposed. 
+(5) A consent order shall constitute a 
+final order. 
+[71 FR 6931, Feb. 9, 2006, as amended at 88 FR 
+41294, June 26, 2023] 
+§ 851.42 Preliminary notice of viola-
+tion. 
+(a) Based on a determination by the 
+Enforcement Director that there is a 
+reasonable basis to believe a contractor 
+has violated or is continuing to violate 
+a requirement of this part, the Enforce-
+ment Director may issue a preliminary 
+notice of violation (PNOV) to the con-
+tractor. 
+(b) A PNOV must indicate: 
+(1) The date, facts, and nature of each 
+act or omission upon which each al-
+leged violation is based; 
+(2) The particular requirement in-
+volved in each alleged violation; 
+(3) The proposed remedy for each al-
+leged violation, including the amount 
+of any civil penalty; and 
+(4) The obligation of the contractor 
+to submit a written reply to the En-
+forcement Director within 30 calendar 
+days of receipt of the PNOV. 
+(c) A reply to a PNOV must contain 
+a statement of all relevant facts per-
+taining to an alleged violation. 
+(1) The reply must: 
+(i) State any facts, explanations and 
+arguments that support a denial of the 
+alleged violation; 
+(ii) Demonstrate any extenuating cir-
+cumstances or other reason why a pro-
+posed remedy should not be imposed or 
+should be mitigated; 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00613 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 20 ---
+604 
+10 CFR Ch. III (1–1–24 Edition) § 851.43 
+(iii) Discuss the relevant authorities 
+that support the position asserted, in-
+cluding rulings, regulations, interpre-
+tations, and previous decisions issued 
+by DOE; and 
+(iv) Furnish full and complete an-
+swers to any questions set forth in the 
+preliminary notice. 
+(2) Copies of all relevant documents 
+must be submitted with the reply. 
+(d) If a contractor fails to submit a 
+written reply within 30 calendar days 
+of receipt of a PNOV: 
+(1) The contractor relinquishes any 
+right to appeal any matter in the pre-
+liminary notice; and 
+(2) The preliminary notice, including 
+any proposed remedies therein, con-
+stitutes a final order. 
+(e) A copy of the PNOV must be 
+prominently posted, once final, at or 
+near the location where the violation 
+occurred until the violation is cor-
+rected. 
+[71 FR 6931, Feb. 9, 2006, as amended at 88 FR 
+41294, June 26, 2023] 
+§ 851.43 Final notice of violation. 
+(a) If a contractor submits a written 
+reply within 30 calendar days of receipt 
+of a preliminary notice of violation 
+(PNOV), that presents a disagreement 
+with any aspect of the PNOV and civil 
+penalty, the Enforcement Director 
+must review the submitted reply and 
+make a final determination whether 
+the contractor violated or is con-
+tinuing to violate a requirement of this 
+part. 
+(b) Based on a determination by the 
+Enforcement Director that a con-
+tractor has violated or is continuing to 
+violate a requirement of this part, the 
+Enforcement Director may issue to the 
+contractor a final notice of violation 
+that states concisely the determined 
+violation and any remedy, including 
+the amount of any civil penalty im-
+posed on the contractor. The final no-
+tice of violation must state that the 
+contractor may petition the Office of 
+Hearings and Appeals for review of the 
+final notice in accordance with 10 CFR 
+part 1003. 
+(c) If a contractor fails to submit a 
+petition for review to the Office of 
+Hearings and Appeals within 30 cal-
+endar days of receipt of a final notice 
+of violation pursuant to § 851.42: 
+(1) The contractor relinquishes any 
+right to appeal any matter in the final 
+notice; and 
+(2) The final notice, including any 
+remedies therein, constitutes a final 
+order. 
+[71 FR 6931, Feb. 9, 2006, as amended at 88 FR 
+41294, June 26, 2023] 
+§ 851.44 Administrative appeal. 
+(a) Any contractor that receives a 
+final notice of violation may petition 
+the Office of Hearings and Appeals for 
+review of the final notice in accordance 
+with 10 CFR part 1003, within 30 cal-
+endar days from receipt of the final no-
+tice. 
+(b) In order to exhaust administra-
+tive remedies with respect to a final 
+notice of violation, the contractor 
+must petition the Office of Hearings 
+and Appeals for review in accordance 
+with paragraph (a) of this section. 
+[71 FR 6931, Feb. 9, 2006, as amended at 88 FR 
+41294, June 26, 2023] 
+§ 851.45 Direction to NNSA contrac-
+tors. 
+(a) Notwithstanding any other provi-
+sion of this part, the NNSA Adminis-
+trator, rather than the Enforcement 
+Director, signs, issues and serves the 
+following actions that direct NNSA 
+contractors: 
+(1) Subpoenas; 
+(2) Orders to compel attendance; 
+(3) Disclosures of information or doc-
+uments obtained during an investiga-
+tion or inspection; 
+(4) Preliminary notices of violations; 
+and 
+(5) Final notices of violations. 
+(b) The NNSA Administrator shall 
+act after consideration of the Enforce-
+ment Director’s recommendation. 
+[71 FR 6931, Feb. 9, 2006, as amended at 88 FR 
+41294, June 26, 2023] 
+APPENDIX A TO PART 851—W ORKER 
+SAFETY AND HEALTH FUNCTIONAL AREAS 
+This appendix establishes the mandatory 
+requirements for implementing the applica-
+ble functional areas required by § 851.24. 
+1. CONSTRUCTION SAFETY 
+(a) For each separately definable construc-
+tion activity (e.g., excavations, foundations, 
+structural steel, roofing) the construction 
+contractor must: 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00614 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 21 ---
+605 
+Department of Energy Pt. 851, App. A 
+(1) Prepare and have approved by the con-
+struction manager an activity hazard anal-
+ysis prior to commencement of affected 
+work. Such analyses must: 
+(i) Identify foreseeable hazards and 
+planned protective measures; 
+(ii) Address further hazards revealed by 
+supplemental site information (e.g., site 
+characterization data, as-built drawings) 
+provided by the construction manager; 
+(iii) Provide drawings and/or other docu-
+mentation of protective measures for which 
+applicable Occupational Safety and Health 
+Administration (OSHA) standards require 
+preparation by a Professional Engineer or 
+other qualified professional, and 
+(iv) Identify competent persons required 
+for workplace inspections of the construc-
+tion activity, where required by OSHA 
+standards. 
+(2) Ensure workers are aware of foreseeable 
+hazards and the protective measures de-
+scribed within the activity analysis prior to 
+beginning work on the affected activity. 
+(3) Require that workers acknowledge 
+being informed of the hazards and protective 
+measures associated with assigned work ac-
+tivities. Those workers failing to utilize ap-
+propriate protective measures must be sub-
+ject to the construction contractor’s discipli-
+nary process. 
+(b) During periods of active construction 
+(i.e., excluding weekends, weather delays, or 
+other periods of work inactivity), the con-
+struction contractor must have a designated 
+representative on the construction worksite 
+who is knowledgeable of the project’s haz-
+ards and has full authority to act on behalf 
+of the construction contractor. The contrac-
+tor’s designated representative must make 
+frequent and regular inspections of the con-
+struction worksite to identify and correct 
+any instances of noncompliance with project 
+safety and health requirements. 
+(c) Workers must be instructed to report to 
+the construction contractor’s designated rep-
+resentative, hazards not previously identi-
+fied or evaluated. If immediate corrective ac-
+tion is not possible or the hazard falls out-
+side of project scope, the construction con-
+tractor must immediately notify affected 
+workers, post appropriate warning signs, im-
+plement needed interim control measures, 
+and notify the construction manager of the 
+action taken. The contractor or the des-
+ignated representative must stop work in the 
+affected area until appropriate protective 
+measures are established. 
+(d) The construction contractor must pre-
+pare a written construction project safety 
+and health plan to implement the require-
+ments of this section and obtain approval of 
+the plan by the construction manager prior 
+to commencement of any work covered by 
+the plan. In the plan, the contractor must 
+designate the individual(s) responsible for 
+on-site implementation of the plan, specify 
+qualifications for those individuals, and pro-
+vide a list of those project activities for 
+which subsequent hazard analyses are to be 
+performed. The level of detail within the 
+construction project safety and health plan 
+should be commensurate with the size, com-
+plexity and risk level of the construction 
+project. The content of this plan need not 
+duplicate those provisions that were pre-
+viously submitted and approved as required 
+by § 851.11. 
+2. FIRE PROTECTION 
+(a) Contractors must implement a com-
+prehensive fire safety and emergency re-
+sponse program to protect workers commen-
+surate with the nature of the work that is 
+performed. This includes appropriate facility 
+and site-wide fire protection, fire alarm noti-
+fication and egress features, and access to a 
+fully staffed, trained, and equipped emer-
+gency response organization that is capable 
+of responding in a timely and effective man-
+ner to site emergencies. 
+(b) An acceptable fire protection program 
+must include those fire protection criteria 
+and procedures, analyses, hardware and sys-
+tems, apparatus and equipment, and per-
+sonnel that would comprehensively ensure 
+that the objective in paragraph 2(a) of this 
+section is met. This includes meeting appli-
+cable building codes and National Fire Pro-
+tection Association codes and standards. 
+3. EXPLOSIVES SAFETY 
+(a) Contractors responsible for the use of 
+explosive materials must establish and im-
+plement a comprehensive explosives safety 
+program. 
+(b) Contractors must comply with the pol-
+icy and requirements specified in the appro-
+priate explosives safety technical standard. 
+(c) Contractors must determine the appli-
+cability of the explosives safety directive re-
+quirements to research and development lab-
+oratory type operations consistent with the 
+DOE level of protection criteria described in 
+the explosives safety directive. 
+4. PRESSURE SAFETY 
+(a) Contractors must establish safety poli-
+cies and procedures to ensure that pressure 
+systems are designed, fabricated, tested, in-
+spected, maintained, repaired, and operated 
+by trained and qualified personnel in accord-
+ance with applicable and sound engineering 
+principles. 
+(b) Contractors must ensure that all pres-
+sure vessels, boilers, air receivers, and sup-
+porting piping systems conform to: 
+(1) The applicable American Society of Me-
+chanical Engineers (ASME) boilers and pres-
+sure vessel codes (BPVC), including applica-
+ble code cases as indicated in paragraphs 
+(b)(1)(i) through (xxxii) of this section: 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00615 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 22 ---
+606 
+10 CFR Ch. III (1–1–24 Edition) Pt. 851, App. A 
+(i) BPVC.I–2015, Section I—Rules for Con-
+struction of Power Boilers (incorporated by 
+reference, see § 851.27); 
+(ii) BPVC.II.A–2015, Section II-Materials, 
+Part A—Ferrous Material Specifications (Begin-
+ning to SA–450) (incorporated by reference, 
+see § 851.27); 
+(iii) BPVC.II.A–2015, Section II—Materials, 
+Part A—Ferrous Material Specifications (SA–451 
+to End) (incorporated by reference, see 
+§ 851.27); 
+(iv) BPVC.II.B–2015, Section II—Materials, 
+Part B—Nonferrous Material Specifications (in-
+corporated by reference, see § 851.27); 
+(v) BPVC.II.C–2015, Section II—Materials, 
+Part C-Specification for Welding Rods; Elec-
+trodes, and Filler Metals (incorporated by ref-
+erence, see § 851.27); 
+(vi) BPVC.II.D.C–2015, Section II—Materials, 
+Part D—Properties (Customary) (incorporated 
+by reference, see § 851.27); 
+(vii) BPVC.II.D.M–2015, Section II—Mate-
+rials, Part D—Properties (Metric) (incorporated 
+by reference, see § 851.27); 
+(viii) BPVC.III.A–2015, Section III—Rules for 
+Construction of Nuclear Facility Components, 
+Appendices (incorporated by reference, see 
+§ 851.27); 
+(ix) BPVC.III.1.NB–2015, Section III—Rules 
+for Construction of Nuclear Facility Compo-
+nents, Division I—Subsection NB, Class 1 Com-
+ponents (incorporated by reference, see 
+§ 851.27); 
+(x) BPVC.III.1.NC–2015, Section III—Rules 
+for Construction of Nuclear Facility Compo-
+nents, Division I—Subsection NC, Class 2 Com-
+ponents (incorporated by reference, see 
+§ 851.27); 
+(xi) BPVC.III.1.ND–2015, Section III—Rules 
+for Construction of Nuclear Facility Compo-
+nents, Division I—Subsection ND, Class 3 Com-
+ponents (incorporated by reference, see 
+§ 851.27); 
+(xii) BPVC.III.1.NE–2015, Section III—Rules 
+for Construction of Nuclear Facility Compo-
+nents, Division I—Subsection NE, Class MC 
+Components (incorporated by reference, see 
+§ 851.27); 
+(xiii) BPVC.III.1.NF–2015, Section III—Rules 
+for Construction of Nuclear Facility Compo-
+nents, Division I—Subsection NF, Supports (in-
+corporated by reference, see § 851.27); 
+(xiv) BPVC.III.1.NG–2015, Section III—Rules 
+for Construction of Nuclear Facility Compo-
+nents, Division I—Subsection NG, Core Support 
+Structures (incorporated by reference, see 
+§ 851.27); 
+(xv) BPVC.III.1.NH–2015, Section III—Rules 
+for Construction of Nuclear Facility Compo-
+nents, Division I—Subsection NH, Class 1 Com-
+ponents in Elevated Temperature Service (incor-
+porated by reference, see § 851.27); 
+(xvi) BPVC.III.NCA–2015, Section III—Rules 
+for Construction of Nuclear Facility; Compo-
+nents, Subsection NCA, General Requirements 
+for Division 1 and Division 2 (incorporated by 
+reference, see § 851.27); 
+(xvii) BPVC.III.2–2015, Section III—Rules for 
+Construction of Nuclear Facility Components, 
+Division 2, Code for Concrete Containments (in-
+corporated by reference, see § 851.27); 
+(xviii) BPVC.III.3–2015, Section III—Rules 
+for Construction of Nuclear Facility Compo-
+nents, Division 3, Containment for Transpor-
+tation and Storage of Spent Nuclear Fuel and 
+High Level Radioactive Material and Waste (in-
+corporated by reference, see § 851.27); 
+(xix) BPVC.III.5–2015, Section III—Rules for 
+Construction of Nuclear Facility Components, 
+Division 5, High Temperature Reactors (incor-
+porated by reference, see § 851.27); 
+(xx) BPVC.IV–2015, Section IV, Rules for 
+Construction of Heating Boilers (incorporated 
+by reference, see § 851.27); 
+(xxi) BPVC.V–2015, Section V, Nondestructive 
+Examination (incorporated by reference, see 
+§ 851.27); 
+(xxii) BPVC.VI–2015, Section VI, Rec-
+ommended Rules for the Care and Operation of 
+Heating Boilers (incorporated by reference, 
+see § 851.27); 
+(xxiii) BPVC.VII–2015, Section VII, Rec-
+ommended Guidelines for the Care of Power 
+Boilers (incorporated by reference, see 
+§ 851.27); 
+(xxiv) BPVC.VIII.1–2015, Section VIII—Rules 
+for Construction of Pressure Vessels, Division 1 
+(incorporated by reference, see § 851.27); 
+(xxv) BPVC.VIII.2–2015, Section VIII—Rules 
+for Construction of Pressure Vessels, Division 2, 
+Alternative Rules (incorporated by reference, 
+see § 851.27); 
+(xxvi) BPVC.VIII.3–2015, Section VIII—Rules 
+for Construction of Pressure Vessels, Division 3, 
+Alternative Rules for Construction of High Pres-
+sure Vessels (incorporated by reference, see 
+§ 851.27); 
+(xxvii) BPVC.IX–2015, Section IX—Welding, 
+Brazing and Fusing Qualifications, Qualifica-
+tion Standard for Welding, Brazing, and Fusing 
+Procedures; Welders; Brazers; and Welding, 
+Brazing, and Fusing Operators (incorporated 
+by reference, see § 851.27); 
+(xxviii) BPVC.X–2015, Section X, Fiber—Re-
+inforced Plastic Pressure Vessels (incorporated 
+by reference, see § 851.27); 
+(xxix) BPVC.XI–2015, Section XI, Rules for 
+Inservice Inspection of Nuclear Power Plant 
+Components (incorporated by reference, see 
+§ 851.27); 
+(xxx) BPVC.XII–2015, Section XII, Rules for 
+Construction and Continued Service of Trans-
+port Tanks (incorporated by reference, see 
+§ 851.27); 
+(xxxi) BPVC.CC.BPV–2015, Code Cases, Boil-
+ers and Pressure Vessels (incorporated by ref-
+erence, see § 851.27); and 
+(xxxii) BPVC.CC.NC–2015, Code Cases, Nu-
+clear Components (incorporated by reference, 
+see § 851.27). 
+(2) The applicable ASME B31 code for pres-
+sure piping as indicated in this paragraph; 
+and or as indicated in paragraph (b)(3) of this 
+section: 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00616 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 23 ---
+607 
+Department of Energy Pt. 851, App. A 
+(i) B31.1–2016, Power Piping (incorporated 
+by reference, see § 851.27); 
+(ii) B31.3–2014, Process Piping (incorporated 
+by reference, see § 851.27); 
+(iii) B31.4–2016, Pipeline Transportation Sys-
+tems for Liquids and Slurries (incorporated by 
+reference, see § 851.27); 
+(iv) B31.5–2016, Refrigeration Piping and Heat 
+Transfer Components (incorporated by ref-
+erence, see § 851.27); 
+(v) B31.8–2016, Gas Transmission and Dis-
+tribution Piping Systems (incorporated by ref-
+erence, see § 851.27); 
+(vi) B31.8S–2014, Managing System Integrity 
+of Gas Pipeline s (incorporated by reference, 
+see § 851.27); 
+(vii) B31.9–2014, Building Services Piping (in-
+corporated by reference, see § 851.27); and 
+(viii) B31G–2012, Manual for Determining the 
+Remaining Strength of Corroded Pipelines (in-
+corporated by reference, see § 851.27). 
+(3) The strictest applicable state and local 
+codes. 
+(c) When national consensus codes are not 
+applicable (because of pressure range, vessel 
+geometry, use of special materials, etc.), 
+contractors must implement measures to 
+provide equivalent protection and ensure a 
+level of safety greater than or equal to the 
+level of protection afforded by the ASME or 
+applicable state or local code. Measures 
+must include the following: 
+(1) Design drawings, sketches, and calcula-
+tions must be reviewed and approved by a 
+qualified independent design professional 
+(i.e., professional engineer). Documented or-
+ganizational peer review is acceptable. 
+(2) Qualified personnel must be used to per-
+form examinations and inspections of mate-
+rials, in-process fabrications, non-destruc-
+tive tests, and acceptance test. 
+(3) Documentation, traceability, and ac-
+countability must be maintained for each 
+unique pressure vessel or system, including 
+descriptions of design, pressure conditions, 
+testing, inspection, operation, repair, and 
+maintenance. 
+5. FIREARMS SAFETY 
+(a) A contractor engaged in DOE activities 
+involving the use of firearms must establish 
+firearms safety policies and procedures for 
+security operations, and training to ensure 
+proper accident prevention controls are in 
+place. 
+(1) Written procedures must address fire-
+arms safety, engineering and administrative 
+controls, as well as personal protective 
+equipment requirements. 
+(2) As a minimum, procedures must be es-
+tablished for: 
+(i) Storage, handling, cleaning, inventory, 
+and maintenance of firearms and associated 
+ammunition; 
+(ii) Activities such as loading, unloading, 
+and exchanging firearms. These procedures 
+must address use of bullet containment de-
+vices and those techniques to be used when 
+no bullet containment device is available; 
+(iii) Use and storage of pyrotechnics, ex-
+plosives, and/or explosive projectiles; 
+(iv) Handling misfires, duds, and unauthor-
+ized discharges; 
+(v) Live fire training, qualification, and 
+evaluation activities; 
+(vi) Training and exercises using engage-
+ment simulation systems; 
+(vii) Medical response at firearms training 
+facilities; and 
+(viii) Use of firing ranges by personnel 
+other than DOE or DOE contractor protec-
+tive forces personnel. 
+(b) Contractors must ensure that personnel 
+responsible for the direction and operation of 
+the firearms safety program are profes-
+sionally qualified and have sufficient time 
+and authority to implement the procedures 
+under this section. 
+(c) Contractors must ensure that firearms 
+instructors and armorers have been certified 
+by the Safeguards and Security National 
+Training Center to conduct the level of ac-
+tivity provided. Personnel must not be al-
+lowed to conduct activities for which they 
+have not been certified. 
+(d) Contractors must conduct formal ap-
+praisals assessing implementation of proce-
+dures, personnel responsibilities, and duty 
+assignments to ensure overall policy objec-
+tives and performance criteria are being met 
+by qualified personnel. 
+(e) Contractors must implement proce-
+dures related to firearms training, live fire 
+range safety, qualification, and evaluation 
+activities, including procedures requiring 
+that: 
+(1) Personnel must successfully complete 
+initial firearms safety training before being 
+issued any firearms. Authorization to remain 
+in armed status will continue only if the em-
+ployee demonstrates the technical and prac-
+tical knowledge of firearms safety semi-an-
+nually; 
+(2) Authorized armed personnel must dem-
+onstrate through documented limited scope 
+performance tests both technical and prac-
+tical knowledge of firearms handling and 
+safety on a semi-annual basis; 
+(3) All firearms training lesson plans must 
+incorporate safety for all aspects of firearms 
+training task performance standards. The 
+lesson plans must follow the standards set 
+forth by the Safeguards and Security Central 
+Training Academy’s standard training pro-
+grams; 
+(4) Firearms safety briefings must imme-
+diately precede training, qualifications, and 
+evaluation activities involving live fire and/ 
+or engagement simulation systems; 
+(5) A safety analysis approved by the Head 
+of DOE Field Element must be developed for 
+the facilities and operation of each live fire 
+range prior to implementation of any new 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00617 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 24 ---
+608 
+10 CFR Ch. III (1–1–24 Edition) Pt. 851, App. A 
+training, qualification, or evaluation activ-
+ity. Results of these analyses must be incor-
+porated into procedures, lesson plans, exer-
+cise plans, and limited scope performance 
+tests; 
+(6) Firing range safety procedures must be 
+conspicuously posted at all range facilities; 
+and 
+(7) Live fire ranges, approved by the Head 
+of DOE Field Element, must be properly 
+sited to protect personnel on the range, as 
+well as personnel and property not associ-
+ated with the range. 
+(f) Contractors must ensure that the trans-
+portation, handling, placarding, and storage 
+of munitions conform to the applicable DOE 
+requirements. 
+6. INDUSTRIAL HYGIENE 
+Contractors must implement a comprehen-
+sive industrial hygiene program that in-
+cludes at least the following elements: 
+(a) Initial or baseline surveys and periodic 
+resurveys and/or exposure monitoring as ap-
+propriate of all work areas or operations to 
+identify and evaluate potential worker 
+health risks; 
+(b) Coordination with planning and design 
+personnel to anticipate and control health 
+hazards that proposed facilities and oper-
+ations would introduce; 
+(c) Coordination with cognizant occupa-
+tional medical, environmental, health phys-
+ics, and work planning professionals; 
+(d) Policies and procedures to mitigate the 
+risk from identified and potential occupa-
+tional carcinogens; 
+(e) Professionally and technically qualified 
+industrial hygienists to manage and imple-
+ment the industrial hygiene program; and 
+(f) Use of respiratory protection equipment 
+tested under the DOE Respirator Acceptance 
+Program for Supplied-Air Suits when the Na-
+tional Institute for Occupational Safety and 
+Health-approved respiratory protection does 
+not exist for DOE tasks that require such 
+equipment. For security operations military 
+type masks for respiratory protection by se-
+curity personnel is acceptable. 
+7. BIOLOGICAL SAFETY 
+(a) Contractors must establish and imple-
+ment a biological safety program that: 
+(1) Establishes an Institutional Biosafety 
+Committee (IBC) or equivalent. The IBC 
+must: 
+(i) Review any work with biological etio-
+logic agents for compliance with applicable 
+Centers for Disease Control and Prevention 
+(CDC), National Institutes of Health (NIH), 
+World Health Organization (WHO), United 
+States Department of Agriculture Animal 
+and Plant Health Inspection Service (USDA/ 
+APHIS), and other international, Federal, 
+State, and local guidelines and assess the 
+containment level, facilities, procedures, 
+practices, and training and expertise of per-
+sonnel; and 
+(ii) Review the site’s security, safeguards, 
+and emergency management plans and pro-
+cedures to ensure they adequately consider 
+work involving biological etiologic agents. 
+(2) Maintains an inventory and status of 
+biological etiologic agents, and provide to 
+the responsible field and area office, through 
+the laboratory IBC (or its equivalent), an an-
+nual status report describing the status and 
+inventory of biological etiologic agents and 
+the biological safety program. 
+(3) Provides for submission to the appro-
+priate Head of DOE Field Element, for re-
+view and concurrence before transmittal to 
+the Federal Select Agent Program, each Lab-
+oratory Registration/Select Agent Program 
+registration application package (APHIS/ 
+CDC Form 1, Application for Registration for 
+Possession, Use, and Transfer of Select 
+Agents and Toxins) requesting registration 
+of (or amendment to a previously approved 
+registration) a laboratory facility for the 
+purpose of possessing, using, or transferring 
+biological select agents and/or toxins. 
+(4) Provides for submission to the appro-
+priate Head of DOE Field Element, a copy of 
+each APHIS/CDC Form 2, Request to Trans-
+fer Select Agents and Toxins, upon initial 
+submission of APHIS/CDC Form 2 to a ven-
+dor or other supplier requesting or ordering 
+a biological select agent or toxin for trans-
+fer, receipt, and handling in the registered 
+facility; and submission to the appropriate 
+Head of DOE Field Element the completed 
+copy of the APHIS/CDC Form 2, documenting 
+final disposition and/or destruction of the se-
+lect agent or toxin, within 10 days of comple-
+tion of the APHIS/CDC Form 2. 
+(5) Confirms that the site safeguards and 
+security plans and emergency management 
+programs address biological etiologic agents, 
+with particular emphasis on biological select 
+agents. 
+(6) Establishes an immunization policy for 
+personnel working with biological etiologic 
+agents based on the evaluation of risk and 
+benefit of immunization. 
+(b) [Reserved] 
+8. OCCUPATIONAL MEDICINE 
+(a) Contractors must establish and provide 
+comprehensive occupational medicine serv-
+ices to workers employed at a covered work 
+place who: 
+(1) Work on a DOE site for more than 30 
+days in a 12-month period; or 
+(2) Are enrolled for any length of time in a 
+medical or exposure monitoring program re-
+quired by this rule and/or any other applica-
+ble Federal, State or local regulation, or 
+other obligation. 
+(b) The occupational medicine services 
+must be under the direction of a graduate of 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00618 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 25 ---
+609 
+Department of Energy Pt. 851, App. A 
+a school of medicine or osteopathy who is li-
+censed for the practice of medicine in the 
+state in which the site is located. 
+(c) Occupational medical physicians, occu-
+pational health nurses, physician’s assist-
+ants, nurse practitioners, psychologists, em-
+ployee assistance counselors, and other occu-
+pational health personnel providing occupa-
+tional medicine services must be licensed, 
+registered, or certified as required by Fed-
+eral or State law where employed. 
+(d) Contractors must provide the occupa-
+tional medicine providers access to hazard 
+information by promoting its communica-
+tion, coordination, and sharing among oper-
+ating and environment, safety, and health 
+protection organizations. 
+(1) Contractors must provide the occupa-
+tional medicine providers with access to in-
+formation on the following: 
+(i) Current information about actual or po-
+tential work-related site hazards (chemical, 
+radiological, physical, biological, or ergo-
+nomic); 
+(ii) Employee job-task and hazard analysis 
+information, including essential job func-
+tions; 
+(iii) Actual or potential work-site expo-
+sures of each employee; and 
+(iv) Personnel actions resulting in a 
+change of job functions, hazards or expo-
+sures. 
+(2) Contractors must notify the occupa-
+tional medicine providers when an employee 
+has been absent because of an injury or ill-
+ness for more than 5 consecutive workdays 
+(or an equivalent time period for those indi-
+viduals on an alternative work schedule); 
+(3) Contractors must provide the occupa-
+tional medicine provider information on, and 
+the opportunity to participate in, worker 
+safety and health team meetings and com-
+mittees; 
+(4) Contractors must provide occupational 
+medicine providers access to the workplace 
+for evaluation of job conditions and issues 
+relating to workers’ health. 
+(e) A designated occupational medicine 
+provider must: 
+(1) Plan and implement the occupation 
+medicine services; and 
+(2) Participate in worker protection teams 
+to build and maintain necessary partnerships 
+among workers, their representatives, man-
+agers, and safety and health protection spe-
+cialists in establishing and maintaining a 
+safe and healthful workplace. 
+(f) A record, containing any medical, 
+health history, exposure history, and demo-
+graphic data collected for the occupational 
+medicine purposes, must be developed and 
+maintained for each employee for whom 
+medical services are provided. All occupa-
+tional medical records must be maintained 
+in accordance with Executive Order 13335, In-
+centives for the Use of Health Information 
+Technology. 
+(1) Employee medical, psychological, and 
+employee assistance program (EAP) records 
+must be kept confidential, protected from 
+unauthorized access, and stored under condi-
+tions that ensure their long-term preserva-
+tion. Psychological records must be main-
+tained separately from medical records and 
+in the custody the designated psychologist in 
+accordance with 10 CFR 712.38(b)(2). 
+(2) Access to these records must be pro-
+vided in accordance with DOE regulations 
+implementing the Privacy Act and the En-
+ergy Employees Occupational Illness Com-
+pensation Program Act. 
+(g) The occupational medicine services pro-
+vider must determine the content of the 
+worker health evaluations, which must be 
+conducted under the direction of a licensed 
+physician, in accordance with current sound 
+and acceptable medical practices and all per-
+tinent statutory and regulatory require-
+ments, such as the Americans with Disabil-
+ities Act. 
+(1) Workers must be informed of the pur-
+pose and nature of the medical evaluations 
+and tests offered by the occupational medi-
+cine provider. 
+(i) The purpose, nature and results of eval-
+uations and tests must be clearly commu-
+nicated verbally and in writing to each 
+worker provided testing; 
+(ii) The communication must be docu-
+mented in the worker’s medical record; and 
+(2) The following health evaluations must 
+be conducted when determined necessary by 
+the occupational medicine provider for the 
+purpose of providing initial and continuing 
+assessment of employee fitness for duty. 
+(i) At the time of employment entrance or 
+transfer to a job with new functions and haz-
+ards, a medical placement evaluation of the 
+individual’s general health and physical and 
+psychological capacity to perform work will 
+establish a baseline record of physical condi-
+tion and assure fitness for duty. 
+(ii) Periodic, hazard-based medical moni-
+toring or qualification-based fitness for duty 
+evaluations required by regulations and 
+standards, or as recommended by the occupa-
+tional medicine services provider, will be 
+provided on the frequency required. 
+(iii) Diagnostic examinations will evaluate 
+employee’s injuries and illnesses to deter-
+mine work-relatedness, the applicability of 
+medical restrictions, and referral for defini-
+tive care, as appropriate. 
+(iv) After a work-related injury or illness 
+or an absence due to any injury or illness 
+lasting 5 or more consecutive workdays (or 
+an equivalent time period for those individ-
+uals on an alternative work schedule), a re-
+turn to work evaluation will determine the 
+individual’s physical and psychological ca-
+pacity to perform work and return to duty. 
+(v) At the time of separation from employ-
+ment, individuals shall be offered a general 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00619 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 26 ---
+610 
+10 CFR Ch. III (1–1–24 Edition) Pt. 851, App. A 
+health evaluation to establish a record of 
+physical condition. 
+(h) The occupational medicine provider 
+must monitor ill and injured workers to fa-
+cilitate their rehabilitation and safe return 
+to work and to minimize lost time and its as-
+sociated costs. 
+(1) The occupational medicine provider 
+must place an individual under medical re-
+strictions when health evaluations indicate 
+that the worker should not perform certain 
+job tasks. The occupational medicine pro-
+vider must notify the worker and contractor 
+management when employee work restric-
+tions are imposed or removed. 
+(i) Occupational medicine provider physi-
+cian and medical staff must, on a timely 
+basis, communicate results of health evalua-
+tions to management and safety and health 
+protection specialists to facilitate the miti-
+gation of worksite hazards. 
+(j) The occupational medicine provider 
+must include measures to identify and man-
+age the principal preventable causes of pre-
+mature morbidity and mortality affecting 
+worker health and productivity. 
+(1) The contractor must include programs 
+to prevent and manage these causes of mor-
+bidity when evaluations demonstrate their 
+cost effectiveness. 
+(2) Contractors must make available to the 
+occupational medicine provider appropriate 
+access to information from health, dis-
+ability, and other insurance plans (de-identi-
+fied as necessary) in order to facilitate this 
+process. 
+(k) The occupational medicine services 
+provider must review and approve the med-
+ical and behavioral aspects of employee 
+counseling and health promotional pro-
+grams, including the following types: 
+(1) Contractor-sponsored or contractor-sup-
+ported EAPs; 
+(2) Contractor-sponsored or contractor-sup-
+ported alcohol and other substance abuse re-
+habilitation programs; and 
+(3) Contractor-sponsored or contractor-sup-
+ported wellness programs. 
+(4) The occupational medicine services pro-
+vider must review the medical aspects of im-
+munization programs, blood-borne pathogens 
+programs, and bio-hazardous waste programs 
+to evaluate their conformance to applicable 
+guidelines. 
+(5) The occupational medicine services pro-
+vider must develop and periodically review 
+medical emergency response procedures in-
+cluded in site emergency and disaster pre-
+paredness plans. The medical emergency re-
+sponses must be integrated with nearby com-
+munity emergency and disaster plans. 
+9. MOTOR VEHICLE SAFETY 
+(a) Contractors must implement a motor 
+vehicle safety program to protect the safety 
+and health of all drivers and passengers in 
+Government-owned or -leased motor vehicles 
+and powered industrial equipment ( i.e., fork 
+trucks, tractors, platform lift trucks, and 
+other similar specialized equipment powered 
+by an electric motor or an internal combus-
+tion engine). 
+(b) The contractor must tailor the motor 
+vehicle safety program to the individual 
+DOE site or facility, based on an analysis of 
+the needs of that particular site or facility. 
+(c) The motor vehicle safety program must 
+address, as applicable to the contractor’s op-
+erations: 
+(1) Minimum licensing requirements (in-
+cluding appropriate testing and medical 
+qualification) for personnel operating motor 
+vehicles and powered industrial equipment; 
+(2) Requirements for the use of seat belts 
+and provision of other safety devices; 
+(3) Training for specialty vehicle opera-
+tors; 
+(4) Requirements for motor vehicle mainte-
+nance and inspection; 
+(5) Uniform traffic and pedestrian control 
+devices and road signs; 
+(6) On-site speed limits and other traffic 
+rules; 
+(7) Awareness campaigns and incentive 
+programs to encourage safe driving; and 
+(8) Enforcement provisions. 
+10. ELECTRICAL SAFETY 
+Contractors must implement a comprehen-
+sive electrical safety program appropriate 
+for the activities at their site. This program 
+must meet the applicable electrical safety 
+codes and standards referenced in § 851.23. 
+11. NANOTECHNOLOGY SAFETY—R ESERVED 
+The Department has chosen to reserve this 
+section since policy and procedures for nano-
+technology safety are currently being devel-
+oped. Once these policies and procedures 
+have been approved, the rule will be amended 
+to include them through a rulemaking con-
+sistent with the Administrative Procedure 
+Act. 
+12. WORKPLACE VIOLENCE PREVENTION— 
+RESERVED 
+The Department has chosen to reserve this 
+section since the policy and procedures for 
+workplace violence prevention are currently 
+being developed. Once these policies and pro-
+cedures have been approved, the rule will be 
+amended to include them through a rule-
+making consistent with the Administrative 
+Procedure Act. 
+[71 FR 6931, Feb. 9, 2006; 71 FR 36661, June 28, 
+2006; 80 FR 69566, Nov. 10, 2015; 82 FR 59956, 
+Dec. 18, 2017] 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00620 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 27 ---
+611 
+Department of Energy Pt. 851, App. B 
+APPENDIX B TO PART 851—G ENERAL 
+STATEMENT OF ENFORCEMENT POLICY 
+I. INTRODUCTION 
+(a) This policy statement sets forth the 
+general framework through which the U.S. 
+Department of Energy (DOE) will seek to en-
+sure compliance with its worker safety and 
+health regulations, and, in particular, exer-
+cise the civil penalty authority provided to 
+DOE in section 3173 of Public Law 107–314, 
+Bob Stump National Defense Authorization 
+Act for Fiscal Year 2003 (December 2, 2002) 
+(‘‘NDAA’’), amending the Atomic Energy Act 
+(AEA) to add section 234C. The policy set 
+forth herein is applicable to violations of 
+safety and health regulations in this part by 
+DOE contractors, including DOE contractors 
+who are indemnified under the Price-Ander-
+son Act, 42 U.S.C. 2210(d), and their sub-
+contractors and suppliers (hereafter collec-
+tively referred to as DOE contractors). This 
+policy statement is not a regulation and is 
+intended only to provide general guidance to 
+those persons subject to the regulations in 
+this part. It is not intended to establish a 
+‘‘cookbook’’ approach to the initiation and 
+resolution of situations involving non-
+compliance with the regulations in this part. 
+Rather, DOE intends to consider the par-
+ticular facts of each noncompliance in deter-
+mining whether enforcement sanctions are 
+appropriate and, if so, the appropriate mag-
+nitude of those sanctions. DOE may well de-
+viate from this policy statement when appro-
+priate in the circumstances of particular 
+cases. This policy statement is not applica-
+ble to activities and facilities covered under 
+E.O. 12344, 42 U.S.C. 7158 note, pertaining to 
+Naval Nuclear Propulsion, or otherwise ex-
+cluded from the scope of the rule. 
+(b) The DOE goal in the compliance arena 
+is to enhance and protect the safety and 
+health of workers at DOE facilities by fos-
+tering a culture among both the DOE line or-
+ganizations and the contractors that ac-
+tively seeks to attain and sustain compli-
+ance with the regulations in this part. The 
+enforcement program and policy have been 
+developed with the express purpose of 
+achieving safety inquisitiveness and vol-
+untary compliance. DOE will establish effec-
+tive administrative processes and positive 
+incentives to the contractors for the open 
+and prompt identification and reporting of 
+noncompliances, performance of effective 
+root cause analysis, and initiation of com-
+prehensive corrective actions to resolve both 
+noncompliance conditions and program or 
+process deficiencies that led to noncompli-
+ance. 
+(c) In the development of the DOE enforce-
+ment policy, DOE recognizes that the rea-
+sonable exercise of its enforcement author-
+ity can help to reduce the likelihood of seri-
+ous incidents. This can be accomplished by 
+placing greater emphasis on a culture of 
+safety in existing DOE operations, and 
+strong incentives for contractors to identify 
+and correct noncompliance conditions and 
+processes in order to protect human health 
+and the environment. DOE wants to facili-
+tate, encourage, and support contractor ini-
+tiatives for the prompt identification and 
+correction of noncompliances. DOE will give 
+due consideration to such initiatives and ac-
+tivities in exercising its enforcement discre-
+tion. 
+(d) DOE may modify or remit civil pen-
+alties in a manner consistent with the ad-
+justment factors set forth in this policy with 
+or without conditions. DOE will carefully 
+consider the facts of each case of noncompli-
+ance and will exercise appropriate discretion 
+in taking any enforcement action. Part of 
+the function of a sound enforcement program 
+is to assure a proper and continuing level of 
+safety vigilance. The reasonable exercise of 
+enforcement authority will be facilitated by 
+the appropriate application of safety require-
+ments to DOE facilities and by promoting 
+and coordinating the proper contractor and 
+DOE safety compliance attitude toward 
+those requirements. 
+II. PURPOSE 
+The purpose of the DOE enforcement pro-
+gram is to promote and protect the safety 
+and health of workers at DOE facilities by: 
+(a) Ensuring compliance by DOE contrac-
+tors with the regulations in this part. 
+(b) Providing positive incentives for DOE 
+contractors based on: 
+(1) Timely self-identification of worker 
+safety noncompliances; 
+(2) Prompt and complete reporting of such 
+noncompliances to DOE; 
+(3) Prompt correction of safety noncompli-
+ances in a manner that precludes recurrence; 
+and 
+(4) Identification of modifications in prac-
+tices or facilities that can improve worker 
+safety and health. 
+(c) Deterring future violations of DOE re-
+quirements by a DOE contractor. 
+(d) Encouraging the continuous overall im-
+provement of operations at DOE facilities. 
+III. STATUTORY AUTHORITY 
+The Department of Energy Organization 
+Act, 42 U.S.C. 7101–7385o, the Energy Reorga-
+nization Act of 1974 (ERA), 42 U.S.C. 5801– 
+5911, and the Atomic Energy Act of 1954, as 
+amended, (AEA) 42 U.S.C. 2011, require DOE 
+to protect the public safety and health, as 
+well as the safety and health of workers at 
+DOE facilities, in conducting its activities, 
+and grant DOE broad authority to achieve 
+this goal. Section 234C of the AEA makes 
+DOE contractors (and their subcontractors 
+and suppliers thereto) covered by the DOE 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00621 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 28 ---
+612 
+10 CFR Ch. III (1–1–24 Edition) Pt. 851, App. B 
+Price-Anderson indemnification system, sub-
+ject to civil penalties for violations of the 
+worker safety and health requirements pro-
+mulgated in this part. 42 U.S.C. 2282c. 
+IV. RESPONSIBILITIES 
+(a) The Enforcement Director, as the prin-
+cipal enforcement officer of the DOE, has 
+been delegated the authority to: 
+(1) Conduct enforcement inspections, in-
+vestigations, and conferences; 
+(2) Issue Notices of Violations and proposed 
+civil penalties, Enforcement Letters, Con-
+sent Orders, and subpoenas; and 
+(3) Issue orders to compel attendance and 
+disclosure of information or documents ob-
+tained during an investigation or inspection. 
+The Secretary issues Compliance Orders. 
+(b) The NNSA Administrator, rather than 
+the Enforcement Director, signs, issues and 
+serves the following actions that direct 
+NNSA contractors: 
+(1) Subpoenas; 
+(2) Orders to compel attendance; and 
+(3) Determines to disclose information or 
+documents obtained during an investigation 
+or inspection, PNOVs, Notices of Violations, 
+and Final Notices of Violations. The NNSA 
+Administrator acts after consideration of the 
+Enforcement Director’s recommendation. 
+V. PROCEDURAL FRAMEWORK 
+(a) Title 10 CFR part 851 sets forth the pro-
+cedures DOE will use in exercising its en-
+forcement authority, including the issuance 
+of Notices of Violation and the resolution of 
+an administrative appeal in the event a DOE 
+contractor elects to petition the Office of 
+Hearings and Appeals for review. 
+(b) Pursuant to 10 CFR part 851 subpart E, 
+the Enforcement Director initiates the en-
+forcement process by initiating and con-
+ducting investigations and inspections and 
+issuing a Preliminary Notice of Violation 
+(PNOV) with or without a proposed civil pen-
+alty. The DOE contractor is required to re-
+spond in writing to the PNOV within 30 days, 
+either: (1) Admitting the violation and 
+waiving its right to contest the proposed 
+civil penalty and paying it; (2) admitting the 
+violation but asserting the existence of miti-
+gating circumstances that warrant either 
+the total or partial remission of the civil 
+penalty; or (3) denying that the violation has 
+occurred and providing the basis for its belief 
+that the PNOV is incorrect. After evaluation 
+of the DOE contractor’s response, the En-
+forcement Director may determine: (1) That 
+no violation has occurred; (2) that the viola-
+tion occurred as alleged in the PNOV but 
+that the proposed civil penalty should be re-
+mitted in whole or in part; or (3) that the 
+violation occurred as alleged in the PNOV 
+and that the proposed civil penalty is appro-
+priate, notwithstanding the asserted miti-
+gating circumstances. In the latter two in-
+stances, the Enforcement Director will issue 
+a Final Notice of Violation (FNOV) or an 
+FNOV and proposed civil penalty. 
+(c) An opportunity to challenge an FNOV 
+is provided in administrative appeal provi-
+sions. See 10 CFR 851.44. Any contractor that 
+receives an FNOV may petition the Office of 
+Hearings and Appeals for review of the final 
+notice in accordance with 10 CFR part 1003, 
+within 30 calendar days from receipt of the 
+final notice. An administrative appeal pro-
+ceeding is not initiated until the DOE con-
+tractor against which an FNOV has been 
+issued requests an administrative hearing 
+rather than waiving its right to contest the 
+FNOV and proposed civil penalty, if any, and 
+paying the civil penalty. However, it should 
+be emphasized that DOE encourages the vol-
+untary resolution of a noncompliance situa-
+tion at any time, either informally prior to 
+the initiation of the enforcement process or 
+by consent order before or after any formal 
+proceeding has begun. 
+VI. SEVERITY OF VIOLATIONS 
+(a) Violations of the worker safety and 
+health requirements in this part have vary-
+ing degrees of safety and health significance. 
+Therefore, the relative safety and health risk 
+of each violation must be identified as the 
+first step in the enforcement process. Viola-
+tions of the worker safety and health re-
+quirements are categorized in two levels of 
+severity to identify their relative serious-
+ness. Notices of Violation issued for non-
+compliance when appropriate, propose civil 
+penalties commensurate with the severity 
+level of the violations involved. 
+(b) To assess the potential safety and 
+health impact of a particular violation, DOE 
+will categorize the potential severity of vio-
+lations of worker safety and health require-
+ments as follows: 
+(1) A Severity Level I violation is a serious 
+violation. A serious violation shall be 
+deemed to exist in a place of employment if 
+there is a potential that death or serious 
+physical harm could result from a condition 
+which exists, or from one or more practices, 
+means, methods, operations, or processes 
+which have been adopted or are in use, in 
+such place of employment. A Severity Level 
+I violation would be subject to a base civil 
+penalty of up to 100% of the maximum base 
+civil penalty of $115,061. 
+(2) A Severity Level II violation is an 
+other-than-serious violation. An other-than- 
+serious violation occurs where the most seri-
+ous injury or illness that would potentially 
+result from a hazardous condition cannot 
+reasonably be predicted to cause death or se-
+rious physical harm to employees but does 
+have a direct relationship to their safety and 
+health. A Severity Level II violation would 
+be subject to a base civil penalty up to 50% 
+of the maximum base civil penalty ($57,530). 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00622 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 29 ---
+613 
+Department of Energy Pt. 851, App. B 
+(c) De minimis violations, defined as a de-
+viation from the requirement of a standard 
+that has no direct or immediate relationship 
+to safety or health, will not be the subject of 
+formal enforcement action through the 
+issuance of a Notice of Violation. 
+VII. ENFORCEMENT CONFERENCES 
+(a) The purpose of the enforcement con-
+ference is to: 
+(1) Assure the accuracy of the facts upon 
+which the preliminary determination to con-
+sider enforcement action is based; 
+(2) Discuss the potential or alleged viola-
+tions, their significance and causes, and the 
+nature of and schedule for the DOE contrac-
+tor’s corrective actions; 
+(3) Determine whether there are any aggra-
+vating or mitigating circumstances; and 
+(4) Obtain other information which will 
+help determine whether enforcement action 
+is appropriate and, if so, the extent of that 
+enforcement action. 
+(b) All enforcement conferences are con-
+vened at the discretion of the Enforcement 
+Director. 
+(c) The PNOV will normally be issued 
+promptly, before the opportunity for an en-
+forcement conference, following the inspec-
+tion/investigation. In some cases an enforce-
+ment conference may be conducted onsite at 
+the conclusion of an inspection/investiga-
+tion. 
+(d) The contractor may request an enforce-
+ment conference if they believe additional 
+information pertinent to the enforcement 
+action could best be conveyed through a 
+meeting. 
+(e) DOE contractors will be informed prior 
+to a meeting when that meeting is consid-
+ered to be an enforcement conference. Such 
+conferences are informal mechanisms for 
+candid discussions regarding potential or al-
+leged violations and will not normally be 
+open to the public. In circumstances for 
+which immediate enforcement action is nec-
+essary in the interest of worker safety and 
+health, such action will be taken prior to the 
+enforcement conference, which may still be 
+held after the necessary DOE action has been 
+taken. 
+VIII. ENFORCEMENT LETTER 
+(a) In cases where DOE has decided not to 
+conduct an investigation or inspection or 
+issue a Preliminary Notice of Violation 
+(PNOV), DOE may send an Enforcement Let-
+ter, signed by the Enforcement Director to 
+the contractor. The Enforcement Letter is 
+intended to communicate the basis of the de-
+cision not to pursue enforcement action for a 
+noncompliance. The Enforcement Letter is 
+intended to direct contractors to the desired 
+level of worker safety and health perform-
+ance. It may be used when DOE concludes 
+that the specific noncompliance at issue is 
+not of the level of significance warranted to 
+conduct an investigation or inspection or for 
+issuance of a PNOV. Even where a non-
+compliance may be significant, the Enforce-
+ment Letter may recognize that the contrac-
+tor’s actions may have attenuated the need 
+for enforcement action. The Enforcement 
+Letter will typically recognize how the con-
+tractor handled the circumstances sur-
+rounding the noncompliance, address addi-
+tional areas requiring the contractor’s atten-
+tion, and address DOE’s expectations for cor-
+rective action. 
+(b) In general, Enforcement Letters com-
+municate DOE’s expectations with respect to 
+any aspect of the requirements of this part, 
+including identification and reporting of 
+issues, corrective actions, and implementa-
+tion of the contractor’s safety and health 
+program. DOE might, for example, wish to 
+recognize some action of the contractor that 
+is of particular benefit to worker safety and 
+health that is a candidate for emulation by 
+other contractors. On the other hand, DOE 
+may wish to bring a program shortcoming to 
+the attention of the contractor that, but for 
+the lack of worker safety and health signifi-
+cance of the immediate issue, might have re-
+sulted in the issuance of a PNOV. An En-
+forcement Letter is not an enforcement ac-
+tion. 
+(c) With respect to many noncompliances, 
+an Enforcement Letter may not be required. 
+When DOE decides that a contractor has ap-
+propriately corrected a noncompliance or 
+that the significance of the noncompliance is 
+sufficiently low, it may close out its review 
+simply through an annotation in the DOE 
+Noncompliance Tracking System (NTS). A 
+closeout of a noncompliance with or without 
+an Enforcement Letter may only take place 
+after DOE has confirmed that corrective ac-
+tions have been completed. 
+IX. ENFORCEMENT ACTIONS 
+(a) This section describes the enforcement 
+sanctions available to DOE and specifies the 
+conditions under which each may be used. 
+The basic sanctions are Notices of Violation 
+and civil penalties. 
+(b) The nature and extent of the enforce-
+ment action is intended to reflect the seri-
+ousness of the violation. For the vast major-
+ity of violations for which DOE assigns se-
+verity levels as described previously, a No-
+tice of Violation will be issued, requiring a 
+formal response from the recipient describ-
+ing the nature of and schedule for corrective 
+actions it intends to take regarding the vio-
+lation. 
+1. Notice of Violation 
+(a) A Notice of Violation (either a Prelimi-
+nary or Final Notice) is a document setting 
+forth the conclusion of DOE and the basis to 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00623 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 30 ---
+614 
+10 CFR Ch. III (1–1–24 Edition) Pt. 851, App. B 
+support the conclusion, that one or more vio-
+lations of the worker safety and health re-
+quirements have occurred. Such a notice 
+normally requires the recipient to provide a 
+written response which may take one of sev-
+eral positions described in section V of this 
+policy statement. In the event that the re-
+cipient concedes the occurrence of the viola-
+tion, it is required to describe corrective 
+steps which have been taken and the results 
+achieved; remedial actions which will be 
+taken to prevent recurrence; and the date by 
+which full compliance will be achieved. 
+(b) DOE will use the Notice of Violation as 
+the standard method for formalizing the ex-
+istence of a violation and, in appropriate 
+cases as described in this section, the Notice 
+of Violation will be issued in conjunction 
+with the proposed imposition of a civil pen-
+alty. In certain limited instances, as de-
+scribed in this section, DOE may refrain 
+from the issuance of an otherwise appro-
+priate Notice of Violation. However, a Notice 
+of Violation will virtually always be issued 
+for willful violations, or if past corrective 
+actions for similar violations have not been 
+sufficient to prevent recurrence and there 
+are no other mitigating circumstances. 
+(c) DOE contractors are not ordinarily 
+cited for violations resulting from matters 
+not within their control, such as equipment 
+failures that were not avoidable by reason-
+able quality assurance measures, proper 
+maintenance, or management controls. With 
+regard to the issue of funding, however, DOE 
+does not consider an asserted lack of funding 
+to be a justification for noncompliance with 
+the worker safety and health requirements. 
+(d) DOE expects its contractors to have the 
+proper management and supervisory systems 
+in place to assure that all activities at cov-
+ered workplaces, regardless of who performs 
+them, are carried out in compliance with all 
+the worker safety and health requirements. 
+Therefore, contractors are normally held re-
+sponsible for the acts of their employees and 
+subcontractor employees in the conduct of 
+activities at covered workplaces. Accord-
+ingly, this policy should not be construed to 
+excuse personnel errors. 
+(e) The limitations on remedies under sec-
+tion 234C will be implemented as follows: 
+(1) DOE may assess civil penalties of up to 
+$115,061 per violation per day on contractors 
+(and their subcontractors and suppliers) that 
+are indemnified by the Price-Anderson Act, 
+42 U.S.C. 2210(d). See 10 CFR 851.5(a). 
+(2) DOE may seek contract fee reductions 
+through the contract’s Conditional Payment 
+of Fee Clause in the Department of Energy 
+Acquisition Regulation (DEAR). See 10 CFR 
+851.4(b); 48 CFR parts 923, 952, 970. Policies for 
+contract fee reductions are not established 
+by this policy statement. The Enforcement 
+Director and appropriate contracting officers 
+will coordinate their efforts in compliance 
+with the statute. See 10 CFR 851.5(b). 
+(3) For the same violation of a worker safe-
+ty and health requirement in this part, DOE 
+may pursue either civil penalties (for indem-
+nified contractors and their subcontractors 
+and suppliers) or a contract fee reduction, 
+but not both. See 10 CFR 851.5(c). 
+(4) A ceiling applies to civil penalties as-
+sessed on certain contractors specifically 
+listed in 170d. of the Atomic Energy Act, 42 
+U.S.C. 2282a(d), for activities conducted at 
+specified facilities. For these contractors, 
+the total amount of civil penalties and con-
+tract penalties in a fiscal year may not ex-
+ceed the total amount of fees paid by DOE to 
+that entity in that fiscal year. See 10 CFR 
+851.5(d). 
+2. Civil Penalty 
+(a) A civil penalty is a monetary penalty 
+that may be imposed for violations of re-
+quirements of this part. See 10 CFR 851.5(a). 
+Civil penalties are designed to emphasize the 
+need for lasting remedial action, deter future 
+violations, and underscore the importance of 
+DOE contractor self-identification, report-
+ing, and correction of violations of the work-
+er safety and health requirements in this 
+part. 
+(b) Absent mitigating circumstances as de-
+scribed below, or circumstances otherwise 
+warranting the exercise of enforcement dis-
+cretion by DOE as described in this section, 
+civil penalties will be proposed for Severity 
+Level I and II violations. 
+(c) DOE will impose different base level 
+penalties considering the severity level of 
+the violation. Table A–1 shows the daily base 
+civil penalties for the various categories of 
+severity levels. However, as described below 
+in section IX, paragraph b.3, the imposition 
+of civil penalties will also take into account 
+the gravity, circumstances, and extent of the 
+violation or violations and, with respect to 
+the violator, any history of prior similar vio-
+lations and the degree of culpability and 
+knowledge. 
+(d) Enforcement personnel will use risk- 
+based criteria to assist the Enforcement Di-
+rector in determining appropriate civil pen-
+alties for violations found during investiga-
+tions and inspections. 
+(e) Regarding the factor of ability of DOE 
+contractors to pay the civil penalties, it is 
+not DOE’s intention that the economic im-
+pact of a civil penalty be such that it puts a 
+DOE contractor out of business. Contract 
+termination, rather than civil penalties, is 
+used when the intent is to terminate these 
+activities. The deterrent effect of civil pen-
+alties is best served when the amount of such 
+penalties takes this factor into account. 
+However, DOE will evaluate the relationship 
+of affiliated entities to the contractor (such 
+as parent corporations) when the contractor 
+asserts that it cannot pay the proposed pen-
+alty. 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00624 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 31 ---
+615 
+Department of Energy Pt. 851, App. B 
+(f) DOE will review each case on its own 
+merits and adjust the base civil penalty val-
+ues upward or downward. As indicated below, 
+Table A–1 identifies the daily base civil pen-
+alty values for different severity levels. 
+After considering all relevant circumstances, 
+civil penalties may be adjusted up or down 
+based on the mitigating or aggravating fac-
+tors described later in this section. In no in-
+stance will a civil penalty for any one viola-
+tion exceed the statutory limit, as periodi-
+cally adjusted for inflation as required by 
+law, per day. In cases where the DOE con-
+tractor had knowledge of a violation and has 
+not reported it to DOE and taken corrective 
+action despite an opportunity to do so, DOE 
+will consider utilizing its per day civil pen-
+alty authority. Further, as described in this 
+section, the duration of a violation will be 
+taken into account in adjusting the base 
+civil penalty. 
+TABLE A–1—S EVERITY LEVEL BASE CIVIL 
+PENALTIES 
+Severity level 
+Base civil penalty 
+amount (Percent-
+age of maximum 
+per violation per 
+day) 
+I .................................................................. 100 
+II ................................................................. 50 
+3. Adjustment Factors 
+(a) DOE may reduce a penalty based on 
+mitigating circumstances or increase a pen-
+alty based on aggravating circumstances. 
+DOE’s enforcement program is not an end in 
+itself, but a means to achieve compliance 
+with the worker safety and health require-
+ments in this part. Civil penalties are in-
+tended to emphasize the importance of com-
+pliance and to deter future violations. The 
+single most important goal of the DOE en-
+forcement program is to encourage early 
+identification and reporting of violations of 
+the worker safety and health requirements 
+in this part by the DOE contractors them-
+selves rather than by DOE, and the prompt 
+correction of any violations so identified. 
+DOE believes that DOE contractors are in 
+the best position to identify and promptly 
+correct noncompliance with the worker safe-
+ty and health requirements in this part. DOE 
+expects that these contractors should have 
+in place internal compliance programs which 
+will ensure the detection, reporting, and 
+prompt correction of conditions that may 
+constitute, or lead to, violations of the work-
+er safety and health requirements in this 
+part, before, rather than after, DOE has iden-
+tified such violations. Thus, DOE contrac-
+tors should almost always be aware of work-
+er safety and health noncompliances before 
+they are discovered by DOE. Obviously, 
+worker safety and health is enhanced if non-
+compliances are discovered (and promptly 
+corrected) by the DOE contractor, rather 
+than by DOE, which may not otherwise be-
+come aware of a noncompliance until later, 
+during the course of an inspection, perform-
+ance assessment, or following an incident at 
+the facility. Early identification of worker 
+safety and health-related noncompliances by 
+DOE contractors has the added benefit of al-
+lowing information that could prevent such 
+noncompliances at other facilities in the 
+DOE complex to be shared with other appro-
+priate DOE contractors. 
+(b) Pursuant to this enforcement philos-
+ophy, DOE will provide substantial incentive 
+for the early self-identification, reporting, 
+and prompt correction of conditions which 
+constitute, or could lead to, violations of the 
+worker safety and health requirements. 
+Thus, the civil penalty may be reduced for 
+violations that are identified, reported, and 
+promptly and effectively corrected by the 
+DOE contractor. 
+(c) On the other hand, ineffective programs 
+for problem identification and correction are 
+aggravating circumstances and may increase 
+the penalty amount. Thus, for example, 
+where a contractor fails to disclose and 
+promptly correct violations of which it was 
+aware or should have been aware, substantial 
+civil penalties are warranted and may be 
+sought, including the assessment of civil 
+penalties for continuing violations on a per 
+day basis. 
+(d) Further, in cases involving factors of 
+willfulness, repeated violations, death, seri-
+ous injury, patterns of systemic violations, 
+DOE-identified flagrant violations, repeated 
+poor performance in an area of concern, or 
+serious breakdown in management controls, 
+DOE intends to apply its full statutory en-
+forcement authority where such action is 
+warranted. 
+(e) Additionally, adjustment to the amount 
+of civil penalty will be dependent, in part, on 
+the degree of culpability of the DOE con-
+tractor with regard to the violation. Thus, 
+inadvertent violations will be viewed dif-
+ferently from those in which there is gross 
+negligence, deception, or willfulness. In addi-
+tion to the severity of the underlying viola-
+tion and level of culpability involved, DOE 
+will also consider the position, training and 
+experience of those involved in the violation. 
+Thus, for example, a violation may be 
+deemed to be more significant if a senior 
+manager of an organization is involved rath-
+er than a foreman or non-supervisory em-
+ployee. 
+(f) Other factors that will be considered in 
+determining the civil penalty amount are 
+the duration of the violation (how long the 
+condition has presented a potential exposure 
+to workers), the extent of the condition 
+(number of instances of the violation), the 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00625 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 32 ---
+616 
+10 CFR Ch. III (1–1–24 Edition) Pt. 851, App. B 
+frequency of the exposure (how often work-
+ers are exposed), the proximity of the work-
+ers to the exposure, and the past history of 
+similar violations. 
+(g) DOE expects contractors to provide 
+full, complete, timely, and accurate informa-
+tion and reports. Accordingly, the penalty 
+amount for a violation involving either a 
+failure to make a required report or notifica-
+tion to the DOE or an untimely report or no-
+tification, will be based upon the cir-
+cumstances surrounding the matter that 
+should have been reported. A contractor will 
+not normally be cited for a failure to report 
+a condition or event unless the contractor 
+was aware or should have been aware of the 
+condition or event that it failed to report. 
+4. Identification and Reporting 
+Reduction of up to 50% of the base civil 
+penalty shown in Table A–1 may be given 
+when a DOE contractor identifies the viola-
+tion and promptly reports the violation to 
+the DOE. Consideration will be given to, 
+among other things, the opportunity avail-
+able to discover the violation, the ease of 
+discovery and the promptness and complete-
+ness of any required report. No consideration 
+will be given to a reduction in penalty if the 
+DOE contractor does not take prompt action 
+to report the problem to DOE upon dis-
+covery, or if the immediate actions nec-
+essary to restore compliance with the work-
+er safety and health requirements are not 
+taken. 
+5. Self-Identification and Tracking Systems 
+(a) DOE strongly encourages contractors 
+to self-identify noncompliances with the 
+worker safety and health requirements be-
+fore the noncompliances lead to a string of 
+similar and potentially more significant 
+events or consequences. When a contractor 
+identifies a noncompliance, DOE will nor-
+mally allow a reduction in the amount of 
+civil penalties, unless prior opportunities ex-
+isted for contractors to identify the non-
+compliance. DOE will normally not allow a 
+reduction in civil penalties for self-identi-
+fication if significant DOE intervention was 
+required to induce the contractor to report a 
+noncompliance. 
+(b) Self-identification of a noncompliance 
+is possibly the single most important factor 
+in considering a reduction in the civil pen-
+alty amount. Consideration of self-identi-
+fication is linked to, among other things, 
+whether prior opportunities existed to dis-
+cover the violation, and if so, the age and 
+number of such opportunities; the extent to 
+which proper contractor controls should 
+have identified or prevented the violation; 
+whether discovery of the violation resulted 
+from a contractor’s self-monitoring activity; 
+the extent of DOE involvement in discov-
+ering the violation or in prompting the con-
+tractor to identify the violation; and the 
+promptness and completeness of any re-
+quired report. Self-identification is also con-
+sidered by DOE in deciding whether to pur-
+sue an investigation. 
+(c) DOE will use the voluntary Noncompli-
+ance Tracking System (NTS) which allows 
+contractors to elect to report noncompli-
+ances. In the guidance document supporting 
+the NTS, DOE will establish reporting 
+thresholds for reporting noncompliances of 
+potentially greater worker safety and health 
+significance into the NTS. Contractors are 
+expected, however, to use their own self- 
+tracking systems to track noncompliances 
+below the reporting threshold. This self- 
+tracking is considered to be acceptable self- 
+reporting as long as DOE has access to the 
+contractor’s system and the contractor’s 
+system notes the item as a noncompliance 
+with a DOE safety and health requirement. 
+For noncompliances that are below the NTS 
+reportability thresholds, DOE will credit 
+contractor self-tracking as representing self- 
+reporting. If an item is not reported in NTS 
+but only tracked in the contractor’s system 
+and DOE subsequently determines that the 
+noncompliance was significantly 
+mischaracterized, DOE will not credit the in-
+ternal tracking as representing appropriate 
+self-reporting. 
+6. Self-Disclosing Events 
+(a) DOE expects contractors to dem-
+onstrate acceptance of responsibility for 
+worker safety and health by proactively 
+identifying noncompliances. When the occur-
+rence of an event discloses noncompliances 
+that the contractor could have or should 
+have identified before the event, DOE will 
+not generally reduce civil penalties for self- 
+identification, even if the underlying non-
+compliances were reported to DOE. In decid-
+ing whether to reduce any civil penalty pro-
+posed for violations revealed by the occur-
+rence of a self-disclosing event, DOE will 
+consider the ease with which a contractor 
+could have discovered the noncompliance 
+and the prior opportunities that existed to 
+discover the noncompliance. If a contractor 
+simply reacts to events that disclose poten-
+tially significant consequences or downplays 
+noncompliances which did not result in sig-
+nificant consequences to worker safety and 
+health, such contractor actions do not con-
+stitute the type of proactive behavior nec-
+essary to prevent significant events from oc-
+curring and thereby to improve worker safe-
+ty and health. 
+(b) The key test is whether the contractor 
+reasonably could have detected any of the 
+underlying noncompliances that contributed 
+to the event. Examples of events that pro-
+vide opportunities to identify noncompli-
+ances include, but are not limited to: 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00626 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 33 ---
+617 
+Department of Energy Pt. 851, App. B 
+(1) Prior notifications of potential prob-
+lems such as those from DOE operational ex-
+perience publications or vendor equipment 
+deficiency reports; 
+(2) Normal surveillance, quality assurance 
+performance assessments, and post-mainte-
+nance testing; 
+(3) Readily observable parameter trends; 
+and 
+(4) Contractor employee or DOE observa-
+tions of potential worker safety and health 
+problems. 
+(c) Failure to utilize these types of events 
+and activities to address noncompliances 
+may result in higher civil penalty assess-
+ments or a DOE decision not to reduce civil 
+penalty amounts. 
+(d) Alternatively, if, following a self-dis-
+closing event, DOE finds that the contrac-
+tor’s processes and procedures were adequate 
+and the contractor’s personnel generally be-
+haved in a manner consistent with the con-
+tractor’s processes and procedures, DOE 
+could conclude that the contractor could not 
+have been reasonably expected to find the 
+single noncompliance that led to the event 
+and thus, might allow a reduction in civil 
+penalties. 
+7. Corrective Action To Prevent Recurrence 
+The promptness (or lack thereof) and ex-
+tent to which the DOE contractor takes cor-
+rective action, including actions to identify 
+root cause and prevent recurrence, may re-
+sult in an increase or decrease in the base 
+civil penalty shown in Table A–1. For exam-
+ple, appropriate corrective action may result 
+in DOE’s reducing the proposed civil penalty 
+up to 50% from the base value shown in 
+Table A–1. On the other hand, the civil pen-
+alty may be increased if initiation of correc-
+tive action is not prompt or if the corrective 
+action is only minimally acceptable. In 
+weighing this factor, consideration will be 
+given to, among other things, the appro-
+priateness, timeliness and degree of initia-
+tive associated with the corrective action. 
+The comprehensiveness of the corrective ac-
+tion will also be considered, taking into ac-
+count factors such as whether the action is 
+focused narrowly to the specific violation or 
+broadly to the general area of concern. 
+8. DOE’s Contribution to a Violation 
+There may be circumstances in which a 
+violation of a DOE worker safety and health 
+requirement results, in part or entirely, from 
+a direction given by DOE personnel to a DOE 
+contractor to either take or forbear from 
+taking an action at a DOE facility. In such 
+cases, DOE may refrain from issuing an 
+NOV, or may mitigate, either partially or 
+entirely, any proposed civil penalty, pro-
+vided that the direction upon which the DOE 
+contractor relied is documented in writing, 
+contemporaneously with the direction. It 
+should be emphasized, however, that pursu-
+ant to 10 CFR 851.7, interpretative ruling of 
+a requirement of this part must be issued in 
+accordance with the provisions of 851.7 to be 
+binding. Further, as discussed above in this 
+policy statement, lack of funding by itself 
+will not be considered as a mitigating factor 
+in enforcement actions. 
+9. Exercise of Discretion 
+Because DOE wants to encourage and sup-
+port DOE contractor initiative for prompt 
+self-identification, reporting and correction 
+of noncompliances, DOE may exercise discre-
+tion as follows: 
+(a) In accordance with the previous discus-
+sion, DOE may refrain from issuing a civil 
+penalty for a violation that meets all of the 
+following criteria: 
+(1) The violation is promptly identified and 
+reported to DOE before DOE learns of it or 
+the violation is identified by a DOE inde-
+pendent assessment, inspection or other for-
+mal program effort. 
+(2) The violation is not willful or is not a 
+violation that could reasonably be expected 
+to have been prevented by the DOE contrac-
+tor’s corrective action for a previous viola-
+tion. 
+(3) The DOE contractor, upon discovery of 
+the violation, has taken or begun to take 
+prompt and appropriate action to correct the 
+violation. 
+(4) The DOE contractor has taken, or has 
+agreed to take, remedial action satisfactory 
+to DOE to preclude recurrence of the viola-
+tion and the underlying conditions that 
+caused it. 
+(b) DOE will not issue a Notice of Violation 
+for cases in which the violation discovered 
+by the DOE contractor cannot reasonably be 
+linked to the conduct of that contractor in 
+the design, construction or operation of the 
+DOE facility involved, provided that prompt 
+and appropriate action is taken by the DOE 
+contractor upon identification of the past 
+violation to report to DOE and remedy the 
+problem. 
+(c) In situations where corrective actions 
+have been completed before termination of 
+an inspection or assessment, a formal re-
+sponse from the contractor is not required 
+and the inspection report serves to document 
+the violation and the corrective action. How-
+ever, in all instances, the contractor is re-
+quired to report the noncompliance through 
+established reporting mechanisms so the 
+noncompliance and any corrective actions 
+can be properly tracked and monitored. 
+(d) If DOE initiates an enforcement action 
+for a violation, and as part of the corrective 
+action for that violation, the DOE con-
+tractor identifies other examples of the vio-
+lation with the same root cause, DOE may 
+refrain from initiating an additional enforce-
+ment action. In determining whether to ex-
+ercise this discretion, DOE will consider 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00627 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 34 ---
+618 
+10 CFR Ch. III (1–1–24 Edition) Pt. 851, App. B 
+whether the DOE contractor acted reason-
+ably and in a timely manner appropriate to 
+the severity of the initial violation, the com-
+prehensiveness of the corrective action, 
+whether the matter was reported, and wheth-
+er the additional violation(s) substantially 
+change the significance or character of the 
+concern arising out of the initial violation. 
+(e) The preceding paragraphs are examples 
+indicating when enforcement discretion may 
+be exercised to forego the issuance of a civil 
+penalty or, in some cases, the initiation of 
+any enforcement action at all. However, not-
+withstanding these examples, a civil penalty 
+may be proposed or Notice of Violation 
+issued when, in DOE’s judgment, such action 
+is warranted. 
+X. INACCURATE AND INCOMPLETE INFORMATION 
+(a) A violation of the worker safety and 
+health requirements to provide complete and 
+accurate information to DOE, 10 CFR 851.40, 
+can result in the full range of enforcement 
+sanctions, depending upon the circumstances 
+of the particular case and consideration of 
+the factors discussed in this section. Viola-
+tions involving inaccurate or incomplete in-
+formation or the failure to provide signifi-
+cant information identified by a DOE con-
+tractor normally will be categorized based 
+on the guidance in section IX, ‘‘Enforcement 
+Actions.’’ 
+(b) DOE recognizes that oral information 
+may in some situations be inherently less re-
+liable than written submittals because of the 
+absence of an opportunity for reflection and 
+management review. However, DOE must be 
+able to rely on oral communications from of-
+ficials of DOE contractors concerning sig-
+nificant information. In determining wheth-
+er to take enforcement action for an oral 
+statement, consideration will be given to 
+such factors as: 
+(1) The degree of knowledge that the com-
+municator should have had regarding the 
+matter in view of his or her position, train-
+ing, and experience; 
+(2) The opportunity and time available 
+prior to the communication to assure the ac-
+curacy or completeness of the information; 
+(3) The degree of intent or negligence, if 
+any, involved; 
+(4) The formality of the communication; 
+(5) The reasonableness of DOE reliance on 
+the information; 
+(6) The importance of the information that 
+was wrong or not provided; and 
+(7) The reasonableness of the explanation 
+for not providing complete and accurate in-
+formation. 
+(c) Absent gross negligence or willfulness, 
+an incomplete or inaccurate oral statement 
+normally will not be subject to enforcement 
+action unless it involves significant informa-
+tion provided by an official of a DOE con-
+tractor. However, enforcement action may 
+be taken for an unintentionally incomplete 
+or inaccurate oral statement provided to 
+DOE by an official of a DOE contractor or 
+others on behalf of the DOE contractor, if a 
+record was made of the oral information and 
+provided to the DOE contractor thereby per-
+mitting an opportunity to correct the oral 
+information, such as if a transcript of the 
+communication or meeting summary con-
+taining the error was made available to the 
+DOE contractor and was not subsequently 
+corrected in a timely manner. 
+(d) When a DOE contractor has corrected 
+inaccurate or incomplete information, the 
+decision to issue a citation for the initial in-
+accurate or incomplete information nor-
+mally will be dependent on the cir-
+cumstances, including the ease of detection 
+of the error, the timeliness of the correction, 
+whether DOE or the DOE contractor identi-
+fied the problem with the communication, 
+and whether DOE relied on the information 
+prior to the correction. Generally, if the 
+matter was promptly identified and cor-
+rected by the DOE contractor prior to reli-
+ance by DOE, or before DOE raised a ques-
+tion about the information, no enforcement 
+action will be taken for the initial inac-
+curate or incomplete information. On the 
+other hand, if the misinformation is identi-
+fied after DOE relies on it, or after some 
+question is raised regarding the accuracy of 
+the information, then some enforcement ac-
+tion normally will be taken even if it is in 
+fact corrected. 
+(e) If the initial submission was accurate 
+when made but later turns out to be erro-
+neous because of newly discovered informa-
+tion or advances in technology, a citation 
+normally would not be appropriate if, when 
+the new information became available, the 
+initial submission was promptly corrected. 
+(f) The failure to correct inaccurate or in-
+complete information that the DOE con-
+tractor does not identify as significant nor-
+mally will not constitute a separate viola-
+tion. However, the circumstances sur-
+rounding the failure to correct may be con-
+sidered relevant to the determination of en-
+forcement action for the initial inaccurate 
+or incomplete statement. For example, an 
+unintentionally inaccurate or incomplete 
+submission may be treated as a more severe 
+matter if a DOE contractor later determines 
+that the initial submission was in error and 
+does not promptly correct it or if there were 
+clear opportunities to identify the error. 
+[71 FR 6931, Feb. 9, 2006, as amended at 74 FR 
+66033, Dec. 14, 2009; 79 FR 20, Jan. 2, 2014; 81 
+FR 41795, June 28, 2016; 81 FR 96352, Dec. 30, 
+2016; 83 FR 1292, Jan. 11, 2018; 83 FR 66084, 
+Dec. 26, 2018; 85 FR 831, Jan. 8, 2020; 86 FR 
+2956, Jan. 14, 2021; 87 FR 1064, Jan. 10, 2022; 88 
+FR 2194, Jan. 13, 2023; 88 FR 41294, June 26, 
+2023] 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00628 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER

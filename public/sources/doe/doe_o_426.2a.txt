@@ -1,0 +1,1776 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov Office of Environment, Health, Safety & Security 
+DOE O 426.2A 
+U.S. Department of Energy ORDER 
+ Washington, DC 
+ 
+Approved: 1-29-2024 
+Chg 1 (AdminChg): 5-30-2024 
+SUBJECT: PERSONNEL SELECTION, TRAINING, QUALIFICATION, AND 
+CERTIFICATION REQUIREMENTS FOR DOE NUCLEAR FACILITIES 
+1. PURPOSE. 
+a. This Order establishes selection, training, qualification, and certification 
+requirements for all contractor personnel who, by action or inaction, can affect 
+compliance with the safety basis of a Hazard Category 1, 2, or 3 nuclear facilities.  
+b. This Order updates and consolidates DOE’s training requirements to ensure a well-
+trained nuclear facility organization.  
+c. Implementation of all requirements in this Order constitutes an acceptable method 
+of complying with 10 CFR § 830.122, Criterion 2 – Management/Personnel 
+Training and Qualification, for the performance of work activities described in this 
+Order. 
+2. CANCELS/SUPERSEDES. This revision cancels DOE Order (O) 426.2, Personnel 
+Selection, Training, Qualification, and Certification Requirements for DOE Nuclear 
+Facilities, dated 4-21-2010.  
+Cancellation of a directive does not, by itself, modify or otherwise affect any contractual 
+or regulatory obligation to comply with the directive. The Contractor Requirements 
+Documents (CRDs) that have been incorporated into a contract remain in effect 
+throughout the term of the contract unless and until the contract or regulatory commitment 
+is modified to either eliminate requirements that are no longer applicable or substitute a 
+new set of requirements. 
+3. APPLICABILITY. 
+a. Departmental Applicability. This Order applies to all departmental elements, 
+including the National Nuclear Security Administration (NNSA), responsible for 
+the operation of Hazard Category 1, 2, and 3 nuclear facilities. The NNSA 
+Administrator will assure NNSA employees and contractors comply with the 
+responsibilities under this directive. Nothing in this Order will be construed to 
+interfere with the NNSA Administrator’s authority under section 3212(d) of 
+Public Law 106-65, National Defense Authorization Act, to establish 
+Administration-specific policies, unless disapproved by the Secretary.  
+DOE Contractors. Th e CRD for this Order (Attachment 1) must be inserted in all 
+contracts for Hazard Category 1, 2, or 3 DOE nuclear facilities. Except for the 
+equivalencies/exemptions in paragraph 3.c., the CRD sets forth requirements of
+
+--- page 2 ---
+2 DOE O 426.2A 
+  1-29-2024 
+this Order that will apply to contracts that include the CRD. The Officials 
+identified in paragraph 5 of this Order are responsible for notifying the Contracting 
+Officer of the affected contracts. Once notified, the Contracting Officer is 
+responsible for incorporating the CRD into each affected contract via the laws, 
+regulations, and DOE directives clause of the contract, or via negotiation and 
+modification, as appropriate. 
+b. Equivalencies/Exemptions for DOE O 426.2A. Equivalencies and exemptions to 
+this Order are processed in accordance with (IAW) DOE O 251.1, Departmental 
+Directives Program, current version. Central Technical Authority concurrence is 
+required for both exemptions and equivalencies to this Order. 
+(1) E xemption. This Order does not apply to activities that exclusively 
+involve transportation or offering transportation of hazardous materials 
+(including radioactive materials), substances, and wastes. 
+(2) E quivalency. IAW  the responsibilities and authorities assigned by 
+Executive Order 12344, codified at 50 U.S.C. §§ 2406 and 2511, and to 
+ensure consistency through the joint Navy/DOE Naval Nuclear Propulsion 
+Program, the Deputy Administrator for Naval Reactors will implement 
+and oversee requirements and practices pertaining to this Directive for 
+activities under the Deputy Administrator’s authority, as deemed 
+appropriate. 
+4. RE QUIREMENTS . 
+a. A selection, training, qualification, and certification program (hereafter "training 
+and qualification program"), as described in this Order, must be implemented at 
+new and existing Hazard Category 1, 2, and 3 nuclear facilities. 
+b. Heads of DOE field organizations and NNSA field element managers must review 
+and approve (1) contractor implementation documentation showing compliance 
+with this Order, including its CRD; and (2) contractor procedures for granting 
+relief from any required aspect of a training and qualification program. 
+c. Heads of DOE field organizations and NNSA field element managers are required 
+to evaluate the overall effectiveness of the nuclear facility training and 
+qualification program(s) (either through contractor or federal reviews) at least once 
+in a three-year interval.   
+DOE‐STD‐1070‐94 aids in developing an assessment program to provide 
+oversight of the training and qualification program activities.  The assessments 
+must be scheduled and conducted IAW DOE O 226.1B, Implementation of 
+Department of Energy Oversight Policy, or its successor Order, and DOE G 226.1‐
+2A, Federal Line Management Oversight of Department of Energy Nuclear 
+Facilities.  
+d. The following DOE regulations and directives provide requirements and 
+procedures on how training records and information are to be handled and
+
+--- page 3 ---
+DOE O 426.2A 
+1-29-2024 3  
+protected: 10 CFR Part 1008, Records Maintained on Individuals (Privacy Act); 
+DOE O 206.1, Department of Energy Privacy Program, current version; and DOE 
+O 471.7, Controlled Unclassified Information, current version. 
+5. RESPONSIBILITIES. 
+a. Program Secretarial Officers/NNSA Administrator. 
+(1) Exercise line management responsibility and accountability for nuclear 
+facility training and qualification programs. 
+(2) Ensure resources are provided for developing, implementing, and 
+maintaining nuclear facility personnel training and qualification programs. 
+(3) Review and approve the evaluation of the need for a simulator at Category 
+A test and research reactors. 
+b. Director of the Office of Environment, Health, Safety and Security. 
+(1) Develop and coordinate proposed new or revised policies, directives, 
+requirements, guidance, and technical standards related to this Order and 
+CRD. 
+(2) Provide technical guidance on compliance with the provisions of this 
+Order and CRD and provide policy implementation advice and assistance. 
+(3) Provide input on technical guidance of DOE safety policy as set forth in 
+this Order to the Central Technical Authorities. 
+(4) Provide advice on requests for exemptions and equivalencies from the 
+requirements of this Order. 
+c. Director, Office of Enterprise Assessments. Plan and conduct assessments to 
+determine compliance with the requirements of this Order, IAW DOE O 227.1, 
+Independent Oversight Program, current version.  
+d. D OE Heads of Field Organizations and NNSA Field Element Managers. 
+(1) Ensure an adequate number of persons with responsibility for oversight of 
+the contractor’s nuclear facility training and qualification program. 
+Identify and submit resource requests to the Program Secretarial Officers 
+to provide adequate oversight of the implementation of personnel 
+selection, training, qualification, and certification programs. 
+(2) Provide Contracting Officers with necessary information and direction for 
+procurements (existing or planned) requiring application of the CRD of 
+this Order.
+
+--- page 4 ---
+4 DOE O 426.2A 
+  1-29-2024 
+(3) Evaluate and approve contractor implementation documentation, which 
+includes the Training Implementation Document (TID) (Training 
+Implementation Matrix (TIM) or succeeding Training Program Plan (TPP) 
+or Training Program Description (TPD)) as described in the definitions. 
+(4) Evaluate and approve the contractor procedures established to release an 
+individual from portions of a training and qualification program based on 
+the individual’s prior education, experience, training, and/or 
+qualification/certification.  
+(5) Conduct oversight activities to evaluate the implementation of the 
+requirements of the CRD and the overall effectiveness of the Nuclear 
+Facility Training and Qualification program. An assessment of the 
+program must be performed at least once every three years.   
+(a) The oversight activities must include: An evaluation of the 
+contractor's implementation documentation to ensure DOE has 
+reviewed and approved all major changes. 
+(b) Ensuring the entire scope of DOE-STD-1070-94, if applicable, is 
+addressed through contractor assessments. 
+(c) Ensuring that the Training and Qualification Program is developed 
+and implemented using the Systematic Approach to Training 
+(SAT) process. 
+(d) Ensuring that each of the basic elements of the SAT process is 
+assessed. 
+(e) This evaluation must include a verification of the implementation 
+of the applicable requirements of this CRD and criteria from the 
+DOE-STD-1070-94. Consistent with DOE O 226.1, the scope of 
+this evaluation must be determined based on performance 
+information from the contractor assurance system and federal 
+oversight activities. Additionally, the basis for the scope of this 
+evaluation must be documented.  
+(f) Evaluate the certification and recertification of shift supervisors, 
+senior reactor operators (SROs), reactor operators, and fissionable 
+material handlers at Category A reactors. The Field Element 
+manager determines whether an evaluation of the certification and 
+recertification of these positions at other nuclear facilities needs to 
+be performed based on facility hazards and operational complexity.  
+This evaluation includes:  
+1 Periodic and random review of individual training records
+
+--- page 5 ---
+DOE O 426.2A 
+1-29-2024 5  
+2 Periodic observations of oral examinations, walkthroughs, 
+and operational evaluations 
+ 
+3 Periodic spot checks of initial and continuing training 
+classes, performance of practical factors, administration of 
+oral examinations and other training and qualification 
+program materials 
+(6) Approve, on a case-by-case basis, contractor requests for extension of 
+certification 
+(7) Approve, on a case-by-case basis, assignment of individuals who do not 
+meet the education and/or experience requirements for a position 
+(8) Review and approve contractor assessments of the need for a simulator at 
+Hazard Category 1/Category A test and research reactors 
+e. Contracting Officers. 
+(1) Upon notification of its applicability, incorporate the CRD into applicable 
+contracts that contain Department of Energy Acquisition Regulation 
+(DEAR) clause 970.5204-2, Laws, Regulations, and DOE Directives, via 
+the process set forth in DEAR clause 970.5204-2.  
+(2) Upon notification of its applicability, incorporate applicable CRD 
+requirements in the contract terms and conditions of new and existing 
+contracts not subject to DEAR clause 970.5204-2, as appropriate.  
+6. INVOKED TECHNICAL STANDARDS. IAW the applicability and conditions 
+described within this Order, the following DOE technical standard is invoked as a 
+required evaluation method in this Order. Any technical standard or industry standard 
+mentioned in or referenced by this Order, but is not included in the paragraph below, is 
+not invoked by this Order. Note: DOE O 251.1, current version, provides a definition for 
+"invoked technical standard." DOE-STD-1070-94, Criteria for Evaluation of Nuclear 
+Facility Training Programs, is required to be used in performing oversight and 
+systematic evaluations of training and qualification programs at DOE nuclear facilities. 
+See Section 4.c. and CRD Chapter I, Section 3.c. for applicable requirements. 
+7. R EFERENCES. See Attachment 2.  
+8. DEFINITIONS. See Attachment 3.
+
+--- page 6 ---
+6 DOE O 426.2A 
+  1-29-2024 
+9. CONTACT. Questions concerning this Order may be addressed to the Office of Quality 
+Assurance and Nuclear Safety Management Programs at nuclearsafety@hq.doe.gov. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ DAVID M. TURK  
+ Deputy Secretary  
+Logo 
+added 
+after 
+approval
+
+--- page 7 ---
+DOE O 426.2A Attachment 1 – CRD, Contractors Only 
+1-29-2024 Page 1-1 (and Page 1-2) 
+ 
+ATTACHMENT 1 
+CONTRACTOR REQUIREMENTS DOCUMENT (CRD) 
+DOE O 426.2A, PERSONNEL SELECTION, QUALIFICATION,  
+AND TRAINING REQUIREMENTS FOR DOE NUCLEAR FACILITIES 
+Regardless of the performer of the work, the contractor is responsible for complying with the 
+requirements of this CRD consistent with applicable federal laws. The contractor is responsible 
+for flowing down the requirements of this CRD to subcontractors at any tier to the extent 
+necessary to ensure the contractor’s compliance with the requirements. The Order establishes 
+selection, training, qualification, and certification requirements for all contractor personnel who, 
+by action or inaction, can affect compliance with the safety basis of Hazard Category 1, 2, and 3 
+nuclear facilities. 
+1. Chapter I of this CRD establishes general training and qualification program 
+requirements for all personnel who can impact the safety basis through their involvement 
+in the operation, maintenance, and technical support of Hazard Category 1, 2, and 3 
+nuclear facilities. 
+2. Chapter II of this CRD establishes additional training and qualification program 
+requirements for all personnel who can impact the safety basis through their involvement 
+in the operation, maintenance, and technical support of Hazard Category 2 and 3 
+nonreactor nuclear facilities.  
+3. Chapter III of this CRD establishes additional training and qualification program 
+requirements for all personnel who can impact the safety basis through their involvement 
+in the operation, maintenance, and technical support of Hazard Category 1/Category A 
+and Hazard Category 2/Category B reactor nuclear facilities. The requirements of 
+Chapter II are not applicable to these facilities, unless specifically cited in Chapter III.
+
+--- page 8 ---
+
+
+--- page 9 ---
+DOE O 426.2A Attachment 1, Chapter I – CRD, Contractors Only 
+1-29-2024 Page 1-I-1 
+ 
+ATTACHMENT 1, CHAPTER I 
+GENERAL REQUIREMENTS 
+1. TRAINING ORGANIZATION. The contractor must establish one or more organizations 
+responsible for the training of all contractor personnel subject to this Order. This 
+organization will be expected to (a) provide support to Management to ensure personnel 
+are qualified to perform assigned work safely and effectively, and (b) document the 
+responsibilities, qualifications, and authority of training organization personnel.  
+2. I MPLEMENTATION DOCUMENTATION .  
+a. The contractor must prepare a Training Implementation Document (TID) (i.e., 
+Training Implementation Matrix (TIM) or succeeding Training Program Plan 
+(TPP) or Training Program Description (TPD)) that accomplishes the following 
+objectives: 
+(1) Identifies which sections of this CRD are applicable to a particular facility 
+(2) Defines and describes the application of requirements for personnel 
+selection, qualification, certification, and training requirements 
+(3) Defines the organization, planning, and administration of the program 
+(4) Sets forth the responsibility, authority, and methods for conducting 
+training 
+(5) Provides justification for not implementing certain CRD provisions 
+(6) Section 4.b. of this Order requires that DOE or NNSA review and approve 
+this documentation 
+b. Contractors having approved implementation documentation at the time this CRD 
+is incorporated into their contracts are expected to make any needed revisions to 
+comply with the requirements of this CRD within 90 days of the date this CRD is 
+inserted into the contract. Contractors having approved implementation 
+documentation are expected to make any needed revisions to comply with the 
+requirements of this CRD and submit it to DOE for review and approval. If no 
+revisions are needed, a letter to that effect may be submitted to DOE within 90 
+days of the date this CRD is inserted into the contract. 
+3. TRAINING PROCESS. 
+a. A training and qualification program must be established at a minimum for 
+operations, maintenance, and technical personnel, and any others with the potential 
+to impact the safe operation of the facility using the "systematic approach to 
+training" (SAT) process. The basic elements of this process are:  
+(1) An analysis of the jobs to be performed (job/task analysis)
+
+--- page 10 ---
+Attachment 1, Chapter I – CRD, Contractors Only DOE O 426.2A 
+Page 1-I-2 1-29-2024 
+ 
+(2) Design of learning objectives derived from the analysis of the job that 
+describe desired performance after training 
+(3) Development of lesson plans and other training materials based on the 
+learning objectives 
+(4) Implementation of the training 
+(5) Evaluation of trainee mastery of the objectives during training 
+(6) Evaluation and revision of the training as needed based on observance of 
+trained personnel performing their duties 
+(7) Monitoring of organizational performance to determine if any weaknesses 
+in performance are linked to parallel weaknesses in the training and 
+qualification program 
+(8) Guidance on the design and implementation of training and qualification 
+programs is provided in DOE-HDBK-1078-94, Training Program 
+Handbook: A Systematic Approach to Training 
+b. The training and qualification program must be developed using a graded 
+approach. Use of the graded approach will ensure the level of detail and content of 
+the training and qualification program will be appropriate to the hazards involved 
+and risk associated with the operation of the facility or activity. Accordingly, the 
+level of detail and content of the training and qualification program, and associated 
+documents or procedures, must reflect the personnel selection, training, 
+qualification, and certification that are required at these facilities. 
+c. Every three years a contractor must perform a systematic evaluation of its training 
+and qualification programs IAW DOE-STD-1070-94, Criteria for Evaluation of 
+Nuclear Facility Training Programs.  The evaluation must include a review of the 
+training implementation documentation to ensure the document(s) reflect current 
+facility conditions/operations and meets the requirements of this CRD. The 
+evaluation may be conducted in phases over a three-year period. All sections must 
+be evaluated over a three-year period. 
+d. The contractor’s change control processes must be integrated with training to 
+ensure any changes to facility, processes, Documented Safety Analyses (DSAs), 
+Technical Safety Requirements (TSRs), Justifications for Continued Operation 
+(JCO), procedures, or regulatory changes are evaluated to determine their effect on 
+the existing Training and Qualification Programs. Changes to the TID require 
+DOE/NNSA approval. There are many conditions in a Training Implementation 
+Document that, if changed, would require a revision to the training and 
+qualification program documentation (e.g., facility system changes, changes to 
+operator positions, etc.) in addition to changes to the safety basis documentation.  
+e. Training personnel as a team, stressing team communications and interaction, may 
+be used where job functions require team activities and solutions.
+
+--- page 11 ---
+DOE O 426.2A Attachment 1, Chapter I – CRD, Contractors Only 
+1-29-2024 Page 1-I-3 
+ 
+f. Training and qualification programs must consist of a combination of classroom-
+type, on-the-job training, simulator, and laboratory training as it applies to the 
+position. Classroom-type training may include lectures, seminars, table-top 
+exercises, computer-based training, and structured self-study activities. Training 
+and qualification programs may employ multiple methods to accommodate 
+individual learning styles and training methods best suited for delivery of the 
+content being provided. Qualification/certification programs may not be limited 
+exclusively to self-study using computers or written materials.  
+g. Personnel in the process of completing training on tasks and positions for which 
+they are not yet fully qualified must work under the direct supervision of someone 
+who is qualified; however, they may independently perform individual tasks or job 
+assignments for which they are qualified. Contractor management must not place 
+unqualified personnel in a position that requires them to make decisions or take 
+actions when their work could affect facility safety.  
+4. PERSONNEL SELECTION. 
+a. Selection Process. The contractor must establish a process for selection and 
+assignment of "Functional Level" personnel as shown in Chapters II and III 
+(Tables 1, 2, and 3). This process includes factors such as background, experience, 
+education, and medical examination (as applicable), and may be based on the 
+ability of the person to meet job performance requirements. Selection of personnel 
+may involve a selection test. 
+b. E ducation and Experience Requirements . Education and experience requirements 
+for operating organization personnel are intended to ensure these persons have, or 
+will acquire, the knowledge and skills needed to operate and maintain DOE 
+nuclear facilities and related support systems under all conditions safely and 
+reliably. Tables and supporting notes in Chapters II and III identify the minimum 
+education and experience requirements for operating organization personnel and 
+managers. Management level personnel must meet the requirements shown prior to 
+assuming the duties of the assigned position. Except when noted otherwise, a 
+baccalaureate degree is required to be in engineering or a related science or 
+technology. 
+c. A lternatives to Education . Education requirements may include a baccalaureate 
+degree, or high school diploma. The type and level of degree/diploma required is a 
+function of the job responsibilities of the position. Persons who do not possess the 
+desired formal educational requirements may be qualified based on other factors 
+such as experience or non-academic training. Qualification by alternative factors is 
+a judgment decision made by the contractor in each case and must be fully 
+documented. The following alternative qualification methods may be considered in 
+making such decisions: 
+(1) High School Diploma: passing a General Education Development (GED) 
+test. 
+(2) Baccalaureate Degree. Three optional paths:
+
+--- page 12 ---
+Attachment 1, Chapter I – CRD, Contractors Only DOE O 426.2A 
+Page 1-I-4 1-29-2024 
+ 
+(a) Possession of a current Professional Engineer’s license relevant to 
+the position being filled; or 
+(b) Successful completion of 80 semester credit hours of the technical 
+portions of an engineering, engineering technology, or related 
+science program [i.e., calculus, engineering physics, chemistry 
+(above the freshman level), and engineering or science] may be 
+substituted for the baccalaureate degree. Successful completion 
+must be determined by a transcript or certification by an institution 
+or program accredited by an accrediting organization recognized 
+by the Council for Higher Education Accreditation or the United 
+States Department of Education. The courses must be in 
+appropriate technical subjects relevant to the position being filled; 
+or 
+(c) Experience substitution for education: 
+1 For reactor facilities or nonreactor nuclear facilities deemed 
+to need a higher rigor due to the complexity/hazards 
+associated with the facility:  Related experience may be 
+substituted for education at the rate of 6 semester credit 
+hours for each year of experience up to a maximum of 60 
+hours of credit. 
+2 F or other  nonreactor nuclear facilities:  Related experience 
+may be substituted for education at the rate of 2 years’ 
+experience to the applicable position for one year of a 
+baccalaureate degree (i.e., eight years’ related experience is 
+equivalent to a baccalaureate degree). 
+d. Alte rnatives to Experience . On a case-by-case basis, a contractor may accept 
+experience in general engineering design, construction, and operations as 
+qualifying nuclear experience. Acceptance of such experience must be documented 
+by the contractor. 
+Limitations:  
+(a) Formal education may not substitute for more than 50 percent of 
+experience requirements. 
+(b) Job-related training may be claimed as the equivalent to no more 
+than two years’ nuclear experience. 
+e. Exemption from Experience/Education Requirements. If an individual does not 
+meet the entry level experience requirements contained in the CRD tables and 
+cannot satisfy the alternative education and/or experience provisions, individuals 
+may still be assigned to that position based on consideration of the collective 
+nuclear experience and the strength and balance of the overall operating 
+organization. In such cases, the contractor must provide documented justification
+
+--- page 13 ---
+DOE O 426.2A Attachment 1, Chapter I – CRD, Contractors Only 
+1-29-2024 Page 1-I-5 
+ 
+to the DOE Head of Field Organization or the NNSA Field Element Manager for 
+approval prior to the assignment. 
+5. GENERAL EMPLOYEE TRAINING.  
+a. All personnel requiring unescorted access to Hazard Category 1, 2, or 3 nuclear 
+facilities must be trained on the topics listed below, as applicable, or be 
+continuously escorted by an employee already cleared for access. This training 
+may be given for site-wide access or for separate facilities. Required topics:  
+(1) General description of facility 
+(2) Access-related policies (to include escort duties), procedures and 
+instructions 
+(3) Radiological hazards 
+(4) Site/facility emergency plans 
+(5) Industrial hazards 
+(6) Fire response protocol/fire protection program 
+(7) Security requirements 
+b. Completion of access training requires satisfactory performance on an 
+examination, which may be written, computer, or web based. The examination 
+must be of sufficient scope and rigor to demonstrate the employee has adequate 
+knowledge to independently access the facility safely. 
+c. Changes to information provided in access training must be evaluated for potential 
+revision to the training and for periodic refresher training. 
+6. QUALIFICATION AND CERTIFICATION. 
+a. Qualification and certification have different requirements for management, 
+documentation, and records. Not all qualifications require certifications. All 
+certifications require qualification.  
+b. Initial Qualification and Certification. The program leading to 
+qualification/certification must be governed by written procedures that include 
+requirements for documented assessment of the person’s knowledge, skills, and 
+abilities. The contractor must define qualification/certification requirements for 
+personnel in each of the functional levels (Tables 1, 2, and 3) based on the criteria 
+contained in Chapter II or III as applicable. The contractor must keep an accurate 
+and up-to-date record indicating whether a person is qualified or certified and 
+stating when the qualification/certification expires. 
+c. S ubcontractor Personnel . Job qualifications stated in this Order apply to both 
+contractor and subcontractor personnel. It is the operating contractor’s
+
+--- page 14 ---
+Attachment 1, Chapter I – CRD, Contractors Only DOE O 426.2A 
+Page 1-I-6 1-29-2024 
+ 
+responsibility to ensure subcontractor and temporary personnel performing 
+specialized activities, such as radiation protection, radiography, welding, and in-
+service inspection, are qualified to perform the assigned tasks. Any one of the 
+following methods may be used to confirm subcontractor qualification: 
+(1) The satisfactory result of an audit of subcontractor qualification and 
+training records. 
+(2) The operating contractor’s previous verification (within two years) of the 
+subcontractor employee’s ability to perform assigned tasks safely and 
+efficiently. 
+(3) The subcontractor employee’s successful completion of those segments of 
+the operating organization’s qualification program is considered pertinent 
+to accomplishing the tasks to be performed. This may include 
+demonstrating proficiency. 
+(4) As stated in other sections of this CRD, a worker that cannot be qualified 
+using any of these options is required to work under the direct supervision 
+of personnel qualified to perform the activity or task. 
+7. OPERATORS AND OPERATIONS SUPERVISORS. 
+a. Operator training must cover all areas fundamental to the candidate’s assigned 
+tasks. The training and qualification program will include the following sections as 
+applicable: 
+(1) A core of fundamental science and engineering subjects as determined by 
+an analysis for the position(s). The subjects may be provided as 
+independent courses or as part of facility systems training. Examples 
+include, but are not limited to: Instrumentation and Controls, Mechanical 
+Science, Electrical Science, Heat Transfer, Fluid Flow, Thermodynamics, 
+Nuclear Science and Criticality Control, and Materials Science.  
+(2) Classroom, simulator (as applicable), and on-the-job training will cover: 
+(a) Facility or operation systems (normal, abnormal, and emergency 
+systems), including principles of operation, components, functions, 
+instrumentation, signals, interlocks, failure modes, system 
+interfaces, and automatic and manual features 
+(b) Principles of facility operation, including the process involved and 
+technical terminology for the chemical, physical, and metallurgical 
+reactions 
+(c) Normal, abnormal, and emergency procedures 
+(d) Emergency systems, including components, functions, and 
+limitations
+
+--- page 15 ---
+DOE O 426.2A Attachment 1, Chapter I – CRD, Contractors Only 
+1-29-2024 Page 1-I-7 
+ 
+(e) Criticality safety principles, controls, and specifications 
+(f) Radiation control practices 
+(g) Safety basis documentation (DSA, hazard controls, including 
+TSRs) 
+(h) Conduct of operations 
+b. The operations supervisor training and qualification program must cover in greater 
+technical depth the same subject categories and on-the-job training specified for 
+operators, to the extent appropriate. 
+c. Qualification of operators and operations supervisors is based on completion of a 
+comprehensive written examination and operational evaluation. Certification of 
+operators and operations supervisors is based on completion of qualification 
+requirements and an oral examination. 
+d. Qualification or certification of operators and operations supervisors is valid for up 
+to two years, but may be revoked earlier for cause, such as medical problems or 
+performance deficiencies. Qualification may be granted only after determining all 
+requirements have been met. 
+8. TECHNICIANS AND MAINTENANCE PERSONNEL. 
+a. Technicians and maintenance personnel must be qualified to perform the task or 
+tasks associated with their specialty or work under the direct supervision of 
+personnel qualified to perform the activity or task.  
+b. Technicians and maintenance personnel whose work involves engineered safety 
+features must be trained on the importance of safety significant and safety class 
+structures, systems, and components.  
+c. Technician and maintenance personnel qualification must include performance 
+evaluations, such as Job Performance Measures. Written examinations may be 
+administered to personnel in these positions as applicable.  
+d. Training and qualification program content for RCT must be IAW the 
+requirements contained in10 CFR Part 835, Occupational Radiation Protection; 
+and DOE-STD-1098-2017, Radiological Control. Passing an oral examination 
+may also be required for RCT positions (see Part 6 of DOE-STD-1098-2017). 
+9. OPERATIONS/ENGINEERING MANAGERS AND TECHNICAL PERSONNEL 
+SUPPORTING NUCLEAR FACILITIES. Personnel are considered qualified by virtue of 
+meeting the education and experience requirements for the position and by completing 
+applicable position-specific training.  
+a. Required training topics for operations and engineering managers: 
+(1) Applicable facility safety basis documents
+
+--- page 16 ---
+Attachment 1, Chapter I – CRD, Contractors Only DOE O 426.2A 
+Page 1-I-8 1-29-2024 
+ 
+(2) Facility processes and systems 
+(3) Additional topics listed in Section 7.a. as relevant to the position and 
+(4) Nuclear Safety Culture. 
+b. Required training topics for technical personnel as applicable: 
+(1) Facility fundamentals: systems, components, and operations 
+(2) Applicable DOE Orders and standards 
+(3) Applicable consensus codes and standards 
+(4) Safety basis documentation (DSA, hazard controls, including TSRs) and 
+the Unreviewed Safety Question (USQ) process 
+(5) Criticality safety program 
+(6) Radiological protection program  
+(7) Quality assurance program  
+(8) Material, maintenance, and configuration management 
+(9) Nuclear safety culture 
+c. Continuing training and professional development programs may be established to 
+meet the needs of the individual and the position. Satisfactory performance of their 
+assigned duties and assessment of individual performance such as that which is 
+typically included in personal performance appraisals may be used to document 
+and inform the determination of continued satisfactory performance. 
+10. EXAMINATIONS. 
+a. Written Examinations. Written examinations must contain a sampling of the 
+knowledge identified in and derived from the learning objectives resulting from 
+the SAT process.  
+b. O perational Evaluation . The operational evaluation is a facility walkthrough that 
+includes system and/or component operation. The evaluation may include a 
+simulation of operations, during which the candidate is observed and questioned 
+regarding procedures, safety implications, and TSRs. Operational evaluations 
+must require the candidate to demonstrate the ability to perform a sampling of the 
+following actions based on job-specific training requirements: 
+(1) Execute pre-startup procedures 
+(2) Operate controls that could affect reactivity or criticality safety
+
+--- page 17 ---
+DOE O 426.2A Attachment 1, Chapter I – CRD, Contractors Only 
+1-29-2024 Page 1-I-9 
+ 
+(3) Operate controls to control the facility in all operating modes 
+(4) Identify annunciators and condition-indicating signals and perform 
+appropriate remedial action; 
+(5) Identify instrumentation systems and the significance of associated 
+instrument readings 
+(6) Operate heat removal systems and explain relationships between proper 
+operation of these systems and the operation of the facility 
+(7) Operate auxiliary and emergency systems, including controls that could 
+affect criticality safety or confinement of radioactive and hazardous 
+materials 
+(8) Demonstrate or describe the use and function of radiation monitoring 
+systems, including fixed radiation monitors and alarms, portable survey 
+instruments, and personnel monitoring systems 
+(9) Demonstrate knowledge of significant radiation hazards, including 
+permissible levels of personnel exposure 
+(10) Respond to abnormal events 
+c. Oral Examinations for Certified Positions. 
+(1) Oral examinations may be conducted as a one-on-one walkthrough 
+(potentially during the operational evaluation) or by an oral board 
+empaneled by facility managers and knowledgeable and/or qualified 
+personnel. For Category A Reactors the oral exam must be separate from 
+the operational evaluation. 
+(2) Oral examinations require the candidate to demonstrate operational 
+knowledge. The oral examination must be tailored to evaluate the 
+candidate’s operational knowledge and organizational awareness as related 
+to the normal operating environment and abnormal conditions. Topics may 
+include operating philosophy, use of procedures, shift and relief turnovers, 
+and verification of system and equipment status. 
+11. EXCEPTIONS TO TRAINING REQUIREMENTS. 
+a. The operating contractor must establish a procedure for documenting and granting 
+exceptions to initial training and qualification program requirements. This 
+procedure requires the written approval of the DOE Head of Field Organization or 
+the NNSA Field Element Manager, per section 5.d.(3). 
+b. A request for an exception action includes: 
+(1) Name of the requester;
+
+--- page 18 ---
+Attachment 1, Chapter I – CRD, Contractors Only DOE O 426.2A 
+Page 1-I-10 1-29-2024 
+ 
+(2) Specific subject for which the exception is requested, and; 
+(3) Justification.  
+c. Successful completion of equivalent training and qualification programs 
+comparable in content and performance standards by personnel placed in the 
+training and qualification program may receive substitute equivalency credit for 
+training on an individual case basis. Exceptions to training may be based in part on 
+a review of previous training records. 
+d. Persons who believe they have comparable knowledge or skills may challenge the 
+requirement to attend training. Challenge examinations (written or performance) 
+may be administered and must be sufficiently comprehensive to adequately test the 
+learning objectives stated in the training. The use of challenge tests is not 
+considered an exception to the training.  
+12. CERTIFICATION PROCESS. 
+a. Certification: 
+(1) The processes by which contractor management endorses and documents, 
+in writing, the satisfactory completion of qualification requirements.  
+(2) Follows the completion of the qualification program for those positions 
+identified as requiring certification.  
+(3) Differs from qualification in that it requires an oral examination and 
+official contractor management endorsement. 
+b. Written procedures govern the certification process. 
+(1) Fissionable material handlers and fissionable material handler supervisors 
+must be certified. For all other operators and their immediate supervisors, 
+the contractor must identify in the implementation documentation any 
+additional positions that will be certified based on facility hazards and 
+operational complexity. 
+(2) The program leading to certification must be governed by written 
+procedures that include requirements for qualifications through 
+examinations and operational evaluations. 
+(3) Certification must not be granted until all qualification requirements and 
+other specified requirements (e.g., medical examination) have been 
+satisfactorily completed and management has confirmed the candidate is 
+capable of safely performing all functions of the position. 
+(4) Satisfactory completion of qualifications for certification must be verified 
+by a person other than the candidate’s immediate supervisor.
+
+--- page 19 ---
+DOE O 426.2A Attachment 1, Chapter I – CRD, Contractors Only 
+1-29-2024 Page 1-I-11 
+ 
+(5) Certification will be valid for a period not to exceed two years unless 
+revoked for cause (e.g., medical disqualification). 
+c. Certification is granted when: 
+(1) All qualification requirements and other specified requirements (e.g., 
+medical examination) have been satisfactorily completed, and  
+(2) Management has confirmed the candidate is capable of safely performing 
+all functions of the position.  
+13. MEDICAL EXAMINATION. Upon acceptance of a conditional offer of employment, an 
+initial medical examination must be given to certified operator candidates to verify health 
+and physical fitness to safely perform their assigned tasks. A reexamination must be 
+given to certified persons at least every two years unless more frequent monitoring is 
+determined appropriate by the examining physician. Certified persons must also be 
+cleared by medical examination prior to returning to full duty following any illness or 
+injury which prevents the person from performing full duties for a period exceeding one 
+month. Medical examinations for other operating contractor personnel must be job-
+related and consistent with business necessity IAW 42 U.S.C. §12112(d). 
+14. CONT INUING TRAINING. Continuing training must be provided to all operations 
+positions (e.g., shift managers, operations supervisors, shift technical engineers, 
+operators). Continuing training and qualification programs maintain and enhance the 
+knowledge and skills of operating personnel. DOE-HDBK-1118-99, Best Practices for 
+Continuing Training, may be consulted when developing such programs. 
+a. Qualified and/or Certified Operators and Operations Supervisors. 
+(1) Continuing training courses may be structured commensurate with specific 
+position needs and may be taken throughout a two-year period.  
+(2) Examinations may be used to ensure course material is understood and 
+retained.  
+(3) If the contractor chooses to give periodic requalification examinations in 
+place of a comprehensive biennial requalification examination, the 
+periodic requalification exams must include material from the continuing 
+training courses. 
+(4) Continuing training courses and exercises must cover:  
+(a) Significant facility system and component changes  
+(b) Procedure changes 
+(c) Recent industry operating experience 
+(d) Reinforcement of seldom-used knowledge and skills
+
+--- page 20 ---
+Attachment 1, Chapter I – CRD, Contractors Only DOE O 426.2A 
+Page 1-I-12 1-29-2024 
+ 
+(e) Changes in the safety basis documentation 
+(f) Other training as needed to correct identified performance 
+problems 
+(g) Normal, abnormal, and emergency procedures 
+(h) Use of facility systems to control or mitigate accidents 
+(i) Topics identified in Section 7.a. 
+(5) Operational Drills 
+1 The continuing training program for qualified/certified 
+operators and operations supervisors must include 
+operational drills conducted in the facility or on a simulator 
+to enable facility operating personnel and operating teams 
+to maintain their ability to respond to abnormal or accident 
+situations. Drills are intended for the entire operating crew 
+but can be run on portions of the crew as applicable.  
+2 O perational drills may be conducted in the facility or on a 
+simulator. 
+3 T he rigor and detail of a drill program will vary with 
+facility complexity and hazard potential. 
+4 O perational drills are NOT drills associated with 
+"Operational Emergencies" as defined in DOE O 151.1D, 
+Comprehensive Emergency Management System. 
+5 T he operational drill program must be included in the 
+Training Implementation Document. 
+(6) Personnel responsible for developing and delivering training may be 
+excused from continuing training on the subjects they teach. 
+15. REQUALIFICATION/RECERTIFICATION. Completion of the continuing training and 
+qualification program and requisite examinations is required for all operators and 
+operations supervisors. Operators and supervisors cannot continue to function in 
+qualified or certified positions if they have not completed all requalification or 
+recertification program elements within the two-year continuing training cycle. The 
+contractor must indicate that the person has successfully completed the requalification 
+program and is requalified and/or recertified. 
+a. Re qualification/Recertification Examinations . 
+(1) Requalification/recertification includes requisite examinations 
+(comprehensive examinations, operational evaluations, and oral 
+examinations if required by the position). Acceptable alternative paths are:
+
+--- page 21 ---
+DOE O 426.2A Attachment 1, Chapter I – CRD, Contractors Only 
+1-29-2024 Page 1-I-13 
+ 
+(i) a comprehensive biennial requalification examination, or (ii) periodic 
+examinations (e.g., quarterly) during the continuing training cycle, 
+provided the overall scope matches a biennial exam. 
+(2) If personnel fail a requalification or recertification examination, show 
+serious job performance deficiencies, or if any required training element 
+lapses, the person must be removed from any activities or areas requiring 
+the lapsed qualification or certification element. (See Section 15.c below 
+on extensions for lapse of a required training element.)  
+(3) Qualification or certification may be regained after completing remedial 
+training designed to correct the deficiency and satisfactory completion of a 
+reexamination, or completion of the needed training requirement. In 
+addition, recertification must be based on: (i) review of an individual’s 
+operating performance during the past certification period by line 
+management, and (ii) a current medical examination. 
+b. Absences. 
+(1) When a qualified/certified individual (operator or operations supervisor) 
+has been absent from duties (e.g., temporary reassignment, leave of 
+absence, extended training, etc.) for more than three months, but less than 
+12 months, the individual must confirm proficiency by complying with the 
+requirements of Chapter II.3 or Chapter III.5, as applicable. The 
+qualification or certification base date remains the same as it was before 
+the absence. 
+(2) When a qualified or certified individual has been absent for more than 12 
+months, in addition to the above requirements, the individual is required to 
+complete all the requisite examinations applicable to the position. Upon 
+successful completion of the above requirements, a new qualification or 
+certification date will be established. 
+c. Extensions.  
+(1) An extension of qualification or certification may be granted on a case-by-
+case basis to support operational and mission commitments. An 
+administrative procedure written by the contractor must be applied in these 
+circumstances. 
+(2) Documentation supporting the extension includes: 
+(a) Approver of the extension 
+(b) Length of the extension (not to exceed 12 months) 
+(c) Explanation of the circumstances that prevented the person from 
+completing the training requirements
+
+--- page 22 ---
+Attachment 1, Chapter I – CRD, Contractors Only DOE O 426.2A 
+Page 1-I-14 1-29-2024 
+ 
+(3) Extensions of certification for operators and operations supervisors can be 
+approved only by the DOE Head of Field Organization or the NNSA Field 
+Element Manager. Extensions of qualification for operators and operations 
+supervisors may be approved by contractor facility management. 
+16. MANAGEMENT AND SUPERVISORY SKILLS TRAINING. 
+a. Supervisory Skills Training. The supervisory skills training and qualification 
+program must cover the following topics: 
+(1) Leadership 
+(2) Interpersonal communication 
+(3) Roles, responsibilities, authority, and accountability 
+(4) Motivation of personnel 
+(5) Problem analysis and decision making 
+(6) Fitness for duty procedures 
+(7) Administrative policies and procedures 
+(8) Conduct of Operations 
+(9) Conduct of Maintenance as applicable, and the Work Control Process 
+(10) Quality Assurance 
+(11) Conduct of selection, training, qualification, and certification of personnel 
+(12) Management of personnel performance issues 
+(13) Nuclear Safety Culture 
+b. Management Skills Training. The management training and qualification program 
+must consider the supervisory skills listed above, plus:  
+(1) Quality assurance and quality control 
+(2) Facility security and emergency plans 
+(3) Purchasing
+
+--- page 23 ---
+DOE O 426.2A Attachment 1, Chapter I – CRD, Contractors Only 
+1-29-2024 Page 1-I-15 (and Page 1-I-16) 
+ 
+(4) Material storage 
+(5) Facility modifications and configuration control 
+(6) Nuclear, industrial, and radiation safety 
+(7) Environmental compliance 
+17. RECORDS.  
+a. Administrative records procedures are needed to control and preserve training, 
+qualification, and certification records in an easily auditable format. Guidance on 
+constructing such procedures may be found in several documents published by the 
+Nuclear Information and Records Management Association: TG-15, Management 
+of Electronic Records; and TG-21, Required Records Protection, Disaster 
+Recovery and Business Continuation.  
+b. Training records are subject to a number of legal requirements, which can be found 
+in: 10 CFR 835, subpart J; 10 CFR Section 851.25; 10 CFR Part 1008, Records 
+Maintained on Individuals (Privacy Act); and the current versions of DOE O 
+206.1, Department of Energy Privacy Program; DOE O 243.1; Records 
+Management Program; DOE O 471.7, Controlled Unclassified Information. 
+c. Some documents are sensitive due to their content (e.g., medical information) and 
+must be protected. In such cases, the TID may identify the secured location and 
+cybersecurity protections. Additionally, controlling access to physical and digital 
+training records is needed to maintain examination security.  
+d. Individual files include the following information: 
+(1) Education, experience, employment history, and most recent health 
+evaluation summary 
+(2) Training and qualification programs completed and 
+qualification/certification achieved; latest completed checklists, graded 
+written examinations (with answers corrected as necessary or examination 
+keys), simulator examinations, and operational evaluations used for 
+qualification/certification 
+(3) Lists of questions asked and the examiner’s overall evaluation of the 
+responses on oral examinations 
+(4) Correspondence relating to exceptions to training requirements and 
+extensions of qualification/certification 
+(5) Records of qualification for one-time-only special tests or operations 
+(6) Attendance records for required training courses or sessions  
+(7) Proficiency records if required by site procedures.
+
+--- page 24 ---
+
+
+--- page 25 ---
+DOE O 426.2A Attachment 1, Chapter II – CRD, Contractors Only 
+1-29-2024 Page 1-II-1 
+ 
+ATTACHMENT 1, CHAPTER II 
+NONREACTOR NUCLEAR FACILITIES 
+1. PURPOSE. The requirements in this CRD are intended to provide reasonable assurance 
+that personnel who can impact the safety basis through their involvement in the operation, 
+maintenance, and technical support at DOE Hazard Category 1, 2, and 3 nonreactor nuclear 
+facilities possess qualifications to operate and maintain the facility safely and reliably under 
+all conditions. This chapter contains specific training and qualification program 
+requirements for nuclear facility operators, fissionable material handlers, and nuclear 
+facility operations supervisors. The requirements of this chapter supplement those in 
+Chapter I. 
+Table 1 below summarizes the education and experience requirements for nonreactor 
+nuclear facilities. Except for the training manager and instructional technologist, all 
+college degrees must be in engineering or related scientific majors. 
+Table 1: Hazard Category 2 and 3 Nonreactor Nuclear Facilities 
+Personnel Education and Experience Requirements 
+FUNCTIONAL LEVEL EDUCATION EXPERIENCE SPECIAL 
+RQMTS 
+Degree or Diploma Job Related Nuclear  
+Managers Baccalaureate (1)  4 years (2) (6) 
+Supervisors HS  3 years (3)  
+Operators/Fissionable Material 
+Handlers HS    
+Technicians HS     
+Maintenance Personnel HS     
+Technical Support 
+Personnel/Staff Baccalaureate 2 years 1 year  
+Instructional Technologist Baccalaureate (4) 1 year  (4) 
+Training Instructors HS  (5)   
+Notes: 
+(1) The training manager must have a baccalaureate degree (does not have to be in Engineering or related science). 
+The training manager must have courses in education or training that focus on instructional analysis, design, 
+development, delivery, and testing as well as evaluation of training and qualification programs if not included in 
+the baccalaureate course material.   
+(2) Job-related education or experience may be substituted on a case-by-case basis. The degree may be used to 
+substitute up to 50 percent of the experience requirement per section I 4.e of this CRD. 
+(3) Full-time related academic training (e.g., degree programs, trade schools, and vocational programs) may be 
+substituted on a one-for-one basis for up to two years of nuclear experience. 
+(4) Instructional technologists should have a degree in training/education. Training or education for instructional 
+technologists must include courses on the SAT process including analysis, design, development, 
+implementation, and evaluation. Additionally, instructional technologist training may include evaluation of 
+training materials, instructor evaluation, and training and qualification program assessment. 
+(5) Experience must be consistent with the material being presented. Instructors must have demonstrated knowledge of 
+instructional techniques through training or experience and be qualified by the training manager (or equivalent) for 
+the material being presented. Instructors responsible for instruction on subjects such as TSRs are required to 
+complete training on facility operating characteristics and principles, and operating limits such as Safety
+
+--- page 26 ---
+Attachment 1, Chapter II – CRD, Contractors Only DOE O 426.2A 
+Page 1-II-2 1-29-2024 
+ 
+Limits, Limiting Control Settings, and Limiting Conditions for Operation. Significant involvement in the 
+writing of TSRs is desirable but not required. 
+(6) Managers must receive facility-specific training based upon a comparison of the individual’s background and 
+abilities with the responsibilities and duties of the position. 
+2. SPECIFIC REQUIREMENTS FOR CERTIFIED POSITIONS. 
+a. Certified Operators and Fuel Handling Operators. Learning objectives developed 
+from the Job/Task analysis must include information in the DSA, TSRs, system 
+description manuals and operating procedures, lessons learned from Occurrence 
+Reports, and other applicable sources. System process control operations may be 
+included as appropriate for the facility. Certified supervisors need only supervise 
+or direct the performance of system operations to satisfy this requirement. 
+b. C ertified Supervisors  and Fuel Handling Supervisors. Job/Task analysis may 
+generate learning objectives for certified supervisors similar to operators with 
+increased emphasis on theory and basis for procedures. In addition, the following 
+topics may be considered: 
+(1) Procedures and limitations involved in initial equipment loading, 
+alterations in fissionable material configuration, and determination of 
+various internal and external effects on criticality safety 
+(2) Procedures, equipment, and facilities available for handling and disposing 
+of radioactive materials and effluent 
+(3) Functions, assignments, and responsibilities of the maintenance and 
+technical support organizations as related to nuclear facility safety 
+(4) Applicable portions of the facility DSA and TSRs. 
+c. Comprehensive written examinations must be used and must contain a 
+representative selection of questions on the knowledge identified in the learning 
+objectives.  
+3. PROFICIENCY. 
+a. The operating organization must establish procedures which define requirements 
+and frequency (e.g., 8 hours per month, 10 hours per quarter, etc.) necessary to 
+maintain proficiency. An individual normally maintains proficiency by having a 
+position on a shift crew and being responsible for the day-to-day duties of that 
+position. Personnel not assigned full-time to operating shifts may remain proficient 
+by participating in a defined number of shift hours or operating activities. Both 
+qualified and certified positions are required to maintain proficiency. 
+b. If proficiency has not been maintained, qualification/certification must be 
+suspended, and the person must not be assigned duties. Prior to reassigning an 
+employee to duty following loss of active status, the contractor must evaluate and 
+document the following factors:
+
+--- page 27 ---
+DOE O 426.2A Attachment 1, Chapter II – CRD, Contractors Only 
+1-29-2024 Page 1-II-3 (and Page 1-II-4) 
+ 
+(1) Continuing training topics missed (if any) 
+(2) Required reading applicable to the position 
+(3) Changes in facility systems/processes 
+(4) Performance of duties under the direct supervision of a person qualified in 
+that position for a prescribed period 
+(5) Written and oral examinations and performance evaluations if applicable  
+c. If the facility or specific activities are not operated frequently enough to meet 
+established requirements, qualification/certification must be reinstated prior to 
+operation. One or more of the following qualification methods may be used: 
+(1) Written and/or oral examination 
+(2) Operational evaluation (including practical factors and performance 
+demonstrations) 
+(3) Facility or tabletop walkthrough 
+(4) Simulated operations
+
+--- page 28 ---
+
+
+--- page 29 ---
+DOE O 426.2A Attachment 1, Chapter III – CRD, Contractors Only 
+1-29-2024 Page 1-III-1 
+ 
+ATTACHMENT 1, CHAPTER III 
+REACTOR NUCLEAR FACILITIES 
+1. PURPOSE. This chapter contains specific training requirements for positions unique to 
+Hazard Category 1 and 2/Category A and B Reactor Nuclear Facilities, such as the 
+specialized training and certification requirements for reactor operators. The requirements 
+of this chapter supplement those in Chapter I. 
+2. RE ACTOR TRAINING SUMMARY. Tables 2 and 3 below summarize the training 
+requirements for two types of reactors. Except for the training manager, all college 
+degrees must be in engineering or related scientific majors. 
+Table 2: Hazard Category 1/Category A Reactor Facility 
+Personnel Education and Experience Requirements 
+FUNCTIONAL LEVEL 
+EDUCATION EXPERIENCE SPECIAL RQMTS 
+Degree/Diploma Other Job Related Nuclear  
+Managers 
+Plant/Facility Manager Baccalaureate  (1) 6 years (2)(3) (5) 
+Operations Manager Baccalaureate  (15) 4 years (3)(6) (13) 
+Maintenance Baccalaureate  (15) 4 years (3)(6) (8) 
+Technical Manager Baccalaureate  (15) 4 years (3)(7)  
+Supervisors 
+Shift Supervisor HS   4 years (6) (19) 
+Senior Reactor Operator HS  4 years 2 years (3) (10) 
+Qualified Supervisor HS  4 years 1 year (4)  
+Technical Support 
+Technical Personnel Baccalaureate  2 years 1 year  
+Shift Technical Advisor Baccalaureate   1 year (3) (18) 
+Training Organization 
+Training Manager Baccalaureate (17)  4 years (16) 2 years (9) 
+Instructional Technologist Baccalaureate (14)  2 years (3)  
+Training Instructor HS  2 years (11)  (12) 
+Operators, Technicians, & Maintenance 
+Auxiliary Operator HS   1 year (7)(3)  
+Reactor Operator HS   3 years (3)(6)  
+Technician HS  3 years   
+Maintenance Personnel HS  1 year   
+Notes: 
+(1) Minimum of four years of supervisory or management experience.  
+(2) Three years of nuclear experience may be power plant experience. 
+(3) Minimum of six months onsite. 
+(4) Minimum of three months onsite.
+
+--- page 30 ---
+Attachment 1, Chapter III – CRD, Contractors Only DOE O 426.2A 
+Page 1-III-2 1-29-2024 
+ 
+(5) Hold, or have held, a senior reactor operator (SRO) certification/NRC License for similar Hazard Category 1/ 
+Category A reactor plant (or equivalent) or have been certified at an appropriate simulator. Plant managers who 
+have an assistant holding an SRO certification need not meet this special standard.   
+(6) Two years of nuclear experience may be nuclear/non-nuclear power plant experience. 
+(7) One year of nuclear experience may be power plant experience. 
+(8) Includes familiarity with nondestructive testing and understanding of electrical, pressure vessel, and piping 
+codes and standards. 
+(9) Training manager holds, or has held, an SRO certification/NRC License for similar Hazard Category 1/ 
+Category A reactor plant (or equivalent) or have been certified at an appropriate simulator. If the training 
+manager does not hold, or has not held, an SRO certification, someone who holds or has held an SRO 
+certification must be responsible for the content and conduct of training for certified operators.  
+(10) Special requirements for the SRO: 
+(a) One year of nuclear power plant experience as an active reactor operator of the same vendor and vintage; or 
+(b) One and a half years as an active reactor operator at a comparable [boiling water reactor (BWR)/pressurized 
+water reactor (PWR)] facility or a noncomparable commercial power reactor facility; or 
+(c) Four years as a senior operator level certified instructor at the current or a commercial power reactor facility. 
+(11) Experience must be consistent with the material being presented. Instructors must have demonstrated knowledge of 
+instructional techniques through training or experience and be qualified by the training manager (or equivalent) for 
+the material being presented. 
+(12) Instructors providing instruction on the reactor plant simulator to certified personnel are required to hold, or have 
+held, an SRO certification for a similar Hazard Category 1/Category A reactor plant (or equivalent), or have been 
+certified on the reactor plant simulator. Persons responsible for instruction of subjects such as TSRs, reactor 
+operating principles and characteristics, and control manipulations are required to have received SRO (or 
+equivalent) training.  
+(13) The operations manager must hold an SRO certification at the time of appointment to the position.  
+(14) Instructional technologists should have a degree in training/education.  Training or education for instructional 
+technologists must include courses on the SAT process including analysis, design, development, implementation, 
+and evaluation. Additionally, instructional technologist training may include evaluation of training materials, 
+instructor evaluation, and training and qualification program assessment. 
+(15) Minimum of three years of supervisory or management experience. 
+(16) Minimum of one year of supervisory or management experience. 
+(17) The training manager must have a baccalaureate degree (does not have to be in Engineering or related science). 
+The training manager must have courses in education or training that focus on instructional analysis, design, 
+development, delivery and testing as well as evaluation of training and qualification programs if not included in the 
+baccalaureate course material.   
+(18) The shift technical advisor (STA) must have a thorough understanding of facility instrumentation and control. 
+(19) The shift supervisor must be certified SRO.
+
+--- page 31 ---
+DOE O 426.2A Attachment 1, Chapter III – CRD, Contractors Only 
+1-29-2024 Page 1-III-3 
+ 
+Table 3: Hazard Category 2/Category B Reactor Facility 
+Personnel Education and Experience Requirements 
+FUNCTIONAL LEVEL 
+EDUCATION EXPERIENCE 
+SPECIAL RQMTS 
+Degree or Diploma Job Related Nuclear 
+Managers 
+Plant/Facility Manager Baccalaureate  6 years (1)(2)  
+Operations Manager Baccalaureate  4 years (2) (5)  
+Maintenance Baccalaureate  4 years (2)   
+Technical Manager Baccalaureate  4 years (2)   
+Supervisors 
+Shift Supervisor HS  3 years (2) (8) 
+Senior Reactor Operator HS  3 years (2)  
+Training Organization 
+Training Manager Baccalaureate (6) 4 years 2 years  
+Instructional Technologist Baccalaureate (7) 2 years   
+Training Instructor HS (3)  (4) 
+Technical Support 
+Technical Personnel Baccalaureate 2 years 1 year  
+Reactor Operator HS    
+Technician HS 1 year   
+Maintenance Personnel HS 1 year   
+Notes: 
+(1) Job-related education or experience may be substituted on a case-by-case basis. The degree may fulfill four of 
+the six years of nuclear experience.  
+(2) Experience acquired at nuclear power, test, research, or production reactors or at a critical facility counts 
+towards nuclear experience for purposes of this Order. 
+(3) Experience must be consistent with the material being presented. Instructors must have demonstrated knowledge of 
+instructional techniques through training or experience and be qualified by the training manager (or equivalent) for 
+the material being presented. 
+(4) Persons responsible for instruction of subjects such as TSRs, reactor operating principles and characteristics, 
+and control manipulations are required to have received SRO (or equivalent) training. 
+(5) The operations manager must hold an SRO certification at the time of appointment to the position.  
+(6) The training manager must have a baccalaureate degree (does not have to be in Engineering or related science). 
+The training manager must have courses in education or training that focus on instructional analysis, design, 
+development, delivery and testing as well as evaluation of training and qualification programs if not included in the 
+baccalaureate course material.   
+(7) Instructional technologists should have a degree in training/education.  Training or education for instructional 
+technologists must include courses on the SAT process including analysis, design, development, 
+implementation, and evaluation. Additionally, instructional technologist training may include evaluation of 
+training materials, instructor evaluation, and training and qualification program assessment. 
+(8) The shift supervisor must be certified SRO.
+
+--- page 32 ---
+Attachment 1, Chapter III – CRD, Contractors Only DOE O 426.2A 
+Page 1-III-4 1-29-2024 
+ 
+3. SPECIFIC REQUIREMENTS: HAZARD CATEGORY 1/CATEGORY A REACTOR. 
+This section provides additional position-specific training requirements for Hazard 
+Category 1/Category A reactor personnel.  
+a. E ngineering Expertise On -Shift Requirements. Safe operation demands the 
+operating shift possess adequate operational and accident management expertise. 
+This demand may be satisfied by designating a Shift Technical Advisor (STA) for 
+each shift, or by combining the STA position with the shift supervisor or an on-
+shift SRO. If the combined approach is utilized, the designated STA must have the 
+following qualifications:  
+(1) Currently certified as an SRO 
+(2) Successful completion of STA training requirements in paragraph 3.c. 
+(3) One of the following educational requirements: 
+(a) Baccalaureate in Engineering 
+(b) Professional Engineer’s license 
+(c) Baccalaureate in Engineering Technology, with course work in the 
+physical, mathematical, or engineering sciences 
+(d) Baccalaureate in a physical, mathematical, or engineering science, 
+with course work in engineering technology 
+b. Simulator Requirements. The need for a full-scope or part-task simulator for DOE 
+test and research reactors may be based on an evaluation conducted by the 
+operating organization. The evaluation may consider whether adequate training 
+may be achieved by actual facility maneuvers, drills, part-task simulators, or a 
+combination of these. The evaluation may also consider the ability to adequately 
+provide in-facility training covering all operator actions needed to achieve and 
+maintain safe shutdown. The operating contractor may evaluate the ability to 
+provide adequate training in normal operations, anticipated transients, and 
+accident conditions. The assessment of the need for a simulator must be reviewed 
+by the DOE Head of Field Organization or the NNSA Field Element Manager and 
+the Program Secretarial Officer or the NNSA Deputy Administrator. 
+c. S hift Technical Advisor . STA training must include:  
+(1) The duties, responsibilities, and authorities of the STA 
+(2) Postulated accidents analyzed in the facility DSA and the potential 
+consequences of these accidents 
+(3) Thermodynamics/fluid flow, reactor physics, system engineering, nuclear 
+instrumentation, use of a process computer, and facility response to 
+normal and abnormal conditions
+
+--- page 33 ---
+DOE O 426.2A Attachment 1, Chapter III – CRD, Contractors Only 
+1-29-2024 Page 1-III-5 
+ 
+(4) Performance of control manipulations, either on a simulator, in the facility 
+during maneuvers and drills, or a combination of these  
+(5) Response to and analysis of facility transients and accidents  
+(6) The relationship of accident conditions to offsite consequences and 
+protective action strategies 
+d. Fuel Handling Operations [to include Special Nuclear Material (SNM) Handling 
+and Fissionable Material Handling]. 
+(1) Fuel handling operations must always be performed by or under the direct 
+supervision of a person certified to perform the required functions.  
+(2) A specific training and qualification program that comprises initial and 
+continuing training may be established to certify fuel handling operators 
+and supervisors.  
+(3) Training and examination may be limited to fuel handling safety and 
+actions to be taken during abnormal and emergency conditions. 
+(4) Written examinations must be given to gauge the qualification of fuel 
+handling operators. 
+NOTE: The training requirements listed above are not necessary if fuel handling 
+is performed by persons trained for such as part of reactor operator and SRO 
+certification programs. 
+e. Reactor Operators. Training must include information from the following as 
+applicable:  
+(1) Fundamentals of reactor theory, heat transfer, thermodynamics, and fluid 
+mechanics 
+(2) General design features of the core  
+(3) Components and design features of major systems  
+(4) Facility operating characteristics during steady state and transient conditions 
+(5) Procedures and TSRs including normal, abnormal, emergency, and 
+administrative procedures; and operational limitations 
+(6) An understanding of the DSA, TSRs, system description manuals and 
+operating procedures 
+(7) Radiological safety principles and procedures 
+(8) Use of installed facility systems for the control and mitigation of an 
+accident in which the core may be severely damaged.
+
+--- page 34 ---
+Attachment 1, Chapter III – CRD, Contractors Only DOE O 426.2A 
+Page 1-III-6 1-29-2024 
+ 
+(9) Written examinations containing a selection of questions from the learning 
+objectives developed from the analysis of the job must be administered to 
+reactor operator candidates.  
+f. Senior Reactor Operators. Training must include information from the following 
+as applicable:  
+(1) Conditions and limitations for facility operations  
+(2) Operating limitations in the TSRs and their bases 
+(3) Procedures required to obtain authority for design and operating changes 
+in the facility  
+(4) Radiation hazards that may arise during normal and abnormal situations, 
+including maintenance activities and various contamination conditions 
+(5) Assessment of facility conditions and selection of appropriate procedures 
+during normal, abnormal, and emergency situations  
+(6) Procedures and limitations for initial core loading, alterations in core 
+configuration, control rod programming, and determination of various 
+internal and external effects on core reactivity 
+(7) Fuel handling facilities and procedures 
+(8) Written examinations containing questions on the learning objectives 
+listed above must be administered to SRO candidates.  
+g. Operating Crew/Shift Training. 
+(1) Reactor operator candidates must: (i) be assigned to an operating crew 
+full-time for a minimum of three months’ shift training, with no 
+concurrent duties unrelated to facility operations, and (ii) during this 
+period, under the observation and control of a certified reactor operator, 
+manipulate the facility controls and perform the same duties as a certified 
+reactor operator.  
+(2) SRO candidates must: (i) be assigned to an operating crew full-time for a 
+minimum of three months’ shift training with no concurrent duties 
+unrelated to facility operations, and (ii) during this period, under the 
+observation and control of a certified SRO, supervise the manipulation of 
+the facility controls and perform the same duties as a certified SRO. 
+h. Control Manipulation Requirements for Certified Positions. 
+(1) The list of control manipulations for certified positions is based on the SAT 
+analysis for these positions. This list (i) specifies which manipulations are to 
+be performed annually and which are to be performed biennially, and (ii) 
+identifies any control manipulations that may affect reactivity.
+
+--- page 35 ---
+DOE O 426.2A Attachment 1, Chapter III – CRD, Contractors Only 
+1-29-2024 Page 1-III-7 
+ 
+(2) A minimum of five reactivity manipulations must be performed by reactor 
+operator and SRO candidates prior to initial certification. Additional 
+control manipulations may be based on the job analysis. 
+(3) Control manipulations are performed by candidates for certification prior 
+to initial certification and thereafter on a biennial basis for reactor 
+operators and SROs as part of the continuing training and qualification 
+program. 
+(4) Certified supervisors need only supervise or direct the performance of 
+control manipulations to satisfy these criteria. 
+i. Medical Examination Requirements. For Hazard Category 1/Category A reactors, 
+the contractor must comply with 10 CFR 851, Appendix A, Section 8, 
+Occupational Medicine. Medical personnel are encouraged to use medical 
+examination criteria and procedures in ANSI/ANS 3.4-2013, Medical Certification 
+and Monitoring of Licensed Personnel at Nuclear Power Plants, and NRC 
+Regulatory Guide 1.134, Medical Assessment of Licensed Personnel at Nuclear 
+Power Plants, Rev. 4, September 2014. 
+4. S PECIFIC REQUIREMENTS: HAZARD CATEGORY 2/CATEGORY B REACTOR.  
+a. Fuel Handling Operations. All fuel handling operations must be performed by or 
+under the direct supervision of a person certified to perform such operations. 
+Supporting requirements: (1) establish a specific training and qualification 
+program (initial and continued) to certify fuel handling operators and supervisors 
+for their assigned tasks,  and (2) administer written examinations. Training and 
+examination may be limited to that needed for fuel handling safety, the impact of 
+fuel handling on safety, and actions to be taken during abnormal and emergency 
+conditions. 
+The requirements above do not apply if fuel handling is performed by reactor 
+operators and SROs trained for fuel handling. 
+b. Reactor Operators. Training for reactor operators may consider the previous 
+experience, training, and level of responsibility of the candidate. The qualification 
+program may include both classroom-type and on-the-job training to assure 
+familiarity with all required aspects of reactor operation, including anticipated 
+transients and accident conditions. Where construction precludes on-the-job 
+training, practical experience at similar reactors, training on simulators, and other 
+appropriate training may be accepted. Training must include information from the 
+following as applicable: 
+(1) Facility design and operating characteristics, including facility design 
+features, design and operating characteristics and limitations, safety and 
+emergency systems, experiment and test facilities, engineered safety 
+features, and shielding
+
+--- page 36 ---
+Attachment 1, Chapter III – CRD, Contractors Only DOE O 426.2A 
+Page 1-III-8 1-29-2024 
+ 
+(2) An understanding of the DSA, TSRs, system description manuals and 
+operating procedures 
+(3) Principles of facility operation, including principles of reactor operation, 
+radiological protection, effects of experiments, basic reactor theory, heat 
+transfer, fluid flow, and thermodynamics, as necessary, for the specific 
+design of the reactor 
+(4) Instrumentation and control, including nuclear instruments, process 
+instruments, control systems, radiation monitoring systems and survey 
+equipment, experiment and test facility instrumentation, and manipulation 
+of reactivity controls 
+(5) Procedures and TSRs, including normal, abnormal, emergency, 
+radiological and hazardous materials control and administrative 
+procedures, and operational limitations 
+(6) Written examinations based on the above learning objectives and 
+developed from an analysis of the job must be administered to reactor 
+operator candidates  
+c. Senior Reactor Operators. Training for SROs may consider the previous 
+experience, training, and level of responsibility of the candidate. Training must 
+include information from the following as applicable: Radioactive materials 
+handling, including SNM and radioactive materials hazards, handling, disposal, 
+and safe practices  
+(1) Information in the DSA, TSRs, system description manuals and operating 
+procedures, and lessons learned from Occurrence Reports 
+(2) Advanced theory and operation, including reactivity effects during 
+experimental and maintenance activities, fuel handling, fuel burnup and 
+reactivity worth; alterations in core configuration; TSRs and their 
+technical bases; and administrative responsibilities for an SRO’s level of 
+responsibility 
+(3) Written examinations based on the above learning objectives developed 
+from an analysis of the job must be administered to SRO candidates.  
+d. Control Manipulation Requirements for Certified Positions. (See Chapter III, 
+Section 3.) 
+e. Medical Examination Requirements. For Hazard Category 2/Category B reactors, 
+the contractor must comply with 10 CFR 851, Appendix A, Section 8, 
+Occupational Medicine. Medical personnel are encouraged to use the medical 
+examination criteria and procedures in ANSI/ANS 15.4-2016, Selection and 
+Training of Personnel for Research Reactors.
+
+--- page 37 ---
+DOE O 426.2A Attachment 1, Chapter III – CRD, Contractors Only 
+1-29-2024 Page 1-III-9 (and Page 1-III-10) 
+ 
+5. PROFICIENCY. General proficiency requirements are provided in Chapter II, Section 4. 
+The following are the minimum duty times to maintain proficiency for reactor operators 
+and SROs: 
+a. Hazard Category 1/Category A Reactors: 36 hours per quarter, in blocks of time no 
+less than four hours.  
+b. Hazard Category 2/Category B Reactors: To maintain active status, perform 
+certification duties for at least four hours per quarter. 
+c. For other operators, operations supervisors, and on-shift technical personnel, 
+specific activities or duty hours per quarter required to maintain active status are 
+defined by the operating contractor. 
+d. If proficiency is not maintained, the person may not be assigned duties. Prior to 
+restoring an employee to duty following loss of active status, the contractor may 
+evaluate and document the following factors:  
+(1) Continuing training topics missed (if any) 
+(2) Required reading applicable to the position 
+(3) Changes in facility systems/processes 
+(4) Performance of duties under the direct supervision of a person qualified in 
+that position for a prescribed period IAW Section e below 
+(5) Written and oral examinations and performance evaluations as deemed 
+necessary 
+e. If proficiency is not maintained, Certified Reactor Operators and SROs must: 
+(1) perform certification duties under the direct supervision of a person certified in 
+that position for a minimum period of time, as stated below; (2) tour the facility; 
+and (3) review shift turnover procedures. The minimum required performance 
+times for certified duties are: 
+(1) Hazard Category 1/Category A reactor certified reactor operators and 
+SROs: 24 hours (in blocks of no less than four hours).  
+(2) Hazard Category 2/Category B reactor certified reactor operators and 
+SROs: six hours.
+
+--- page 38 ---
+
+
+--- page 39 ---
+DOE O 426.2A Attachment 2 – Federal Employees and Contractors 
+1-29-2024 Page 2-1 
+ 
+ 
+ATTACHMENT 2. REFERENCES 
+This Attachment provides information associated with DOE O 426.2A as well as information 
+applicable to contracts in which the associated CRD (Attachment 1 to DOE O 426.2A) is 
+inserted. 
+1. Code of Federal Regulations (CFR).  
+a. 10 CFR Part 55, Operators’ Licenses  
+b. 10 CFR Part 830, Nuclear Safety Management 
+c. 10 CFR Part 835, Occupational Radiation Protection 
+d. 10 CFR Part 850, Chronic Beryllium Disease Prevention Program 
+e. 10 CFR Part 851, DOE Worker Safety and Health Program 
+f. 10 CFR 1008, Records Maintained on Individuals (Privacy Act) 
+2. Nuclear Information and Records Management Association.  
+a. Nuclear Information and Records Management Association, Management of 
+Electronic Records, TG-15-1998 
+b. Nuclear Information and Records Management Association, Electronic Records 
+Protection and Restoration, TG-21-2011 
+3. Nuclear Regulatory Commission.  
+a. Regulatory Guide 1.134, Medical Assessment of Licensed Operators or 
+Applicants for Operator Licenses at Nuclear Power Plants 
+b. Regulatory Guide 1.149, Nuclear Power Plant Simulation Facilities for Use in 
+Operator Training, License Examinations, and Applicant Experience 
+Requirements, Rev. 4 (2011) 
+c. Regulatory Guide 1.8, Qualification and Training of Personnel for Nuclear 
+Power Plants, Rev. 3 (2000) 
+4. American National Standards Institute (ANSI)/American Nuclear Society (ANS) STD. 
+a. ANSI/ANS 3.1-2014, Selection, Qualification, and Training of Personnel for 
+Nuclear Power Plants 
+b. ANSI/ANS 3.4-2013, Medical Certification and Monitoring of Personnel 
+Requiring Operator Licenses for Nuclear Power Plants 
+c. ANSI/ANS 3.5-2009, Nuclear Power Plant Simulators for Use in Operator 
+Training and Examination
+
+--- page 40 ---
+Attachment 2 – Federal Employees and Contractors DOE O 426.2A 
+Page 2-2 1-29-2024 
+ 
+ 
+d. ANSI/ANS 8.1-2014, Nuclear Criticality Safety in Operations with Fissionable 
+Materials Outside Reactors 
+e. ANSI/ANS 8.15-2014, Nuclear Criticality Control of Special Actinide Nuclides 
+f. ANSI/ANS 8.20-1991, Nuclear Criticality Safety Training (Reaffirmed 2015) 
+g. ANSI/ANS 15.4-2016, Selection and Training of Personnel for Research Reactors 
+5. DOE Orders (O) and Manuals (M). 
+a. DOE O 151.1, Comprehensive Emergency Management System, current version 
+b. DOE O 206.1, Department of Energy Privacy Program, current version 
+c. DOE O 226.1, Implementation of Department of Energy Oversight Policy, current 
+version 
+d. DOE O 227.1, Independent Oversight Program, current version 
+e. DOE O 243.1, Records Management Program, current version 
+f. DOE O 251.1, Departmental Directives Program, current version 
+g. DOE O 414.1, Quality Assurance, current version 
+h. DOE O 420.1, Facility Safety, current version 
+i. DOE O 425.1, Verification of Readiness to Startup or Restart Nuclear Facilities, 
+current version 
+j. DOE O 440.1, Worker Protection Program for DOE (including the National 
+Nuclear Security Administration) Federal Employees, current version 
+k. DOE O 460.1, Hazardous Material Packaging and Transportation Safety, current 
+version 
+l. DOE O 471.7, Controlled Unclassified Information, current version 
+6. DOE Handbooks (HDBK) and Technical Standards (STD). 
+a. DOE-STD-1070-94, Criteria for Evaluation of Nuclear Facility Training 
+Programs (R: 2014) 
+b. DOE-HDBK-1078-94, Training Program Handbook: A Systematic Approach to 
+Training (R: 2014) 
+c. DOE-HDBK-1211-2014, Activity-Level Work Planning and Control 
+Implementation
+
+--- page 41 ---
+DOE O 426.2A Attachment 2 – Federal Employees and Contractors 
+1-29-2024 Page 2-3 (and Page 2-4) 
+ 
+ 
+d. DOE-STD-1098-2017, Radiological Control 
+7. Other.  
+a. Department of Energy Implementation Plan for Defense Nuclear Facilities Safety 
+Board Recommendation 2011-1, December 27, 2011 
+b. Other training resources are available at the National Training Center Training 
+Library (https://sites.ntc.doe.gov/partners/tr/SitePages/Home.aspx) and in DOE’s 
+Technical Standards archives. Examples of archived documents: 
+(1) DOE-HDBK-1204-97, Guide to Good Practices for the Development of 
+Test Items 
+(2) DOE-HDBK-1205-97, Guide to Good Practices for the Design, 
+Development, and Implementation of Examinations 
+(3) DOE-HDBK-1206-98, Guide to Good Practices for On-The-Job Training 
+(4) DOE-HDBK-1078-94, Training Program Handbook: A Systematic 
+Approach to Training 
+(5) DOE-HDBK-1118-99, Guide to Good Practices for Continuing Training
+
+--- page 42 ---
+
+
+--- page 43 ---
+DOE O 426.2A Attachment 3 – Federal Employees and Contractors 
+1-29-2024 Page 3-1 
+ 
+ 
+ATTACHMENT 3. DEFINITIONS 
+This Attachment provides information associated with DOE O 426.2A as well as information 
+applicable to contracts in which the associated CRD (Attachment 1 to DOE O 426.2A) is 
+inserted. 
+1. Auxiliary Operator is an operator whose duties and responsibilities involve balance of 
+plant operations typically outside the control area. 
+2. C ategory A Reactor Facilities means those production, test, and research reactors 
+designated by DOE based on power level, potential fission product inventory, and 
+experimental capability. Category A reactors are Hazard Category 1 nuclear facilities. 
+3. C ategory B Reactor Facilities means those test and research reactors designated by DOE 
+based on power level, potential fission product inventory, and experimental capability. 
+Category B reactors are Hazard Category 2 nuclear facilities. 
+4. C ertification  is the process by which contractor management endorses and documents, in 
+writing, the satisfactory achievement of qualification by a person for a position 
+designated for certification. Certification follows the completion of the qualification 
+program for those positions identified as requiring certification. The notable differences 
+between initial certification and qualification are: (a) requirements for an oral 
+examination or board, and (b) certification requires official contractor management 
+endorsement, outside of the individual’s direct supervisor, of their qualification to ensure 
+senior management involvement in the qualification of designated operations positions 
+(i.e., operators and supervisors).  
+5. C ertified Person  is a person who has current certification in accordance with this Order. 
+6. Controls means when used with respect to nuclear reactors, apparatus, and mechanisms 
+that, when manipulated, directly affect the reactivity or power level of a reactor or the 
+status of an engineered safety feature.  
+7. C ritical Assembly  means special nuclear devices designed and used to sustain nuclear 
+reactions, which may be subject to frequent core and lattice configuration changes and 
+may frequently be used as mockups of reactor configurations (10 CFR Part 830). For 
+purposes of this Order, critical assemblies are considered Hazard Category 2 nuclear 
+facilities or Category B reactors. 
+8. D irect Supervision  occurs when the qualified watchstander's sole responsibility is the 
+supervision of the trainee and the watchstander is continuously capable of physically 
+preventing any adverse actions of the trainee by direct intervention of the trainee’s 
+actions. 
+9. D ocumented Safety Analysis (DSA)  means a documented analysis of the extent to which 
+a nuclear facility can be operated safely with respect to workers, the public, and the 
+environment, including a description of the conditions, safe boundaries, and hazard 
+controls that provide the basis for ensuring safety. (10 CFR Part 830)
+
+--- page 44 ---
+Attachment 3 – Federal Employees and Contractors DOE O 426.2A 
+Page 3-2 1-29-2024 
+ 
+ 
+10. Education is the successful completion of the requirements established by an accredited 
+educational institution. 
+11. E ngineered Safety Features mean structures, systems, or components that prevent and/or 
+mitigate the consequences of potential accidents described in the Documented Safety 
+Analysis (DSA). 
+12. E xception as used in this Order, refers to a release of an individual from portions of a 
+training and qualification program through prior education, experience, testing, 
+evaluation of work products, and training determined by using a DOE approved 
+procedure. 
+13. E xemption is a formal and final release from a provision in a DOE Order, Notice, or 
+Manual included in the contract; or from one or more requirements in a Regulation. (See 
+DOE O 410.1, Central Technical Authority Responsibilities Regarding Nuclear Safety 
+Requirements, current version.) 
+14. F issionable Materials mean a nuclide capable of sustaining a neutron -induced fission 
+chain reaction. These nuclides are uranium-233, uranium-235, plutonium-238, 
+plutonium-239, plutonium-241, neptunium-237, americium-241, and curium-244. 
+15. F issionable Materials Handler is a person certified by contractor facility management to 
+manipulate or handle significant quantities of fissionable materials; or manipulate the 
+controls of equipment used to produce, process, transfer, store, or package significant 
+quantities of such materials. 
+16. Fu ll -Scope Simulator is a simulator incorporating detailed modeling of systems of the 
+reference facility with which the operator interfaces in the control room environment. 
+The control area operating consoles are included. Such a simulator demonstrates expected 
+facility response to normal and abnormal conditions. 
+17. F unctional Level  refers to level in an organization such as manager, supervisor, or the 
+various degrees of operator and personnel. 
+18. G eneral Employee Training (GET) for the purpose of this Order, is the training required 
+to allow persons to have unescorted access to Hazard Category 1, 2, or 3 nuclear 
+facilities. 
+19. G raded Approach means the process of ensuring the level of analysis, documentation, 
+and actions used to comply with a requirement are commensurate with: (a) the relative 
+importance to safety, safeguards, and security; (b) the magnitude of any hazard involved; 
+(c) the life-cycle stage of a facility; (d) the programmatic mission of the facility; (e) the 
+particular characteristics of a facility; (f) the relative importance of radiological and 
+nonradiological hazards; and (g) any other relevant factors (10 CFR Part 830). Proper use 
+of the systematic approach to training (SAT) ensures the application of the graded 
+approach.
+
+--- page 45 ---
+DOE O 426.2A Attachment 3 – Federal Employees and Contractors 
+1-29-2024 Page 3-3 
+ 
+ 
+20. Hazard Categories are the calculated consequences of postulated unmitigated releases of 
+radioactive and/or hazardous material evaluated as required by 10 CFR Part 830 and 
+classified by the following hazard categories: 
+a. Category 1. The hazard analysis shows the potential for significant offsite 
+consequences. 
+b. Category 2. The hazard analysis shows the potential for significant onsite 
+consequences. 
+c. Category 3. The hazard analysis shows the potential for only significant localized 
+consequences. 
+21. Implementation Documentation (see Training Implementation Document)  
+22. Instructional Technologist is the individual primarily involved in the analysis, design, 
+development, and implementation of training for job positions/activities in nuclear 
+facilities. This individual works under the direction of the training manager and in 
+coordination with the training instructors to: (a) conduct needs and job analysis to 
+identify training requirements (valid task list, training requirements matrix); (b) design 
+training, including determination of training setting and development of learning 
+objectives, evaluation standards, and examination test items; (c) develop training 
+materials, including lesson plans and trainee support materials; (d) conduct classroom, 
+on-the-job, simulator, distance, or laboratory training; and (e) assist line management in 
+the evaluation of training and qualification program. 
+23. J ob Analysis is a systematic method used in obtaining a detailed listing of the tasks of a 
+specific job. 
+24. Mai ntenance Personnel  are persons responsible for performing maintenance on 
+engineered safety features and support systems as identified in the Documented Safety 
+Analysis (DSA) (this would include personnel responsible for planning and preparing the 
+work packages associated with maintenance). 
+25. Man ager  refers to a person whose assigned responsibilities include one or more of the 
+following: nuclear safety, operational efficiency and reliability, control of onsite 
+emergencies, and any other activities necessary to safeguard the health and safety of the 
+workforce, the general public, and the environment. Operational responsibilities include 
+prioritizing and assessing facility activities including modifications and overseeing the 
+operating organization. This functional level typically includes the plant/facility manager 
+or Director, the operations manager, the maintenance manager, the training manager, and 
+the technical/engineering manager. 
+26. M edical Examination  means an examination performed by a licensed physician, or an 
+examination performed by physician’s assistant that is subsequently reviewed and 
+approved by a licensed physician, to determine the physical condition and general health 
+of a person for duty.
+
+--- page 46 ---
+Attachment 3 – Federal Employees and Contractors DOE O 426.2A 
+Page 3-4 1-29-2024 
+ 
+ 
+27. Must and May: (a) Must is used to denote a requirement; (b) May is used to denote 
+permission or recommendation. 
+28. N onreactor Nuclear Facility  means those facilities, activities, or operations that involve, 
+or will involve, radioactive and/or fissionable materials in such form and quantity that a 
+nuclear or a nuclear explosive hazard potentially exists to workers, the public, or the 
+environment, but does not include accelerators and their operations and does not include 
+activities involving only incidental use and generation of radioactive materials or 
+radiation, such as check and calibration sources; use of radioactive sources in research, 
+experimental, and analytical laboratory activities; electron microscopes; and X-ray 
+machines. (10 CFR Part 830) 
+29. N uclear Experience when used in reference to Hazard Category 1/Category A and Hazard 
+Category 2/Category B Reactors, is experience acquired at commercial, production, 
+training, test, military, or research reactors and includes experience acquired in reactor 
+facility startup activities or operation. Experience in design, construction, maintenance, or 
+related technical services that are job-related may also be considered. Appropriate 
+research, teaching, or both may be counted as nuclear experience. When used in reference 
+to nonreactor nuclear facilities, also includes experience acquired at any facility in which 
+radioactive materials are routinely handled, stored, processed, or utilized. 
+30. N uclear Facility  means a reactor or a nonreactor nuclear facility where an activity is 
+conducted for or on behalf of DOE and includes any related area, structure, facility, or 
+activity to the extent necessary to ensure proper implementation of the requirements 
+established in 10 CFR Part 830. 
+31. N uclear Safety Culture  is defined as the core values and behaviors resulting from a 
+collective commitment by leaders and individuals to emphasize safety over competing 
+goals to ensure protection of people and the environment. 
+32. O perators are persons responsible for performing operations associated with engineered 
+safety features as identified in the Documented Safety Analysis (DSA), operating support 
+systems which could affect engineered safety features, or conducting activities with 
+special nuclear materials (SNMs) and/or radioactive materials. Duties may include 
+manipulating facility controls, monitoring parameters, and operating facility equipment. 
+Operators include reactor operators, fissionable material handlers, tritium facility 
+operators, chemical process operators, waste tank operators, and enrichment facility 
+operators. 
+33. O perating Organization  is the contractor organization responsible for facility operation, 
+maintenance, and technical support services related to DOE nuclear facility operations. 
+34. O perational Drill is a drill conducted in the facility that exercises process/facility 
+equipment, procedures, and level of knowledge for qualified/certified positions. These 
+activities are also intended to demonstrate knowledge of operational procedures during 
+abnormal conditions. 
+35. O perational Evaluation  is a documented evaluation of an individual’s knowledge and 
+skills for a position requiring qualification/certification. The operational evaluation is a
+
+--- page 47 ---
+DOE O 426.2A Attachment 3 – Federal Employees and Contractors 
+1-29-2024 Page 3-5 
+ 
+ 
+facility walkthrough evaluation conducted for qualification/certification that may include 
+system and/or component operation or simulation of operations, during which the 
+candidate is observed and questioned regarding procedures, safety implications, system 
+knowledge, and operational safety requirements, as applicable.  
+36. Operations Manager is the individual responsible for maintaining the safety envelope of 
+the facility/operation; managing operators and their supervisors; and achieving 
+operational goals within budget and schedule. 
+37. P articipation  is taking an active role in the duties and responsibilities relative to the 
+function for which the candidate/trainee is being considered. Simple observation is not 
+considered participation. 
+38. P erformance Demonstration  is a documented evaluation of an individual's knowledge and 
+skills for a position requiring only qualification. The intent of the process is similar to 
+that of an Operational Evaluation but tailored to more limited job requirements. (See 
+Operational Evaluation definition.) 
+39. P erformance Evaluation is a  generic term used to describe when one’s performance is 
+being evaluated to determine if they possess the knowledge and skills required to perform 
+identified jobs, tasks, or processes.  
+40. P ower Plant Experience  is experience acquired in the testing, operation, or maintenance 
+of nuclear or other power generating facilities. Experience in design and construction 
+may be considered applicable power plant experience and may be evaluated on a case-by-
+case basis. 
+41. P ractical Factors (Prac-Facs) are discrete tasks identified in the design phase and are 
+performed using approved procedures/administrative guides/common practices while 
+under the instruction (U/I) of a qualified operator/supervisor/manager. May also be 
+accomplished performing the duties of the qualified position. 
+42. Proficiency means actively participating in job functions associated with the 
+position/watchstation (whether qualified and/or certified) for a specified amount of hours 
+per month/quarter as specified in facility procedures.  
+43. Q ualification  is the process for attaining, demonstrating, and documenting the 
+knowledge, skills, and abilities identified for a position by the systematic approach to 
+training (SAT) process. It includes education, experience, classroom and on-the-job 
+training, examination, and any special requirements necessary to perform assigned 
+responsibilities for a given position. 
+44. Reactor is a device used to initiate and control a sustained nuclear chain reaction. 
+45. Reactor Operator means a person certified by contractor nuclear facility line or program 
+management to operate (manipulate the controls of) a DOE-owned reactor. 
+46. S afety Analysis means a documented process: (a ) to provide systematic identification of 
+hazards within a given DOE operation; (b) to describe and analyze the adequacy of
+
+--- page 48 ---
+Attachment 3 – Federal Employees and Contractors DOE O 426.2A 
+Page 3-6 1-29-2024 
+ 
+ 
+measures taken to eliminate, control, or mitigate identified hazards; and (c) to analyze 
+and evaluate potential accidents and their associated risks. 
+47. Safety Basis means the documented safety analysis (DSA) and hazard controls that 
+provide reasonable assurance the DOE nuclear facility can be operated safely in a manner 
+that adequately protects workers, the public, and the environment. (10 CFR Part 830) 
+48. S enior Reactor Operator  (SRO) means a person certified by contractor nuclear facility 
+line or program management to operate and direct the operation of a DOE-owned reactor. 
+49. S hift Supervisor is a qualified or certified person in the operating organization designated 
+by contractor facility management to directly supervise operations, operational activities, 
+and operations-related activities of personnel at DOE-owned Hazard Category 1, 2, and 3 
+nuclear facilities. Substitute titles may be used for positions of equivalent functions. 
+50. S hift Technical Advisor (STA) is a person who has been assigned to provide on-shift 
+advice and counsel to shift operating personnel during shift activities and to help 
+determine cause and mitigation of facility accidents. 
+51. S ignificant Quantity of Fissionable Materials  is the minimum quantity of fissionable 
+material in designated form for which control is required to maintain subcriticality under 
+all normal and credible abnormal conditions. The single parameter limits for fissionable 
+materials are listed in ANSI/ANS-8.1-2014, Nuclear Criticality Safety in Operations with 
+Fissionable Materials Outside Reactors, and ANSI/ANS-8.15-2014, Nuclear Criticality 
+Control of Special Actinide Elements. These standards require that limits be adjusted 
+where process conditions could credibly involve moderators or reflectors that are more 
+effective than light water. 
+52. S upervisors are individuals who are responsible for the quantity and quality of work 
+performed and who direct the actions of operators, fissionable material handlers, 
+technicians, or maintenance personnel. Supervisory positions typically include shift 
+operations manager (or shift manager), reactor supervisors, fissionable material handler 
+supervisors, tritium operator supervisors, chemical process operator supervisors, waste 
+tank operator supervisors, maintenance supervisors, technician supervisors, and technical 
+support supervisors. Their duties include ensuring work is performed in compliance with 
+procedures, policies, and industrial safety practices. 
+53. S ystematic Approach to Training (SAT) is a logical process for identifying and acquiring 
+the knowledge, skills, and abilities required to safely perform the duties of a specific 
+position. It includes the following elements:  
+a. An analysis of the jobs to be performed 
+b. Design of learning objectives derived from the analysis of the job that describe 
+desired performance after training 
+c. Development of lesson plans and other training materials 
+d. Implementation of the developed training
+
+--- page 49 ---
+DOE O 426.2A Attachment 3 – Federal Employees and Contractors 
+1-29-2024 Page 3-7 
+ 
+ 
+e. Evaluation of trainee mastery of the objectives during training 
+f. Evaluation and revision of the training based on the performance of trained 
+personnel in the job setting 
+54. Task is a well-defined unit of work having an identifiable beginning and end, which is a 
+measurable component of the duties and responsibilities of a specific job. 
+55. T echnical Personnel  are persons responsible for supervision, design, evaluation, 
+modification, testing, and performance of technical support functions for the operating 
+organization. Technical personnel typically have expertise in mechanical, electrical, 
+instrumentation and control, chemistry, radiation protection, safety, quality 
+assurance/independent assessment, software quality assurance, facility engineering, 
+system/process engineering, safety basis engineering, criticality safety, or nuclear safety. 
+(Examples of technical personnel responsibilities include: surveillance and testing related 
+to normal facility operation and operation of safety-related systems; analyzing routine 
+operational/facility data; planning modifications to facility safety systems; providing 
+technical assistance during normal, abnormal, and emergency facility conditions to offer 
+technical problem resolution to operations in their area of expertise; providing 
+engineering/technical assistance in support functions to the facility such as radiological, 
+quality assurance, and for initial design or modifications that impact nuclear safety.) 
+56. T echnical Safety Requirements (TSRs)  mean the limits, controls, and related actions that 
+establish the specific parameters and requisite actions for the safe operation of a nuclear 
+facility and include, as appropriate for the work and hazards identified in the documented 
+safety analysis (DSA) for the facility: safety limits, operating limits, surveillance 
+requirements, administrative and management controls, use and application provisions, 
+and design features, as well as a bases appendix. (10 CFR Part 830) 
+57. T echnicians are principally involved in calibration, inspection, troubleshooting, testing, 
+maintenance, and radiation protection activities. Examples are laboratory technicians, 
+instrument technicians, industrial hygiene, environmental, quality control, 
+decontamination and decommissioning technicians, and radiological control technicians. 
+58. T raining  is instruction designed for acquisition of knowledge, skills, and abilities to 
+develop or improve job performance. 
+59. T raining Implementation Document  (TID) (also referred to Implementation Document in 
+this Order) is a document (e.g., Training Implementation Matrix (TIM), Training 
+Program Plan (TPP), or Training Program Description (TPD), etc.), prepared by the 
+contractor, to identify those sections of this CRD that are applicable to a particular 
+facility.  The document defines and describes the application of personnel selection, 
+qualification, certification, and training requirements identified in this CRD.  It must 
+clearly define the organization, planning, and administration of the program and set forth 
+the responsibility, authority, and methods for conducting training.  Suitable justification 
+must be included in the document for CRD provisions that are not implemented.  At sites 
+with several facilities, a combined training document may be submitted. The document 
+and any revisions must be approved by DOE.
+
+--- page 50 ---
+Attachment 3 – Federal Employees and Contractors DOE O 426.2A 
+Page 3-8 1-29-2024 
+ 
+ 
+60. Training Implementation Matrix (TIM) is a term used at some sites for the Training 
+Implementation Document (TID). 
+61. T raining Instructor is an individual with duties and responsibilities for instructing 
+personnel or developing training materials. 
+62. T raining Organization is responsible for supporting the line organization to identify, 
+meet, and monitor training needs in support of the facility mission. The training 
+organization assists line organizations in performing the systematic approach to training 
+(SAT). The training organization may include a training manager, instructional 
+technologists, and instructors. 
+63. T raining and Qualification Program is a planned, organized sequence of activities 
+designed to prepare individuals to perform their jobs, to meet a specific position or 
+classification need, and to maintain or improve their performance on the job.

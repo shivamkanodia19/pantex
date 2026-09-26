@@ -1,0 +1,2871 @@
+--- page 1 ---
+AVAILABLE ONLINE AT:  INITIATED BY: 
+www.directives.doe.gov  Office of Environment, Health, Safety and Security 
+ 
+U.S. Department of Energy ORDER 
+Washington, DC 
+ 
+ Approved: 12-18-2024 
+SUBJECT: SAFEGUARDS AND SECURITY PROGRAM MANAGEMENT OPERATIONS 
+1. P URPOSE . Establish the U.S. Department of Energy (DOE) Safeguards and Security 
+(S&S) Program Management Operations requirements as promulgated in laws, 
+regulations, Executive Orders (EO), and national standards established to prevent adverse 
+impacts on national security and mitigate unacceptable risks.  This Order addresses 
+facility clearance (FCL) (also known as entity eligibility determinations) requirements; 
+foreign ownership, control, or influence (FOCI) determinations; classified mail channels; 
+classified visits within the Department, including foreign classified visits; and incidents 
+of security concern (IOSC). 
+2. CANCELS/SUPERSEDES. 
+a. This Order hereby cancels the portions of DOE Order (O) 470.4B Chg 3 
+(LtdChg), Safeguards and Security Program, that relate to S&S Program 
+Management Operations. DOE O 470.4C, Safeguards and Security Planning, 
+cancels the S&S Planning portions of DOE O 470.4B Chg 3. 
+b. Cancellation of a directive does not, by itself, modify or otherwise affect any 
+contractual or regulatory obligation to comply with the directive. Contractor 
+Requirements Documents (CRDs [Attachment 1]) that have been incorporated 
+into a contract remain in effect throughout the term of the contract unless and 
+until the contract or regulatory commitment is modified to either eliminate 
+requirements that are no longer applicable or substitute a new set of requirements. 
+3. APPLICABILITY. 
+a. Departmental Applicability. Except for the equivalencies/exemptions in paragraph 
+3.c., this Order applies to all cleared Departmental elements.  The Administrator 
+of the National Nuclear Security Administration (NNSA) must ensure that NNSA 
+employees and contractors comply with their responsibilities under this directive. 
+Nothing in this directive will be construed to interfere with the NNSA 
+Administrator’s authority under section 3212(d) of Public Law (P.L.) 106-65 to 
+establish Administration specific policies, unless disapproved by the Secretary.   
+2. DOE Contractors. Attachment 1 sets forth the requirements of this Order that will apply 
+to contracts that include the CRD or its requirements.
+DOE O 470.1A
+
+--- page 2 ---
+2  DOE O 470.1A 
+  12-18-2024 
+ 
+ 
+The CRD and its requirements must be included in all contracts (primary and 
+subcontracts) that involve security activities1, require access to national security 
+assets, and/or contain DOE Acquisition Regulation (DEAR) clause 952.204-2, 
+Security Requirements. 
+a. Contractors are responsible for incorporating the CRD and its requirements into 
+their affected subcontracts.  
+3. Equivalencies/Exemptions for DOE O 470.1. Equivalencies and exemptions from the 
+requirements of this Order are processed in accordance with the current DOE O 251.1, 
+Departmental Directives Program, current version. 
+a. Requests must be based on an informed risk management decision. 
+b. When applicable, the requesting organization must document and accept the 
+security risk in accordance with applicable authorities. 
+c. The requesting organization must consult with their relevant General Counsel 
+(GC) and the Office of Environment, Health, Safety, and Security (EHSS), Office 
+of Security (EHSS-50) before submitting the request for approval.  The Office of 
+Security must respond to consultation request within 45 days from receipt of the 
+request.   
+d. Approved equivalencies and exemptions must be entered into the Safeguards and 
+Security Information Management System (SSIMS) database and incorporated 
+into the approved security plan(s) to be effective for operations. 
+e. DOE S&S program requirements may also be located in, or based upon, 
+regulations issued by Federal agencies, and codified in the Code of Federal 
+Regulations (CFRs), or other authorities, such as Executive Orders (EO) or 
+Presidential Directives. In such cases, the process for deviating from those 
+requirements found in the source document must be applied. If the source 
+document does not include a deviation process, DOE GC, or NNSA GC, must be 
+consulted to determine whether the Departmental Element’s deviation from the 
+source can be legally pursued. 
+f. Existing equivalencies and exemptions must be reviewed to determine relevancy 
+and applicability to the requirements set forth in this Order.  
+(1) Existing equivalencies and exemptions must be reviewed to determine 
+applicability under DOE O 470.1, current version. If applicable, the site 
+must document the review was completed and the equivalency or 
+exemption remains valid.  
+(2) Equivalency. In accordance with the responsibilities and authorities 
+ 
+1 "Safeguards and Security Activity" is also known as security activity. The terms "safeguards and security activity" 
+and "security activities" are used interchangeably throughout this Order. See Attachment 7 for Definitions.
+
+--- page 3 ---
+DOE O 470.1A  3 
+12-18-2024 
+ 
+assigned by EO 12344, codified at 50 USC sections 2406 and 2511 and to 
+ensure consistency throughout the joint Navy, DOE Naval Nuclear 
+Propulsion Program, the Deputy Administrator for Naval Reactors 
+(Director) will implement and oversee requirements and practices 
+pertaining to this Directive for activities under the Director's cognizance, 
+as deemed appropriate. 
+4. REQUIREMENTS. 
+a. General. 
+(1) Departmental Elements must ensure S&S programs implement the 
+requirements found in the Attachments to this Order and all supportive 
+contracts that include this CRD, or its requirements as specified by the 
+contracting officer. 
+(2) Whenever a legal, regulatory, or other external standard, or a DOE 
+directive referenced within this Order is amended or superseded, the 
+current version is applicable under this Order. 
+(3) S&S programs must implement and maintain S&S operations management 
+roles, responsibilities, and requirements contained in this Directive. 
+(4) Programs associated with each topical area within this Order must be 
+implemented in accordance with the requirements for that topic. 
+(5) S&S program management operations and implementation procedures 
+must be documented in the approved security plan in accordance with 
+DOE O 470.4, Safeguards and Security Planning, current version. 
+(6) Incidents of security concern must be addressed in accordance with the 
+requirements found in Attachment 6 and reported in accordance with 
+applicable laws and regulations. 
+(7) S&S program management operations must be thoroughly integrated with 
+other Departmental programs to coordinate related security activities 
+addressed in this Order, including Safety, Emergency Management, 
+Personnel Security, Insider Threat, Contracts and Procurements, 
+Counterintelligence, FCL and FOCI program, GC (as appropriate), and 
+Federal oversight organizations.2 
+b. Delegation of S&S Authorities.  
+(1) Delegation of authority to Officially Designated Federal Security 
+ 
+2 See paragraph 4., "Responsibilities," "Office of General Counsel (GC)".
+
+--- page 4 ---
+4  DOE O 470.1A 
+  12-18-2024 
+  
+ 
+Authority (ODFSA) or Officially Designated Security Authority (ODSA) 
+is implemented according to direction from the accountable Program 
+Secretarial Officer (or the Secretary or Deputy Secretary for Departmental 
+Elements not organized under a Program Secretarial Officer) who also 
+provides direction for further delegation beyond the primary delegation.  
+(2) Each delegation must be formally documented. It may be included in other 
+security plans or documentation approved by or according to direction 
+from the office which is delegating authority. 
+(3) Each delegator remains responsible for the delegate’s acts or omissions in 
+carrying out the purpose of the delegation. 
+c. Implementation. 
+(1) After being notified by the Head of the Departmental Element or designee, 
+the Contracting Officer (CO) must incorporate the Contractor 
+Requirements Document (CRD) in Attachment 1 in existing applicable 
+contracts per the process described in DOE O 251.1, Departmental 
+Directives Program, current version. 
+(2) Compliance with the requirements within this Order, including the 
+Attachments, must be complete within one (1) year of the issuance date. 
+(3) If compliance cannot be accomplished within one (1) year, an 
+implementation schedule must be submitted to the appropriate Cognizant 
+Security Office (CSO), prior to this deadline. 
+(4) The documentation must include timelines and resources needed to fully 
+implement this Order as well as a description of the vulnerabilities and 
+impacts created by the delay. 
+(5) Implementation plans must be referenced in the security plan. 
+5. RESPONSIBILITIES. 
+a. Secretary of Energy. 
+(1) Ensures that effective S&S program management operations are 
+established, executed, and maintained within DOE under the authorities 
+granted by relevant Executive Orders; the U.S. Department of Energy 
+Organization Act, as amended (42 U.S.C. Sections 7101 to 7352); and 
+Atomic Energy Act, as amended (42 U.S.C. Sections 2011 to 2286), and in 
+accordance with P.L. 106-65, the National Nuclear Security 
+Administration Act. 
+(2) Designates senior Departmental officials to direct S&S program operations 
+management procedures.
+
+--- page 5 ---
+DOE O 470.1A  5 
+12-18-2024 
+ 
+(3) Delegates, in writing, all responsibilities and authorities as necessary for 
+the administration of the S&S program operations. 
+(4) Exercises sole authority to approve the imposition of requirements for 
+programs and activities that are more stringent and/or comprehensive than 
+those imposed by the Nuclear Regulatory Commission (NRC). 
+b. Deputy Secretary. 
+(1) Exercises responsibility, as Chief Operating Officer of the Department, for 
+S&S policy development and operations. 
+(2) Approves all S&S Directives. 
+(3) In accordance with 50 U.S.C. Section 2656, ensures that the Committees 
+on Armed Services of the U.S. House of Representatives and the U.S. 
+Senate are notified of each significant nuclear defense intelligence loss. 
+c. Under Secretary for Nuclear Security/Administrator for the National Nuclear 
+Security Administration. 
+(1) Responsible for the management and implementation of S&S programs 
+administered by NNSA and its subordinate offices, including provision of 
+the appropriate level of authorities and resources to effectively manage 
+and execute S&S responsibilities. 
+(2) Responsible for the development and implementation of security 
+programs, operations, and facilities under the purview of NNSA. 
+(3) Through the Deputy Administrator for Defense Programs: 
+(a) Ensures that all classified visits in connection with the military 
+application of atomic energy under 42 U.S.C. Section 2164 and 42 
+U.S.C. Section 2121 are conducted in accordance with National 
+and Departmental policies and governing international agreements 
+or treaties.  
+(b) Approves requests for access to weapons programs and classified 
+information pertaining to Nuclear Weapons Data (NWD). 
+(4) Through the Deputy Administrator for Defense Nuclear Nonproliferation,  
+Ensures that all classified visits in connection with nonproliferation, 
+international security, or International Atomic Energy Agency 
+requirements are conducted in accordance with National and Departmental 
+policies and governing international agreements or treaties. 
+(5) Through the Deputy Administrator for Naval Reactors:
+
+--- page 6 ---
+6  DOE O 470.1A 
+  12-18-2024 
+  
+ 
+(a) Ensures that all classified visits in connection with naval nuclear 
+propulsion are conducted in accordance with National and 
+Departmental policies and governing international agreements or 
+treaties. 
+(b) Approves requests for classified visits and access to naval nuclear 
+propulsion facilities.  
+(6) Through the Associate Administrator and Chief for Defense Nuclear 
+Security: 
+(a) Responsible for the development and implementation of security 
+programs for the Administration, including the protection, control 
+and accounting of materials, and for the physical security for all 
+facilities of the NNSA. 
+(b) Acts as Senior NNSA official responsible for the direction and 
+administration of the NNSA implementation and compliance with 
+the National Industrial Security Program.  
+(c) Acts as the Senior NNSA official responsible for classified visits 
+except for those assigned to the Deputy Administrator for Defense 
+Programs; delegates in writing to a senior Federal official at each 
+NNSA site the authority to take a risk-based approach to oversee 
+the classified visits program for granting access to RD. 
+(d) Implements DOE’s North Atlantic Treaty Organization (NATO) 
+program for DOE and NNSA including access authorizations, 
+policy, operations of the DOE Sub-Registry, and the conduct of 
+DOE domestic inspections. 
+d. Office of Environment, Health, Safety and Security (EHSS). 
+(1) Develops, coordinates and promulgates the Department’s S&S policies 
+and procedures to ensure a comprehensive S&S Program consistent with 
+the Department’s statutory authorities, mission, and national-level 
+policies. 
+(2) Oversees DOE Headquarters CSOs and delegates this authority in writing as 
+appropriate. 
+(3) Oversees implementation of DOE Headquarters S&S program operations, 
+including the development of S&S program management operations 
+implementation procedures and guidance. 
+(4) Serves as the Approval Authority of Headquarters equivalencies and 
+exemptions.
+
+--- page 7 ---
+DOE O 470.1A  7 
+12-18-2024 
+ 
+(5) Provides S&S program management operations implementation guidance 
+and assistance for DOE offices located in Headquarters facilities. 
+(6) Provides S&S program management operations advice and assistance to 
+Departmental organizations. 
+(7) Maintains national-level liaison with Federal and local law enforcement, 
+security, and intelligence agencies to support DOE’s S&S program 
+management operations. 
+(8) Represents DOE in interagency efforts related to S&S activities. 
+(9) Acts as the Senior Agency Official responsible for direction and 
+implementation of DOE’s implementation of and compliance with the 
+NISP. 
+(10) Annually report NISP-related costs and implementation metrics to the 
+Information Security Oversight Office (ISOO). 
+e. Program Secretarial Officer. 
+(1) Ensures S&S programs are effectively and efficiently managed and 
+implemented throughout the organization. 
+(2) Designates the CSO under their purview in addition to those designated 
+per 32 CFR 117. 
+(3) Provides guidance and oversight to CSOs under their purview that oversee 
+programs utilizing Departmental assets for the purposes of protecting S&S 
+interests. 
+(4) Records and reports required NISP-related costs and implementation 
+metrics to EHSS per 32 CFR 2004. 
+(5) Ensures that all classified visits are conducted in accordance with National 
+and Departmental policies and governing international agreements or 
+treaties. 
+f. Cognizant Security Offices.3 CSOs are designated by the Program Secretarial 
+Officer or, for NNSA, the Office of the Administrator through the Associate 
+Administrator and Chief for Defense Nuclear Security. 
+(1) CSOs administer and oversee assigned S&S program management 
+operations activities for their sites and facilities on behalf of the Program 
+Secretarial Officer. 
+(2) CSO responsibilities for each topical area are conveyed within the 
+ 
+3 As defined in Attachment 7
+
+--- page 8 ---
+8  DOE O 470.1A 
+  12-18-2024 
+  
+ 
+Attachments of this Order.  
+(3) Industrial Security Service Provider render facility clearances, FOCI 
+determinations, and/or other industrial security-related services on behalf 
+of the CSO. 
+g. Heads of Field Elements and Headquarters Departmental Elements. 
+(1) Oversee the development of S&S plans that describe S&S program 
+management operations implementation procedures. 
+(2) Develop and/or allocate budgets and resources to maintain effective S&S 
+program management operations. 
+(3) Provide S&S program management operations supplemental guidance and 
+directs implementation procedures. 
+(4) Ensure that line management implements the applicable provisions of 
+programs described in this Order.  
+(5) Communicate to contracting officers the security requirements for 
+contracts that require the performance of security activities and/or access 
+to security assets.  
+(6) Ensure that contracting officers provide DOE F 470.1, Contract Security 
+Classification Specification (CSCS), to the CSO and/or its designee. 
+(7) Consult with the Office of Security prior to modifying or withholding any 
+requirements in this Order from a contract. 
+(8) Ensure that contractors and subcontractors under their cognizance 
+implement the provisions of the CRD and attachments to this Order when 
+the CRD is incorporated in their contracts. 
+h. Officially Designated Federal Security Authority (ODFSA). 
+(1) Executes requirements and responsibilities that are formally delegated 
+from DOE or NNSA 
+(2) Reviews and approves contractor security plans, establishing a Federally 
+approved authorization for site security operations. 
+(3)  Accepts or transmits the security risk associated with the assets under 
+their cognizance, in accordance with DOE O 470.3, current version. 
+(4) Performs S&S program management operations activities as prescribed in 
+this Order.
+
+--- page 9 ---
+DOE O 470.1A  9 
+12-18-2024 
+ 
+(5) Ensure that a senior Federal official at each site under their cognizance has 
+been delegated in writing the authority to make, in connection with 
+classified visits, an affirmative determination that permitting a U.S. citizen 
+holding a clearance granted by another Federal agency to have access to 
+Restricted Data (RD) will not endanger the common defense and security 
+prior to granting such access in connection with a specific classified visit. 
+i. Officially Designated Security Authority (ODSA). 
+(1) Executes requirements and responsibilities that are formally delegated 
+from DOE or NNSA. 
+(2) Performs delegated S&S program management operations activities 
+prescribes within the Attachments of this Order. 
+j. Office of Enterprise Assessments. 
+(1) Performs assessments and reports to the Secretary on the Department’s 
+S&S programs. 
+(2) Implements the procedures for the assessment of civil penalties set forth in 
+10 CFR Part 824, Procedural Rules for the Assessment of Civil Penalties 
+for Classified Information Security Violations. 
+(3) Develops and provides S&S program management operations training 
+programs through the National Training Center (NTC). 
+(4) Through the NTC, certifies site implementation of NTC-developed 
+courses, establishes the Training Approval Program for S&S programs, 
+and approves site training programs. 
+k. Contracting Officers. 
+(1) Upon notification of applicability, incorporate the CRD into affected 
+contracts via the appropriate process. 
+(2) Assist Government Contracting Activities (GCAs) with developing 
+contract solicitations to incorporate the requirements of this Order. 
+(3) Contracting Officers must consult with the Head of Departmental or Field 
+Element to propose any modification or withholding of any requirements 
+in this Order from a contract. 
+(4) Provide written notification to the CSO in accordance with Attachment 3, 
+"Foreign Ownership, Control, or Influence", of this Order when 
+contractual changes impacting a company’s foreign ownership, control, or 
+influence occur.
+
+--- page 10 ---
+10  DOE O 470.1A 
+  12-18-2024 
+  
+ 
+(5) DOE Contracting Officers and the Primary contractor must ensure the 
+CRD, applicable security requirements, and DEAR clauses are 
+incorporated into the tiered subcontracts under their cognizance. 
+(6) Maintain cognizance of subcontracts with performance of security 
+activities and/or access to security assets for contract performance. 
+(7) Reviews procurement requests for new contracts and ensures that the 
+provisions of 48 CFR Section 952.204-2, Security Requirements, and the 
+requirements of the CRD and its attachments in this Order are included in 
+the contracts when required. 
+l. Office of the General Counsel (GC).4. 
+(1) Provides legal advice and assistance regarding issues or changes in laws 
+and regulations that affect S&S programs and interests. 
+(2) Provides legal advice on S&S program management operations 
+requirements prescribed in this Order. 
+(3) Reviews and provides legal advice and assistance regarding foreign 
+ownership, control, or influence (FOCI) mitigation strategies and National 
+Interest Determinations (NIDs). 
+m. Office of Intelligence and Counterintelligence. 
+(1) Shares relevant information developed through 
+intelligence/counterintelligence program activities with appropriate 
+offices. 
+(2) Interfaces and interacts with S&S programs to ensure Sensitive 
+Compartmented Information (SCI) requirements are identified, defined, 
+and maintained, when applicable. 
+(3) Notifies the ODFSA, or designee, of security incidents during 
+intelligence/counterintelligence activities. This notification will be upon 
+discovery unless such notification would severely impede or negate 
+intelligence activities or counterintelligence investigations, or further 
+compromise classified/sensitive information. 
+(4) Ensures that all classified visits in connection with SCI are conducted in 
+accordance with governing National and Departmental policies and 
+international agreements or treaties. 
+ 
+4 For the purposes of this Directive, the "Office of General Counsel" or "General Counsel" represents the DOE 
+Office of the General Counsel (DOE GC), and NNSA Office of General Counsel (NA-GC), unless otherwise 
+specifically stated.
+
+--- page 11 ---
+DOE O 470.1A  11 
+12-18-2024 
+ 
+(5) Ensures that information on relevant intelligence/counterintelligence 
+concerns is provided to Departmental elements responsible for classified 
+visits by foreign nationals under international agreements and treaties and 
+to individuals responsible for hosting classified visits by foreign nationals 
+to DOE facilities and sites. 
+6. INVOKED STANDARDS.5  
+a. This Order does not invoke any DOE technical standards or industry standards as 
+required methods. 
+b. Any technical standard or industry standard that is mentioned in or referenced by 
+this Order is not invoked by this Order. 
+7. DEFINITIONS. 
+a. Terms commonly used in the DOE Safeguards and Security Program are defined 
+within Attachment 7 of this Order, and in the DOE Policy Information Resource 
+(PIR) tool located at https://pir.doe.gov/. 
+b. Terms specific to an Attachment are defined within that Attachment. 
+8. REFERENCES. 
+a. Attachment 8 contains the list of referenced documents within this Directive. 
+b. DOE Orders referenced in this Order are located on the DOE Directives webpage, 
+https://www.directives.doe.gov/. 
+c. DOE Technical Standards referenced in this Order are located on the DOE 
+Technical Standards webpage, https://www.standards.doe.gov/. 
+d. All other referenced materials are located on the DOE PIR tool, 
+https://pir.doe.gov/. 
+9. CONTACT. 
+a. Questions concerning this Order should be directed to the Office of Security 
+Policy, Office of Environment, Health, Safety and Security, email address 
+Security.Directives@hq.doe.gov. 
+b. Formal policy clarification requests must be submitted to the Director, Office of 
+Security through the respective Program Office. 
+c. Questions regarding implementation requirements and procedures should be 
+directed through to the requestor’s respective line management channels. 
+ 
+5 DOE O 251.1, current version, defines "invoked technical standard."
+
+--- page 12 ---
+12  DOE O 470.1A 
+  12-18-2024 
+  
+ 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+DAVID M. TURK 
+Deputy Secretary
+
+--- page 13 ---
+DOE O 470.1A  i 
+12-18-2024 
+ 
+ 
+TABLE OF CONTENTS 
+SUBJECT: SAFEGUARDS AND SECURITY PROGRAM MANAGEMENT OPERATIONS ...1 
+TABLE OF CONTENTS ................................................................................................................. i 
+ATTACHMENT 1 CONTRACTOR REQUIREMENTS DOCUMENT (CRD) DOE O 470.1A, 
+SAFEGUARDS AND SECURITY PROGRAM MANAGEMENT OPERATIONS ................. 1-1 
+ATTACHMENT 2  FACILITY CLEARANCES (FCL)AND REGISTRATION OF 
+SAFEGUARDS AND SECURITY ACTIVITIES ...................................................................... 2-1 
+ATTACHMENT 2 SECTION 1:  FCL PROGRAM ................................................................... 2-3 
+ATTACHMENT 2 SECTION 2:  FCL CODES .......................................................................... 2-5 
+ATTACHMENT 2 SECTION 3:  FCL APPROVAL REQUIREMENTS ................................ 2-10 
+ATTACHMENT 2 SECTION 4:  FCL RECIPROCITY ........................................................... 2-12 
+ATTACHMENT 2 SECTION 5:  DOCUMENTATION AND REGISTRATION OF FCL .... 2-16 
+ATTACHMENT 2 SECTION 6: INTERIM AND LIMITED FCLS ........................................ 2-21 
+ATTACHMENT 2 SECTION 7: FACILITY CLEAREANCE SUSPENSIONS ...................... 2-23 
+ATTACHMENT 2 SECTION 8: SECURITY ACTIVITY/FCL TERMINATION .................. 2-26 
+ATTACHMENT 3 FOREIGN OWNERSHIP, CONTROL, OR INFLUENCE PROGRAM .... 3-1 
+ATTACHMENT 3  SECTION 1: FOCI PROGRAM PROCESSING ........................................ 3-7 
+ATTACHMENT 3 SECTION 2: FOCI REPORTING REQUIREMENTS ................................ 3-9 
+ATTACHMENT 3 SECTION 2, CHAPTER 1:  CHANGES TO FOCI INFORMATION ..... 3-14 
+ATTACHMENT 3  SECTION 3: PERSONNEL SECURITY CLEARANCES AND 
+EXCLUSION PROCEDURES .................................................................................................. 3-17 
+ATTACHMENT 3 SECTION 4: FOCI MITIGATION ............................................................ 3-19 
+ATTACHMENT 4 CLASSIFIED MAIL CHANNELS .............................................................. 4-1 
+ATTACHMENT 5 CONTROL OF CLASSIFIED VISITS ........................................................ 5-1 
+ATTACHMENT 6 INCIDENTS OF SECURITY CONCERN .................................................. 6-1 
+ATTACHMENT 6  SECTION 1:  INCIDENTS OF SECURITY CONCERN REQUIREMENTS
+.................................................................................................................................................... 6-19
+
+--- page 14 ---
+ii  DOE O 470.1A 
+  12-18-2024 
+  
+ 
+ATTACHMENT 7 S&S PROGRAM MANAGEMENT OPERATIONS DEFINITIONS ......... 7-1 
+ATTACHMENT 8 S&S PROGRAM MANAGEMENT OPERATIONS REFERENCES ........ 8-1
+
+--- page 15 ---
+DOE O 470.1A  Attachment 1 – CRD, Contractors Only 
+12-18-2024  Page 1-1 (and Page 1-2) 
+ 
+ 
+ATTACHMENT 1 
+CONTRACTOR REQUIREMENTS DOCUMENT (CRD) 
+DOE O 470.1A, SAFEGUARDS AND SECURITY PROGRAM 
+MANAGEMENT OPERATIONS 
+This CRD establishes the U.S. Department of Energy (DOE) requirements for conducting 
+management activities connected with the operation of cleared facilities within the DOE 
+complex. 
+In addition to the requirements set forth in this CRD, contractors are responsible for 
+complying with Attachments 2 - 8 to DOE O 470.1, current version. Each Attachment 
+provides program requirements and/or information that is applicable to contracts in which 
+this CRD and/or DEAR Clause 952.204-2 is inserted or must be applied. 
+Regardless of the performer of the work, the contractor is responsible for complying with 
+the requirements of this CRD. The contractor is responsible for flowing down the 
+requirements of this CRD to subcontractors at any tier to the extent necessary to ensure the 
+contractor’s compliance with the requirements. 
+A violation of the provisions of the CRD and/or contract security requirements to protect 
+and safeguard national security assets may result in a civil penalty pursuant to the Atomic 
+Energy Act (42 U.S.C. Section 2282b), Section 234B Subsection A. The procedures for the 
+assessment of civil penalties are set forth in 10 CFR Part 824, Procedural Rules for the 
+Assessment of Civil Penalties for Classified Information Security Violations.
+
+--- page 16 ---
+
+
+--- page 17 ---
+DOE O 470.1A  Attachment 2 – Federal Employees and Contractors 
+12-18-2024  Page 2-1 
+ 
+ 
+ATTACHMENT 2  
+FACILITY CLEARANCES (FCL)AND REGISTRATION OF SAFEGUARDS AND 
+SECURITY ACTIVITIES 
+This Attachment provides information and/or requirements associated with DOE O 470.1A 
+and information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+1. OBJECTIVE. To ensure that DOE, DOE contractor, and other (Federal) government 
+agency (OGA) facilities and their contractors engaged in DOE activities are eligible for 
+access to, and meet the requirements to possess and secure, classified information or 
+matter or special nuclear material (SNM)/other accountable nuclear material (OANM); 
+and, as applicable, to protect other assets and conduct other security activities on behalf 
+of DOE. 
+2. P URPOSE . The FCL program regulates DOE approval of a Federal or contractor 
+facility’s eligibility to access, receive, generate, reproduce, store, transmit, or destroy 
+classified information or matter; SNM/OANM; other hazardous material presenting a 
+potential radiological, chemical, or biological sabotage threat; and/or DOE property of 
+significant monetary value, exclusive of facilities and land values (hereinafter referred to 
+as security assets and activities). 
+3. GE NERAL . 
+a. This Attachment establishes the requirements that ensure DOE, DOE contractor 
+entities, and Cognizant Security Agency (CSA) facilities and their contractor 
+entities that are engaged in DOE security activities are eligible for access to and 
+meet the requirements to access, possess, and secure security assets on behalf of 
+DOE. 
+b. The Department of Energy Acquisition Regulation (DEAR) Subpart 904.70, 
+"Facility Clearance" and Subpart 952.204-73, "Facility Clearance" are 
+incorporated into contracts for the protection security activities and assets.   
+c. The 32 CFR 117, National Industrial Security Program Operating Manual 
+(NISPOM), current version, serves as a national standard to establish the baseline 
+requirements for contractor FCLs when contractors are engaged in security 
+activities requiring the protection of national security information classified at the 
+Confidential, Secret, or Top Secret (TS) level. 
+4. REQUIREMENTS. An entity (federal or contractor) must ensure that the following 
+activities are accomplished for their FCL program and by entities under their cognizance. 
+a. Establish and maintain FCL activities in accordance with the requirements 
+contained in this Order. 
+b. Provide required information to the Cognizant Security Officer (CSO) and/or the
+
+--- page 18 ---
+Attachment 2 – Federal Employees and Contractors DOE O 470.1A 
+Page 2-2  12-18-2024 
+  
+ 
+Industrial Security Service Provider (ISSP)6 to ascertain risk and if classified 
+information and other security assets are adequately protected to make an FCL 
+determination. 
+c. Ensure the DOE F 470.2, Facility Data and Approval Record (FDAR), DOE F 
+470.1, Contract Security Classification Specification (CSCS) and other 
+information pertaining to FCLs are accurately entered and maintained in the 
+Safeguards and Security Information Management System (SSIMS). 
+d. CSOs must ensure that key management personnel (KMP) that must be cleared in 
+connection with the FCL, possess and maintain DOE personnel security 
+clearances (PCLs) at or higher than the FCL that is required for contract 
+performance. 
+e. CSOs must ensure that entities have an active DOE FCL prior to engaging in 
+security activities and/or accessing or possessing security assets. 
+f. Changes that affect a cleared entity must be reported to the CSO and any other 
+DOE federal authorities. 
+g. Establish internal procedures to ensure that cleared employees are aware of their 
+responsibilities for reporting pertinent information to the Facility Security Officer 
+(FSO), appropriate DOE authorities (including Counterintelligence), the Federal 
+Bureau of Investigation, or other Federal authorities as required by DOE 
+directives, the terms of the classified contract, and U.S. law.7 
+h. Cooperate with DOE and other federal authorities during the FOCI/FCL process, 
+official surveys and investigations concerning the protection of classified 
+information and DOE security interests, and during access authorization 
+investigations. 
+i. Maintain all records pertaining to the FCL, including original records in 
+accordance with National Archives and Records Administration (NARA) records 
+retention schedule. 
+j. Document FCL program procedures in the approved security plans. 
+ 
+6 For the purposes of this Attachment, CSO and ISSP may be interchangeable to identify FCL responsibilities. 
+ 
+7 The term "Classified Contract" refers to any procurement vehicle that involves security activities and/or access to   
+security assets, that requires an FCL and personnel security clearances (PCL) also called access authorizations).
+
+--- page 19 ---
+DOE O 470.1A  Attachment 2, Section 1 – Federal Employees and Contractors 
+12-18-2024  Page 2-3 
+ 
+ 
+ATTACHMENT 2 
+SECTION 1:  FCL PROGRAM 
+This Attachment provides information and/or requirements associated with DOE O 470.1A 
+and information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+1. GENERAL. 
+a. DOE federal facilities: 
+(1) That possess security assets require an FCL and must be registered as 
+Possessing with a Facility Code. 
+(2) Whose employees require PCLs must have a commensurate FCL with a 
+Facility Code. 
+b. Government-Owned, Contractor-Operated (GOCO) facilities with security assets 
+and/or security activities require an FCL and must be registered as Possessing or 
+Non- possessing with a Facility Code. 
+c. Management and Operating (M&O) contractors awarded the contract for the 
+GOCO must:  
+(1) Have a separate FCL from the GOCO.  
+(2) The GOCO, DOE Form 470.2, Facility Data and Approval Record (FDAR), 
+will reflect the Possessing or Non-Possessing approvals for the GOCO 
+facility.  
+(3) The M&O contractor must have a separate FCL approval at the same or 
+higher classification level/category for access only. 
+d. State, local, tribal, and other similar governmental authorities do not have 
+authority to self-certify clearances to engage in security activities. These entities 
+must be handled in accordance with E.O. 13549, Classified National Security 
+Information Program for State, Local, Tribal, and Private Sector Entities, and its 
+implementing directives. 
+e. Entities at any tier will require an FCL when the terms of the contract awarded 
+include access to security assets and/or engagement in security activities and 
+described as a "possessing" or "non-possessing" facility. 
+f. An entity at any tier requiring an FCL must be sponsored by: 
+(1) A Government Contracting Activity (GCA).
+
+--- page 20 ---
+Attachment 2, Section 1 – Federal Employees and Contractors DOE O 470.1A 
+Page 2-4  12-18-2024 
+  
+ 
+(2) A cleared contractor acting as the prime contractor for an uncleared 
+subcontractor. 
+(3) A contractor cannot sponsor itself for an FCL. 
+g. Contractors whose employees require PCLs for contract performance must have 
+an FCL commensurate with the assets to be protected.   
+h. A contractor or prospective contractor must meet the following eligibility 
+requirements prior to being processed for an FCL: 
+(1) Be selected to perform tasks under a contract containing the DEAR 
+security clauses found in 48 CFR Part 952; and 
+(2) Be organized under the laws of one of the 50 States, the District of 
+Columbia, or Puerto Rico and must be located in the United States or a 
+U.S. territorial area or possession; 
+(3) Have a reputation for integrity and lawful conduct in its business 
+operations and relationships; 
+(4) Not have been barred from participating in U.S. Government contracts 
+(this includes key management on the contract); and 
+(5) Not be under foreign ownership, control, or influence (FOCI) to a degree 
+that the granting or continuation of the FCL would be inconsistent with the 
+national interest.
+
+--- page 21 ---
+DOE O 470.1A  Attachment 2, Section 2 – Federal Employees and Contractors 
+12-18-2024  Page 2-5  
+ 
+ 
+ATTACHMENT 2 
+SECTION 2: FCL CODES 
+This Attachment provides information and/or requirements associated with DOE O 470.1A and 
+information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+1. GENERAL.  
+a. Each federal or contractor entity that will access security assets or engage in 
+security activities must be identified with a Facility Code in SSIMS.  
+b. The entity’s Facility Code must be recorded on the FDAR. 
+2. REQUIREMENTS. 
+a. Facility Code. For purposes of granting and registering a FCL in SSIMS, an entity 
+(federal or contractor) and its security activities must be registered with one 
+facility code when the following criteria are met: 
+(1) A centrally directed security program is maintained that covers all security 
+activities (i.e., under the same name, single mailing address, single 
+security plan applicable at all locations, and all security matters under a 
+single management control). 
+(2) The physical distance between the facilities does not inhibit day-to-day 
+observations of the security program by the appointed Facility Security 
+Officer (FSO). 
+(3) The security activities are such that the Federal or contractor entity can 
+maintain daily observations and oversight of its security programs and 
+operations. 
+b. Entities that cannot be registered under one Facility Code as outlined above, must 
+be registered with a separate Facility Code. 
+c. Possessing. 
+(1) A possessor is any entity that will safeguard (receive, generate, reproduce, 
+store, transmit and/or destroy) classified matter, and/or SNM at the 
+entity’s physical location as registered in SSIMS. 
+(2) FDAR must be properly completed and identify the security assets that the 
+entity is authorized to access and store. 
+(a) Access – highest classification level/category of classified to be 
+accessed to include any special accesses.
+
+--- page 22 ---
+Attachment 2, Section 2 – Federal Employees and Contractors DOE O 470.1A 
+Page 2-6  12-18-2024 
+  
+ 
+(b) Classified Storage Capability – highest classification 
+level/category of classified approved at the entity’s facility to 
+include any special accesses. 
+(c) Nuclear Materials, specifically: 
+1 Special Nuclear Material (SNM) – attractiveness level and 
+category of SNM requiring material controls and 
+accountability program. 
+a H ighest category of Material Balance Area (i.e., 
+Category I, II, III, or IV). 
+b On site total rollup quantities (regardless of 
+credibility) of SNM categories (i.e., Category I, II, 
+III, or IV). 
+2 O ther Accountable Nuclear M aterials (OANM) requires 
+accountability program. 
+(d) Additional Considerations: 
+1 If the asset is considered National Critical Infrastructure as 
+determined by DOE line management. 
+2 I f the assets include certain categories of biological agents. 
+3 If government property of a significant monetary value (e.g. 
+$5M or as determined by Program Office and/or DOE Line 
+Management). 
+4 If th e entity has responsibilities related  to DOE program 
+continuity. 
+5 If th ere are national security considerations; or 
+6 If the entity or assets involve responsibilities for protection 
+of the health and safety of the public and employees. 
+d. No n -Possessing. Any entity that will not safeguard (receive, generate, reproduce, 
+store, transmit and/or destroy) classified matter, and/or SNM at the entity’s 
+physical location as registered in SSIMS but will require PCLs for the employees 
+to perform work at other possessing facilities.
+
+--- page 23 ---
+DOE O 470.1A  Attachment 2, Section 2 – Federal Employees and Contractors 
+12-18-2024  Page 2-7 
+ 
+ 
+e. Self-Employed Individual. 
+(1) An individual who is self-employed/a sole proprietor not doing business as 
+a legal entity (i.e., paid to Social Security Number) and does not require an 
+FCL, provided the individual is the sole employee requiring a PCL and is 
+performing as a consultant. 
+(2) An individual who will possess classified information or matter at their 
+place of business must be processed for and granted an FCL. 
+(a) The FCL must apply to the location where the individual will 
+receive, generate, reproduce, store, transmit, and/or destroy 
+classified information or matter. 
+(b) Possessing self-employed individuals must implement the 
+requirements set forth in this Order. 
+f. Prime/Subcontractor.   
+(1) A prime contract can be a possessing or non-possessing facility.  A 
+prime contractor must have an FCL at the same, or higher access 
+level as its subcontractors.  
+(2) The subcontractor may be registered as a possessing facility while 
+the prime contractor is registered as a non-possessor if the FCL level 
+is the same.  
+g. Multiple Facility Organization (MFOs). 
+(3) The home office facility must have an FCL at the same, or higher 
+access level as that of any facility (e.g., branch or division office) 
+within the MFO. 
+(4) The branch/division facility may be registered as a possessing 
+facility while the home office is registered as a non-possessor if the 
+FCL access level is the same. 
+h. Parent/Subsidiary. 
+(1) In a corporate tier parent-subsidiary relationship, the parent and each of its 
+subsidiaries are separate legal entities and must be processed separately 
+for an FCL. 
+(2) CSOs must determine the necessity for the parent to be cleared or excluded 
+from access.   
+(3) CSOs must advise the entity on what action is necessary to process the 
+FCL.
+
+--- page 24 ---
+Attachment 2, Section 2 – Federal Employees and Contractors DOE O 470.1A 
+Page 2-8  12-18-2024 
+  
+ 
+(a) Subject to DOE approval, when a parent or its cleared subsidiaries 
+are co-located, a formal written agreement to use common security 
+services may be executed by all firms. 
+(b) The subsidiary facility may be registered as a possessing facility 
+while the parent is registered as a non-possessor or excluded 
+parent. 
+i. Excluded Parent. A corporate tier parent of a contractor organization when the 
+parent has been formally excluded through the Foreign Ownership, Control, or 
+Influence (FOCI) Program from participation in the activities related to a contract 
+with DOE. 
+j. J oint Ventures (JVs). 
+(1) A JV established as a legal business entity must be granted an FCL 
+commensurate to the security activity. 
+(a) Each JV partner must be granted an FCL commensurate to the 
+security activity. 
+(b) As determined by the CSO, JV partners that do not impact the JV’s 
+operations, security activities, and/or assets may be excluded in 
+accordance with the requirements set forth in this Attachment. 
+(c) Cleared partners that participate in security activities must ensure 
+uncleared partners are not granted access to security assets. 
+(2) The JV must appoint in writing a Senior Management Official (SMO), and 
+other KMP as determined by the CSO. 
+(3) The JV SMO must appoint in writing, an employee, or multiple employees 
+as the Insider Threat Program Senior Official (ITPSO) and FSO, that must 
+obtain and maintain a DOE PCL in connection with the FCL.8 
+k. Upgrading and Downgrading an FCL. 
+(1) CSO must evaluate each approved facility as security activities are added 
+or changed to ensure the FDAR is accurate. 
+(2) CSO must determine if the changes require a transfer of the CSO based on 
+the level of security assets. 
+l. Transferring FCL Cognizance.
+
+--- page 25 ---
+DOE O 470.1A  Attachment 2, Section 2 – Federal Employees and Contractors 
+12-18-2024   Page 2-9 
+ 
+ 
+(1) When a transfer of cognizance applies: 
+(a) CSOs and/or ISSPs must notify the receiving CSO and/or ISSP of 
+transfer, 
+(b) The receiving CSOs and/or ISSPs must request to transfer the 
+active or in process KMP PCLs within the agreed upon timeframe, 
+and 
+(c) A favorable FOCI determination is rendered prior to transferring 
+FCL cognizance. 
+(2) CSOs and/or ISSPs must update SSIMS to reflect the transfer of 
+cognizance on the FDAR.
+
+--- page 26 ---
+Attachment 2, Section 3 – Federal Employees and Contractors DOE O 470.1A 
+Page 2-10  12-18-2024 
+ 
+ 
+ATTACHMENT 2 
+SECTION 3: FCL APPROVAL REQUIREMENTS 
+This Attachment provides information and/or requirements associated with DOE O 470.1A 
+and information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+1. DOE FEDERAL FACILITIES. All eligibility requirements listed below must be satisfied 
+prior to the issuance of an FCL. 
+a. Must be registered in SSIMS with a Facility Code. 
+b. A final FCL must be based on the following items: 
+(1) Approved safeguards and security plan, developed in accordance with 
+DOE O 470.4, Safeguards and Security Planning, current version. 
+(2) Completed self-assessment per DOE O 470.4, current version. 
+2. CONTRACTOR FACILITIES. 
+a. The DOE Acquisition Regulation (DEAR) prohibits the award of a contract 
+requiring access to classified information or matter until a favorable FOCI 
+determination has been rendered. 
+b. The appropriate DEAR Security Clause must be applied to the contract when an 
+existing unclassified contract is modified to require classified work. The classified 
+work must not take place until the contract is modified and the appropriate FCL is 
+issued. 
+c. A contractor’s final FCL must be based on the following items: 
+(1) A favorable foreign ownership, control, or influence (FOCI) determination. 
+(2) A contract or proposed contract containing the appropriate security clauses 
+found in the DEAR. 
+(3) Security plan approved by the Officially Designated Federal Security 
+Authority, developed in accordance with DOE O 470.4, current version, 
+and other directives, which describe protective measures appropriate to the 
+activities being performed at the facility. 
+(4) KMP, including the SMO, FSO and ITPSO, must currently possess a PCL 
+equivalent to, or higher than, the FCL level.8 
+ 
+8 An interim FCL can be granted pending the grant of the final DOE personnel security clearances.
+
+--- page 27 ---
+DOE O 470.1A Attachment 2, Section 3 – Federal Employees and Contractors 
+12-18-2024  Page 2-11 
+ 
+(5) The SMO must appoint the FSO and ITPSO, in writing.  The SMO, FSO, 
+and ITPSO KMP roles can be held by the same person.  
+(6) The SMO, FSO and ITPSO must be a U.S. citizen and an employee of the 
+contractor entity. 
+d. FSO and ITPSO training must be completed within 6 months of appointment to 
+the position. 
+e. In addition to the above, for Possessing facilities: 
+(1) If possession of SNM and/or OANM is involved, the facility: 
+(a) Must have an established Reporting Identification Symbol code for 
+the Nuclear Materials Management and Safeguards System 
+(NMMSS) Reporting. 
+(b) Must have an appointed Nuclear Materials Representative, in 
+accordance with, DOE O 474.2, Nuclear Material Control and 
+Accountability, current version, who is responsible for reporting to 
+NMMSS. 
+(2) An initial survey: 
+(a) Must be conducted no more than 6 months before the FCL is 
+granted; and 
+(b) Must be conducted in accordance with DOE O 470.4, current 
+version.
+
+--- page 28 ---
+Attachment 2, Section 4 – Federal Employees and Contractors  DOE O 470.1A 
+Page 2-12  12-18-2024 
+ 
+ 
+ATTACHMENT 2 
+SECTION 4: FCL RECIPROCITY 
+This Attachment provides information and/or requirements associated with DOE O 470.1A 
+and information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+1. GENERAL. 
+a. When a contractor has an appropriate final FCL, DOE will not duplicate the final 
+FCL processes performed by a CSA.9 
+(1) When DOE cannot obtain acknowledgement from the CSA, the contractor 
+may be subject to duplicate processing. 
+(2) CSOs are not required to verify FSO training for FCLs under reciprocity. 
+b. A contractor with an equal or higher FCL granted by a CSA under the NISP may 
+be accepted by DOE for accessing, receiving, generating, reproducing, storing, 
+transmitting, or destroying classified information or matter, or other security 
+asset, contingent on the conditions listed below. 
+c. Reciprocity between DOE and the CSA must be documented in a written letter or 
+memorandum of agreement between the DOE cognizant security office (CSO) 
+and the CSA that establishes the responsibilities of each party for assurance and 
+verification of the protection afforded the DOE assets. 
+2. REQUIREMENTS. 
+a. Accepting CSA FCLs. 
+(1) Classification Level/Category and Special Conditions. The FCL granted by 
+the CSA must be at the appropriate classification level and category and 
+must encompass the DOE security activity. 
+(a) Limited or interim FCLs granted by a CSA cannot be accepted. 
+(b) DOE may not enter reciprocity with a CSA for the protection of 
+SNM and/or OANM.If the CSA contractor is cleared under a FOCI 
+mitigation, the CSO must obtain a copy of the FOCI mitigation 
+ 
+9 The phrase "appropriate final FCL" or "appropriate FCL" represents the FCL (or EED), needed to access the 
+classification level, caveat, and/or sensitivity level of security assets and security activities required for contract 
+performance. This phrase is indicative that no outstanding or pending PCL, FCL, or FOCI determinations or actions 
+remain.
+
+--- page 29 ---
+DOE O 470.1A Attachment 2, Section 4 – Federal Employees and Contractor 
+12-18-2024  Page 2-13 
+ 
+plan. The mitigation plan must be submitted to EHSS or Chief for 
+Defense Nuclear Security, as appropriate. 
+(c) When the company is controlled by a foreign government, the 
+foreign government interest must be mitigated or negated in 
+accordance with Attachment 3 of this Directive. 
+(d) For DOE contracts involving proscribed information (i.e., Top 
+Secret, Restricted Data, COMSEC, SAP, and SCI), the following 
+requirements, as appropriate, must be met before accepting an FCL 
+granted in conjunction with a Special Security Agreement (SSA) 
+or Security Control Agreement (SCA).   
+When the company is controlled by a foreign government:  
+1 DOE must have entered into an agreement with the foreign 
+government involved that covers the proscribed 
+information to be released under the contract; and  
+2 A  waiver must be granted by the cognizant Secretary (i.e., 
+the Secretary of Energy and/or the Secretary of Defense) in 
+accordance with the provisions of 10 U.S.C. Section 2536, 
+Award of certain contracts to entities controlled by a 
+foreign government: prohibition, which prohibits contract 
+awards involving proscribed information to foreign 
+government-controlled companies unless such a waiver is 
+granted. 
+(2) A CSA Top Secret FCL can be utilized to grant a DOE Secret/RD non-
+possessing or possessing interest.  
+KMP for possessing (safeguarding) interests must possess DOE PCLs at 
+the appropriate level.   
+(3) A CSA Secret FCL can be utilized to grant a DOE Secret/RD non- 
+possessing interest. All KMP and individuals requiring access to 
+Secret/RD must possess DOE PCLs at the appropriate level.  
+(4) If the personnel security clearances are not at the appropriate level, DOE 
+will accept final FCLs granted by CSAs for access to national security 
+information (NSI). Upon acceptance of the reciprocity agreement from the 
+CSA, DOE will not subject the contractor to any additional processing 
+when: 
+(a) No proscribed information is involved, and 
+(b) The FCL is commensurate with the new safeguards and security 
+activity.
+
+--- page 30 ---
+Attachment 2, Section 4 – Federal Employees and Contractors  DOE O 470.1A 
+Page 2-14  12-18-2024 
+ 
+ 
+(5) Notification of Cancellation. An assurance must be obtained from the 
+CSA that the FCL will not be canceled prior to the CSO being notified. 
+(6) P rotective Measures. Written confirmation must be obtained from the 
+CSA that the facility’s protective measures and procedures are adequate 
+for the protection of the DOE activity, and results of the agency’s last 
+survey of the facility are satisfactory in those areas that could affect the 
+DOE interest. 
+(7) S urveys. The facility’s survey frequency must be confirmed by the CSA. 
+For possessing (safeguarding) interests, the CSO must obtain the CSA’s 
+periodic survey reports or memoranda covering the survey results. 
+(8) Rest ricted D ata (RD), Formerly Restricted Data, and Transclassified 
+Foreign Nuclear Information (TFNI). When RD, FRD, or TFNI are 
+involved, the following must be completed: 
+(a) An assurance must be obtained from the CSA that the facility 
+complies with the requirements of 10 CFR Part 1045, Nuclear 
+Classification and Declassification. 
+(b) When the DOE contract involves RD, an assurance must be 
+obtained from the CSA that the facility’s protective measures and 
+procedures meet the requirements of 32 CFR 117, National 
+Industrial Security Program Operating Manual (NISPOM), 
+including any additional requirements applicable to RD, or 
+negotiated between CSAs. 
+Must ensure that all associated DOE requirements established in 
+the current versions of DOE O 471.6, Information Security, DOE 
+O 452.8 Control of Nuclear Weapon Data, and/or other 
+requirements established by the data owners, are met. 
+(c) FCLs not meeting the requirements in (a) and (b) above may be 
+accepted when the DOE activity requires that the contractor 
+establish upgraded protective measures that meet DOE 
+requirements. For FCL upgrades, the agreement between DOE and 
+the CSA must cover reimbursement for upgrade costs incurred by 
+the CSA or contractor. 
+(d) When DOE accepts an FCL based on a CSA-approved Voting 
+Trust Agreement, Proxy Agreement, SSA, or SCA, an assurance 
+must be obtained from the CSA that it will invite and permit DOE 
+to attend the annual meeting when such attendance is determined 
+necessary by either the CSA or DOE.
+
+--- page 31 ---
+DOE O 470.1A Attachment 2, Section 4 – Federal Employees and Contractor 
+12-18-2024  Page 2-15 
+ 
+(9) Contractor’s Tier Parent(s). 
+(a) If the parent(s) of a company that DOE is processing for an FCL 
+holds an FCL granted by a CSA, the tier parent(s) does not need to 
+provide DOE with a FOCI package, provided reciprocity is 
+accomplished with the CSA. 
+(b) Reciprocity between the CSO and the CSA must be documented in 
+a written agreement with the appropriate provisions as outlined 
+above. 
+(c) The written agreement must contain an assurance from the CSA 
+that security cognizance will be transferred to DOE for any tier 
+parent no longer requiring the CSA’s FCL. 
+b. CSA Verification Requests. When a CSA requests verification of an existing DOE 
+FCL, a copy of the facility’s current FDAR, must be provided.
+
+--- page 32 ---
+Attachment 2, Section 5 – Federal Employees and Contractors DOE O 470.1A 
+Page 2-16  12-18-2024 
+ 
+ 
+ATTACHMENT 2 
+SECTION 5: DOCUMENTATION AND REGISTRATION OF FCL 
+AND RELATED SECURITY ACTIVITIES 
+This Attachment provides information and/or requirements associated with DOE O 470.1A 
+and information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+1. GENERAL. 
+a. More than one Departmental element may register a security activity for an entity. 
+The CSO with the highest security classification level and category of the security 
+activity will maintain cognizance of the entity.  
+b. When a contractor entity has a contract performance with a lower security 
+classification level, but has a possessing security activity requirement, the CSO 
+for the possessing contract performance will retain cognizance of the contractor. 
+This responsibility may be delegated, by mutual agreement, to another 
+Departmental element with a registered security activity at that facility. 
+c. Any change in the responsible CSO or survey office must include a transfer of 
+appropriate documentation (e.g., safeguards and security (S&S) plans; 
+construction project status; FOCI files; etc.) and must be recorded on the FDAR. 
+2. REQUIREMENTS. 
+a. FCL Documentation. 
+(1) SSIMS must be used by all CSOs to register FCL information for which 
+they have cognizant security authority, survey cognizance, or 
+responsibility for registered security activities. Each registered FCL must 
+identify the highest security activity approved for the registered facility. 
+(2) DOE F 470.1, Contract Security Classification Specification (CSCS) is 
+used to register information in SSIMS concerning all contract vehicles 
+requiring PCLs in the performance of the work. Each contract must have a 
+unique CSCS form in SSIMS. 
+DD FORM 254, Department of Defense Contract Security Classification 
+Specification, used by a CSA sponsoring an activity can be submitted in 
+lieu of the DOE F 470.1, CSCS. For entry into SSIMS, the information 
+will need to be transferred onto DOE F 470.1. 
+(3) DOE F 470.2, Facility Data and Approval Record (FDAR) is used to 
+record approvals, changes, and terminations of FCL security information 
+and other facility changes for entry into SSIMS. 
+b. Registration of Security Activities. Security activities are specific, unrelated tasks
+
+--- page 33 ---
+DOE O 470.1A  Attachment 2, Section 5 – Federal Employees and Contractors 
+12-18-2024  Page 2-17 
+  
+or contract elements involving S&S interests at a facility. Security activities must 
+be registered in association with a specific FCL. 
+c. Federal Contracting Office. For contracts awarded by a federal contracting office, 
+the procurement request originator must submit a DOE F 470.1, CSCS, or DD 
+FORM 254 Department of Defense Contract Security Classification Specification, 
+to the DOE contracting official, who must forward the completed DOE F 470.1 to 
+the CSO. 
+d. Prime Contractor. For contracts awarded by a contractor, the prime contractor 
+must submit a DOE F 470.1, CSCS, to the CSO. 
+e. Security Activities for Existing FCLs. The CSO must: 
+(1) Determine and validate all security requirements for the proposed security 
+activity. 
+(2) Determine the FCL status through SSIMS. 
+(3) Compare the security requirements for the activity to the approved FCL in 
+the following situations and ensure that: 
+(a) When the contractor FCL is granted by a CSO, the requirements for 
+accepting an FCL are met. 
+(b) When the contractor FCL is granted by DOE: 
+1 The new activity will be protected adequately under the 
+facility’s existing S&S program as outlined in the facility’s 
+approved security plan. 
+2 Th e  existing FCL is compatible with the level and category 
+of the new security activity. 
+3 Th e  facility holds an overall composite satisfactory facility 
+rating in the last S&S survey report. 
+f. New Security Activities. 
+(1) The CSO must verify the information and ensure that the new security 
+activity can be performed within the existing FCL. If no issues are 
+identified, the CSO will approve the FDAR and CSCS, as appropriate and 
+ensure that it is registered in SSIMS. 
+(2) When a new activity exceeds the current FCL, or if there is no FCL, all 
+actions required to upgrade the current level or obtain an FCL must be 
+completed prior to contract award.
+
+--- page 34 ---
+Attachment 2, Section 5 – Federal Employees and Contractors DOE O 470.1A 
+Page 2-18  12-18-2024 
+  
+ 
+g. Modifying Security Activities. 
+(1) When a security activity is modified (e.g., period of performance, scope of 
+work, classification level/category, place of performance, etc.), a revised 
+CSCS must be submitted to the CSO. 
+(2) The CSO must verify the information and ensure that the new security 
+activity can be performed within the existing FCL. If no issues are 
+identified, the CSO should approve the CSCS and must ensure that it is 
+updated in SSIMS. 
+(3) When a modified activity exceeds or reduces the current FCL needs, all 
+actions required to upgrade, downgrade, or terminate the current FCL 
+must be completed. 
+h. Strategic Partnership Projects (SPP) Activities. 
+(1) SPP security activities are registered in SSIMS, or the SPP agreements 
+must be available in a locally approved system and must comply with the 
+requirements of DOE O 481.1, Strategic Partnership Projects [Formerly 
+Known as Work for Others (Non-Department of Energy Funded Work)], 
+and DOE O 475.2, Identifying Classified Information, current versions. 
+(2) SPP Performed at Other Than DOE-Owned or DOE-Operated Facilities. 
+(a) When a CSA stipulates that SPP activities are to be performed by a 
+DOE contractor at locations other than DOE-owned or DOE- 
+operated facilities, an FCL is required. 
+(b) When the FCL is issued by a CSA, the requirements for accepting 
+CSA FCLs apply. 
+(3) Subcontracting in Connection with SPPs. 
+(a) A CSA SPP FCL will be established based on a reciprocity 
+agreement between the CSO and the CSA. 
+(b) SPP facilities do not require DOE clearances; therefore, the CSA 
+will remain responsible for all security aspects to include FOCI, 
+KMP clearances, surveys, etc., as outlined in the reciprocity 
+agreement. 
+(c) A CSCS is required and must be registered in SSIMS under the 
+CSA FCL as an OGA Contractor - Strategic Partnership Projects.
+
+--- page 35 ---
+DOE O 470.1A  Attachment 2, Section 5 – Federal Employees and Contractors 
+12-18-2024  Page 2-19 
+ 
+ 
+i. Special Access. Access to the categories below is limited to personnel who are 
+properly briefed and require access to the information, equipment, and/or 
+materials to perform the duties associated with the security activity. Contractor 
+access to the categories below must be recorded on DOE F 470.1. 
+(1) Sensitive Compartmented Information (SCI) must be selected on the DOE 
+F 470.1 when a security activity requires access to classified information 
+concerning or derived from intelligence sources, methods, or analytical 
+processes that must be handled within formal access control systems 
+established by the Director of National Intelligence. 
+(a) The Special Security Officer, Office of Intelligence and 
+Counterintelligence must provide prior approval of the DOE F 
+470.1 before a subcontract involving access to intelligence 
+information can be issued to the subcontractor. 
+(b) The Field Intelligence Element Special Security Officer or 
+Alternate Special Security Officer must sign the DOE F 470.1 for 
+security activities involving access to SCI. 
+(2) Communications Security (COMSEC) must be selected on the DOE F 
+470.1 when: 
+(a) The security activity requires access to accountable, non- 
+accountable COMSEC and controlled cryptographic items (CCI). 
+(b) If a COMSEC account will be required, the DOE F 470.1 must 
+contain a statement in the classification guidance section regarding 
+the establishment of a COMSEC account. Reference current DOE 
+O 470.6, Technical Security Program, current version, for 
+additional COMSEC information and requirements. 
+(3) Select Critical Nuclear Weapon Design Information (CNWDI) on the DOE 
+F 470.1 when applicable. 
+(4) Nuclear Weapon Data (NWD)/Sigma. 
+(a) NWD/Sigma must be selected on the DOE F 470.1 when a security 
+activity requires access to Nuclear Weapon Data and Sigma 
+Categories14, 15, and 20. 
+(b) Access to NWD and Sigma Categories are authorized only for 
+TS/RD, TS/FRD, S/RD, and S/FRD facilities. 
+(c) Refer to DOE O 452.8, Control of Nuclear Weapon Data, current 
+version, for requirements for authorizing NWD and Sigma access.
+
+--- page 36 ---
+Attachment 2, Section 5 – Federal Employees and Contractors DOE O 470.1A 
+Page 2-20  12-18-2024 
+  
+ 
+(d) When Sigma 14 or 15is requested, the site Use Control Site 
+Coordinator must provide approval of each security activity (i.e., 
+CSCS) prior to registration in SSIMS. 
+(e) When Sigma 20 is requested, the Sigma 20 Site Coordinator must 
+provide approval of each security activity (i.e., CSCS) prior to 
+registration in SSIMS. 
+(f) North Atlantic Treaty Organization Information (NATO) must be 
+selected on the DOE F 470.1 when a security activity requires 
+access to classified information or documents belonging to NATO 
+or containing NATO classified information. 
+(g) Special Control Markings. Some classified matter may include 
+special control markings that impose additional handling and 
+dissemination limitations and/or describe the type of information 
+involved. 
+(5) Foreign Government Information (FGI). 
+(a) Verify with the CSA that the prospective subcontractor has the 
+appropriate FCL, classified information storage capability and 
+review the prime contract to determine if there are any contractual 
+limitations for approval before awarding a subcontract. 
+(b) Provide appropriate security FGI classification guidance and 
+incorporate the pertinent security provisions on the DOE F 470.1. 
+j. Exceptions to SSIMS Registration. Details concerning sensitive or classified 
+activities, the publication of which in SSIMS would compromise mission 
+completion, are not registered in SSIMS. Foreign intelligence information, SCI, 
+SAPs, and other sensitive activities requiring special access or procedures 
+associated with receipt, storage, processing, and/or handling must conform to the 
+applicable protection provisions of Executive Orders and to applicable 
+Intelligence Community Directives. Exceptions to the registration requirements 
+are identified below. 
+(1) SAPs. SAPs are not registered in SSIMS. SAPs are registered in 
+accordance with DOE O 471.5, Special Access Programs, current version. 
+(2) SCI. SCI Security Programs are not registered in SSIMS; however, each 
+accredited SCI facility (SCIF) must be recorded in SSIMS using DOE F 
+470.2, Facility Data and Approval Record (FDAR). 
+Note:  The registration of classified or sensitive details must not be entered 
+into SSIMS.
+
+--- page 37 ---
+DOE O 470.1A Attachment 2, Section 6 – Federal Employees and Contractors 
+12-18-2024  Page 2-21 
+ 
+ 
+ATTACHMENT 2 
+SECTION 6: INTERIM AND LIMITED FCLS 
+This Attachment provides information and/or requirements associated with DOE O 470.1A and 
+information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+1. INTERIM FCL. The DOE cognizance security office may grant an interim FCL on a 
+temporary basis, pending the completion of full investigative requirements for KMP 
+personnel security clearances.10 
+a. Interim FCLs will only be granted when KMP personnel security clearances are 
+pending with the Cognizance Personnel Security Office (CPSO). 
+(1) All other eligibility requirements (e.g., favorable FOCI determination, 
+approved security plans, satisfactory survey, as applicable) must be 
+finalized prior to the grant of an interim FCL. 
+(2) Interim FCLs must be registered in SSIMS. 
+b. When final personnel security clearances have been granted to all personnel 
+required to be cleared in connection with the FCL, a final FCL must be granted 
+and registered in SSIMS via an updated DOE F 470.2, Facility Data and 
+Approval Record (FDAR). 
+c. When a KMP personnel security clearance is withdrawn, suspended, cancelled, or 
+terminated, the interim FCL must also be suspended. The FCL cannot be 
+converted back to active status until the new KMP is in process or granted. 
+d. Contractors under FOCI or those with foreign nationals as KMP are not eligible 
+for interim FCLs. 
+2. LIMITED FCL. The United States has entered into agreements with certain foreign 
+governments that establish arrangements whereby a foreign-owned U.S. company may be 
+considered eligible for an FCL without any additional FOCI negation or mitigation 
+instrument.  Limited FCLs ensure that the release of information or access to security 
+assets is in accordance with the U.S. National Disclosure Policy.  
+a. A limited FCL must be restricted to one security activity involving classified 
+information or DOE security assets. 
+b. Award another security activity to the same facility involving such information 
+requires a separate FCL registration under another limited FCL, or under an FCL 
+ 
+10 "Interim FCLs" are also known as "Temporary FCLs" and may be used interchangeably within other 
+NISP Agencies.
+
+--- page 38 ---
+Attachment 2, Section 6 – Federal Employees and Contractors DOE O 470.1A 
+Page 2-22  12-18-2024 
+  
+ 
+without restrictions, if appropriate. 
+c. Issuance of a limited FCL requires that strict access restrictions must be imposed 
+to limit the access to the scope of the contract. 
+d. Limited FCLs are granted solely at the discretion of DOE upon satisfaction of all 
+criteria and requirements. 
+(1) All FCL approval requirements apply to a limited FCL. 
+(a) Verification of an agreement authorizing the exchange of the 
+classified information or matter involved to the country from which 
+the foreign ownership is derived. 
+(b) Access to classified information or matter will be limited to 
+performance on a contract, subcontract, or program involving the 
+government of the country from which foreign ownership is 
+derived. 
+(c) Release of classified information or matter must be in conformity 
+with the U.S. National Disclosure Policy. 
+(2) In extraordinary circumstances, a limited FCL may be granted when the 
+criteria listed above cannot be satisfied, provided there exists a compelling 
+need to do so consistent with national security interests. 
+(3) Limited FCL Compelling Need Statement. Each request for clearance 
+under a limited FCL must be accompanied by a statement of compelling 
+need from the GCA. 
+(a) The GCA’s compelling need statement must be signed by the head 
+of the cognizant DOE program office and include the following: 
+1 Acknowledgment that the company will be under FOCI 
+(i.e., FOCI will not be mitigated). 
+2 A cknowledgment that the GCA/Departmental element 
+accepts the risks inherent in the 
+3 gr anting of an FCL where FOCI is not mitigated. 
+4 A foreign disclosure determination stating the basis for 
+determining that release of classified to the foreign 
+government involved is in conformity with U.S. National 
+Disclosure Policy.
+
+--- page 39 ---
+DOE O 470.1A Attachment 2, Section 7 – Federal Employees and Contractors 
+12-18-2024  Page 2-23 
+ 
+ 
+ATTACHMENT 2 
+SECTION 7: FACILITY CLEAREANCE SUSPENSIONS 
+This Attachment provides information and/or requirements associated with DOE O 470.1A and 
+information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+1. REASONS FOR SUSPENSION. The CSO, in coordination with the ODFSA, must 
+suspend the FCL and register the suspension in SSIMS when the following conditions 
+occur: 
+a. A contractor is determined to be under FOCI that has not been mitigated, the FCL 
+must be suspended. Contract performance on activities involving proscribed 
+information must not continue until all applicable FOCI requirements are met. 
+b. Findings or other deficiencies in a survey, self-assessment, inspection, or 
+evaluation indicate suspension of a FCL is necessary due to non-compliance with 
+FCL or other requirements. 
+(1) The CSO will determine if the FCL must be suspended pending validated 
+corrective actions. 
+(2) The prime contractor may recommend the CSO suspend the FCL of a 
+contractor under their cognizance. 
+c. Any required KMP that is not cleared at the level of the FCL.  
+(1) Once the KMP is verified to be in process with the CPSO, the FCL may be 
+registered as an Interim FCL.  
+(2) When the KMP clearance is granted, the FCL can be registered as a final. 
+d. A CSA or CSO invalidates or suspends the FCL issued under its cognizance. 
+e. Noncompliance with security and reporting requirements. 
+f. Mergers/Acquisitions that impact the cleared contractor’s business structure, 
+operations, and/or work involving security activities and/or assets. 
+2. ACTIONS. The CSO, in coordination with the ODFSA, must take the following actions 
+when it suspends a contractor’s FCL: 
+a. Notify the contractor, in writing, that its FCL has been suspended. Notification 
+must include: 
+(1) The reason for the suspension, required corrective actions, and associated 
+timeline, and provisions for current contract extensions. 
+(2) Award of new contracts to the facility will not be permitted until the
+
+--- page 40 ---
+Attachment 2, Section 7 – Federal Employees and Contractors DOE O 470.1A 
+Page 2-24  12-18-2024 
+  
+ 
+facility has been restored to a fully valid status.  
+(3) Except for KMP, as designated by the CSO, no new personnel security 
+clearances may be requested or processed. 
+(4) Termination of the FCL may result if the issues causing the suspension, as 
+identified by the CSO, in the written notification are not rectified within 
+the time frame and manner specified; and 
+(5) For possessing facilities, the suspension notification must include 
+instructions for securing security assets at an approved cleared facility. 
+(6) Contractors must take immediate action to implement these instructions. 
+b. Notify the GCA of the suspension. 
+(1) The GCA must make the final decision to continue the contractor’s 
+performance on existing contracts. 
+(2) The ODFSA must evaluate the contractor’s security program to ensure 
+security assets that remain in the contractor’s possession are protected. 
+c. Notify all affected DOE elements and applicable CSAs of the suspension. 
+3. NONCOMPLIANCE WITH MITIGATION PLANS. When the CSO determines that a 
+cleared contractor or its tier parent is out of compliance with an approved FOCI 
+mitigation plan, the CSO will analyze and evaluate the overall impact to the protection of 
+security interests. The CSO must take the appropriate actions: 
+a. Notify the cognizant contracting officer immediately. 
+b. Request a corrective action and implementation plan from the contractor to bring 
+it into compliance with the approved mitigation plan. The contractor must 
+immediately supply the plan and all related information upon request 
+c. Suspend the FCL. The CSO must ensure contractors immediately comply with all 
+instructions from the CSO pertaining to the suspension. 
+d. Terminate the FCL. When the CSO terminates a contractor’s FCL, the contractor 
+must immediately comply with instructions and termination requirements set forth 
+in Section 8 of this Attachment. 
+4. CONTINUATION OF CONTRACT PERFORMANCE UNDER FOREIGN 
+GOVERNMENT OWNERSHIP. In accordance with the intent of 10 U.S.C. Section 
+2536, Award of certain contracts to entities controlled by a foreign government: 
+prohibition, when an existing contractor becomes foreign government owned, but 
+execution of a novation agreement is not required by the DEAR, the continued 
+performance by that contractor on existing classified contracts or contracts for
+
+--- page 41 ---
+DOE O 470.1A  Attachment 2, Section 7 – Federal Employees and Contractors 
+12-18-2024  Page 2-25 
+ 
+environmental restoration, remediation, or waste management that involve proscribed 
+information may only continue under FCL suspension if: 
+a. The contractor is eligible for continuation on such work by Secretarial and/or CSA 
+Secretarial waiver under 10 U.S.C. Section 2536(b)(1)(A) or 10 U.S.C. Section 
+2536(b)(1)(B), as applicable. 
+b. Each GCA takes immediate action to request a waiver under 10 U.S.C. Section 
+2536(b)(1)(A) or 10 U.S.C. Section 2536(b)(1)(B), as applicable. 
+c. Appropriate actions are taken to safeguard the security assets. 
+5. REINSTATEMENT OF A SUSPENDED FCL. The CSO may reinstate the FCL when 
+the conditions that resulted in the suspension are resolved. The reinstatement must be 
+based on the necessity to complete or continue work associated with the original FCL.
+
+--- page 42 ---
+Attachment 2, Section 8 – Federal Employees and Contractors DOE O 470.1A 
+Page 2-26  12-18-2024 
+ 
+ 
+ATTACHMENT 2 
+SECTION 8: SECURITY ACTIVITY/FCL TERMINATION 
+This Attachment provides information and/or requirements associated with DOE O 470.1A and 
+information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+1. SECURITY ACTIVITY TERMINATION.  
+a. When a security activity ends, the CSO and/or ISSP must enter a final DOE F 
+470.1, Contract Security Classification Specification (CSCS), into SSIMS to 
+reflect the termination of each security activity.   
+b. If other registered security activities exist, CSOs and/or ISSPs must follow the 
+"Transferring FCL Cognizance" requirements in Section 2 of this Attachment.  
+c. Non-Possessing Facilities. Upon termination of each security activity, the 
+contractor must submit a certification certifying that all personnel security 
+clearances connected with the contract have been transferred to another contract 
+under the same Facility Code or terminated within 30 days. 
+d. P ossessing Facilities. Upon return, reallocation, disposition, or destruction of all 
+classified matter pertaining to a security activity, the contractor must submit a 
+certificate of non-possession to the CSO. The certificate must include the contract 
+number and a statement that all classified matter has been returned to authorized 
+representatives of DOE or destroyed. 
+(1) Upon termination of each security activity, the contractor must submit a 
+certification certifying that all personnel security clearances connected 
+with the contract have been transferred to another contract under the same 
+Facility Code or terminated. 
+(2) For security activities involving special accesses (SCI, SAP, COMSEC, 
+etc.), the respective office must take action to ensure that all classified 
+interests have been appropriately dispositioned. 
+(3) Contractors are not permitted to retain SNM/OANM. 
+(4) Certificate of Possession must: 
+(a) Describe DOE’s benefit and the contractor’s intended use of the 
+information. 
+(b) Identify the specific classified matter by subject, type or form, and 
+quantity. 
+(c) State that the classified matter will retain its initial classification 
+until downgraded or declassified by DOE.
+
+--- page 43 ---
+DOE O 470.1A Attachment 2, Section 8 – Federal Employees and Contractors 
+12-18-2024  Page 2-27 
+  
+(d) Certify that security assets will be safeguarded in accordance with 
+DOE requirements. 
+1 The contractor must immediately report potentially 
+compromised and/or unaccounted for security assets to the 
+CSO, and 
+2 Acknowledge that unauthorized disclosure of classified 
+matter is subject to criminal penalties. 
+(5) All requests to retain security assets must be provided to the CSO for 
+approval prior to the termination of the security activity. 
+(a) The CSO must notify the contractor, in writing, of the decision. 
+1 If the security assets will aid the contractor in performing 
+another active government contract and the matter is being 
+transferred to the active contract, the contractor must 
+provide the CSO and the CSA holding the contract a copy 
+of the retention notification. 
+2 If the contractor does not receive the required notification, 
+the matter may be transferred and will fall under the 
+jurisdiction of the gaining (i.e., active) contract. 
+(b) When a certificate of possession is submitted, the contractor may 
+maintain the security assets for up to 24 months, unless otherwise 
+notified by the CSO having authority over the security assets. 
+For classified matter belonging to another CSA, the CSO must 
+obtain concurrence from the CSA. 
+2. FCL TERMINATION. 
+a. When the last security activity ends and/or an FCL is no longer necessary, the 
+FCL must be terminated. 
+b. Prior to termination, the CSO must: 
+(1) Ensure all personnel security clearances connected to the FCL are 
+terminated. 
+(2) Ensure all DOE security assets are appropriately reallocated, disposed of, 
+destroyed, or returned to an authorized DOE Federal or contractor with the 
+appropriate FCL level. 
+c. For Possessing facilities, the CSO must complete a termination survey; and
+
+--- page 44 ---
+Attachment 2, Section 8 – Federal Employees and Contractors DOE O 470.1A 
+Page 2-28  12/8/2024 
+  
+ 
+d. An updated DOE F 470.2, Facility Data and Approval Record (FDAR) must be 
+entered into SSIMS to reflect the termination. 
+3. REACTIVATION. Reactivations of terminated FCLs must be based on programmatic or 
+mission need and the implementation of current security requirements.  
+a. The CSO must:  
+(1) Validate that all security requirements (e.g., FOCI, KMP personnel 
+security clearances, etc.) have been implemented,  
+(2) Must complete a DOE F 470.2, Facility Data and Approval Record 
+(FDAR), and  
+(3) Must update SSIMS to complete the reactivation.
+
+--- page 45 ---
+DOE O 470.1A  Attachment 3 – Federal Employees and Contractors 
+12-18-2024  Page 3-1 
+ 
+ 
+ATTACHMENT 3 
+FOREIGN OWNERSHIP, CONTROL, OR INFLUENCE PROGRAM 
+This Attachment provides information and/or requirements associated with DOE O 470.1A and 
+information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+1. GENERAL. 
+a. Foreign investment plays an important role in maintaining the vitality of the U.S. 
+industrial base. Therefore, it is the policy of the U.S. Government to allow foreign 
+investment consistent with the national security interests of the United States. 
+b. The DOE Foreign Ownership, Control, or Influence (FOCI) policy for U.S. 
+companies subject to a facility clearance (FCL) determination is intended to 
+facilitate foreign investment by ensuring that foreign firms cannot undermine U.S. 
+security and export controls to gain unauthorized access to critical technology 
+and/or classified information or matter, including RD, FRD, and SNM/OANM. 
+c. The FOCI program regulates DOE determinations of the degree to which a 
+contractor facility is under foreign ownership, control, or influence. In accordance 
+with 48 CFR Chapter 9, the DOE Acquisition Regulation (DEAR), DOE must 
+obtain information about FOCI that is sufficient to help the Department determine 
+whether award of a contract to a person or firm, or the continued performance of a 
+contract by a person or firm, may pose undue risk to the common defense and 
+security. 
+d. A contractor cannot be under FOCI to such a degree that granting or continuing an 
+FCL would be inconsistent with U.S. national security interests. The requirements 
+of the National Industrial Security Program (NISP) form the baseline for this 
+program, supplemented with requirements for the protection of DOE-specific 
+assets, Restricted Data, SNM/OANM, and other security activities. 
+2. REQUIREMENTS. 
+a. Cognizant Security Office (CSO). The CSO and/or the Industrial Security Service 
+Provider (ISSP)11, as designated by the Program Secretarial Officer or, for NNSA, 
+the Office of the Administrator through the Office of Defense Nuclear Security, 
+must ensure that the following activities are accomplished under the FOCI 
+program for facilities and sites under their cognizance and for ensuring that 
+contractors under their cognizance accomplish their responsibilities under this 
+program at contractor facilities. Procedures applicable to the FOCI program must 
+be documented in facility or site security plans.
+ 
+11 For the purposes of this Attachment, CSO and ISSP may be interchangeable to identify FOCI responsibilities.
+
+--- page 46 ---
+Attachment 3 – Federal Employees and Contractors DOE O 470.1A 
+Page 3-2   12-18-2024 
+ 
+ 
+b.  
+(1) Ensure FOCI determinations are rendered for all contractors and their tier 
+parents as required. 
+(2) Establish and implement procedures to ensure coordination is 
+accomplished between the FCL and FOCI programs. 
+(3) Ensure that all relevant aspects of FOCI are resolved and, if necessary, 
+appropriately mitigated prior to the granting of an interim or final FCL. 
+(4) Establish reporting requirements and timelines for which contractors must 
+report changes to the FOCI determination. 
+(5) Ensure that contractors under their cognizance meet reporting 
+requirements as established in DOE directives and national standards. 
+(6) Establish and determine the circumstances under which a contractor will 
+be requested to complete a new FOCI package. 
+(7) Ensure that contractors under FOCI mitigation comply with all 
+requirements imposed by the mitigation instrument. 
+(8) Ensure that procedures are in place for verification of the original 
+signature on the Standard Form (SF) 328, Certificate Pertaining to Foreign 
+Interest, prior to finalizing a FOCI determination. 
+(9) Ensure that counterintelligence threat and technology transfer risk 
+assessments and updates are obtained and evaluated as necessary in the 
+administration of the FOCI program. 
+(10) Ensure that annual review and certification requirements or alternative 
+methods as permitted by this Order, for contractors under a FOCI 
+mitigation instrument, are met for all such contractors under their 
+cognizance. 
+(11) Ensure that when factors not related to ownership are present, contractors 
+take appropriate positive measures to assure that the foreign interest can 
+be effectively mitigated and cannot otherwise adversely affect 
+performance on contracts. 
+(12) Approve trustees, proxy holders, and outside directors nominated by 
+contractors in connection with FOCI mitigation plans and approve specific 
+measures such as technology control plans developed and implemented by 
+contractors as part of FOCI mitigation plans. 
+(13) Evaluate changes in FOCI information submitted by contractors holding 
+an FCL, and make changes in mitigation methods or security
+
+--- page 47 ---
+DOE O 470.1A  Attachment 3 – Federal Employees and Contractors 
+12-18-2024  Page 3-3 
+ 
+ 
+requirements, or suspend or terminate the FCL, as warranted to address 
+changed conditions. 
+(14) Establish an appeals process for disputing a FOCI determination or 
+National Interest Determinations (NIDs) non-concurrence. 
+c. Contractors. Contractors must ensure that the following activities are accomplished 
+for the FOCI program. An FCL will not be granted until all relevant aspects of 
+FOCI have been resolved and, if necessary, appropriately mitigated. Procedures 
+applicable to the FOCI program must be documented in facility or site security 
+plans. 
+(1) Establish and maintain activities related to FOCI in accordance with the 
+requirements contained in this directive and in national policies. 
+(2) In all FOCI activities, provide complete information to enable the DOE 
+cognizant security office and/or other DOE Federal authorities to ascertain 
+the attendant risk and whether classified information and other security 
+assets are adequately protected, including but not limited to accurate and 
+complete submissions of Standard Form (SF) 328, Certificate Pertaining to 
+Foreign Interest, and information provided during annual certification and 
+review activities. 
+(3) Ensure changes reported by contractors which might affect the FOCI 
+determination are reported, via e-FOCI to the respective DOE or NNSA 
+cognizant security office and/or other DOE Federal authorities upon 
+notification.  
+(a) Comply with all reporting requirements related to FOCI.  
+(b) Maintain all records pertaining to FOCI, including records such as 
+original signatures on the SF 328 if instructed by the DOE 
+cognizant security office, and make such records available upon 
+request to the CSO.  
+(c) Complete a new FOCI package when directed to do so by the DOE 
+cognizant security office or on a schedule established by that 
+office. 
+(4) Propose appropriate FOCI mitigation instruments and work with the CSO 
+to develop a suitable FOCI mitigation plan in accordance with national 
+drivers and regulatory guidance. 
+(5) Comply with all requirements and restrictions imposed by an approved 
+FOCI mitigation plan. 
+(6) Furnish annual review and certification information one year from the 
+effective date of a mitigation agreement and annually thereafter.
+
+--- page 48 ---
+Attachment 3 – Federal Employees and Contractors DOE O 470.1A 
+Page 3-4  12-18-2024 
+  
+ 
+(7) Complete required Facility Security Officer (FSO) and Insider Threat 
+Program Senior Official training in accordance with Attachment 2 of this 
+Order. 
+(8) When issues not related to ownership are present, take appropriate positive 
+measures to assure that the foreign interest is effectively mitigated and 
+cannot adversely affect security assets and performance on contracts.   
+(9) When FOCI is mitigated through use of a Voting Trust, Proxy Agreement, 
+Special Security Agreement (SSA) or Security Control Agreement (SCA), 
+establish a permanent committee of the organization’s board of directors 
+as the government security committee. 
+3. FOCI PROGRAM INFORMATION. 
+a. General. 
+(1) FCL must not be granted until all relevant aspects of FOCI have been 
+resolved and, if necessary, appropriately mitigated. Appropriate 
+procedures must be in place to ensure coordination between the FOCI and 
+FCL programs under the jurisdiction of each DOE program office. 
+(2) The determination of whether a U.S. company is under FOCI must be 
+made on a case-by-case basis. In instances where the company is unable to 
+identify a foreign owner (e.g., the participating investors in a foreign 
+investment or hedge fund cannot be identified), CSO may determine that 
+the company is not eligible for an FCL. The following are examples of 
+factors that must be considered to determine whether a company is under 
+FOCI, is eligible for an FCL despite FOCI issues, and the protective 
+measures required to mitigate FOCI: 
+(a) Foreign intelligence threat, including record of economic and 
+government espionage against U.S. targets. 
+(b) Risk of unauthorized technology transfer. 
+(c) Type and sensitivity of classified information or matter, or 
+SNM/OANM to be accessed. 
+(d) The nature, source, and extent of FOCI, including whether foreign 
+interests hold a majority or substantial minority position in the 
+company, taking into consideration all immediate, intermediate, 
+and ultimate parent companies. 
+(e) Record of compliance with pertinent U.S. laws, regulations, and 
+contracts.
+
+--- page 49 ---
+DOE O 470.1A  Attachment 3, Section 3, Chapter 1 – Federal Employees and Contractors 
+12-18-2024  Page 3-5 
+  
+(f) Nature of bilateral and multilateral security and information 
+exchange agreements that may be relevant. 
+(g) Whether the government of the foreign interest has industrial 
+security and export control regimes in place that are comparable to 
+those of the United States. 
+(h) Ownership or control, in whole or in part, by a foreign government. 
+(3) Development of security measures to mitigate the impact of unacceptable 
+FOCI must be based on the concept of risk management. 
+(4) If there is a change in a company with an existing FCL that impacts a 
+favorable FOCI determination, the FCL must be suspended or terminated 
+unless security measures are taken to remove the possibility of 
+unauthorized access or adverse impacts to contract performance. 
+(5) Any doubt that unacceptable FOCI can be effectively mitigated to the 
+point that affording the applicant access to classified information or matter 
+is clearly consistent with national security must be resolved in favor of the 
+national security. 
+b. Applicability. 
+(1) FOCI determinations must be rendered on the following: 
+(a) Applicants, including industrial, educational; commercial; or any 
+other entity, grantee, or licensee that have or anticipate executing a 
+contract requiring access authorizations, including individuals 
+contracting as a business. This includes subcontractors of any tier, 
+consulting firms, agents, grantees, and cooperative research and 
+development agreement participants who require security 
+clearances. 
+(b) All tier parents of applicants when the parent is located in the 
+United States, Puerto Rico, or a U.S. possession or trust territory 
+(DEAR, section 925.204-73[f]). 
+(2) A FOCI determination is not required for an individual performing work 
+under a consulting agreement (e.g., an individual awarded a contract who 
+has not contracted as a business). Foreign involvement for such 
+individuals is determined and adjudicated through the background 
+investigation conducted for the security clearance. 
+(3) When a local, State, or Federal agency or department is granted an FCL, 
+there must be an agreement containing a security clause, which must state 
+that if the government agency or department subcontracts any work 
+requiring access to classified information or matter by a commercial entity
+
+--- page 50 ---
+Attachment 3 – Federal Employees and Contractors DOE O 470.1A 
+Page 3-6  12-18-2024 
+  
+ 
+in connection with the FCL, a FOCI determination is required. If the 
+government agency or department does not have its own FOCI policies or 
+an agreement with the Secretary of Defense for industrial security 
+services, DOE will render the FOCI determination. 
+(4) Contractors with existing U.S. Government FCLs are identified in SSIMS 
+and/or Defense Counterintelligence and Security Agency National 
+Industrial Security System. No further FOCI review is required for an 
+applicant registered in either of these systems holding an equal or higher 
+U.S. Government FCL based upon a favorable FOCI determination. 
+c. Electronic Submission/Processing Web Site. The Department has an electronic 
+system for submission of FOCI information to DOE. To ensure confidentiality of 
+the information submitted and stored on the system, the site is protected with 128- 
+bit encryption. 
+(1) Applicants must use this system for the submission of FOCI packages, 
+including changes to update their FOCI information. The FOCI Website 
+may be accessed via an Internet browser at https://foci.anl.gov. Electronic 
+signatures are not accepted; therefore, a signed original SF 328, Certificate 
+Pertaining to Foreign Interests, executed in accordance with the 
+instructions on the certification section of the SF 328, must either be 
+submitted to the DOE cognizant security office, or retained by the 
+applicant and inspected by the DOE cognizant security office at the 
+applicant’s place of business prior to rendering the final FOCI 
+determination. 
+(2) Federal employees and supporting contractors must use the Electronic 
+Submission Processing System Website at https://doefoci.anl.gov.
+
+--- page 51 ---
+DOE O 470.1A Attachment 3, Section 1 – Federal Employees and Contractors 
+12-18-2024  Page 3-7 
+ 
+ 
+ATTACHMENT 3  
+SECTION 1: FOCI PROGRAM PROCESSING 
+This Attachment provides information and/or requirements associated with DOE O 470.1A and 
+information and/or requirements applicable to contracts in which the associated CRD (Attachment 1 to 
+DOE O 470.1A) is inserted. 
+1. FOCI PROCESSING. 
+a. Determining the Requirements for a FOCI Determination. If the procurement 
+request requires security clearances, the DEAR security clauses found at 48 CFR 
+Part 952.204-2, Security Requirements, will be included in the contract. For all 
+such contracts a DOE F 470.1, Contract Security Classification Specification 
+(CSCS), must be completed by the procurement request originator. A DD Form 
+254 may be used by a Federal agency sponsoring a contract activity, provided it is 
+annotated with the DOE facility code. FOCI information and forms required 
+under the security clauses will be submitted via the electronic FOCI website. 
+b. Final FOCI Determinations. 
+(1) When insufficient lead time is expected between selection and contract 
+award for the processing of the FOCI determination, the contracting 
+officer may request a cursory review, not a final FOCI determination, of 
+the SF 328 submissions of each applicant in the competitive range. 
+(2) A final FOCI determination will only be rendered for the successful 
+applicant. 
+c. Adjudication Level. 
+(1) The DOE cognizant security office renders the FOCI determination under 
+the following conditions: 
+(a) The responses to the FOCI questions do not exceed the thresholds 
+in the FOCI Implementation reference tool in the e-FOCI system. 
+(b) Exclusion procedures are invoked when the applicant is controlled 
+by a parent(s) not requiring security clearances or requiring a lower 
+level of access to classified information or matter. 
+(2) The Office of Environment, Health, Safety and Security (EHSS), or for 
+NNSA, the Chief, Office of Defense Nuclear Security, will render FOCI 
+determinations that exceed established thresholds. The DOE cognizant 
+security office will forward the FOCI submission(s) to EHSS or NNSA 
+with: 
+(a) the justification for clearance or exclusion, including full details 
+pertaining to the proposed contract, and
+
+--- page 52 ---
+Attachment 3, Section 1 – Federal Employees and Contractors DOE O 470.1A 
+Page 3-8  12-18-2024 
+ 
+ 
+(b) the DOE cognizant security office’s analysis, including a clear 
+statement of the reason why a Headquarters determination is 
+required. The Headquarters office, in coordination with the Office 
+of General Counsel, will provide a final FOCI determination to the 
+submitting office. 
+(3) A counterintelligence threat assessment and technology transfer risk 
+assessment must be obtained and considered prior to a final decision to 
+grant an FCL to an applicant under FOCI or to restore an FCL previously 
+suspended because of unacceptable FOCI. The DOE cognizant security 
+office must coordinate with the DOE Office of Intelligence and 
+Counterintelligence (DOE/IN-21) to ensure that the threat assessment and 
+technology transfer risk assessments and updates are accomplished. 
+d. Committee on Foreign Investment in the United States. 
+(1) The Committee on Foreign Investment in the United States (CFIUS) is an 
+interagency committee chaired by the Department of the Treasury under 
+Section 721 of the Defense Production Act of 1950 (50 U.S.C. App. 
+2170). CFIUS review is a voluntary process which affords an opportunity 
+for foreign investors and U.S. persons entering into a covered transaction 
+to submit the transaction for review by CFIUS to assess the impact of the 
+transaction on national security. DOE policy regarding CFIUS is found in 
+DOE O 142.5, Committee on Foreign Investment in the United States, 
+current version. 
+(2) The CFIUS review and the FOCI and FCL processing actions are carried 
+out in two parallel but separate processes with different time constraints 
+and considerations. 
+e. Contracting Officers. Contracting officers must provide electronic or written 
+notification to the DOE cognizant security office when: 
+(1) they become aware of any changes to an applicant’s FOCI status. 
+(2) a requested FOCI review is no longer needed. 
+(3) a FOCI determination was rendered on an applicant that was not awarded a 
+contract. 
+(4) all work on a contract for which a FOCI determination was   rendered is 
+within 30 days before termination or completion; or 
+(5) security clearances are no longer required in performance of the contract.
+
+--- page 53 ---
+DOE O 470.1A Attachment 3, Section 2 – Federal Employees and Contractors 
+12-18-2024  Page 3-9 
+ 
+ 
+ATTACHMENT 3 
+SECTION 2: FOCI REPORTING REQUIREMENTS 
+This Attachment provides information and/or requirements associated with DOE O 470.1A and 
+information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+1. GENERAL. Contractors are required to report changes that have an impact on the status 
+of the FCL. The reporting requirements stated here pertain specifically to the FCL; 
+additional requirements related to FOCI issues, personnel security concerns, and other 
+security matters are also reportable and can be found in the directives applicable to those 
+programs. 
+2. U PDATES. Contractors holding an FCL must submit written reports of changed 
+conditions and any anticipated changes affecting the FCL when the change or impending 
+change is made known. 
+a. S ignificant changes . When changes have occurred in the extent and nature of 
+FOCI that affect the information in a contractor’s most recent FOCI submission, 
+the contractor must provide written notification and supporting documentation 
+relevant to the changes to the CSO. Significant changes include but are not 
+limited to the following circumstances: 
+(1) All circumstances that would change any answer on the SF 328, 
+Certificate Pertaining to Foreign Interest, from "No" to "Yes," must be 
+reported by submitting a changed condition SF 328. 
+(2) A previously reported threshold or factor that was favorably adjudicated by 
+the CSO has increased to a level requiring a determination by the Office of 
+Environment, Health, Safety and Security or, for NNSA, the Office of 
+Defense Nuclear Security. 
+(3) When a foreign interest owns five percent or more of a U.S. business 
+organization (Questions 1a and 1b, SF 328), a five percent or greater 
+increase in the beneficial ownership of a class of equity securities of the 
+business organization, or a five percent increase in the beneficial 
+ownership of the business itself, as determined by voting or investment 
+rights, by one or more foreign interests and/or any U.S. person effectively 
+controlled by a foreign interest. 
+(4) When a U.S. business organization owns ten percent or more of a foreign 
+interest (Question 2, SF 328), any increase equivalent to ten percent or 
+more of the tangible net worth of the business organization. 
+(5) When a U.S. business organization has foreign national Key Management 
+Personnel (KMP) (Question 3, SF 328), appointment of any additional 
+foreign national to a position required to be cleared in connection with the 
+FCL or to any position identified in the articles of incorporation, by-laws,
+
+--- page 54 ---
+Attachment 3, Section 2 – Federal Employees and Contractors  DOE O 470.1A 
+Page 3-10  12-18-2024 
+  
+ 
+articles of organization, or equivalent governance documentation or charter 
+for the business organization. 
+(6) When a Foreign Person has the power to control selection or tenure of 
+KMP/other decisions (Question 4, SF 328), any change in such 
+power/authority except amendments or waivers to governance 
+documentation either to correct manifest error or which are of a formal, 
+minor, or technical nature and do not change materially any person’s 
+rights or obligations. 
+(7) When there are contracts, agreements, understandings, or arrangements 
+with foreign person(s) (Question 5, SF 328), any change expected to result 
+in annual payments to or from an entity where the payments exceed 
+twenty percent of the U.S. business organization’s annual gross revenues. 
+(8) When there is indebtedness, liabilities, or obligations to foreign persons 
+(Question 6, SF 328), there is a changed condition reportable on the SF 
+328 whenever there is: 
+(a) Any new indebtedness to foreign persons which results in a 
+liability exceeding ten percent of the tangible net worth of the 
+business organization or includes an instrument creating a 
+mortgage, deed of trust, pledge, lien, security interest or other 
+charge or encumbrance against: 
+1 Any of its property, assets or leasehold interests exceeding 
+ten percent of the business organizations tangible net 
+worth, or 
+2 P ledges five percent or more of the voting securities of the 
+business organization as collateral. 
+(b) Any other new foreign indebtedness where the business 
+organization permits to exist a leverage ratio exceeding two to one 
+(2:1) based on the business organization’s indebtedness to its 
+tangible net worth and calculated on the basis of information set 
+forth in its financial statement. 
+(9) When the business organization derives five percent or more of total 
+revenues/net income from a single foreign person (Question 7a, SF 328), 
+with respect to the business organization and that single foreign person, 
+any change expected to result in annual payments to or from the business 
+organization where the payments exceed an additional ten percent of the 
+business organization’s gross revenues.
+
+--- page 55 ---
+DOE O 470.1A Attachment 3, Section 2 – Federal Employees and Contractors 
+12-18-2024  Page 3-11 
+ 
+ 
+(10) When the business organization derives thirty percent or more of total 
+revenues/net income from foreign persons (Question 7b, SF 328), with 
+respect to the business organization and any foreign persons, any change 
+expected to result in annual payments to or from the business organization 
+where the payments exceed an additional twenty percent of the business 
+organization’s annual gross revenue. 
+(11) When there are ten percent or more voting securities held in a method 
+which does not identify the beneficial owner (Question 8, SF 328), any 
+change of five percent or more in the total number of shares held in 
+"nominee" shares, in "street names" or in some other method which does 
+not identify the beneficial owner or any amendment to the bylaws of the 
+business organization or its parent related specifically to voting rights of 
+such nominee holders and any requirement regarding notice of any matter 
+to be presented by a nominee stockholder at a shareholders meeting 
+including any amendment affecting the voting and notice rights and 
+obligations of nominee holders and associated persons who fail to make 
+timely disclosures required by the U.S. Securities and Exchange 
+Commission (SEC) such as Schedule 13D. 
+(12) When there are KMP(s) holding positions or serving as consultants for 
+foreign person(s) (Question 9, SF 328), any new position held by persons 
+required to be cleared in connection with the FCL (excludes positions 
+where the KMP is appointed by the U.S. parent business organization to a 
+seat on the board or similar governing body of a foreign subsidiary, 
+provided that the business organization promptly gives the CSO notice of 
+such appointment). 
+(13) When there are any other factors of foreign person control or influence 
+(Question 10, SF 328), each change qualifying as an affirmative answer to 
+this question on the SF 328 and each change having a material effect on 
+the ownership, control or influence of the business, operations, prospects, 
+condition (financial or otherwise), or property of the business organization 
+such that the security measures contemplated by an agreement with DOE 
+to mitigate FOCI would not reasonably be expected to remove the 
+possibility of unauthorized access to or adverse effect on the performance 
+of classified contracts. 
+(14) A previously reported foreign ownership threshold or factor that was 
+favorably adjudicated has increased to the extent that a FOCI mitigation 
+method (if none previously existed) or a different FOCI mitigation method 
+is required. 
+(15) Any changes in ownership or control, including stock transfers that affect 
+control of the company. Notice of changes includes ownership or control 
+events that are required to be reported to the SEC, the Federal Trade 
+Commission, or the Department of Justice.
+
+--- page 56 ---
+Attachment 3, Section 2 – Federal Employees and Contractors DOE O 470.1A 
+Page 3-12  12-18-2024 
+ 
+ 
+b. Anticipated changes. Anticipated changes are events that arise when the 
+contractor or any of its tier parents enter into formal negotiations toward 
+agreement or acquisition, e.g., when the parties enter a written memorandum of 
+understanding); in the case of financing agreements, or when written application 
+for financing is made. The contractor must provide the CSO with written 
+notification of anticipated actions, including but not limited to the following: 
+(1) An action to terminate business or operations of the contractor or any of 
+its parents for any reason, including but not limited to entering into any 
+transaction of merger, consolidation, or amalgamation with another 
+company; conveying, selling, leasing, transferring, or otherwise disposing 
+of all or a substantial part of company business or assets; and/or making 
+any material change that could have an adverse effect on the contractor 
+organization’s ability to perform its contractual obligations for DOE or 
+other contractors of DOE. 
+(2) Legal actions taken to initiate bankruptcy proceedings involving the 
+contractor organization or any of its tier parents. 
+(3) Imminent adjudication of/or reorganization resulting from bankruptcy 
+actions involving the contractor organization or any of its tier parents. 
+(4) Entry by the contractor or its tier parents into negotiations with foreign 
+nationals that may reasonably be expected to require amendment of the SF 
+328, including but not limited to negotiations for the sale of securities to a 
+foreign national or citizens. 
+3. OTHER REPORTABLE CHANGES. 
+a. Changes to name or address of the company or any of its cleared locations. 
+b. Any changes to information previously submitted for KMP, including, if 
+appropriate, the names of the individuals they are replacing. In addition, a 
+statement including the following information must be provided to the CSO: 
+(1) Date and place of birth, social security number, citizenship, and, if 
+appropriate, personnel security clearance level and issuing agency. 
+(2) If they have been excluded from access to security assets. 
+(3) If they have been temporarily excluded from access to security assets 
+pending the granting of the DOE access authorization.
+
+--- page 57 ---
+DOE O 470.1A  Attachment 3, Section 2 – Federal Employees and Contractors 
+12-18-2024  Page 3-13 
+ 
+ 
+c. A new complete listing of KMP will be submitted to the CSO upon request.   
+d. Any pre-contract negotiation or award not placed through a government 
+contracting activity that involves or may involve the release or disclosure of U.S. 
+security assets to a foreign interest or access to classified information furnished by 
+a foreign interest. 
+e. Contractors must provide a current list of all classified contracts and classified 
+subcontracts issued to other contractors upon request. 
+f. Contractors must provide security costs charged to the government upon request. 
+g. The data points will be used by the DOE in developing the annual Report to the 
+Director, Information Security Oversight Office.
+
+--- page 58 ---
+Attachment 3, Section 2, Chapter 1 – Federal Employees and Contractors DOE O 470.1A 
+Page 3-14 12-18-2024 
+ 
+ 
+ATTACHMENT 3 
+SECTION 2, CHAPTER 1: CHANGES TO FOCI INFORMATION 
+This Attachment provides information and/or requirements associated with DOE O 470.1A and 
+information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+4. CHANGES TO FOCI INFORMATION. 
+a. FOCI changes that occur following submission of an SF 328 and before contract 
+award. When an applicant has submitted a comprehensive FOCI package to the 
+contracting officer and changes have occurred in the FOCI of the company prior 
+to contract award, the applicant must submit an updated SF 328 and associated 
+documents within the timeframe established by the CSO. DOE cognizant security 
+offices must review the updated information and take any necessary steps to 
+resolve FOCI concerns before the contract is awarded. 
+ Failure to provide timely updates to the CSO may result in suspension of the FCL. 
+b. Updates. Changed conditions, such as a change in ownership, indebtedness, or 
+foreign intelligence threat, justify adjustments to the security requirements under 
+which a company is operating or require that a different FOCI mitigation method 
+be used.  
+(1) A changed condition may result in a determination that a company is no 
+longer considered to be under FOCI or, conversely, that a company is no 
+longer eligible for an FCL.  
+(2) Contractors holding an FCL based upon a favorable FOCI determination 
+must submit written reports of changed conditions and anticipated changes 
+which affect the FCL.  
+(3) Changes must be analyzed by the DOE cognizant security office to ensure 
+that the contractor continues to meet the standards for holding an FCL.  
+(4) DOE cognizant security offices may request updated information, 
+including the submission of a new FOCI package, at any time outside the 
+normal cycle of package submission requirements.  
+(5) Significant changes that warrant a new FOCI determination include the 
+following: 
+(a) A new threshold or factor exists that did not exist when the 
+previous determination was made.  
+(b) A previously reported threshold or factor that was favorably 
+adjudicated by the DOE cognizant security office has increased to a 
+level requiring a determination by EHSS or NNSA.
+
+--- page 59 ---
+DOE O 470.1A  Attachment 3, Section 3, Chapter 1 – Federal Employees and Contractors 
+12-18-2024  Page 3-15 
+  
+(c) A previously reported financial threshold or factor that was 
+favorably adjudicated has increased by 5 percent or more; or a shift 
+has occurred of 5 percent or more by country location, end user, or 
+lenders. 
+(d) Previously reported foreign ownership threshold or factor that was 
+favorably adjudicated has increased to the extent that a FOCI 
+mitigation method or a different FOCI mitigation method is 
+required. 
+(e) Any changes in ownership or control, to include partnerships and 
+joint ventures. 
+(f) Incidents of counterintelligence interest or concern identified and 
+reported to the cognizant security office by the servicing 
+counterintelligence office after the initial FOCI determination may 
+also warrant a new determination. 
+c. Annual Review and Certification. The DOE cognizant security office will develop 
+procedures to ensure that contractors provide adequate information to enable the 
+DOE office to conduct a meaningful evaluation of compliance with annual review 
+and certification requirements. Each contractor holding an FCL under a FOCI 
+mitigation instrument must provide written annual certification to the DOE 
+cognizant security office that no changes have occurred which would impact the 
+contractor’s ability to protect classified information or matter or otherwise impact 
+to national security. 
+(1) The certification report must include: 
+(a) A detailed description of the manner in which the contractor is 
+carrying out its obligations under the agreement. 
+(b) Changes to security procedures, implemented or proposed, and the 
+reasons for the changes. 
+(c) A detailed description of any acts of noncompliance, whether 
+inadvertent or intentional, with a discussion of steps that were taken 
+to prevent such acts from recurring. 
+(d) Any changes or impending changes of key management personnel 
+or key board members, including the reasons for the changes. 
+(e) Any changes or impending changes in the organizational structure 
+or ownership, including any acquisitions, mergers, or divestitures. 
+Any other issues that could have a bearing on the effectiveness of 
+the applicable agreement. Any contractor controlled by a parent 
+organization(s) that has/have been excluded by formal resolution
+
+--- page 60 ---
+Attachment 3, Section 2, Chapter 1 – Federal Employees and Contractors DOE O 470.1A 
+Page 3-16   12-18-2024 
+  
+ 
+must provide written certification on an annual basis to the DOE 
+cognizant security office acknowledging the continued 
+effectiveness of the resolution. 
+(2) Any contractor that has executed a Board Resolution to reduce FOCI in 
+non-controlling foreign ownership situations must provide annual written 
+certification to the DOE cognizant security office acknowledging that the 
+resolution remains in effect. 
+(3) Representatives of the DOE cognizant security office must meet annually 
+(at least every 12 months) with the senior management officials who 
+comprise the Government Security Committee (GSC) of organizations 
+operating under a Voting Trust Agreement, Proxy Agreement, SSA, or 
+SCA to review the effectiveness of the pertinent security arrangement and 
+to establish a common understanding of the operating requirements and 
+their implementation.  
+(a) If annual meetings cannot be conducted, CSO must establish other 
+methods, such as the submission of a new FOCI package for 
+review, to accomplish the same ends. Reviews must include 
+examination of the following: 
+1 acts of compliance or noncompliance with the approved 
+security arrangement, standard rules, and applicable laws 
+and regulations. 
+2 p roblems or impediments associated with the practical 
+application or utility of the security arrangement; and 
+3 w hether security controls, practices, or procedures warrant adjustment.
+
+--- page 61 ---
+DOE O 470.1A Attachment 3, Section 3 – Federal Employees and Contractors 
+12-18-2024 Page 3-17 
+ 
+ 
+ATTACHMENT 3  
+SECTION 3: PERSONNEL SECURITY CLEARANCES AND EXCLUSION 
+PROCEDURES 
+This Attachment provides information and/or requirements associated with DOE O 470.1A and 
+information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+1. SECURITY CLEARANCES REQUIRED IN CONNECTION WITH THE FCL.  
+a. KMP, as determined by the CSO, must be cleared to the level of the FCL, or 
+higher or formally excluded from access, as appropriate.  
+b. For MFOs, each subordinate cleared facility’s KMP must also be cleared or 
+excluded.   
+c. KMP PCL package requests must be submitted to the CPSO within established 
+timelines, not to exceed 90 calendar days of notification. Failure to submit KMP 
+PCL package requests to the CPSO may result in an FCL suspension or 
+withdrawal. 
+2. EXCLUSION PROCEDURES. Certain contractor entity officials, e.g., those who either 
+hold majority interest or stock in the entity, or who have direct or indirect authority to 
+influence or decide issues affecting the management or operations of the contractor or 
+classified contract performance, may be excluded from, or cleared at a lower level than 
+the FCL. The CSO must ensure the following exclusion actions are completed before 
+granting an FCL.  Exclusion actions must be documented by the organization’s governing 
+board. A copy of the resolution must be provided via e-FOCI and approved by the CSO. 
+a. When a formal exclusion action is required, the organization’s governing body 
+must determine the required exclusion action and make the appropriate 
+affirmation: 
+(1) Affirmation for Exclusion from Access to Classified Information:  
+(a) Identify the KMP by their name and position to be excluded, will 
+not require, will not have, and can be effectively and formally 
+excluded from, access to all classified information disclosed to the 
+entity, and  
+(b) Does not occupy a position that would enable them to adversely 
+affect the organization’s policies or practices in the performance of 
+classified contracts.
+
+--- page 62 ---
+Attachment 3, Section 3 – Federal Employees and Contractors DOE O 470.1A 
+Page 3-18   12-18-2024 
+  
+ 
+(2) Affirmation for Exclusion from Higher-level Classified Information  
+(a) Identify the KMP by their name and position to be excluded, will 
+not require, will not have, and can be effectively and formally 
+excluded from access to classified information, and  
+(b) Does not occupy a position that would enable them to adversely 
+affect the organization’s policies or practices in the performance of 
+classified contracts. 
+3. SECURITY CLEARANCES CONCURRENT WITH THE FCL. 
+a. Contractor employees who are not KMP but will perform work on the contract 
+may be submitted for PCLs concurrent with the submittal of the FCL request. 
+b. The PCL cannot be granted until the interim, limited, or final FCL is registered in 
+SSIMS.
+
+--- page 63 ---
+DOE O 470.1A Attachment 3, Section 4 – Federal Employees and Contractors 
+12-18-2024 Page 3-19 
+ 
+ 
+ATTACHMENT 3 
+SECTION 4: FOCI MITIGATION 
+1. FOCI MITIGATION. 
+a. General. If DOE determines that a company is under FOCI, DOE will determine 
+the extent and manner in which the FOCI may result in unauthorized access to 
+classified information or SNM/OANM and the types of actions that will be 
+necessary to mitigate the associated risks to a level deemed acceptable in 
+accordance with national drivers and DOE Policy. DOE cognizant security offices 
+will ensure that the following are considered in every FOCI evaluation: 
+(1) Record of economic and government espionage against U.S. targets. 
+(2) Record of enforcement and/or engagement in unauthorized technology 
+transfer. 
+(3) Record of compliance with pertinent U.S. laws, regulations, and contracts. 
+(4) Type and sensitivity of the information to be accessed. 
+(5) Source, nature, and extent of FOCI, including but not limited to whether 
+foreign persons hold a majority or substantial minority position in the 
+company, taking into consideration all immediate, intermediate, and 
+ultimate parent companies. 
+(6) Nature of any bilateral and multilateral security and information exchange 
+agreements that may pertain. 
+(7) Ownership or control, in whole or in part, by a foreign government. 
+(8) Any other factor that indicates or demonstrates a capability on the part of 
+the foreign interests to control or influence the operations or management 
+of the business organization concerned. 
+b. Mitigation Action Plans. If there are any affirmative answers on the Certificate 
+Pertaining to Foreign Interests, or other information is received which indicates 
+that the applicant may be under FOCI, the DOE cognizant security office must 
+review the case to determine the relative significance of the information regarding 
+the following factors: 
+(1) Whether the applicant is under FOCI. 
+(2) The extent and manner the FOCI may result in unauthorized access to 
+classified information or adversely impact classified contract performance. 
+The type of actions, if any, that would be necessary to mitigate or negate the 
+effects of the FOCI to a level deemed acceptable to the Federal Government.
+
+--- page 64 ---
+Attachment 3, Section 4 – Federal Employees and Contractors DOE O 470.1A 
+Page 3-20 12-18-2024 
+ 
+ 
+FOCI Mitigation Instruments. The affected organization or its legal 
+representatives may propose a plan to negate or reduce unacceptable FOCI. 
+(3) DOE must impose any security method, safeguard, or restriction it believes 
+necessary to ensure that unauthorized access to classified information or 
+matter, or SNM/OANM, is precluded. 
+(4) An entity that will not implement the security measures determined 
+necessary by DOE to mitigate its foreign involvement to an acceptable 
+level is ineligible for a FOCI determination and an FCL. 
+(5) Under all methods of FOCI mitigation, management positions requiring 
+security clearances in conjunction with the FCL must be filled by U.S. 
+citizens residing in the United States. 
+c. Secretarial Waiver Authority. In accordance with 10 U.S.C. Section 2536, a 
+contract under a national security program must not be awarded to an entity 
+controlled by a foreign government if it is necessary for the entity to be given 
+access to proscribed information until a waiver has been granted by the Secretary 
+concerned (i.e., the Secretary of Energy or the Secretary of Defense). 
+(1) Secretarial waivers granted under 10 U.S.C. Section 2536(b)(1)(B) for an 
+environmental restoration, remediation, or waste management contract, the 
+Secretary must notify Congress of this decision. 
+(2) The contract may be awarded or the novation agreement executed only 
+after the end of a 45-day period, beginning on the date notification is 
+received by the Senate Committee on Armed Services and the House 
+Committee on National Security. 
+d. Foreign Ownership. A controlling foreign ownership is one in which a foreign 
+national(s) owns a majority of the voting securities of the U.S. organization or, if 
+less than 50 percent is foreign owned, it can be reasonably determined that non-
+U.S. citizens or their representatives are in a position to effectively control the 
+business management of the U.S. organization. Where the FOCI stems from 
+majority foreign ownership or control, a FOCI mitigation plan may consist of one 
+of the following methods: 
+(1) Voting Trust Agreement. Under this type of agreement, the foreign owner 
+relinquishes most rights associated with ownership of the company to 
+cleared U.S. citizens approved by the U.S. Government. 
+(a) Foreign owners must transfer legal title of the company to the 
+Trustees. 
+(b) The Voting Trust Agreement does not impose any restrictions on 
+the organization’s eligibility to have access to classified 
+information or matter or to compete for classified contracts.
+
+--- page 65 ---
+DOE O 470.1A Attachment 3, Section 4 – Federal Employees and Contractors 
+12-18-2024 Page 3-21 
+ 
+ 
+(c) A Government Security Committee (GSC) must be established 
+under the Voting Trust to oversee classified, SNM/OANM, and 
+export control activities. 
+1 All Trustees must become members of the company’s 
+governing board. 
+2 T he arrangement must provide for the exercise of all 
+prerogatives of ownership by the Trustees with complete 
+freedom to act independently from the foreign owners, 
+except as provided in the agreement, which may limit the 
+authority of the Trustees by requiring approval from the 
+foreign owners with respect to matters such as: 
+a Th e  sale or disposal of the company’s assets or a 
+substantial part thereof; 
+b P ledges,  mortgages, or other encumbrances on the 
+company’s assets, capital stock or ownership 
+interests; 
+c Mer gers,  consolidations, or reorganizations; 
+d Dissolution of the company; and 
+e Filing of a bankruptcy petition. 
+3 The Trustees assume full responsibility for the foreign 
+owner’s voting interests and for exercising all management 
+prerogatives relating thereto in such a way as to ensure that 
+the foreign owner will be insulated from the company and 
+will solely retain the status of a beneficiary. 
+4 Th e  company must be organized, structured, and financed 
+to be capable of operating as a viable business entity 
+independent from the foreign owner. 
+(2) Proxy Agreement. Like the Voting Trust Agreement, under this 
+arrangement, the foreign owner relinquishes most rights associated with 
+ownership of the company to cleared U.S. citizens approved by the U.S. 
+Government. 
+(a) Under a Proxy Agreement, the foreign owner’s voting rights are 
+conveyed to the Proxy Holders by the irrevocable Proxy 
+Agreement. Legal title to the shares remains with the foreign 
+national(s).
+
+--- page 66 ---
+Attachment 3, Section 4 – Federal Employees and Contractors DOE O 470.1A 
+Page 3-22 12-18-2024 
+ 
+ 
+(b) All provisions of a Voting Trust Agreement applicable to Trustees, 
+including authorized limitations on the powers of the Trustees, 
+must apply to the Proxy Holders. 
+(c) The Proxy Agreement does not impose any restrictions on the 
+organization’s eligibility to have access to classified information or 
+matter or to compete for classified contracts. 
+(d) The company must be organized, structured, and financed to be 
+capable of operating as a viable entity independent from the 
+foreign owner. 
+ 
+(e) Use of a Proxy Agreement requires the establishment of a GSC to 
+oversee classified, SNM/OANM, and export control activities. 
+(3) Special Security Agreement (SSA).  An SSA may be considered when a 
+U.S. organization is effectively owned or controlled by a foreign interest 
+and the Federal Government has entered into a general security agreement 
+with the foreign government involved. 
+(a) The SSA preserves the foreign shareholder’s right to be 
+represented on the governing body with a direct voice in the 
+business and management of the company while denying 
+unauthorized access to classified information or matter, or 
+SNM/OANM by imposing substantial security and export control 
+measures within an institutionalized set of corporate practices and 
+procedures. 
+(b) An SSA must: 
+1 Require active involvement in security matters of senior 
+management and certain Board members (outside 
+directors), who must be cleared U.S. citizens. 
+2 P rovide for the establishment of a GSC to oversee 
+classified, SNM/OANM, and export control activities. 
+3 Be b ased  on a Secretarial Waiver as described above if the 
+entity is controlled by a foreign government and the 
+contract will require access to proscribed information. 
+Require an NID prior to release of proscribed information 
+to the contractor or its cleared employees to certify that 
+release of such information is consistent with the national 
+security interests of the United States; provided, however, 
+that in accordance with Section 842 of
+
+--- page 67 ---
+DOE O 470.1A  Attachment 3, Section 4 – Federal Employees and Contractors 
+12-18-2024  Page 3-23 
+ 
+ 
+Public Law 115- 232, covered NTIB entities (as defined at 
+Section 842(c)(1) of Public Law 115-232) are not required 
+to obtain a NID as a condition for access to proscribed 
+information.   
+The NID can be program, project, or contract specific. 
+e. Non-controlling Foreign Ownership. A non-controlling foreign ownership is one 
+in which a foreign national(s) owns less than a majority of the voting securities of 
+the U.S. organization and/or is not in a position to effectively control the business 
+management of the U.S. organization. Where the FOCI stems from non-
+controlling foreign ownership or control, a FOCI mitigation plan must consist of 
+either Board Resolution or SCA methods. 
+(1) Board Resolution. When a foreign interest does not own voting interests 
+sufficient to elect, or otherwise is not entitled to representation on the 
+company’s governing board, a resolution by the governing board will 
+normally be adequate to mitigate the FOCI concerns. 
+(a) The resolution must identify the foreign shareholder and describe 
+the type and number of foreign-owned shares; acknowledge the 
+company’s obligation to comply with all security and export 
+control requirements; and certify that the foreign owner does not 
+require, will not have, and can be effectively precluded from 
+unauthorized access to all classified and export-controlled 
+information entrusted to or held by the contractor. 
+(b) Annual certifications must be provided to the DOE cognizant 
+security office acknowledging the continued effectiveness of the 
+resolution. 
+(c) The company must distribute to members of its governing board 
+and to its KMP copies of such resolutions, and report in its 
+corporate records the completion of this distribution. 
+(2) Security Control Agreement (SCA). When a company is not effectively 
+owned or controlled by a foreign interest and the foreign interest is 
+nevertheless entitled to representation on the company’s governing board, 
+a SCA may be used. There are no access limitations under this type of 
+agreement. However, the SCA requires the imposition of substantial 
+security and export control measures in order to preserve the foreign 
+interest’s right to be represented on the board while denying unauthorized 
+access to classified information or matter, or SNM/OANM. The SCA 
+requires the same active involvement in security matters of senior 
+management and certain Board members, and the establishment of a GSC, 
+as are required when the SSA is used. 
+Limited FCL.  A limited FCL may be granted to certain contractors (e.g., a sole 
+source contractor) which are controlled or owned by a foreign interest where
+
+--- page 68 ---
+Attachment 3, Section 3 – Federal Employees and Contractors DOE O 470.1A 
+Page 3-24  12-18-2024 
+  
+ 
+FOCI mitigation is not able to be implemented. Access limitations are inherent 
+with granting limited FCLs. Full requirements for granting a limited FCL are set 
+forth in the Attachment 2 of this Order. 
+f. Factors Not Related to Foreign Ownership. When factors not related to ownership 
+are present, positive measures must be put in place to assure that the foreign 
+interest can be effectively mitigated and cannot otherwise adversely affect 
+performance on classified contracts. Examples of such measures include: 
+(1) Modification or termination of loan agreements, contracts and other 
+understandings with foreign interests; 
+(2) Diversification or reduction of foreign-source income; 
+(3) Demonstration of financial viability independent of foreign interests; 
+(4) Elimination or resolution of problem debt; 
+(5) Assignment of specific oversight duties and responsibilities to board 
+members; 
+(6) Formulation of special executive-level security committees to consider and 
+oversee matters that affect the performance of classified contracts; 
+(7) Physical or organizational separation of the contractor component 
+performing on classified contracts; 
+(8) The appointment of a technology control officer; 
+(9) Adoption of special Board Resolutions; and 
+(10) Other actions that negate or mitigate foreign influence. 
+g. Noncompliance with Mitigation Plans. When the DOE cognizant security office 
+determines that a cleared contractor or its tier parent is out of compliance with an 
+approved FOCI mitigation plan, the cognizant security office must analyze the 
+noncompliance and evaluate the overall impact to the protection of security 
+interests. Depending on the severity of the noncompliance issue and the 
+willingness or unwillingness of the organization to correct the problem and return 
+to compliance, one or more of the following actions must be taken and the 
+cognizant contracting officer notified immediately: 
+(1) Request a corrective action and implementation plan from the contractor to 
+bring it into compliance with the approved mitigation plan. 
+(2) Suspend the FCL. 
+Terminate the FCL. An existing FCL must be revoked if security measures
+
+--- page 69 ---
+DOE O 470.1A  Attachment 3, Section 3 – Federal Employees and Contractors 
+12-18-2024  Page 3-25 
+  
+cannot be taken to remove the possibility of unauthorized access or 
+adverse effect on contract performance
+
+--- page 70 ---
+
+
+--- page 71 ---
+DOE O 470.1A  Attachment 4 – Federal Employees and Contractors 
+12-18-2024  Page 4-1 
+ 
+ 
+ATTACHMENT 4 
+CLASSIFIED MAIL CHANNELS 
+This Attachment provides information and/or requirements associated with DOE O 470.1A and 
+information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+The Classified Mail Channel (CMC) program regulates physical transmission of classified matter 
+between approved Other Government Agency (OGA) or OGA Contractor (OGA-C)] facilities to 
+meet the requirements of 32 CFR 2001, 32 CFR 117, 10 CFR 1045, and/or the current versions 
+of DOE O 452.8, Control of Nuclear Weapon Data, and DOE O 471.6, Information Security. 
+This program provides the means for verifying the classification and storage capabilities of 
+approved facilities.  
+2. CMC REQUIREMENTS: 
+a. Transmission and receipt of classified matter must comply with requirements in 
+DOE O 471.6, current version. 
+b. Receipt and storage of all classified Nuclear Weapons Data, CNWDI, or Sigmas 
+must be processed and approved in accordance with DOE O 452.8, current 
+version. 
+c. A Statement of Security Assurance is a mechanism to document the CMC 
+information and identifies the safeguarding capabilities of the facilities. 
+(1) The Designated Responsible Office (DRO) or appropriate Program Office 
+is responsible to submit and ensure the information within the Statement 
+of Security Assurance is updated periodically. 
+(2) Statements of Security Assurance that request CNWDI or Sigmas are valid 
+in accordance with DOE O 452.8, current version. 
+(3) CMCs that are possessing or non-possessing that do not include CNWDI 
+or Sigmas are valid for three years or as identified by the program office 
+(whichever is less). 
+(4) Revisions, transfers, suspensions, or terminations of SSIMS registrations 
+will be facilitated by the DRO. CMCs that include CNWDI or Sigmas the 
+action must be processed and approved in accordance with DOE O 452.8, 
+current version. 
+(5) A Statement of Security Assurance provides the following information: 
+(a) An approved classified mailing address. 
+(b) The highest level and most restrictive category of classified matter 
+or other security asset the facility is authorized to receive and store.
+
+--- page 72 ---
+Attachment 4 – Federal Employees and Contractors  DOE O 470.1A 
+Page 4-2   12-18-2024 
+ 
+ 
+(c) A statement that classified national security information will be 
+afforded protection according to E.O. 13526, Classified National 
+Security Information, and all implementing regulations and 
+directives. 
+(d) A statement that the requirements of 10 CFR Part 1045, Nuclear 
+Classification and Declassification, will be met for RD, FRD, and 
+TFNI. 
+(e) Assurance that the requirements of the Atomic Energy Act, 
+including the mandatory access authorization requirements, will be 
+met for access to RD, FRD, and TFNI. 
+d. State, local, tribal, and other similar governmental authorities do not have 
+authority to self-certify clearance and security capability for handling classified 
+information. These entities must be handled in accordance with E.O. 13549, 
+Classified National Security Information Program for State, Local, Tribal, and 
+Private Sector Entities, and its implementing directives. 
+3. ESTABLISHMENT OF A CMC FOR AN OGA. 
+a. A Statement of Security Assurance must be submitted for all OGAs exchanging 
+any physical classified matter or security asset. 
+b. Approval of a CMC must be based upon a written Statement of Security 
+Assurance from the OGA that DOE security interests are adequately protected. 
+c. A CMC must be verified through SSIMS. If not in SSIMS, a new facility must be 
+established. 
+4. ESTABLISHMENT OF A CMC FOR AN OGA-C. 
+a. Approval of a CMC must be based upon a written Statement of Security 
+Assurance or Defense Counterintelligence and Security Agency (DCSA) National 
+Industrial Security System (NISS) notification from the OGA-C that DOE security 
+interests are adequately protected. 
+b. Processing of NWD must be in accordance with DOE O 452.8, current version. 
+ 
+c. CMC must be registered in SSIMS and/or DCSA NISS for an OGA-C 
+organization where DOE does not have a contractual interest but must 
+communicate or exchange classified matter.12
+ 
+ 
+12 DCSA NISS may be used to verify OGA-Cs for exchanging classified matter and security interests 
+other than NWD.
+
+--- page 73 ---
+DOE O 470.1A  Attachment 5 – Federal Employees and Contractors 
+12-18-2024  Page 5-1 
+ 
+ 
+ATTACHMENT 5 
+CONTROL OF CLASSIFIED VISITS 
+This Attachment provides information and/or requirements associated with DOE O 470.1A and 
+information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+1. OBJECTIVE. Classified information and matter must be protected by ensuring that only 
+persons with the appropriate security clearances, need-to-know, and programmatic 
+authorizations are afforded access during visits where such information is released or 
+exchanged. 
+2. P URPOSE . Control of classified visits ensures that access to classified information by 
+cleared U.S. citizens or individuals from foreign governments visiting DOE facilities is 
+controlled in accordance with the mission of the Department and is consistent with 
+national laws and regulations and international treaties and agreements. 
+3. DE FINITIONS .  See Attachment 7. Terms commonly used in the DOE S&S Program are 
+defined in the DOE PIR tool located at https://pir.doe.gov/. In addition to these 
+definitions, the following is provided:  
+Senior Federal Official: A  Federal employee officially designated and assigned by the 
+Officially Designated Federal Security Authority (ODFSA) to approve classified visits 
+involving access to Restricted Data. 
+4. RE QUIREMENTS . ODFSAs, as designated by the Program Secretarial Officer or, for 
+NNSA, the Office of the Administrator through the Office of Defense Nuclear Security, 
+are responsible for ensuring that the following activities are accomplished for the 
+classified visits program at facilities and sites under their cognizance and for ensuring 
+that contractors under their cognizance accomplish their responsibilities under this 
+program at contractor facilities. Procedures applicable to classified visits must be 
+documented in site security plans. The cognizant security office with support of the 
+contractor must: 
+a. Ensure that local procedures are established for processing and handling classified 
+visits by cleared individuals.13 
+b. Ensure that procedures are established for processing and handling classified 
+visits by foreign nationals in accordance with governing international agreements 
+or treaties. 
+c. Ensure that appropriate procedural limitations for classified foreign national visits 
+are documented to preclude access to information not related to the visit and the 
+scope of the international treaty or agreements. 
+d. Ensure that responsibility for operational approval of classified visits, including 
+ 
+13 See DOE O 472.2, Personnel Security, current version, for personnel security clearance requirements.
+
+--- page 74 ---
+Attachment 5 – Federal Employees and Contractors DOE O 470.1A 
+Page 5-2  12-18-2024 
+ 
+ 
+delegations of authority as necessary, is established in writing and documented in 
+the appropriate security plan.  The approver must determine that the visit is 
+necessary, and the purpose of the visit cannot be achieved without access to, or 
+disclosure of, classified information. 
+e. Ensure that, when continuing visitor access approval is necessary for individuals 
+from other government agencies, who frequently visit DOE facilities, the access 
+approval does not exceed a period of 1 year (or for contractors, the final day of a 
+contract if less than one year) and that approval is renewed annually if necessary. 
+f. Ensure procedures establish that classified visit requests are sent and received 
+through a DOE classified visit processing office and the appropriate security 
+offices of other Federal government agencies. 
+g. Classified visits involving access to RD by cleared U.S. citizens other than 
+representatives from DOE, DoD, NASA, and NRC must ensure: 
+(1) An authorized senior Federal official at the site verifies through DOE and 
+national-level personnel security electronic databases the individual’s 
+possession of a security clearance at the requisite level. 
+(2) The authorized Senior Federal Official and makes an affirmative, 
+documented determination that such access will not endanger the common 
+defense and security. 
+(3) Individuals are given an appropriate briefing concerning the protection of 
+RD prior to being given access; 
+(4) Individuals sign an acknowledgement that they have received this briefing. 
+h. Ensure procedures establish that access granted for classified visits is tracked and 
+maintained as part of the site classified visits file and is not entered into any 
+clearance tracking database or extended for any purpose outside the approved 
+classified visit. 
+i. Ensure procedures establish that all classified information or matter, including the 
+individual’s personal notes, to be removed from DOE’s control by individuals 
+granted access under paragraph g. above is subjected to a classification review 
+and if classified, is sent through the DOE cognizant security office to the 
+established classified mailing address listed in SSIMS for the OGA or OGA 
+contractor facility which the individual represents. If no classified mailing address 
+is registered in SSIMS, one must be established in accordance with the 
+requirements in Attachment 4 of this Order, before the material is released. 
+Visitors must not hand-carry classified information or matter from DOE premises.
+
+--- page 75 ---
+DOE O 470.1A  Attachment 5 – Federal Employees and Contractors 
+12-18-2024  Page 5-3 
+ 
+5. VISITS TO DOE FACILITIES BY CLEARED U.S. CITIZENS OTHER THAN DOE 
+PERSONNEL. 
+a. a. For all classified visits to DOE and DOE contractor facilities, the 
+following must be established and verified by the receiving location: 
+(1) The identity of the visitor; 
+(2) The level and type of clearance held by the visitor, which must allow 
+access to the information to be disclosed; and 
+(3) That the visit is for an official purpose for which the individual has a 
+legitimate need to know and to access the classified information or matter 
+to be disclosed. 
+b. Appropriate procedural limitations (e.g., use of escorts in limited/restricted areas) 
+must be in place to ensure that the visitor has access only to information for which 
+the individual has a verified need, and that access to other classified information 
+or matter is precluded. 
+c. Requests for visits and access to specific types of facilities and information must 
+be referred to and approved by the appropriate office: 
+(1) For weapons programs, nuclear materials production facilities, or sensitive 
+nuclear materials production information, the Deputy Administrator for 
+Defense Programs. 
+(2) For uranium enrichment plants or facilities engaged in uranium 
+enrichment technology development, including advanced isotope 
+separation technology, the Office of Nuclear Energy. 
+(3) For Naval Nuclear Propulsion facilities, the Deputy Administrator for 
+Naval Reactors. 
+d. Visits involving access to RD when the visitor does not hold a DOE access 
+authorization must be approved by the designated Senior Federal Official. 
+Approval must be based upon verification through DOE and national- level 
+personnel security electronic databases that the individual holds an appropriate 
+final security clearance, unless the individual is in one of the categories described 
+below.  
+(1) (1) DOE accepts the Q and L access authorizations granted by the 
+NRC as valid for access to RD. Visits by NRC employees, consultants, 
+contractors, or subcontractors who require access to weapon data, 
+sensitive nuclear materials production information, atomic vapor laser 
+isotope separation technology, or uranium enrichment technology or entry 
+into a DOE classified weapon or production facility must be approved by 
+the appropriate Departmental element office. Visits must be requested
+
+--- page 76 ---
+Attachment 5 – Federal Employees and Contractors DOE O 470.1A 
+Page 5-4  12-18-2024 
+ 
+ 
+using NRC Form 277, current form. NRC identification badges cannot be 
+used as authority for visits. 
+(2) (2) Access to RD must be requested on a DOE F 5631.20 (current 
+form), or an OGA’s official form, letter, memorandum, or system.   
+(a) A memorandum or electronic message signed by the certifying 
+official may be used unless access to Nuclear Weapon Data is 
+required. For NASA, the visit request must include a certification 
+that the matter to which access is requested relates to aeronautical 
+and space activities.  
+(b) Requests must be forwarded for approval to the appropriate 
+Departmental element with jurisdiction over the information to 
+which access is requested. Access to critical nuclear weapon 
+design information must be specifically requested. 
+(3) Prior to being given access, OGA employees and their contractors who are 
+granted access to RD and SNM in connection with a classified visit must 
+receive an appropriate briefing concerning the protection of RD and SNM 
+and must sign an acknowledgement (e.g., DOE F 5631.18 Security 
+Acknowledgement or other approved forms.) indicating their 
+understanding that access will be terminated at the end of the visit period. 
+(4) RD and/or SNM access granted in connection with a classified visit must 
+be tracked as part of the local site classified visit tracking process, and 
+records of such access must be maintained in the classified visit files. This 
+type of access will not be identified as a Q or L access authorization, will 
+not be entered in the DOE Central Personnel Clearance Index (CPCI) or 
+other clearance tracking databases, and cannot be extended for any 
+purpose outside the approved classified visit. 
+(5) This process does not apply to classified visits by foreign nationals. 
+e. Consult DOE O 452.8, Control of Nuclear Weapon Data, current version, for 
+additional requirements concerning when access to NWD Sigma information is 
+required. 
+6. VISITS BY CLEARED DOE PERSONNEL TO OTHER DOE FACILITIES. 
+a. Unless local site procedures require, or access to certain facilities or programs as 
+described below will take place, formal visit requests are not required for visits by 
+DOE Federal and contractor personnel to other DOE sites. The DOE security 
+badge (e.g., HSPD-12 PIV) will serve as evidence of DOE security 
+clearance/access authorization for internal DOE visits. 
+b. Visitors who require access to nuclear weapon data (classified Secret or Top 
+Secret), sensitive nuclear materials production information, inertial confinement
+
+--- page 77 ---
+DOE O 470.1A  Attachment 5 – Federal Employees and Contractors 
+12-18-2024  Page 5-5 
+ 
+fusion data, atomic vapor laser isotope separation technology, uranium 
+enrichment technology, or facilities specifically designated by a Departmental 
+element, must obtain approval from the responsible office prior to the visit. 
+c. DOE F 5631.20 must be used by DOE Federal and contractor employees to obtain 
+programmatic approval for access to Sigmas 14, 15, and/or 20. Approval for 
+access must be obtained from the Deputy Administrator for Defense Programs. 
+d. Cleared DOE Federal or contractor employees who are foreign nationals may visit 
+other facilities only under the access restrictions which apply to their clearances. 
+7. CLASSIFIED VISITS TO DOE FACILITIES BY FOREIGN NATIONALS. 
+a. Ensure that for all classified visits by foreign nationals to DOE facilities, the 
+following must be established and verified: 
+(1) The identity of the visitor; 
+(2) Assurance that existing treaty or international agreement covers sharing of 
+specific classified information with the foreign national; 
+(3) Receipt of security assurances from the appropriate foreign embassy or the 
+visitor’s government agency; and 
+(4) Verification that the appropriate DOE Federal official has approved the 
+sharing of the specific information to be disclosed during the classified 
+visit. 
+b. DOE Federal or contractor employees may be designated to serve as hosts for 
+classified visits by foreign nationals. A host must be a U.S. citizen with an access 
+authorization equal to or higher than the overall classification of the visit. The 
+host must ensure that: 
+(1) Foreign nationals are not granted access to classified information before 
+approval is received from the appropriate designated authority with 
+programmatic responsibility. 
+(2) Foreign nationals are precluded from any access to classified information 
+outside the scope of the international agreement or treaty governing the 
+visit and/or any limitations set by the approval authority with 
+programmatic responsibility, and sharing of classified information is in 
+accordance with the protocols specifically outlined in the agreement or 
+treaty governing the visit (e.g., level, category, and type of classified 
+information, protection procedures for incoming classified foreign 
+government information, security clearance verification, transmission 
+protocols for classified information during and after the visit, post-visit 
+documentation, etc.).
+
+--- page 78 ---
+Attachment 5 – Federal Employees and Contractors DOE O 470.1A 
+Page 5-6  12-18-2024 
+ 
+ 
+(3) Appropriate procedural limitations (e.g., use of escorts in limited/restricted 
+areas) are in place to ensure that the foreign visitor has access only to 
+information permitted by the applicable international agreement or treaty 
+for which the individual has a verified need, and that access to all other 
+classified information or matter is precluded. 
+c. Requests for visits and access by foreign nationals to specific types of facilities 
+and information must be referred to and approved by the appropriate 
+Headquarters office: 
+(1) For visits to uranium enrichment plants or facilities and access to 
+classified information on uranium enrichment technology development, 
+including advanced isotope separation technology, the Office of Nuclear 
+Energy. 
+(2) For visits and access to classified information in connection with 
+nonproliferation, international security, or International Atomic Energy 
+Agency requirements, the Deputy Administrator for Defense Nuclear 
+Nonproliferation. 
+(3) For visits and access to classified information in connection with naval 
+nuclear propulsion, the Deputy Administrator for Naval Reactors. 
+(4) For visits and access to classified information in connection with Sensitive 
+Compartmented Information, the Office of Intelligence and 
+Counterintelligence. 
+8. DOCUMENTATION. Reports of classified visits must be maintained in accordance with 
+DOE Administrative Records Schedule 18, paragraph 17.1.
+
+--- page 79 ---
+DOE O 470.1A  Attachment 6 – Federal Employees and Contractors 
+12-18-2024  Page 6-1 
+ 
+ 
+ATTACHMENT 6 
+INCIDENTS OF SECURITY CONCERN 
+This Attachment provides information and/or requirements associated with DOE O 470.1A and 
+information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 470.1A) is inserted. 
+1. OBJECTIVE. To ensure the occurrence of an event with detrimental impacts on National 
+Security or Departmental security assets prompts the appropriate graded response, to 
+include an assessment of the potential impacts, appropriate notification, extent of 
+condition, and corrective actions to prevent recurrence. The long-term management of 
+Incidents of Security Concern (IOSCs) serves as an effective Program Planning and 
+Management (PPM) tool for enhancing the specific implementation of security policies 
+(e.g., site-specific implementation). 
+2. P URPOSE . To set forth requirements for the U.S. Department of Energy (DOE) IOSCs 
+process, including timely identification, notification, inquiry, reporting, and closure of 
+IOSCs. The IOSC program serves multiple purposes to include: 
+a. Ensuring IOSCs are communicated to DOE/National Nuclear Security 
+Administration (NNSA) management, U.S. Congress, other agencies, or foreign 
+governments, as appropriate; 
+b. Meeting regulatory reporting requirements; 
+c. Ensuring IOSCs are assessed relative to the impact to national security and the 
+collateral impact with other programs and security assets; 
+d. Enhancing the ability to track and trend the health of DOE federal and contractor 
+security programs; 
+e. Enabling mechanisms to support performance assurance, self-assessment, 
+oversight, security awareness, and other key security functions by providing 
+relevant IOSC data; and 
+f. Enhancing the ability to influence safeguards and security (S&S) policy 
+development and implementation. 
+3. DEFINITIONS. See Attachment 7. Terms commonly used in the DOE S&S Program are 
+defined in the DOE PIR tool located at https://pir.doe.gov/. In addition to these 
+definitions, the following are provided: 
+a. Administrative Action. In the context of IOSCs, an administrative action refers to 
+any decision (or final proposal) by the organization with official cognizance of an 
+employee to take an adverse or disciplinary action against an employee as a result 
+of an IOSC. This includes formal disciplinary actions taken to correct misconduct 
+and enforce prescribed rules for behavior (e.g., requirements) such as reprimands 
+and suspensions as well as removals, reassignments, furloughs, reductions in
+
+--- page 80 ---
+Attachment 6 – Federal Employees and Contractors DOE O 470.1A 
+Page 6-2  12-18-2024 
+ 
+ 
+pay/grade, or loss of clearance. Also includes other actions without disciplinary 
+consequences to formally document responsibility and culpability for an IOSC 
+such as formally documented infractions or violations (e.g., using DOE F 5639.3, 
+Report of Security Incident/Infraction, or equivalent). 
+b. Authorized Person. A person who has a favorable determination of eligibility for 
+access to classified information, has signed an approved nondisclosure agreement, 
+and has a need-to-know for the specific classified information in the performance 
+of official duties. 
+c. C ompromise . A final determination that classified information is or was disclosed 
+to one or more unauthorized individuals, or the information was outside of 
+appropriate controls and cannot subsequently be placed back under appropriate 
+controls (e.g., published by media, Unclassified Controlled Nuclear Information 
+(UCNI) or classified information was provided to unauthorized individuals).  For 
+the purposes of this Attachment, "compromise" includes an unauthorized 
+dissemination of UCNI (i.e., UCNI is intentionally or negligently transferred to an 
+unauthorized individual). Compromises of classified information are reported as 
+Category A SI IOSCs.  Compromises of UCNI are reported as Category B SI 
+IOSCs. 
+d. C ompromise Did Not Occur. A final determination that there is no possibility of 
+compromise.  Noncompliances involving classified information where 
+compromise did not occur are typically reported as Category B PI IOSCs. 
+e. C ontrolled Unclassified Information (CUI) . CUI is information the Government 
+creates or possesses, or that an entity creates or possesses for or on behalf of the 
+Government, that a law, regulation, or government-wide policy requires or 
+permits an agency to handle using safeguarding or dissemination controls. CUI 
+does not include classified information or information a non-executive branch 
+entity possesses and maintains in its own systems that did not come from, or was 
+not created or possessed by or for, an executive branch agency or an entity acting 
+for an agency. 
+f. D isposition. Refers to the final determination of a preliminary inquiry whether a 
+potential IOSC (PIOSC) is reportable as an IOSC or does not meet IOSC 
+reporting requirements (i.e., non-IOSC). 
+g. D iversion  (of nuclear material). The diversion of nuclear material refers to the 
+unauthorized removal of nuclear material from its approved or authorized 
+location. 
+h. G ross Negligence. An action or inaction contrary to requirements or procedures 
+which demonstrates such inattention and carelessness as to appear reckless or 
+intentional. A reasonable person would recognize that the act (or omission) has a 
+high probability of resulting in the loss or compromise of DOE security assets. 
+For example, a person circumvents prescribed procedures with full knowledge of 
+the security requirements and associated penalties but does so for personal

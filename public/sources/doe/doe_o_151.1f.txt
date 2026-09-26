@@ -1,0 +1,842 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov National Nuclear Security Administration 
+U.S. Department of Energy ORDER 
+ Washington, D.C.  
+Approved: 08-05-2026 
+ 
+SUBJECT:  COMPREHENSIVE EMERGENCY MANAGEMENT SYSTEM 
+1. PURPOSE. 
+a. This Order establishes clear, rapid decision authority for emergency management 
+across Department of Energy (DOE) laboratories, plants, and sites, ensuring 
+timely activation of emergency response, protective actions, coordinated 
+communications, and shared situational awareness.  It also aligns incident 
+management with National Incident Management System (NIMS), including 
+Incident Command System (ICS), and the National Response Framework (NRF). 
+b. The Order: 
+(1) Designates clear decision authority by requiring an Emergency 
+Management director and alternates, empowering them to activate the 
+Emergency Response Organization (ERO) without delay and to promptly 
+approve protective actions for Operational Emergencies (OEs). 
+(2) Enables immediate coordination by requiring rapid engagement with first 
+responders and with applicable external authorities, including local, state, 
+federal, and tribal partners. 
+(3) Requires maintaining ready response facilities by ensuring an operational 
+Emergency Operations Center (EOC), Alternate Emergency Operations 
+Center (AEOC), and an operational Joint Information Center (JIC). 
+(4) Supports personnel accountability by requiring identified, maintained 
+assembly and muster areas to enable rapid accountability during 
+emergencies. 
+(5) Requires interoperable communications that function reliably across 
+internal organizations and external response partners. 
+(6) Delivers secure shared situational awareness by requiring a cyber-secure 
+common operating picture (COP) and ensuring the necessary digital 
+platforms are ready to support incident operations. 
+DOE O 151.1F
+
+--- page 2 ---
+2 DOE O 151.1F 
+ 08-05-2026 
+(7) Implements a risk-informed, performance-based program that spans 
+prevention, preparedness, response, and recovery, using 
+performance-based expectations grounded in operational realities.  
+Ensures national doctrine compatibility by aligning emergency 
+management practices with NIMS, including ICS, and the NRF, and by 
+referencing the governing policy drivers Homeland Security Presidential 
+Directive 5 (HSPD-5), Contractor Assurance System, and Presidential 
+Policy Directive (PPD)-8, National Preparedness. 
+2. CANCELLATION.  DOE O 151.1E, Comprehensive Emergency Management System, 
+dated October 28, 2024.  DOE elements and contractors transition roles and 
+responsibilities from DOE O 151.1E to this Order without creating gaps in decision  
+authority.  Existing emergency facilities and tools remain in service during transition.  
+This Order cancels DOE O 151.1E and supersedes prior versions of DOE O 151.1.  The 
+Order is standalone; necessary requirements, definitions, and references are included 
+herein.  Contractual obligations remain in effect until modified by the Contracting Officer 
+per DOE O 251.1, Departmental Directives Program. 
+3. APPLICABILITY. 
+a. Departmental Applicability.  This Order applies to federal employees and 
+contractors who operate, plan for, or respond to emergencies at DOE‑owned or 
+leased laboratories, plants, sites, and activities.  An all-hazards approach is used.  
+Hazardous materials are identified and an appropriate response is planned for 
+potential response to those emergencies.  Response to general incidents 
+(e.g., chemical spills, fire response, general industrial incidents, transportation of 
+materials in commerce), comply with the responsible federal authorities, 
+including 29 CFR 1910, Occupational Safety and Health Administration (OSHA), 
+(e.g., §§1910.38, Emergency action plans, and 1910.120, Hazardous waste 
+operations and emergency response), Department of Transportation (DOT) 
+Hazardous Materials Regulations at 49 CFR Parts 171–180, and EPA/Emergency 
+Planning and Community Right-to-Know Act (EPCRA) at 40 CFR Part 355, 
+Emergency Planning and Notification; and this Order does not duplicate 
+response requirements. 
+b. National Nuclear Security Administration (NNSA).  The NNSA Administrator 
+ensures NNSA federal personnel comply with this Order.  NNSA facilities 
+implement the same people-plant-process integration set by this directive.  
+Nothing in this directive limits the Administrator’s authority under 
+section 3212(d) of Public Law 106‑65, National Defense Authorization Act for 
+Fiscal Year 2000, to establish Administration‑specific policies unless disapproved 
+by the Secretary.
+
+--- page 3 ---
+DOE O 151.1F 3 
+08-05-2026 
+c. Naval Nuclear Propulsion Program Equivalency. 
+(1) The Deputy Administrator for Naval Reactors (Director) retains authority 
+to implement and oversee requirements and practices for activities under 
+the Director’s cognizance.  Naval Reactors facilities and information are 
+governed by the established Naval Reactors framework, consistent with 
+Executive Order (EO) 12344, Naval Nuclear Propulsion Program, and 
+50 U.S.C. §§ 2406, Deputy Administrator for Naval Reactors, and 2511 
+and aligned with protection of Unclassified Controlled Nuclear 
+Information (UCNI) at 10 CFR Part 1017, Identification and Protection of 
+Unclassified Controlled Nuclear Information. 
+d. DOE Contractors.  The requirements of this Order shall be incorporated into 
+applicable contracts, including Management and Operating contracts.  The 
+contractor is responsible for flowing down the requirements of the contractors 
+Requirements Document, if applicable.  Contractors shall comply with the 
+requirements of applicable federal, state, and local laws and regulations in 
+carrying out the requirements of this Order unless relief has been granted in 
+writing.  Omission of any applicable law or regulation from the Order does not 
+affect the obligation of the contractor to comply with such law or regulation.  
+Contractors must comply with the requirements of this Order, except to the extent 
+modified by the equivalencies or exemptions identified herein or issued to the 
+contractor in writing by DOE utilizing the process outlined in DOE O 251.1E, 
+Departmental Directives Program, including as amended or updated. 
+e. Equivalencies/Exemptions for DOE O 151.1E. 
+(1) Equivalency.  Heads of Departmental Element (HDEs) may endorse risk-
+informed tailoring where required outcomes are preserved.  Tailored 
+implementations must maintain the availability and interoperability of 
+emergency facilities and systems.  Requests for equivalencies are 
+processed under the Departmental Directives Program. 
+(2) Exemption.  Exemptions are processed under the Departmental Directives 
+Program.  Where other federal requirements provide equal or more 
+stringent protection for non-DOE-specific hazards, such as OSHA, DOT, 
+and the Environmental Protection Agency (EPA)/EPCRA, DOE elements 
+and contractors may rely on those requirements without seeking an 
+exemption from this Order.  (DOE O 251.1; 29 CFR 1910.38; 29 CFR 
+1910.120; 49 CFR 171–180; 40 CFR 355). 
+4. REQUIREMENTS.  Any entity responsible for operating a DOE laboratory, plant, or site 
+(LPS) must follow the requirements listed in this section: 
+a. Emergency Management System (EMS) Structure and Governance. 
+(1) Establish and maintain a comprehensive EMS that LPS personnel, 
+facilities, and processes for site-specific hazards, compatible with 
+NIMS/ICS and multi-agency coordination structures.
+
+--- page 4 ---
+4 DOE O 151.1F 
+ 08-05-2026 
+(2) Appoint a Senior Manager as the Emergency Management Program 
+Administrator, responsible for ensuring ongoing compliance with all 
+Emergency Management requirements. 
+(3) Designate Emergency Management directors for LPS with clear authority 
+to activate the ERO and its response assets; confirm, validate and/or adjust 
+protective actions; and coordinate with external authorities. 
+(4) Maintain a documented list of the on-duty Emergency Management 
+director and other time-urgent decision authorities to ensure continuity 
+of authority. 
+(5) Track and report instances when on-duty emergency responders were 
+unavailable to respond to an incident. 
+(6) Track and report an “activation success rate” to demonstrate that the ERO 
+is available and effective when needed in response to an incident. 
+(7) Identify, establish, and maintain an EOC and AEOC location, JIC 
+location, assembly/relocation areas, personnel accountability system(s), 
+monitoring assets, interoperable communications systems, and a process to 
+maintain a COP. 
+(8) Ensure the EMS implements scalable prevention, preparedness, response, 
+and recovery processes that can expand or contract according to incident 
+severity in alignment with NIMS/ICS. 
+(9) Submit an Emergency Readiness Assurance Plan to the appropriate Field 
+Office or Departmental Element when requested. 
+b. Hazard Identification, Analysis, and Scenario Development. 
+(1) Establish a site-specific hazard identification and analysis process that 
+includes natural, technological, and human-caused incidents related to all 
+credible hazards. 
+(2) Maintain an all-hazards survey to identify all significant hazards that is 
+updated prior to significant changes. 
+(3) Document chemical, radiological and biological screening 
+criteria thresholds. 
+(4) Engage LPS analysts, facility/activity managers, safety analysts, and 
+Emergency Management Department managers in developing and 
+validating hazard scenarios. 
+(5) Use published analyses and facility configuration information as the 
+technical basis for hazard and scenario analyses.
+
+--- page 5 ---
+DOE O 151.1F 5 
+08-05-2026 
+(6) For each credible scenario, identify and document receptor locations, 
+access routes, staging areas, and conditions relevant to protective actions. 
+(7) For each credible scenario, document recognition cues, initial 
+categorization/classification logic, initial protective actions, and 
+notification triggers. 
+(8) Perform emergency hazard assessments for shipments that do not meet 
+DOT hazardous materials transport safety standards, addressing potential 
+emergency scenarios. 
+(9) Ensure that scenario documentation supports reproducible 
+decision-making across qualified decision-makers. 
+(10) Monitor, analyze, and learn from incorrect categorizations/classifications 
+or decision variance observed in drills, exercises and real incidents, and 
+use this information to improve recognition cues, Emergency Action 
+Levels (EALs), and procedures. 
+(11) Update emergency planning prior to significant operational or hazardous 
+material changes, ensuring the Emergency Management Plan (EMP) 
+remains effective and relevant. 
+(12) Update the EMP, hazard analyses, and required emergency capabilities 
+before introducing new or increased hazards that materially change 
+credible scenarios or required response capabilities.  Obtain the 
+appropriate Field Office or Departmental Element approval when an 
+update results in an increased programmatic risk. 
+c. Operational Emergency (OE) Identification, Categorization, and Classification. 
+(1) Establish a process for early identification of an OE at LPS that supports 
+time-urgent activation of the ERO. 
+(2) Designate specific LPS decision-makers responsible for making OE 
+categorization and classification determinations. 
+(3) Develop and implement LPS-specific recognition cues and EAL logic 
+derived from the all-hazards planning basis to guide rapid OE 
+categorization and classification. 
+(4) Require LPS decision-makers to make an initial OE determination 
+promptly once indicators are available, using EAL logic and 
+recognition cues. 
+(5) Require LPS decision-makers to immediately confirm or validate 
+protective actions taken by first responders and ensure those actions are 
+commensurate with risk.
+
+--- page 6 ---
+6 DOE O 151.1F 
+ 08-05-2026 
+(6) Classify OEs involving hazardous materials using the categories of Alert, 
+Site Area Emergency, and General Emergency, anchored to the degree of 
+loss of control over hazardous materials and projected consequences. 
+(7) Use OE classification to communicate severity and trigger appropriately 
+scaled actions and notifications. 
+(8) Set performance-based time targets for categorization and notifications 
+that are appropriate to the hazard and available detection means. 
+(9) Treat the following as minimum recognition cues at LPS that typically 
+warrant OE categorization and time-urgent protective action 
+decision-making: 
+(a) Incidents or conditions with credible potential for serious worker 
+or public health impacts, 
+(b) Discovery of radiological or other hazardous material 
+contamination from past DOE operations with plausible 
+uncontrolled exposures above defined protective action guides or 
+health-based criteria (e.g., EPA-400/R-17/001, PAG Manual: 
+Protective Action Guides and Planning Guidance for Radiological 
+Incidents, DOE/NNSA Protective Action Criteria [PAC]), 
+(c) Significant structural damage to LPS facilities coupled with 
+confirmed or suspected personnel injury or death, 
+(d) Mass-casualty incidents as determined the first 
+responder organization, 
+(e) Confirmed criticality incidents, 
+(f) Offsite hazardous material incidents not associated with LPS 
+operations that are observed or forecasted to affect LPS and require 
+protective actions for LPS workers. 
+(10) Include additional recognition cues as OE triggers at LPS, at a minimum: 
+(a) Actual or potential release of a hazardous biological agent or toxin 
+beyond secondary barriers of a biocontainment area, 
+(b) Actual or potential release of hazardous material or regulated 
+pollutants with potential for significant offsite environmental 
+consequences (e.g., impacts to wildlife, wetlands, aquifers, or 
+downstream water supply intakes), 
+(c) Safeguards and security emergencies, including: 
+1 Credible explosive devices,
+
+--- page 7 ---
+DOE O 151.1F 7 
+08-05-2026 
+2 Terrorist attack or active threat (including cybersecurity 
+incidents with potential to endanger human life, health, or 
+the environment), 
+3 Sabotage of LPS facilities, 
+4 Kidnapping or hostage situations involving an LPS 
+worker(s) and/or visitor(s). 
+(11) Notify the Headquarters EOC of incidents categorized as OEs or defined 
+by DOE as Critical Information Requirements in accordance with 
+LPS-specific reporting thresholds. 
+(12) Recognize that Office of Secure Transportation (OST) is solely 
+responsible for declaration and reporting of OST shipment incidents. 
+(13) Maintain the OE as active until emergency response is formally terminated 
+by the Emergency Management director. 
+(14) Allow recategorization of OEs when better information indicates that the 
+original categorization was incorrect. 
+(15) Treat recognition cues as performance-based triggers for time-urgent 
+decision-making, not as rigid prescriptive checklists. 
+(16) Measure performance for OE decision-making using: 
+(a) Time from discovery to ERO activation, and 
+(b) Time from decision to protective action implementation, and 
+(c) Tracking of OE classification accuracy in exercises and real 
+incidents as part of continuous improvement. 
+d. Emergency Management Plan. 
+(1) Develop, approve, and maintain an EMP for site-specific hazards at LPS. 
+(2) Define site-specific hazards in the EMP and clearly identify: 
+(a) Decision authorities and delegations for time-urgent decisions, 
+(b) ERO structure and position requirements, 
+(c) EOC primary and alternate locations, 
+(d) JIC location(s), 
+(e) Assembly/muster points,
+
+--- page 8 ---
+8 DOE O 151.1F 
+ 08-05-2026 
+(f) Monitoring assets, 
+(g) COP and communications platforms, including 
+continuity arrangements. 
+(3) Define the integrated use of emergency facilities, the ERO, first 
+responders, and processes and procedures in the EMP to document 
+concepts for emergency preparedness and response. 
+(4) Ensure the EMP follows controlled change management processes 
+and remains current with LPS configuration, staffing, and 
+technology platforms. 
+(5) Complete necessary EMP updates before new or increased 
+hazards materially alter credible scenarios or change required 
+response capabilities. 
+(6) Document roles, access points, and communications interoperability with 
+local responders and mutual-aid partners within the EMP. 
+e. Protective Actions, Monitoring, and Public Information. 
+(1) Prioritize worker protection in all emergencies, with protective actions 
+directed initially by the Incident Commander and confirmed by the 
+Emergency Management director and implemented by the ERO and 
+facility staff. 
+(2) Implement protective actions at LPS using designated routes, assembly 
+areas, and relocation areas, based on EALs. 
+(3) Tailor protective actions (evacuation, shelter/cover, shelter-in-place, 
+lockdown) to the specific hazard and conditions. 
+(4) Establish and use personnel accountability systems following initial 
+protective actions. 
+(5) Deploy field monitoring teams, as trained, to support worker safety 
+confirmation, public and environmental protective actions, and reentry and 
+recovery decisions. 
+(6) Use monitoring and assessment (including plume modeling and 
+consequence assessment) to direct public and environmental protections, 
+such as plume protective actions and traffic and access control. 
+(7) Maintain emergency public information processes and procedures that: 
+(a) Integrate LPS spokespersons with local, state, territorial, and 
+federal partners,
+
+--- page 9 ---
+DOE O 151.1F 9 
+08-05-2026 
+(b) Use templated, pre-approved risk-communication products for 
+time-urgent release, 
+(c) Establish and implement a structure that multiple organizations can 
+use to integrate incident information and public affairs into a 
+cohesive organization, designed to provide consistent, coordinated, 
+accurate, accessible, and timely information during an incident. 
+(8) Measure and track decision-to-protection action time at LPS as a 
+performance metric. 
+f. Technology, Data, Communications, and Common Operating Picture. 
+(1) Maintain and operate a COP system that: 
+(a) Consolidates incident status, objectives, resources, actions, 
+and decisions, 
+(b) Supports geospatial display, 
+(c) Captures an auditable log of events, decisions, and actions. 
+(2) Ensure COP and communications systems: 
+(a) Are interoperable with internal and external partners, 
+(b) Are resilient and cyber-secure, 
+(c) Have continuity procedures for degraded communications. 
+(3) Protect sensitive information in COP and communications systems, 
+including compliance with 10 CFR Part 1017 for UCNI. 
+(4) Maintain auditable records in COP and communications systems at LPS 
+sufficient to reconstruct decisions and actions. 
+(5) Automate notifications, resource status tracking, and performance 
+reporting, where possible, to reduce delays and errors. 
+(6) Use a qualification program to define ERO position competencies. 
+(7) Measure and track partner “join-time” to the COP in drills and exercises at 
+LPS to verify interoperability and coordination effectiveness. 
+(8) Train the ERO to competently operate COP and communications tools and 
+to protect sensitive information. 
+(9) When possible, use commercial technological solutions when 
+cost-effective and compliant with cybersecurity, privacy, and 
+records requirements.
+
+--- page 10 ---
+10 DOE O 151.1F 
+ 08-05-2026 
+g. Training, Drills, Exercises, and Continuous Improvement. 
+(1) Develop a risk-based training program at LPS aligned to ERO positions 
+and scenario-critical tasks. 
+(2) Base qualification for ERO and related roles at LPS on demonstrated 
+competence, not only on course completion. 
+(3) Conduct drills and exercises using actual Primary and Alternate EOC 
+and JIC facilities and monitoring facility equipment performance 
+where practical. 
+(4) Establish a risk-based exercise program with site-level exercises at a 
+cadence commensurate with site hazards, ERO readiness and the need to 
+test response performance. 
+(5) Periodically activate the EOC and coordinate with external partners during 
+exercises at LPS to test full system performance. 
+(6) Use proficiency evidence (e.g., pass rate and first-pass success on 
+scenario-critical tasks) to determine the frequency of training, drills, and 
+exercises for specific tasks. 
+(7) Align training and exercise design with NIMS/ICS principles and the 
+Homeland Security Exercise and Evaluation Program fundamentals. 
+(8) Complete After-Action Reports (AARs) for exercises and significant 
+incidents that identify issues and lessons learned and generate 
+corrective actions. 
+(9) Track corrective actions at LPS to timely and effective closure, verifying 
+that recurrence of significant issues is minimized. 
+(10) Share lessons learned at LPS through DOE Operating Experience 
+channels consistent with DOE O 210.2A, Corporate Operating 
+Experience Program. 
+h. Notifications and External Coordination. 
+(1) Ensure the ERO can issue prompt initial notifications to workers, the 
+appropriate Field Office or Departmental Element, DOE Headquarters, 
+onsite and offsite response organizations, and other required authorities. 
+(2) Maintain a resilient notification system with records capture and 
+auditable logs. 
+(3) Provide appropriate situational updates to partners and authorities 
+throughout incident response and recovery.
+
+--- page 11 ---
+DOE O 151.1F 11 
+08-05-2026 
+(4) Integrate LPS spokespersons with partner public information officers after 
+JIC activation. 
+(5) Integrate cyber- and physical-security considerations into response 
+and recovery. 
+(6) Measure and track notification completeness and content quality. 
+i. Security, Information Protection, and Records. 
+(1) Ensure ERO are trained and required to protect sensitive information, 
+including UCNI, during emergency planning, response, and recovery. 
+(2) Ensure emergency communications and COP/records systems meet 
+classification, security, and cybersecurity requirements, and comply with 
+10 CFR Part 1017 for UCNI. 
+(3) Maintain records sufficient to reconstruct decisions and actions for 
+oversight, lessons learned, and legal or investigative purposes. 
+(4) Treat “records reconstructability” as an auditable outcome and include it 
+in program evaluations. 
+j. Regulatory Flexibility, Tailoring, and Oversight. 
+(1) Allow graded tailoring and streamlining of Emergency Management 
+requirements in coordination with the appropriate Field Office or 
+Departmental Element only when performance objectives are met and risk 
+is adequately controlled. 
+(2) Ensure tailoring at LPS does not reduce emergency facility or system 
+availability to negatively impact emergency response effectiveness. 
+(3) Use Contractor Assurance System information, incident/exercise 
+performance, and risk indicators to focus federal oversight on highest 
+hazards and consequences or areas where performance lags. 
+(4) Enable reduced reporting and removal of low-value, duplicative oversight 
+activities at LPS when strong performance is demonstrated. 
+(5) Increase targeted evaluations and engagement when performance is poor 
+or declining until sustained improvement is demonstrated. 
+(6) Use EMS definitions delineated by the Office of Emergency Management 
+(NA-40) to support common terminology and concepts for operations. 
+k. Performance Metrics and Reporting. 
+(1) Maintain evidence of ERO qualification and currency for all 
+ERO positions.
+
+--- page 12 ---
+12 DOE O 151.1F 
+ 08-05-2026 
+(2) Maintain and report on corrective action effectiveness at LPS, including: 
+(a) Corrective action plan cycle-time, 
+(b) On-time closure rate, 
+(c) Recurrence rate of significant findings. 
+(3) Track and report Primary and Alternate EOC, COP system network 
+systems availability and reliability. 
+(4) Collect, track, and report at least the following core outcome metrics for 
+incidents and exercises quarterly to the appropriate Field Office or 
+Departmental Element: 
+(a) Discovery-to-Activation: time from incident discovery to 
+ERO activation. 
+(b) Decision-to-Protection: time from initial hazard confirmation to 
+protective action implementation. 
+(c) Classification Accuracy: percent of incidents initially classified 
+consistent with the technical basis. 
+(d) Time to First Usable Plume/Consequence Projection: time 
+to an initial projection sufficient to inform protective 
+action recommendations. 
+(e) Systems Availability: percentage uptime of EOC, COP system and 
+critical communications systems. 
+(f) Exercise/AAR Effectiveness: percent of corrective actions closed 
+on time and recurrence rate of significant findings. 
+(g) Qualification Currency: percentage of ERO positions staffed with 
+qualified and current personnel and delegation currency rate. 
+(h) Coordination Effectiveness: time to first coordinated briefing and 
+the number of partners participating in responses and exercises. 
+(i) Notification Quality: completeness of initial content. 
+(5) Ensure that LPS management and relevant DOE managers review these 
+metrics through Contractor Assurance System and DOE Enterprise Risk 
+Management processes to inform oversight and priorities.
+
+--- page 13 ---
+DOE O 151.1F 13 
+08-05-2026 
+5. RESPONSIBILITIES. 
+a. Secretary/Deputy Secretary. 
+(1) Set outcome expectations and risk tolerance for DOE‑specific Emergency 
+Management and hold HDEs accountable for results. 
+(2) Champion enterprise platforms that enable field operations. 
+(3) Direct risk‑informed oversight that removes low‑value activities and 
+focuses on performance. 
+(4) Administer, activate, convene, and chair the Emergency and Incident 
+Management Council. 
+b. NNSA Administrator and HDEs. 
+(1) Ensure senior federal officials have been identified and trained for each 
+LPS and ensure clear delegations for time‑urgent decisions. 
+(2) Ensure EOC/JIC/COP facilities and alternates are ready. 
+(3) Integrate emergency risk into Enterprise Risk Management and Contractor 
+Assurance System reviews. 
+(4) Include performance outcomes in contracts where applicable. 
+c. Associate Administrator for Emergency Management Office of Primary Interest. 
+(1) Serve as the Department’s Office of Primary Interest (OPI) for this Order 
+and issues interpretations. 
+(2) Maintain overarching Emergency Management guidance for the 
+Department that aligns with national level emergency response doctrine. 
+(3) Maintain enterprise definitions for performance metrics and minimum 
+reporting architecture, to include effectively executing a readiness 
+assurance program. 
+(4) Provide guidance on annual Emergency Readiness Assurance Plans 
+(ERAP) reporting. 
+(5) Maintain Department emergency coordination capability, enable 
+interoperability with field systems, and maintain common platforms for 
+situational awareness and reporting, including developing, publishing, and 
+providing guidance on Critical Information Requirements and HQ EOC 
+notifications.
+
+--- page 14 ---
+14 DOE O 151.1F 
+ 08-05-2026 
+(6) Keeps the Secretary, Deputy Secretary, NNSA Administrator, Under 
+Secretaries, Program Secretarial Officers, and field and site 
+management informed on Emergency Management matters that affect 
+their responsibilities. 
+(7) Supports focused, risk-based evaluations and verification of 
+corrective actions. 
+(8) Serves as the joint secretariat with DOE’s Office of Cybersecurity, Energy 
+Security, and Emergency Response for the Emergency and Incident 
+Management Council for significant emergencies and continuity events. 
+d. Field Element Managers/Site Office Manager. 
+(1) Approve site EMPs and validate ERO readiness. 
+(2) Verify EOC/JIC locations and alternates. 
+(3) Ensure the COP and communications systems are interoperable and 
+cyber-secure. 
+(4) Oversee risk‑based exercise programs. 
+(5) Use Contractor Assurance System insights to focus oversight and remove 
+low‑value activities. 
+(6) Approve local streamlining consistent with this Order. 
+e. LPS Federal Directors and Operations Contractors. 
+(1) Implement the EMS for specific hazards. 
+(2) Maintain qualified ERO staffing and delegation currency. 
+(3) Maintain EMP‑identified facilities and digital platforms. 
+(4) Activate the ERO and take protective actions when warranted. 
+(5) Notify authorities; coordinate with partners; report performance metrics; 
+conduct after‑action reviews; and manage corrective actions to timely, 
+effective closure. 
+f. Contracting Officer.  For all applicable contracts and upon notification that a 
+site/facility management contract is affected by this Order, incorporate the 
+requirements into the affected contract(s) via the “Laws, Regulations, and DOE 
+Directives” clause of the contract, or through negotiation and modification, 
+as appropriate.
+
+--- page 15 ---
+DOE O 151.1F 15 
+08-05-2026 
+6. INVOKED TECHNICAL STANDARDS.  This Order does not invoke external technical 
+or industry standards as required methods.  Any technical or industry standards 
+mentioned in or referenced by this Order are non‑invoked resources for implementation 
+and may be used where they add value (e.g., NIMS/ICS, National Qualification System 
+(NQS), NFPA 1660, ISO 22301). 
+7. REFERENCES. 
+a. HSPPD‑5, “Management of Domestic Incidents.” (DHS). 
+b. PPD‑8, “National Preparedness.” (DHS). 
+c. National Response Framework and Emergency Support Function (ESF‑12), 
+“Energy Annex.” (FEMA/DOE CESER). 
+d. NIMS and NIMS Training/Implementation; NQS and position task books.  
+(FEMA). 
+e. 10 CFR 1017, Information and Protection of Unclassified Controlled Nuclear 
+Information 
+f. 29 CFR 1910.38, Emergency Action Plans 
+g. 29 CFR 1910.120, Hazardous Waste Operations and Emergency Response 
+h. 49 CFR 171, General Information, Regulations, and Definitions 
+i. 49 CFR 172, Hazardous Materials Table, Special Provisions, Hazardous 
+Materials Communications, Emergency Response Information, Training 
+Requirements and Security Plans 
+j. 49 CFR 173, Shippers’ General Requirements for Shipments and Packagings 
+k. 49 CFR 174, Carriage by Rail 
+l. 49 CFR 175, Carriage by Aircraft 
+m. 49 CFR 176, Carriage by Vessel 
+n. 49 CFR 177, Carriage by Public Highway 
+o. 49 CFR 178, Specifications for Packagings 
+p. 49 CFR 179, Specifications for Tank Cars 
+q. 49 CFR 180, Continuing Qualification and Maintenance of Packagings 
+r. 40 CFR 355, Emergency Planning and Notification, General Information 
+s. DOE O 251.1 Departmental Directives Program
+
+--- page 16 ---
+16 DOE O 151.1F 
+ 08-05-2026 
+t. DOE O 210.2A, Corporate Operating Experience Program 
+u. EPA-400/R-17/001, “PAG Manual: Protective Action Guides and Planning 
+Guidance for Radiological Incidents” 
+v. Consensus standards (non‑invoked): National Fire Protection Association 
+(NFPA) 1660, “Standard for Emergency, Continuity, and Crisis Management: 
+Preparedness, Response, and Recovery” 
+w. International Organization for Standards (ISO) 22301, “Business Continuity 
+Management Systems.” 
+8. DEFINITIONS. 
+a. Accountability.  For the purposes of this document, the process for 
+communicating, assessing, and confirming the status of life and safety of all 
+onsite personnel affected by an incident. 
+b. Active Threat.  A dynamic, quickly evolving situation involving an individual (or 
+individuals) using deadly physical force. 
+c. After-Action Report.  A document intended to capture observations, issues, and 
+lessons learned from an exercise or real-world incident. 
+d. Alert.  A condition that occurs when one or more of the following conditions 
+are met: 
+(1) The radiation dose from any release to the environment of radioactive 
+material or a concentration in air of hazardous chemical material is 
+expected to exceed the applicable PAG or PAC at or beyond 30 meters, 
+but not beyond 100 meters from the point of release or beyond the 
+LPS boundary. 
+(2) An actual or potential substantial degradation in the level of safety or 
+security of nuclear weapons, components, or test devices at a fixed 
+location that would not pose an immediate threat to workers or the public. 
+e. Alternate Emergency Operations Center.  A physical, virtual, or hybrid location 
+for use when the primary EOC is unable to support a response effort. 
+f. Categorization.  The DOE process for determining whether an incident or 
+condition is an OE. 
+g. Classification.  The process of assessing potential release of hazardous materials 
+in OEs to determine if they fall into one of the three emergency classes (Alert, 
+Site Area Emergency, or General Emergency).
+
+--- page 17 ---
+DOE O 151.1F 17 
+08-05-2026 
+h. Common Operating Picture.  A standard overview of an incident, thereby 
+providing incident information that enables the Incident Commander/Unified 
+Command and any supporting agencies and organizations to make effective, 
+consistent, and timely decisions.  Compiling data from multiple sources and 
+disseminating the collaborative information ensures that all responding entities 
+have the same understanding and awareness of incident status and information 
+when conducting operations. 
+i. Critical Information Requirements.  A comprehensive list of elements of 
+information that DOE and NNSA leaders have identified as requiring immediate 
+notification to facilitate timely decision making. 
+j. Discovery.  The point at which LPS workers or visitors identify or become aware 
+of an incident or condition. 
+k. Drill.  An operations-based exercise is often employed to validate a single 
+operation or function. 
+l. Emergency.  Any incident, whether natural, technological, or human-caused, that 
+necessitates responsive action to protect life, property, critical infrastructure, 
+or environment. 
+m. Emergency Action Level.  A predetermined, LPS-specific, observable threshold 
+for an initiating condition that, when met or exceeded, places the LPS in a given 
+emergency categorization with the potential for further classification. 
+n. Emergency Operations Center.  A designated location where the coordination of 
+information and resources and advanced planning, to support the incident 
+(on-scene operations) activities, normally takes place.  The EOC may be a 
+physical, virtual, or hybrid model. 
+o. Emergency Planning Zone.  A zone identified to facilitate a predetermined 
+strategy for protective actions during a defined emergency. 
+p. Emergency Readiness Assurance Plan.  A documented annual report detailing the 
+development, implementation, and maintenance status of an Emergency 
+Management Program.  The ERAP is also a planning tool to identify and develop 
+needed resources and improvements. 
+q. Emergency Response Organization.  A structured organization with overall 
+identified responsibilities for initial and ongoing emergency response 
+and mitigation. 
+r. Evacuation.  The directed relocation of a population out of a high-risk area prior 
+to or during an emergency.  The evacuation of an LPS may be necessary when a 
+hazard, be it natural, technological, or human-caused, threatens the safety of those 
+within the LPS.
+
+--- page 18 ---
+18 DOE O 151.1F 
+ 08-05-2026 
+s. Exercise.  An activity delivered through discussion or action to develop, assess, or 
+validate capabilities to achieve planned objectives.  Exercises, under the 
+Homeland Security Exercise and Evaluation Program can be discussion 
+(examples include seminars, workshops, tabletop exercise, and games), or 
+operations-based (drills, functional exercises, or full-scale exercises). 
+t. Full-scale Exercise.  An operations-based exercise that is typically those most 
+complex and resource-intensive of the exercise types and often involves multiple 
+agencies, onsite and offsite jurisdictions/organizations, and real-time movement 
+of resources. 
+u. General Emergency.  An event that occurs when one or more of the following 
+conditions are met: 
+(1) The radiation dose from any release of radioactive material or a 
+concentration in air from any release of other hazardous material is 
+expected to exceed the applicable PAG or PAC at or beyond the 
+LPS boundary. 
+(2) Actual or likely catastrophic failures in safety or security systems 
+threatening the integrity of a nuclear weapon, component, or test device at 
+a fixed location that may adversely impact the health and safety of 
+workers and the public. 
+v. Hazardous Material.  Any hazardous biological agents and toxins; any radioactive 
+or radiological material that emits ionizing radiation; any solid, liquid, or gaseous 
+chemical that is toxic, explosive, flammable, or corrosive, or could otherwise 
+adversely affect the health and safety of the public or the workers or harm the 
+environment.  Fuel oil and gases are excluded in the definition of hazardous 
+materials used in this Order. 
+w. Homeland Security Exercise and Evaluation Program.  A set of guiding principles 
+for exercise and evaluation programs as well as a common approach to exercise 
+program management, design and development, conduct, evaluation, and 
+improvement planning. 
+x. Incident.  An unplanned occurrence (natural, technological, or human-made) 
+that necessitates a response to protect life, property, critical infrastructure, 
+or environment. 
+y. Incident Command System.  A management system designed to enable effective 
+and efficient domestic incident management by integrating a combination of 
+facilities, equipment, personnel, procedures, and communications operating 
+within a common organizational structure.
+
+--- page 19 ---
+DOE O 151.1F 19 
+08-05-2026 
+z. Incident Commander.  The individual responsible for all incident activities, 
+including the development of strategies and tactics and the ordering and the 
+release of resources.  The Incident Commander has overall authority and 
+responsibility for conducting incident operations and is responsible for the 
+management of all incident operations at the incident site. 
+aa. Issue.  Factual statement of identified findings and deficiencies (failure to meet a 
+documented legal, regulatory, performance, compliance, or other applicable 
+requirements) in the Emergency Management Program at an LPS resulting from 
+an exercise, self-assessment, independent assessment, testing and maintenance, or 
+real-world event. 
+bb. Joint Information Center.  A facility established to coordinate critical emergency 
+information, crisis communications, and public affairs functions.  It is the central 
+point of contact for all news media. 
+cc. Laboratories, Plants, or Sites.  Facilities owned, leased, or occupied by DOE 
+per an occupancy agreement.  These include laboratories, sites, plants, buildings, 
+and other locations, whether operated by a DOE contractor or by DOE 
+federal personnel. 
+dd. Mass-Casualty Incident.  An incident in which the number of patients and the 
+severity of their injuries exceed the capacity of area medical systems and 
+facilities, as identified by the LPS.  The incident produces more patients than the 
+responding jurisdiction is routinely capable of handling and necessitates an 
+uncommon level of resource mobilization. 
+ee. National Incident Management System.  A set of principles that provides a 
+systematic, proactive approach guiding government agencies at all levels, 
+nongovernmental organizations, and the private sector to work seamlessly to 
+prevent, protect against, respond to, recover from, and mitigate the effects of 
+incidents, regardless of cause, size, location, or complexity, to reduce the loss of 
+life or property and harm to the environment. 
+ff. Operational Emergency.  A major unplanned or abnormal incident or condition 
+that involves or affects DOE facilities and activities by causing or having the 
+potential to cause serious health, safety, or environmental impacts. 
+gg. Operations-based Exercises.  Operations-based exercises are characterized by 
+actual response, mobilization of apparatus and resources, and commitment of 
+personnel, usually held over an extended period.  Operations-based exercises can 
+be used to validate plans, policies, agreements, and procedures and include drills, 
+functional exercises, and full-scale exercises. 
+hh. Proficiency.  Demonstrated skill and competency acquired from training 
+and experience. 
+ii. Protective Actions.  Actions taken to minimize the consequences of emergencies 
+and to protect the health and safety of workers and the public.
+
+--- page 20 ---
+20 DOE O 151.1F 
+ 08-05-2026 
+jj. Protective Action Criteria.  The level of hazardous material impact that, if 
+observed or predicted, indicates action is needed to prevent or limit exposure of 
+people to the hazard.  PACs are used for both radiological and non-radiological 
+consequence criteria in DOE facility emergency planning and response. 
+kk. Protective Action Guides.  Radiation dose guidelines that trigger protective 
+actions such as evacuation or staying indoors.  This Order follows the 
+EPA-developed Manual of Protective Action Guides (PAG Manual) to help 
+federal, state, and local authorities decide how to protect the public during 
+radiological emergencies. 
+ll. Protective Action Recommendation.  Predetermined actions that are 
+consequence-based decisions (known as protective actions for the LPS) and are 
+designed to protect the health and safety of the public.  DOE LPSs recommend 
+protective actions to the public and community for OEs that have the potential to 
+cause offsite consequences. 
+mm. Public Information Officer.  A member who serves as the conduit for information 
+to internal and external stakeholders, including the media or other organizations 
+seeking information directly from the incident. 
+nn. Readiness Assurance.  Activities that ensure emergency plans, procedures, and 
+resources are sufficiently maintained, exercised, and evaluated, and appropriate 
+and timely improvements are made when identified.  It serves to ensure the 
+readiness and effectiveness of LPS, or enterprise Emergency Management on a 
+programmatic and performance level while promoting a culture of continuous 
+improvement.  It consists of evaluation (self-assessments, exercises, and 
+performance indicators), issues management (corrective action plan and lessons 
+learned), and the ERAP. 
+oo. Recovery.  The phase of activity that follows termination of an emergency.  
+The recovery period begins when emergency response is declared terminated, 
+but recovery planning can proceed before the response is declared terminated.  
+The recovery phase continues until the objectives of the recovery effort have 
+been met. 
+pp. Reentry.  The prioritized actions required to return processes and support 
+functions to operational stability following an incident. 
+qq. Response.  Activities that address the short-term, direct effects of an incident and 
+include immediate actions to save lives; protect property, critical infrastructure, 
+and the environment; achieve incident stabilization; and meet basic human needs. 
+rr. Senior Federal Official.  Senior management federal personnel, designated by the 
+Field Element Manager/Field Operations Manager, assigned to the EOC in his/her 
+capacity with decision-making authority and responsibilities.
+
+--- page 21 ---
+DOE O 151.1F 21 
+08-05-2026 
+ss. Site Area Emergency.  An event that occurs when one or more of the following 
+conditions are met: 
+(1) The radiation dose from any release of radioactive material or 
+concentration in air from any release of other hazardous material is 
+expected to exceed the applicable PAG or PAC at or beyond 100 meters 
+from the point of release but not at or beyond the LPS boundary. 
+(2) An actual or potential threat to the integrity of a nuclear weapon, 
+component, or test device that may adversely impact the health and safety 
+of workers in the immediate area, but not the public. 
+tt. Special Nuclear Material.  As defined in 10 CFR 810, Assistance to Foreign 
+Atomic Energy Activities, plutonium, uranium-233, or uranium enriched above 
+0.711% by weight in the isotope uranium-235. 
+uu. Termination.  The declared conclusion of emergency response activities signaling 
+the onset of the recovery phase. 
+vv. Transportation emergency.  Any accident involving an OST transportation 
+shipment or convoy, in mission status, that cannot be categorized as an OST OE 
+as outlined in DOE O 151.1E but that may require response beyond normal 
+operations and local response asset capabilities.  No protective action 
+recommendations for nuclear cargo are issued, but due to the duration, location 
+and support needed, implementation of NIMS/ICS procedures or other response 
+actions may be required to mitigate or resolve the emergency. 
+ww. Visitor.  An onsite individual who is not an employee, contractor, or 
+subcontractor of the LPS. 
+xx. Walk-away.  A strategy employed during an emergency as an alternative to a 
+shutdown, whereby a facility is placed in a safe condition requiring no further on-
+scene operator action, allowing operations personnel to safely leave the facility 
+until a planned reentry can be made. 
+yy. Worker.  Federal, contractor, subcontractor employee or visitor performing 
+activities at a DOE LPS. 
+9. ACRONYMS. 
+AAR After-Action Report 
+AEOC Alternate Emergency Operations Center 
+COP Common Operating Picture 
+DOE Department of Energy 
+DOT Department of  Transportation 
+EAL Emergency Action Level
+
+--- page 22 ---
+22 DOE O 151.1F 
+ 08-05-2026 
+EMP Emergency Management Plan 
+EMS Emergency Management System 
+EOC Emergency Operations Center 
+EPA Environmental Protection Agency 
+EPCRA Emergency Planning and Community Right-to-Know Act 
+ERAP Emergency Readiness Assurance Plan 
+ERO Emergency Response Organization 
+HDE Head of the De partmental Element 
+HSPD Homeland Security Presidential Directive 
+ICS Incident Command System 
+ISO Organization for International Standards 
+JIC Joint Information Center 
+LPS Laboratory, plant, or site 
+NFPA National Fire Protection Association 
+NIMS National Incident  Management System 
+NNSA National Nuclear Security Administration 
+NQS National Qualification System 
+NRF National Response Framework 
+OE Operational Emergency 
+OPI Office of Primary Interest 
+OST Office of Secure Transportation 
+PAC Protective Action Criteria 
+PAG Protective Action Guide 
+PPD Presidential Policy Directive 
+UCNI Unclassified Contro lled Nuclear Information 
+ 
+10. CONTACT.  Office of the Primary Interest: Associate Administrator for Emergency 
+Management (NA-40), (202) 586-8100. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ 
+JAMES P. DANLY 
+Deputy Secretary

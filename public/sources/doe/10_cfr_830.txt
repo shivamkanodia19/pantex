@@ -1,0 +1,1731 @@
+--- page 1 ---
+517 
+Department of Energy § 830.2 
+(2) It is normally classified at a Severity 
+Level III; 
+(3) It was promptly reported to DOE; 
+(4) Prompt and appropriate corrective ac-
+tion will be taken, including measures to 
+prevent recurrence; and 
+(5) It was not a willful violation or a viola-
+tion that could reasonably be expected to 
+have been prevented by the DOE contractor’s 
+corrective action for a previous violation. 
+e. DOE may refrain from issuing a notice 
+of violation for an act or omission consti-
+tuting noncompliance that meets all of the 
+following criteria: 
+(1) It was an isolated Severity Level III 
+violation identified during an inspection or 
+evaluation conducted by the Office of Inde-
+pendent Oversight, or a DOE security survey, 
+or during some other DOE assessment activ-
+ity; 
+(2) The identified noncompliance was prop-
+erly reported by the contractor upon dis-
+covery; 
+(3) The contractor initiated or completed 
+appropriate assessment and corrective ac-
+tions within a reasonable period, usually be-
+fore the termination of the onsite inspection 
+or integrated performance assessment; and 
+(4) The violation was not willful or one 
+which could reasonably be expected to have 
+been prevented by the DOE contractor’s cor-
+rective action for a previous violation. 
+f. In situations where corrective actions 
+have been completed before termination of 
+an inspection or assessment, a formal re-
+sponse from the contractor is not required 
+and the inspection or integrated performance 
+assessment report serves to document the 
+violation and the corrective action. However, 
+in all instances, the contractor is required to 
+report the noncompliance through estab-
+lished reporting mechanisms so the non-
+compliance issue and any corrective actions 
+can be properly tracked and monitored. 
+g. If DOE initiates an enforcement action 
+for a violation at a Severity Level II or III 
+and, as part of the corrective action for that 
+violation, the DOE contractor identifies 
+other examples of the violation with the 
+same root cause, DOE may refrain from ini-
+tiating an additional enforcement action. In 
+determining whether to exercise this discre-
+tion, DOE will consider whether the DOE 
+contractor acted reasonably and in a timely 
+manner appropriate to the security signifi-
+cance of the initial violation, the com-
+prehensiveness of the corrective action, 
+whether the matter was reported, and wheth-
+er the additional violation(s) substantially 
+change the security significance or character 
+of the concern arising out of the initial vio-
+lation. 
+h. The preceding paragraphs are solely in-
+tended to be examples indicating when en-
+forcement discretion may be exercised to 
+forego the issuance of a civil penalty or, in 
+some cases, the initiation of any enforce-
+ment action at all. However, notwith-
+standing these examples, a civil penalty may 
+be proposed or notice of violation issued 
+when, in DOE’s judgment, such action is war-
+ranted on the basis of the circumstances of 
+an individual case. 
+[70 FR 3607, Jan. 26, 2005, as amended at 71 
+FR 68733, Nov. 28, 2006; 74 FR 66033, Dec. 14, 
+2009; 79 FR 19, Jan. 2, 2014; 81 FR 41795, June 
+28, 2016] 
+PART 830—NUCLEAR SAFETY 
+MANAGEMENT 
+Sec. 
+830.1 Scope. 
+830.2 Exclusions. 
+830.3 Definitions. 
+830.4 General requirements. 
+830.5 Enforcement. 
+830.6 Recordkeeping. 
+830.7 Graded approach. 
+Subpart A—Quality Assurance 
+Requirements 
+830.120 Scope. 
+830.121 Quality Assurance Program (QAP). 
+830.122 Quality assurance criteria. 
+Subpart B—Safety Basis Requirements 
+830.200 Scope. 
+830.201 Performance of work. 
+830.202 Safety basis. 
+830.203 Unreviewed safety question process. 
+830.204 Documented safety analysis. 
+830.205 Technical safety requirements. 
+830.206 Preliminary documented safety 
+analysis. 
+830.207 DOE approval of safety basis. 
+APPENDIX A TO SUBPART B TO PART 830—G EN-
+ERAL STATEMENT OF SAFETY BASIS POL-
+ICY 
+AUTHORITY: 42 U.S.C. 2201; 42 U.S.C. 7101 et 
+seq.; and 50 U.S.C. 2401 et seq. 
+SOURCE: 85 FR 66205, Oct. 19, 2020, unless 
+otherwise noted. 
+§ 830.1 Scope. 
+This part governs the conduct of DOE 
+contractors, DOE personnel, and other 
+persons conducting activities (includ-
+ing providing items and services) that 
+affect, or may affect, the safety of DOE 
+nuclear facilities. 
+§ 830.2 Exclusions. 
+This part does not apply to: 
+(a) Activities that are regulated 
+through a license by the Nuclear Regu-
+latory Commission (NRC) or a State 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00527 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 2 ---
+518 
+10 CFR Ch. III (1–1–24 Edition) § 830.3 
+under an Agreement with the NRC, in-
+cluding activities certified by the NRC 
+under section 1701 of the Atomic En-
+ergy Act (Act); 
+(b) Activities conducted under the 
+authority of the Director, Naval Nu-
+clear Propulsion, pursuant to Execu-
+tive Order 12344, as set forth in Public 
+Law 106– 65; 
+(c) Transportation activities which 
+are regulated by the Department of 
+Transportation; 
+(d) Activities conducted under the 
+Nuclear Waste Policy Act of 1982, as 
+amended, and any facility identified 
+under section 202(5) of the Energy Re-
+organization Act of 1974, as amended; 
+and 
+(e) Activities related to the launch 
+approval and actual launch of nuclear 
+energy systems into space. 
+§ 830.3 Definitions. 
+(a) The following definitions apply to 
+this part: 
+Administrative controls means the pro-
+visions relating to organization and 
+management, procedures, record-
+keeping, assessment, and reporting 
+necessary to ensure safe operation of a 
+facility. 
+Bases appendix means an appendix 
+that describes the basis of the limits 
+and other requirements in technical 
+safety requirements. 
+Critical assembly means special nu-
+clear devices designed and used to sus-
+tain nuclear reactions, which may be 
+subject to frequent core and lattice 
+configuration change and which fre-
+quently may be used as mockups of re-
+actor configurations. 
+Criticality means the condition in 
+which a nuclear fission chain reaction 
+becomes self-sustaining. 
+Design features means the design fea-
+tures of a nuclear facility specified in 
+the technical safety requirements that, 
+if altered or modified, would have a 
+significant effect on safe operation. 
+Document means recorded informa-
+tion that describes, specifies, reports, 
+certifies, requires, or provides data or 
+results. 
+Documented safety analysis means a 
+documented analysis of the extent to 
+which a nuclear facility can be oper-
+ated safely with respect to workers, 
+the public, and the environment, in-
+cluding a description of the conditions, 
+safe boundaries, and hazard controls 
+that provide the basis for ensuring 
+safety. 
+Environmental restoration activities 
+means the process(es) by which con-
+taminated sites and facilities are iden-
+tified and characterized and by which 
+contamination is contained, treated, or 
+removed and disposed. 
+Fissionable materials means a nuclide 
+capable of sustaining a neutron-in-
+duced chain reaction (e.g., uranium-233, 
+uranium-235, plutonium-238, pluto-
+nium-239, plutonium-241, neptunium- 
+237, americium-241, and curium-244). 
+Graded approach means the process of 
+ensuring that the level of analysis, doc-
+umentation, and actions used to com-
+ply with a requirement in this part are 
+commensurate with: 
+(1) The relative importance to safety, 
+safeguards, and security; 
+(2) The magnitude of any hazard in-
+volved; 
+(3) The life cycle stage of a facility; 
+(4) The programmatic mission of a fa-
+cility; 
+(5) The particular characteristics of a 
+facility; 
+(6) The relative importance of radio-
+logical and nonradiological hazards; 
+and 
+(7) Any other relevant factor. 
+Hazard means a source of danger (i.e., 
+material, energy source, or operation) 
+with the potential to cause illness, in-
+jury, or death to a person or damage to 
+a facility or to the environment (with-
+out regard to the likelihood or credi-
+bility of accident scenarios or con-
+sequence mitigation). 
+Hazard Category 1, 2, and 3 DOE nu-
+clear facilities means nuclear facilities 
+that meet the criteria for their respec-
+tive hazard category consistent with 
+the provisions of DOE–STD–1027–92, 
+Change Notice 1. Hazard Category 1, 2, 
+and 3 DOE nuclear facilities are re-
+quired to have safety bases established 
+in accordance with Subpart B of this 
+part. Hazard categories are based on 
+their radioactive material inventories 
+and the potential consequences to the 
+public, workers, and the environment. 
+Hazard Category 1 represents the high-
+est potential consequence and Hazard 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00528 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 3 ---
+519 
+Department of Energy § 830.3 
+Category 3 represents the lowest poten-
+tial consequence of the facilities re-
+quired to establish safety bases. 
+Hazard controls means measures to 
+eliminate, limit, or mitigate hazards to 
+workers, the public, or the environ-
+ment, including: 
+(1) Physical, design, structural, and 
+engineering features; 
+(2) Safety structures, systems, and 
+components; 
+(3) Safety management programs; 
+(4) Technical safety requirements; 
+and 
+(5) Other controls necessary to pro-
+vide adequate protection from hazards. 
+Item is an all-inclusive term used in 
+place of any of the following: Appur-
+tenance, assembly, component, equip-
+ment, material, module, part, product, 
+structure, subassembly, subsystem, 
+system, unit, or support systems. 
+Limiting conditions for operation 
+means the limits that represent the 
+lowest functional capability or per-
+formance level of safety structures, 
+systems, and components required for 
+safe operations. 
+Limiting control settings means the 
+settings on safety systems that control 
+process variables to prevent exceeding 
+a safety limit. 
+Low-level residual fixed radioactivity 
+means the remaining radioactivity fol-
+lowing reasonable efforts to remove ra-
+dioactive systems, components, and 
+stored materials. The remaining radio-
+activity is composed of surface con-
+tamination that is fixed following 
+chemical cleaning or some similar 
+process; a component of surface con-
+tamination that can be picked up by 
+smears; or activated materials within 
+structures. The radioactivity can be 
+characterized as low-level if the 
+smearable radioactivity is less than 
+the values defined for removable con-
+tamination by 10 CFR part 835, Appen-
+dix D, Surface Contamination Values, 
+and the hazard analysis results show 
+that no credible accident scenario or 
+work practices would release the re-
+maining fixed radioactivity or activa-
+tion components at levels that would 
+prudently require the use of active 
+safety systems, structures, or compo-
+nents to prevent or mitigate a release 
+of radioactive materials. 
+Major modification means a modifica-
+tion to a DOE nuclear facility that sub-
+stantially changes the existing safety 
+basis for the facility. 
+New Hazard Category 1, 2, and 3 DOE 
+nuclear facility means a Hazard Cat-
+egory 1, 2, or 3 DOE nuclear facility 
+that is in design or under construction 
+that does not yet have a DOE approved 
+safety basis. 
+Nonreactor nuclear facility means 
+those facilities, activities or operations 
+that involve, or will involve, radio-
+active and/or fissionable materials in 
+such form and quantity that a nuclear 
+or a nuclear explosive hazard poten-
+tially exists to workers, the public, or 
+the environment, but does not include 
+accelerators and their operations and 
+does not include activities involving 
+only incidental use and generation of 
+radioactive materials or radiation such 
+as check and calibration sources, use of 
+radioactive sources in research and ex-
+perimental and analytical laboratory 
+activities, electron microscopes, and X- 
+ray machines. 
+Nuclear facility means a reactor or a 
+nonreactor nuclear facility where an 
+activity is conducted for or on behalf of 
+DOE and includes any related area, 
+structure, facility, or activity to the 
+extent necessary to ensure proper im-
+plementation of the requirements es-
+tablished by this Part. 
+Operating limits means those limits 
+required to ensure the safe operation of 
+a nuclear facility, including limiting 
+control settings and limiting condi-
+tions for operation. 
+Preliminary documented safety analysis 
+means documentation prepared in con-
+nection with the design and construc-
+tion of a new Hazard Category 1, 2, or 
+3 DOE nuclear facility or a major modi-
+fication to an existing Hazard Category 
+1, 2, or 3 DOE nuclear facility that pro-
+vides a reasonable basis for the pre-
+liminary conclusion that the nuclear 
+facility can be operated safely through 
+the consideration of factors such as: 
+(1) The nuclear safety design criteria 
+to be satisfied; 
+(2) A safety analysis that derives as-
+pects of design that are necessary to 
+satisfy the nuclear safety design cri-
+teria; and 
+(3) An initial listing of the safety 
+management programs that must be 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00529 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 4 ---
+520 
+10 CFR Ch. III (1–1–24 Edition) § 830.3 
+developed to address operational safety 
+considerations. 
+Process means a series of actions that 
+achieves an end or result. 
+Quality means the condition achieved 
+when an item, service, or process meets 
+or exceeds the user’s requirements and 
+expectations. 
+Quality assurance means all those ac-
+tions that provide confidence that 
+quality is achieved. 
+Quality Assurance Program (QAP) 
+means the overall program or manage-
+ment system established to assign re-
+sponsibilities and authorities, define 
+policies and requirements, and provide 
+for the performance and assessment of 
+work. 
+Reactor means any apparatus that is 
+designed or used to sustain nuclear 
+chain reactions in a controlled manner 
+such as research, test, and power reac-
+tors, and critical and pulsed assemblies 
+and any assembly that is designed to 
+perform subcritical experiments that 
+could potentially reach criticality; 
+and, unless modified by words such as 
+containment, vessel, or core, refers to 
+the entire facility, including the hous-
+ing, equipment and associated areas de-
+voted to the operation and mainte-
+nance of one or more reactor cores. 
+Record means a completed document 
+or other media that provides objective 
+evidence of an item, service, or process. 
+Safety basis means the documented 
+safety analysis and hazard controls 
+that provide reasonable assurance that 
+a DOE nuclear facility can be operated 
+safely in a manner that adequately 
+protects workers, the public, and the 
+environment. 
+Safety class structures, systems, and 
+components means the structures, sys-
+tems, or components, including por-
+tions of process systems, whose preven-
+tive or mitigative function is necessary 
+to limit radioactive hazardous mate-
+rial exposure to the public, as deter-
+mined from safety analyses. 
+Safety evaluation report means the re-
+port prepared by DOE to document: 
+(1) The sufficiency of the documented 
+safety analysis for a Hazard Category 
+1, 2, or 3 DOE nuclear facility; 
+(2) The extent to which a contractor 
+has satisfied the requirements of Sub-
+part B of this part; and 
+(3) The basis for approval by DOE of 
+the safety basis for the facility, includ-
+ing any conditions for approval. 
+Safety limits means the limits on 
+process variables associated with those 
+safety class physical barriers, gen-
+erally passive, that are necessary for 
+the intended facility function and that 
+are required to guard against the un-
+controlled release of radioactive mate-
+rials. 
+Safety management program means a 
+program designed to ensure a facility is 
+operated in a manner that adequately 
+protects workers, the public, and the 
+environment by covering a topic such 
+as: Quality assurance; maintenance of 
+safety systems; personnel training; 
+conduct of operations; inadvertent 
+criticality protection; emergency pre-
+paredness; fire protection; waste man-
+agement; or radiological protection of 
+workers, the public, and the environ-
+ment. 
+Safety management system means an 
+integrated safety management system 
+established consistent with 48 CFR 
+970.5223–1, Integration of environment, 
+safety, and health into work planning 
+and execution. 
+Safety significant structures, systems, 
+and components means the structures, 
+systems, and components which are 
+not designated as safety class struc-
+tures, systems, and components, but 
+whose preventive or mitigative func-
+tion is a major contributor to defense 
+in depth and/or worker safety as deter-
+mined from safety analyses. 
+Safety structures, systems, and compo-
+nents means both safety class struc-
+tures, systems, and components and 
+safety significant structures, systems, 
+and components. 
+Service means the performance of 
+work, such as design, manufacturing, 
+construction, fabrication, assembly, 
+decontamination, environmental res-
+toration, waste management, labora-
+tory sample analyses, inspection, non-
+destructive examination/testing, envi-
+ronmental qualification, equipment 
+qualification, repair, installation, or 
+the like. 
+Surveillance requirements means re-
+quirements relating to test, calibra-
+tion, or inspection to ensure that the 
+necessary operability and quality of 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00530 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 5 ---
+521 
+Department of Energy § 830.121 
+safety structures, systems, and compo-
+nents and their support systems re-
+quired for safe operations are main-
+tained, that facility operation is within 
+safety limits, and that limiting control 
+settings and limiting conditions for op-
+eration are met. 
+Technical safety requirements (TSRs) 
+means the limits, controls, and related 
+actions that establish the specific pa-
+rameters and requisite actions for the 
+safe operation of a nuclear facility and 
+include, as appropriate for the work 
+and the hazards identified in the docu-
+mented safety analysis for the facility: 
+Safety limits, operating limits, surveil-
+lance requirements, administrative and 
+management controls, use and applica-
+tion provisions, and design features, as 
+well as a bases appendix. 
+Unreviewed Safety Question (USQ) 
+means a situation where: 
+(1) The probability of the occurrence 
+or the consequences of an accident or 
+the malfunction of equipment impor-
+tant to safety previously evaluated in 
+the documented safety analysis could 
+be increased; 
+(2) The possibility of an accident or 
+malfunction of a different type than 
+any evaluated previously in the docu-
+mented safety analysis could be cre-
+ated; or 
+(3) The documented safety analysis 
+may not be bounding or may be other-
+wise inadequate. 
+Unreviewed Safety Question process 
+means the mechanism for keeping a 
+safety basis current by reviewing po-
+tential unreviewed safety questions, re-
+porting unreviewed safety questions to 
+DOE, and obtaining approval from DOE 
+prior to taking any action that in-
+volves an unreviewed safety question. 
+Use and application provisions means 
+the basic instructions for applying 
+technical safety requirements. 
+(b) Terms defined in the Act or in 10 
+CFR part 820 and not defined in this 
+section of the rule are to be used con-
+sistent with the meanings given in the 
+Act or in 10 CFR part 820. 
+§ 830.4 General requirements. 
+(a) No person may take or cause to be 
+taken any action inconsistent with the 
+requirements of this part. 
+(b) A contractor responsible for a nu-
+clear facility must ensure implementa-
+tion of, and compliance with, the re-
+quirements of this part. 
+(c) The requirements of this part 
+must be implemented in a manner that 
+provides reasonable assurance of ade-
+quate protection of workers, the pub-
+lic, and the environment from adverse 
+consequences, taking into account the 
+work to be performed and the associ-
+ated hazards. 
+(d) If there is no contractor for a 
+DOE nuclear facility, DOE must ensure 
+implementation of, and compliance 
+with, the requirements of this part. 
+§ 830.5 Enforcement. 
+The requirements in this part are 
+DOE Nuclear Safety Requirements and 
+are subject to enforcement by all ap-
+propriate means, including the imposi-
+tion of civil and criminal penalties in 
+accordance with the provisions of 10 
+CFR part 820. 
+§ 830.6 Recordkeeping. 
+A contractor must maintain com-
+plete and accurate records as necessary 
+to substantiate compliance with the re-
+quirements of this part. 
+§ 830.7 Graded approach. 
+Where appropriate, a contractor 
+must use a graded approach to imple-
+ment the requirements of this part, 
+document the basis of the graded ap-
+proach used, and submit that docu-
+mentation to DOE. The graded ap-
+proach may not be used in imple-
+menting the unreviewed safety ques-
+tion (USQ) process or in implementing 
+technical safety requirements. 
+Subpart A—Quality Assurance 
+Requirements 
+§ 830.120 Scope. 
+This subpart establishes quality as-
+surance requirements for contractors 
+conducting activities, including pro-
+viding items or services that affect, or 
+may affect, nuclear safety of DOE nu-
+clear facilities. 
+§ 830.121 Quality Assurance Program 
+(QAP). 
+(a) Contractors conducting activities, 
+including providing items or services, 
+that affect, or may affect, the nuclear 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00531 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 6 ---
+522 
+10 CFR Ch. III (1–1–24 Edition) § 830.122 
+safety of DOE nuclear facilities must 
+conduct work in accordance with the 
+Quality Assurance criteria in § 830.122. 
+(b) The contractor responsible for a 
+DOE nuclear facility must: 
+(1) Submit a QAP to DOE for ap-
+proval and regard the QAP as approved 
+90 days after submittal, unless it is ap-
+proved or rejected by DOE at an earlier 
+date. 
+(2) Modify the QAP as directed by 
+DOE. 
+(3) Annually submit any changes to 
+the DOE-approved QAP to DOE for ap-
+proval. Justify in the submittal why 
+the changes continue to satisfy the 
+quality assurance requirements. 
+(4) Conduct work in accordance with 
+the QAP. 
+(c) The QAP must: 
+(1) Describe how the quality assur-
+ance criteria of § 830.122 are satisfied. 
+(2) Integrate the quality assurance 
+criteria with the Safety Management 
+System, or describe how the quality as-
+surance criteria apply to the Safety 
+Management System. 
+(3) Use voluntary consensus stand-
+ards in its development and implemen-
+tation, where practicable and con-
+sistent with contractual and regu-
+latory requirements, and identify the 
+standards used. 
+(4) Describe how the contractor re-
+sponsible for the nuclear facility en-
+sures that subcontractors and suppliers 
+satisfy the criteria of § 830.122. 
+§ 830.122 Quality assurance criteria. 
+The QAP must address the following 
+management, performance, and assess-
+ment criteria: 
+(a) Criterion 1—Management/Program. 
+(1) Establish an organizational struc-
+ture, functional responsibilities, levels 
+of authority, and interfaces for those 
+managing, performing, and assessing 
+the work. 
+(2) Establish management processes, 
+including planning, scheduling, and 
+providing resources for the work. 
+(b) Criterion 2—Management/Personnel 
+Training and Qualification. (1) Train and 
+qualify personnel to be capable of per-
+forming their assigned work. 
+(2) Provide continuing training to 
+personnel to maintain their job pro-
+ficiency. 
+(c) Criterion 3—Management/Quality 
+Improvement. (1) Establish and imple-
+ment processes to detect and prevent 
+quality problems. 
+(2) Identify, control, and correct 
+items, services, and processes that do 
+not meet established requirements. 
+(3) Identify the causes of problems 
+and work to prevent recurrence as a 
+part of correcting the problem. 
+(4) Review item characteristics, proc-
+ess implementation, and other quality- 
+related information to identify items, 
+services, and processes needing im-
+provement. 
+(d) Criterion 4—Management/Docu-
+ments and Records. (1) Prepare, review, 
+approve, issue, use, and revise docu-
+ments to prescribe processes, specify 
+requirements, or establish design. 
+(2) Specify, prepare, review, approve, 
+and maintain records. 
+(e) Criterion 5—Performance/Work 
+Processes. (1) Perform work consistent 
+with technical standards, administra-
+tive controls, and other hazard con-
+trols adopted to meet regulatory or 
+contract requirements, using approved 
+instructions, procedures, or other ap-
+propriate means. 
+(2) Identify and control items to en-
+sure their proper use. 
+(3) Maintain items to prevent their 
+damage, loss, or deterioration. 
+(4) Calibrate and maintain equipment 
+used for process monitoring or data 
+collection. 
+(f) Criterion 6—Performance/Design. (1) 
+Design items and processes using sound 
+engineering/scientific principles and 
+appropriate standards. 
+(2) Incorporate applicable require-
+ments and design bases in design work 
+and design changes. 
+(3) Identify and control design inter-
+faces. 
+(4) Verify or validate the adequacy of 
+design products using individuals or 
+groups other than those who performed 
+the work. 
+(5) Verify or validate work before ap-
+proval and implementation of the de-
+sign. 
+(g) Criterion 7—Performance/Procure-
+ment. (1) Procure items and services 
+that meet established requirements 
+and perform as specified. 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00532 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 7 ---
+523 
+Department of Energy § 830.203 
+(2) Evaluate and select prospective 
+suppliers on the basis of specified cri-
+teria. 
+Establish and implement processes to 
+ensure that approved suppliers con-
+tinue to provide acceptable items and 
+services. 
+(h) Criterion 8—Performance/Inspection 
+and Acceptance Testing. (1) Inspect and 
+test specified items, services, and proc-
+esses using established acceptance and 
+performance criteria. 
+(2) Calibrate and maintain equipment 
+used for inspections and tests. 
+(i) Criterion 9—Assessment/Management 
+Assessment. Ensure managers assess 
+their management processes and iden-
+tify and correct problems that hinder 
+the organization from achieving its ob-
+jectives. 
+(j) Criterion 10—Assessment/Inde-
+pendent Assessment. (1) Plan and con-
+duct independent assessments to meas-
+ure item and service quality, to meas-
+ure the adequacy of work performance, 
+and to promote improvement. 
+(2) Establish sufficient authority, and 
+freedom from line management, for the 
+group performing independent assess-
+ments. 
+(3) Ensure persons who perform inde-
+pendent assessments are technically 
+qualified and knowledgeable in the 
+areas to be assessed. 
+Subpart B—Safety Basis 
+Requirements 
+§ 830.200 Scope. 
+This Subpart establishes safety basis 
+requirements for Hazard Category 1, 2, 
+and 3 DOE nuclear facilities. 
+§ 830.201 Performance of work. 
+A contractor must perform work in 
+accordance with the DOE-approved 
+safety basis for a Hazard Category 1, 2, 
+or 3 DOE nuclear facility and, in par-
+ticular, with the hazard controls that 
+ensure adequate protection of workers, 
+the public, and the environment. 
+§ 830.202 Safety basis. 
+(a) The contractor responsible for a 
+Hazard Category 1, 2, or 3 DOE nuclear 
+facility must establish and maintain 
+the safety basis for the facility. 
+(b) In establishing the safety basis 
+for a Hazard Category 1, 2, or 3 DOE nu-
+clear facility, the contractor respon-
+sible for the facility must: 
+(1) Define the scope of the work to be 
+performed; 
+(2) Identify and analyze the hazards 
+associated with the work; 
+(3) Categorize the facility consistent 
+with DOE–STD–1027–92 (‘‘Hazard Cat-
+egorization and Accident Analysis 
+Techniques for compliance with DOE 
+Order 5480.23, Nuclear Safety Analysis 
+Reports,’’ Change Notice 1, September 
+1997); 
+(4) Prepare a documented safety anal-
+ysis for the facility; and 
+(5) Establish the hazard controls 
+upon which the contractor will rely to 
+ensure adequate protection of workers, 
+the public, and the environment. 
+(c) In maintaining the safety basis 
+for a Hazard Category 1, 2, or 3 DOE nu-
+clear facility, the contractor respon-
+sible for the facility must: 
+(1) Update the safety basis to keep it 
+current and to reflect changes in the 
+facility, the work and the hazards as 
+they are analyzed in the documented 
+safety analysis; 
+(2) Annually provide DOE the current 
+documented safety analysis or a letter 
+stating that there have been no 
+changes in the documented safety anal-
+ysis since the prior submittal; and 
+(3) Incorporate in the safety basis 
+any changes, conditions, or hazard con-
+trols directed by DOE. 
+§ 830.203 Unreviewed safety question 
+process. 
+(a) The contractor responsible for a 
+Hazard Category 1, 2, or 3 DOE nuclear 
+facility must establish, implement, and 
+take actions consistent with a DOE-ap-
+proved USQ procedure that meets the 
+requirements of this section. 
+(b) The contractor responsible for a 
+new Hazard Category 1, 2, or 3 DOE nu-
+clear facility must submit for DOE ap-
+proval a procedure for its USQ process 
+on a schedule that allows DOE ap-
+proval in a safety evaluation report 
+issued pursuant to § 830. 207(a) of this 
+part. 
+(c) The contractor responsible for a 
+Hazard Category 1, 2, or 3 DOE nuclear 
+facility must implement the DOE-ap-
+proved USQ procedure in situations 
+where there is a: 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00533 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 8 ---
+524 
+10 CFR Ch. III (1–1–24 Edition) § 830.204 
+(1) Temporary or permanent change 
+in the facility as described in the exist-
+ing documented safety analysis; 
+(2) Temporary or permanent change 
+in the procedures as described in the 
+existing documented safety analysis; 
+(3) Test or experiment not described 
+in the existing documented safety anal-
+ysis; or 
+(4) Potential inadequacy of the docu-
+mented safety analysis because the 
+analysis potentially may not be bound-
+ing or may be otherwise inadequate. 
+(d) A contractor responsible for a 
+Hazard Category 1, 2, or 3 DOE nuclear 
+facility must obtain DOE approval 
+prior to taking any action determined 
+to involve a USQ. 
+(e) The contractor responsible for a 
+Hazard Category 1, 2, or 3 DOE nuclear 
+facility must annually provide to DOE 
+a summary of the USQ determinations 
+performed since the prior submittal. 
+(f) If a contractor responsible for a 
+Hazard Category 1, 2, or 3 DOE nuclear 
+facility discovers or is made aware of a 
+potential inadequacy of the docu-
+mented safety analysis, it must: 
+(1) Take action, as appropriate, to 
+place or maintain the facility in a safe 
+condition until an evaluation of the 
+safety of the situation is completed; 
+(2) Notify DOE of the situation; 
+(3) Perform a USQ determination and 
+notify DOE promptly of the results; 
+and 
+(4) Submit the evaluation of the safe-
+ty of the situation to DOE prior to re-
+moving any operational restrictions 
+initiated to meet paragraph (f)(1) of 
+this section. 
+§ 830.204 Documented safety analysis. 
+(a) The contractor responsible for a 
+Hazard Category 1, 2, or 3 DOE nuclear 
+facility must obtain approval from 
+DOE for the methodology used to pre-
+pare the documented safety analysis 
+for the facility unless the contractor 
+uses a methodology set forth in Table 1 
+of Appendix A to this part. 
+(b) The documented safety analysis 
+for a Hazard Category 1, 2, or 3 DOE nu-
+clear facility must, as appropriate for 
+the complexities and hazards associ-
+ated with the facility: 
+(1) Describe the facility (including 
+the design of safety structures, sys-
+tems and components) and the work to 
+be performed; 
+(2) Provide a systematic identifica-
+tion of both natural and man-made 
+hazards associated with the facility; 
+(3) Evaluate normal, abnormal, and 
+accident conditions, including consid-
+eration of natural and man-made exter-
+nal events, identification of energy 
+sources or processes that might con-
+tribute to the generation or uncon-
+trolled release of radioactive and other 
+hazardous materials, and consideration 
+of the need for analysis of accidents 
+which may be beyond the design basis 
+of the facility; 
+(4) Derive the hazard controls nec-
+essary to ensure adequate protection of 
+workers, the public, and the environ-
+ment, demonstrate the adequacy of 
+these controls to eliminate, limit, or 
+mitigate identified hazards, and define 
+the process for maintaining the hazard 
+controls current at all times and con-
+trolling their use; 
+(5) Define the characteristics of the 
+safety management programs nec-
+essary to ensure the safe operation of 
+the facility, including (where applica-
+ble) quality assurance, procedures, 
+maintenance, personnel training, con-
+duct of operations, emergency pre-
+paredness, fire protection, waste man-
+agement, and radiation protection; and 
+(6) With respect to a nonreactor nu-
+clear facility with fissionable material 
+in a form and amount sufficient to pose 
+a potential for criticality, define a 
+criticality safety program that: 
+(i) Ensures that operations with fis-
+sionable material remain subcritical 
+under all normal and credible abnor-
+mal conditions; 
+(ii) Identifies applicable nuclear 
+criticality safety standards; and 
+(iii) Describes how the program 
+meets applicable nuclear criticality 
+safety standards. 
+§ 830.205 Technical safety require-
+ments. 
+(a) A contractor responsible for a 
+Hazard Category 1, 2, or 3 DOE nuclear 
+facility must: 
+(1) Develop technical safety require-
+ments that are derived from the docu-
+mented safety analysis; 
+(2) Prior to use, obtain DOE approval 
+of technical safety requirements and 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00534 Fmt 8010 Sfmt 8010 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 9 ---
+525 
+Department of Energy Pt. 830, Subpt. B, App. A 
+any change to technical safety require-
+ments; and 
+(3) Notify DOE of any violation of a 
+technical safety requirement. 
+(b) A contractor may take emergency 
+actions that depart from an approved 
+technical safety requirement when no 
+actions consistent with the technical 
+safety requirement are immediately 
+apparent, and when these actions are 
+needed to protect workers, the public 
+or the environment from imminent and 
+significant harm. Such actions must be 
+approved by a certified operator for a 
+reactor or by a person in authority as 
+designated in the technical safety re-
+quirements for nonreactor nuclear fa-
+cilities. The contractor must report 
+the emergency actions to DOE as soon 
+as practicable. 
+(c) A contractor for an environ-
+mental restoration activity may follow 
+the provisions of 29 CFR 1910.120 or 29 
+CFR 1926.65 to develop the appropriate 
+hazard controls (rather than the provi-
+sions for technical safety requirements 
+in paragraph (a) of this section), pro-
+vided the activity involves either: 
+(1) Work not done within a perma-
+nent structure, or 
+(2) The decommissioning of a facility 
+with only low-level residual fixed ra-
+dioactivity. 
+§ 830.206 Preliminary documented 
+safety analysis. 
+Prior to construction of a new Haz-
+ard Category 1, 2, or 3 DOE nuclear fa-
+cility or a major modification to an ex-
+isting Hazard Category 1, 2, or 3 DOE 
+nuclear facility, the contractor respon-
+sible for the design and construction of 
+the new facility or major modification 
+must: 
+(a) Prepare a preliminary docu-
+mented safety analysis for the facility, 
+and 
+(b) Obtain DOE approval of: 
+(1) The nuclear safety design criteria 
+to be used in preparing the preliminary 
+documented safety analysis unless the 
+contractor uses the design criteria in 
+DOE Order 420.1, Facility Safety, or suc-
+cessor document; and 
+(2) The preliminary documented safe-
+ty analysis before the contractor can 
+procure materials or components or 
+begin construction; provided that DOE 
+may authorize the contractor to per-
+form limited procurement and con-
+struction activities without approval 
+of a preliminary documented safety 
+analysis if DOE determines that the ac-
+tivities are not detrimental to public 
+health and safety and are in the best 
+interests of DOE. 
+§ 830.207 DOE approval of safety basis. 
+(a) With respect to a new Hazard Cat-
+egory 1, 2, or 3 DOE nuclear facility or 
+a major modification to an existing 
+Hazard Category 1, 2, or 3 DOE nuclear 
+facility, a contractor may not begin 
+operation of the facility or modifica-
+tion prior to the issuance of a safety 
+evaluation report in which DOE ap-
+proves the safety basis for the facility 
+or modification. 
+(b) Pending issuance of a safety eval-
+uation report in which DOE approves 
+an updated or amended safety basis for 
+an existing Hazard Category 1, 2, or 3 
+DOE nuclear facility, the contractor 
+responsible for the facility must con-
+tinue to perform work in accordance 
+with the DOE-approved safety basis for 
+the facility and maintain the existing 
+safety basis consistent with the re-
+quirements of this Subpart. 
+APPENDIX A TO SUBPART B TO PART 
+830—G ENERAL STATEMENT OF SAFE-
+TY BASIS POLICY 
+A. Introduction 
+This appendix describes DOE’s expecta-
+tions for the safety basis requirements of 10 
+CFR part 830, acceptable methods for imple-
+menting these requirements, and criteria 
+DOE will use to evaluate compliance with 
+these requirements. This appendix does not 
+create any new requirements and should be 
+used consistently with DOE’s policy that 
+work be conducted safely and efficiently and 
+in a manner that ensures protection of work-
+ers, the public, and the environment. 
+B. Purpose 
+1. The safety basis requirements of Part 830 
+require the contractor responsible for a DOE 
+nuclear facility to analyze the facility, the 
+work to be performed, and the associated 
+hazards and to identify the conditions, safe 
+boundaries, and hazard controls necessary to 
+protect workers, the public and the environ-
+ment from adverse consequences. These 
+analyses and hazard controls constitute the 
+safety basis upon which the contractor and 
+DOE rely to conclude that the facility can be 
+operated safely. Performing work consistent 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00535 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 10 ---
+526 
+10 CFR Ch. III (1–1–24 Edition) Pt. 830, Subpt. B, App. A 
+with the safety basis provides reasonable as-
+surance of adequate protection of workers, 
+the public, and the environment. 
+2. The safety basis requirements are in-
+tended to further the objective of making 
+safety an integral part of how work is per-
+formed throughout the DOE complex. Devel-
+oping a thorough understanding of a nuclear 
+facility, the work to be performed, the asso-
+ciated hazards and the needed hazard con-
+trols is essential to integrating safety into 
+management and work at all levels. Per-
+forming work in accordance with the safety 
+basis for a nuclear facility is the realization 
+of that objective. 
+C. Scope 
+1. A contractor must establish and main-
+tain a safety basis for a Hazard Category 1, 
+2, or 3 DOE nuclear facility because these fa-
+cilities have the potential for significant ra-
+diological consequences. DOE–STD–1027 sets 
+forth the methodology for categorizing a 
+DOE nuclear facility based on the inventory 
+of radioactive materials. 
+2. Unlike the quality assurance require-
+ments of Part 830 that apply to all DOE nu-
+clear facilities, the safety basis requirements 
+only apply to Hazard Category 1, 2, and 3 
+DOE nuclear facilities and do not apply to 
+nuclear facilities below Hazard Category 3. 
+D. Integrated Safety Management 
+1. The safety basis requirements are con-
+sistent with integrated safety management. 
+DOE expects that, if a contractor complies 
+with the Department of Energy Acquisition 
+Regulation (DEAR) clause on integration of 
+environment, safety, and health into work 
+planning and execution (48 CFR 970.5223–1, 
+Integration of Environment, Safety and Health 
+into Work Planning and Execution ) and the 
+DEAR clause on laws, regulations, and DOE 
+directives (48 CFR 970.5204–2, Laws, Regula-
+tions and DOE Directives), the contractor 
+will have established the foundation to meet 
+the safety basis requirements. 
+2. The processes embedded in a safety man-
+agement system should lead to a contractor 
+establishing adequate safety bases and safety 
+management programs that will meet the 
+safety basis requirements of this Subpart. 
+Consequently, the DOE expects if a con-
+tractor has adequately implemented inte-
+grated safety management, few additional 
+requirements will stem from this Subpart 
+and, in such cases, the existing safety basis 
+prepared in accordance with integrated safe-
+ty management provisions, including exist-
+ing DOE safety requirements in contracts, 
+should meet the requirements of this Sub-
+part. 
+3. DOE does not expect there to be any con-
+flict between contractual requirements and 
+regulatory requirements. In fact, DOE ex-
+pects that contract provisions will be used to 
+provide more detail on implementation of 
+safety basis requirements such as preparing 
+a documented safety analysis, developing 
+technical safety requirements, and imple-
+menting a USQ process. 
+E. Enforcement of Safety Basis Requirements 
+1. Enforcement of the safety basis require-
+ments will be performance oriented. That is, 
+DOE will focus its enforcement efforts on 
+whether a contractor operates a nuclear fa-
+cility consistent with the safety basis for the 
+facility and, in particular, whether work is 
+performed in accordance with the safety 
+basis. 
+2. As part of the approval process, DOE will 
+review the content and quality of the safety 
+basis documentation. DOE intends to use the 
+approval process to assess the adequacy of a 
+safety basis developed by a contractor to en-
+sure that workers, the public, and the envi-
+ronment are provided reasonable assurance 
+of adequate protection from identified haz-
+ards. Once approved by DOE, the safety basis 
+documentation will not be subject to regu-
+latory enforcement actions unless DOE de-
+termines that the information which sup-
+ports the documentation is not complete and 
+accurate in all material respects, as required 
+by 10 CFR 820.11. This is consistent with the 
+DOE enforcement provisions and policy in 10 
+CFR part 820. 
+3. DOE does not intend the adoption of the 
+safety basis requirements to affect the exist-
+ing quality assurance requirements or the 
+existing obligation of contractors to comply 
+with the quality assurance requirements. In 
+particular, in conjunction with the adoption 
+of the safety basis requirements, DOE re-
+vised the language in 10 CFR 830.122(e)(1) to 
+make clear that hazard controls are part of 
+the work processes to which a contractor 
+and other persons must adhere when per-
+forming work. This obligation to perform 
+work consistent with hazard controls adopt-
+ed to meet regulatory or contract require-
+ments existed prior to the adoption of the 
+safety basis requirements and is both con-
+sistent with and independent of the safety 
+basis requirements. 
+4. A documented safety analysis must ad-
+dress all hazards (that is, both radiological 
+and nonradiological hazards) and the con-
+trols necessary to provide adequate protec-
+tion to the public, workers, and the environ-
+ment from these hazards. Section 234A of the 
+Atomic Energy Act only authorizes DOE to 
+issue civil penalties for violations of require-
+ments related to nuclear safety. Therefore, 
+DOE will impose civil penalties for viola-
+tions of the safety basis requirements (in-
+cluding hazard controls) only if they are re-
+lated to nuclear safety. 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00536 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 11 ---
+527 
+Department of Energy Pt. 830, Subpt. B, App. A 
+F. Documented Safety Analysis 
+1. A documented safety analysis must dem-
+onstrate the extent to which a nuclear facil-
+ity can be operated safely with respect to 
+workers, the public, and the environment. 
+2. DOE expects a contractor to use a grad-
+ed approach to develop a documented safety 
+analysis and describe how the graded ap-
+proach was applied. The level of detail, anal-
+ysis, and documentation will reflect the 
+complexity and hazards associated with a 
+particular facility. Thus, the documented 
+safety analysis for a simple, low hazard facil-
+ity may be relatively short and qualitative 
+in nature, while the documented safety anal-
+ysis for a complex, high hazard facility may 
+be quite elaborate and more quantitative. 
+DOE will work with its contractors to ensure 
+a documented safety analysis is appropriate 
+for the facility for which it is being devel-
+oped. 
+3. Because DOE has ultimate responsibility 
+for the safety of its facilities, DOE will re-
+view each documented safety analysis: 
+(i) As part of the initial submittal; 
+(ii) When revisions are submitted as part of 
+a positive USQ determination or major 
+modification; 
+(iii) If DOE has reason to believe a portion 
+of the safety basis to be inadequate, or; 
+(iv) If DOE has reason to believe a portion 
+of the safety basis has substantially 
+changed. DOE will review the documented 
+safety analysis to determine whether the 
+rigor and detail of the documented safety 
+analysis are appropriate for the complexity 
+and hazards expected at the nuclear facility. 
+In particular, DOE will evaluate the docu-
+mented safety analysis by considering the 
+extent to which the documented safety anal-
+ysis: 
+(A) Satisfies the provisions of the method-
+ology used to prepare the documented safety 
+analysis and 
+(B) Adequately addresses the criteria set 
+forth in 10 CFR 830.204(b). DOE will prepare a 
+Safety Evaluation Report to document the 
+results of its review of the documented safe-
+ty analysis. A documented safety analysis 
+must contain any conditions or changes re-
+quired by DOE in the Safety Evaluation Re-
+port. Generally, DOE’s review of the annual 
+submittal may be limited to ensuring that 
+the results of USQs have been adequately in-
+corporated into the documented safety anal-
+ysis. If additional changes are proposed by 
+the contractor and included in the annual 
+update that have not been previously ap-
+proved by DOE or have not been evaluated as 
+a part of the USQ process, DOE must review 
+and approve these changes. DOE has the au-
+thority to review the safety basis at any 
+time. 
+4. In most cases, the contract will provide 
+the framework for specifying the method-
+ology and schedule for developing a docu-
+mented safety analysis. Table 1 sets forth ac-
+ceptable methodologies for preparing a docu-
+mented safety analysis. 
+TABLE 1 
+The contractor responsible for: May prepare its document safety analysis by: 
+(1) A DOE reactor ....................................... Using the method in U.S. Nuclear Regulatory Commission Regulatory Guide  1.70, 
+Standard Format and Content of Safety Analysis Reports for Nuclear Power 
+Plants, or successor document. 
+(2) A DOE nonreactor nuclear facility ......... Using the method in DOE–STD–3009, Change Notice No. 1, January 2000, Prepa-
+ration Guide for U.S. Department of Energy Nonreactor Nuclear Facility Safety 
+Analysis Reports, July 1994, or successor document. 
+(3) A DOE nuclear facility with a limited 
+operational life.
+Using the method in either: 
+(i) DOE–STD–3009–, Change Notice No. 1, January 2000, or successor docu-
+ment, or 
+(ii) DOE–STD–3011–94, Guidance for Preparation of DOE 5480.22 (TSR) and 
+DOE 5480.23 (SAR) Implementation Plans, November 1994, or successor 
+document. 
+(4) The deactivation or the transition sur-
+veillance and maintenance of a DOE nu-
+clear facility.
+Using the method in either: 
+(i) DOE–STD–3009, Change Notice No. 1, January 2000, or successor docu-
+ment, or 
+(ii) DOE–STD–3011–94 or successor document. 
+(5) The decommissioning of a DOE nu-
+clear facility.
+(i) Using the method in DOE–STD–1120–98, Integration of Environment, Safety, 
+and Health into Facility Disposition Activities, May 1998, or successor document; 
+(ii) Using the provisions in 29 CFR 1910.120 (or 29 CFR 1926.65 for construction 
+activities) for developing Safety and Health Programs, Work Plans, Health and 
+Safety Plans, and Emergency Response Plans to address public safety, as well 
+as worker safety; and 
+(iii) Deriving hazard controls based on the Safety and Health Programs, the Work 
+Plans, the Health and Safety Plans, and the Emergency Response Plans. 
+(6) A DOE environmental restoration activ-
+ity that involves either work not done 
+within a permanent structure or the de-
+commissioning of a facility with only low- 
+level residual fixed radioactivity.
+(i) Using the method in DOE–STD–1120–98 or successor document, and 
+(ii) Using the provisions in 29 CFR 1910.120 (or 29 CFR 1926.65 for construction 
+activities) for developing a Safety and Health Program and a site-specific Health 
+and Safety Plan (including elements for Emergency Response Plans, conduct of 
+operations, training and qualifications, and maintenance management). 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00537 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 12 ---
+528 
+10 CFR Ch. III (1–1–24 Edition) Pt. 830, Subpt. B, App. A 
+TABLE 1—Continued 
+The contractor responsible for: May prepare its document safety analysis by: 
+(7) A DOE nuclear explosive facility and 
+the nuclear explosive operations con-
+ducted therein.
+Developing its documented safety analysis in two pieces: 
+(i) A Safety Analysis Report for the nuclear facility that considers the generic 
+nuclear explosive operations and is prepared in accordance with DOE– 
+STD–3009, Change Notice No. 1, January 2000, or successor document, 
+and 
+(ii) A Hazard Analysis Report for the specific nuclear explosive operations pre-
+pared in accordance with DOE–STD–3016–99, Hazards Analysis Reports 
+for Nuclear Explosive Operations, February 1999, or successor document. 
+(8) A DOE Hazard Category 3 nonreactor 
+nuclear facility.
+Using the methods in Chapters 2, 3, 4, and 5 of DOE–STD–3009, Change Notice 
+No. 1, January 2000, or successor document to address in a simplified fashion: 
+(i) The basic description of the facility/activity and its operations, including 
+safety structures, systems, and components; 
+(ii) A qualitative hazards analysis; and 
+(iii) The hazard controls (consisting primarily of inventory limits and safety 
+management programs) and their bases. 
+(9) Transportation activities ......................... (i) Preparing a Safety Analysis Report for Packaging in accordance with D OE–O– 
+460.1A, Packaging and Transportation Safety, October 2, 1996, or successor 
+document and 
+(ii) Preparing a Transportation Safety Document in accordance with DOE–G– 
+460.1–1, Implementation Guide for Use with DOE O 460.1A, Packaging and 
+Transportation Safety, June 5, 1997, or successor document. 
+(10) Transportation and onsite transfer of 
+nuclear explosives, nuclear components, 
+Naval nuclear fuel elements, Category I 
+and Category II special nuclear mate-
+rials, special assemblies, and other ma-
+terials of national security.
+(i) Preparing a Safety Analysis Report for Packaging in accordance with DOE–O– 
+461.1, Packaging and Transportation of Materials of National Security Interest, 
+September 29, 2000, or successor document and 
+(ii) Preparing a Transportation Safety Document in accordance with DOE–M– 
+461.1–1, Packaging and Transfer of Materials of National Security Interest Man-
+ual, September 29, 2000, or successor document. 
+5. Table 1 refers to specific types of nuclear 
+facilities. These references are not intended 
+to constitute an exhaustive list of the spe-
+cific types of nuclear facilities. Part 830 de-
+fines nuclear facility broadly to include a re-
+actor or a nonreactor nuclear facility where 
+an activity is conducted for or on behalf of 
+DOE and includes any related area, struc-
+ture, facility, or activity to the extent nec-
+essary to ensure proper implementation of 
+the requirements established by this part. 
+The only exceptions are those facilities spe-
+cifically excluded such as accelerators. Table 
+2 defines the terms referenced in Table 1 that 
+are not defined in 10 CFR 830.3. 
+TABLE 2 
+For purposes of Table 1: Means: 
+(1) Deactivation ........................................... The process of placing a facility in a stable and known condition, i ncluding the re-
+moval of hazardous and radioactive materials. 
+(2) Decontamination .................................... The removal or reduction of residual radioactive and hazardous materials  by me-
+chanical, chemical, or other techniques to achieve a stated objective or end con-
+dition. 
+(3) Decommissioning .................................. Those actions taking place after deactivation of a nuclear facility to ret ire it from 
+service and includes surveillance and maintenance, decontamination, and/or dis-
+mantlement. 
+(4) Environmental restoration activities ....... The process by which contaminated sites and facilities are identified and charac ter-
+ized and by which existing contamination is contained, or removed and dis-
+posed. 
+(5) Generic nuclear explosive operation ..... A characterization that considers the collective attributes (such as special facili ty 
+system requirements, physical weapon characteristics, or quantities and chem-
+ical/physical forms of hazardous materials) for all projected nuclear explosive op-
+erations to be conducted at a facility. 
+(6) Nuclear explosive facility ....................... A nuclear facility at which nuclear operations and activities involving a nuclear ex-
+plosive may be conducted. 
+(7) Nuclear explosive operation .................. Any activity involving a nuclear explosive, including activities in which main -charge, 
+high-explosive parts and pits are collocated. 
+(8) Nuclear facility with a limited oper-
+ational life.
+A nuclear facility for which there is a short remaining operational period before 
+ending the facility’s mission and initiating deactivation and decommissioning and 
+for which there are no intended additional missions other than cleanup. 
+(9) Specific nuclear explosive operation ..... A specific nuclear explosive subjected to the stipulated steps of an individual op er-
+ation, such as assembly or disassembly. 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00538 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 13 ---
+529 
+Department of Energy Pt. 830, Subpt. B, App. A 
+TABLE 2—Continued 
+For purposes of Table 1: Means: 
+(10) Transition surveillance and mainte-
+nance activities.
+Activities conducted when a facility is not operating or during deactivation, decon-
+tamination, and decommissioning operations when surveillance and maintenance 
+are the predominant activities being conducted at the facility. These activities are 
+necessary for satisfactory containment of hazardous materials and protection of 
+workers, the public, and the environment. These activities include providing peri-
+odic inspections, maintenance of structures, systems, and components, and ac-
+tions to prevent the alteration of hazardous materials to an unsafe state. 
+6. The contractor responsible for the design 
+and construction of a new Hazard Category 1, 
+2, or 3 DOE nuclear facility or a major modi-
+fication to an existing Hazard Category 1, 2, 
+or 3 DOE nuclear facility must prepare a pre-
+liminary documented safety analysis. A pre-
+liminary documented safety analysis can en-
+sure that substantial costs and time are not 
+wasted in constructing a nuclear facility 
+that will not be acceptable to DOE. If a con-
+tractor is required to prepare a preliminary 
+documented safety analysis, the contractor 
+must obtain DOE approval of the prelimi-
+nary documented safety analysis prior to 
+procuring materials or components or begin-
+ning construction. DOE, however, may au-
+thorize the contractor to perform limited 
+procurement and construction activities 
+without approval of a preliminary docu-
+mented safety analysis if DOE determines 
+that the activities are not detrimental to 
+public health and safety and are in the best 
+interests of DOE. DOE Order 420.1, or suc-
+cessor document, sets forth acceptable nu-
+clear safety design criteria for use in pre-
+paring a preliminary documented safety 
+analysis. As a general matter, DOE does not 
+expect preliminary documented safety anal-
+yses to be needed for activities that do not 
+involve significant construction such as en-
+vironmental restoration activities, decon-
+tamination and decommissioning activities, 
+specific nuclear explosive operations, or 
+transition surveillance and maintenance ac-
+tivities. 
+G. Hazard Controls 
+1. Hazard controls are measures to elimi-
+nate, limit, or mitigate hazards to workers, 
+the public, or the environment. They in-
+clude: 
+(i) Physical, design, structural, and engi-
+neering features; 
+(ii) Safety structures, systems, and compo-
+nents; 
+(iii) Safety management programs; 
+(iv) Technical safety requirements; and 
+(v) Other controls necessary to provide 
+adequate protection from hazards. 
+2. The types and specific characteristics of 
+the safety management programs necessary 
+for a DOE nuclear facility will be dependent 
+on the complexity and hazards associated 
+with the nuclear facility and the work being 
+performed. In most cases, however, a con-
+tractor should consider safety management 
+programs covering topics such as quality as-
+surance, procedures, maintenance, personnel 
+training, conduct of operations, criticality 
+safety, emergency preparedness, fire protec-
+tion, waste management, and radiation pro-
+tection. In general, DOE Orders set forth 
+DOE’s expectations concerning specific top-
+ics. For example, DOE Order 420.1, or suc-
+cessor document provides DOE’s expecta-
+tions with respect to fire protection and 
+criticality safety. 
+3. Safety structures, systems, and compo-
+nents require formal definition of minimum 
+acceptable performance in the documented 
+safety analysis. This is accomplished by first 
+defining a safety function, then describing 
+the structure, systems, and components, 
+placing functional requirements on those 
+portions of the structures, systems, and com-
+ponents required for the safety function, and 
+identifying performance criteria that will 
+ensure functional requirements are met. 
+Technical safety requirements are developed 
+to ensure the operability of the safety struc-
+tures, systems, and components and define 
+actions to be taken if a safety structure, sys-
+tem, or component is not operable. 
+4. Technical safety requirements establish 
+limits, controls, and related actions nec-
+essary for the safe operation of a nuclear fa-
+cility. The exact form and contents of tech-
+nical safety requirements will depend on the 
+circumstances of a particular nuclear facil-
+ity as defined in the documented safety anal-
+ysis for the nuclear facility. As appropriate, 
+technical safety requirements may have sec-
+tions on: 
+(i) Safety limits; 
+(ii) Operating limits; 
+(iii) Surveillance requirements; 
+(iv) Administrative controls; 
+(v) Use and application; and 
+(vi) Design features. 
+It may also have an appendix on the bases 
+for the limits and requirements. DOE Guide 
+423.1–1B, Implementation Guide for Use in 
+Developing Technical Safety Requirements, 
+or successor document, provides a complete 
+description of what technical safety require-
+ments should contain and how they should 
+be developed and maintained. 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00539 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 14 ---
+530 
+10 CFR Ch. III (1–1–24 Edition) Pt. 830, Subpt. B, App. A 
+5. DOE will examine and approve the tech-
+nical safety requirements as part of pre-
+paring the safety evaluation report and re-
+viewing updates to the safety basis. As with 
+all hazard controls, technical safety require-
+ments must be kept current and reflect 
+changes in the facility, the work and the 
+hazards as they are analyzed in the docu-
+mented safety analysis. In addition, DOE ex-
+pects a contractor to maintain technical 
+safety requirements, and other hazard con-
+trols as appropriate, as controlled documents 
+with an authorized users list. 
+6. Table 3 sets forth DOE’s expectations 
+concerning acceptable technical safety re-
+quirements. 
+TABLE 3 
+As appropriate for a particular DOE 
+nuclear facility, the section of the technical 
+safety requirements on: 
+Will provide information on: 
+(1) Safety limits ........................................... The limits on process variables associated with those safety class physical bar-
+riers, generally passive, that are necessary for the intended facility function and 
+that are required to guard against the uncontrolled release of radioactive mate-
+rials. The safety limit section describes, as precisely as possible, the parameters 
+being limited, states the limit in measurable units (pressure, temperature, flow, 
+etc.), and indicates the applicability of the limit. The safety limit section also de-
+scribes the actions to be taken in the event that the safety limit is exceeded. 
+These actions should first place the facility in the safe, stable condition attain-
+able, including total shutdown (except where such action might reduce the mar-
+gin of safety) or should verify that the facility already is safe and stable and will 
+remain so. The technical safety requirement should state that the contractor 
+must obtain DOE authorization to restart the nuclear facility following a violation 
+of a safety limit. The safety limit section also establishes the steps and time lim-
+its to correct the out-of-specification condition. 
+(2) Operating limits ...................................... Those limits which are required to ensure the safe operation of a nuc lear facility. 
+The operating limits section may include subsections on limiting control settings 
+and limiting conditions for operation. 
+(3) Limiting control settings ......................... The settings on safety systems that control process variables to prevent exceeding 
+a safety limit. The limited control settings section normally contains the settings 
+for automatic alarms and for the automatic or non-automatic initiation of protec-
+tive actions related to those variables associated with the function of safety class 
+structures, systems, or components if the safety analysis shows that they are re-
+lied upon to mitigate or prevent an accident. The limited control settings section 
+also identifies the protective actions to be taken at the specific settings chosen in 
+order to correct a situation automatically or manually such that the related safety 
+limit is not exceeded. Protective actions may include maintaining the variables 
+within the requirements and repairing the automatic device promptly or shutting 
+down the affected part of the process and, if required, the entire facility. 
+(4) Limiting conditions for operations .......... The limits that represent the lowest functional capability or performance level  of 
+safety structures, systems, and components required to perform an activity safe-
+ly. The limiting conditions for operation section describes, as precisely as pos-
+sible, the lowest functional capability or performance level of equipment required 
+for continued safe operation of the facility. The limiting conditions for operation 
+section also states the action to be taken to address a condition not meeting the 
+limiting conditions for operation section. Normally this simply provides for the ad-
+verse condition being corrected in a certain time frame and for further action if 
+this is impossible. 
+(5) Surveillance requirements ..................... Requirements relating to test, calibration, or inspection to assure that the nec-
+essary operability and quality of safety structures, systems, and components is 
+maintained; that facility operation is within safety limits; and that limiting control 
+settings and limiting conditions for operation are met. If a required surveillance is 
+not successfully completed, the contractor is expected to assume the systems or 
+components involved are inoperable and take the actions defined by the tech-
+nical safety requirement until the systems or components can be shown to be 
+operable. If, however, a required surveillance is not performed within its required 
+frequency, the contractor is allowed to perform the surveillance within 24 hours 
+or the original frequency, whichever is smaller, and confirm operability. 
+(6) Administrative controls .......................... Organization and management, procedures, recordkeeping, assessment, and re -
+porting necessary to ensure safe operation of a facility consistent with the tech-
+nical safety requirement. In general, the administrative controls section address-
+es (i) the requirements associated with administrative controls (including those 
+for reporting violations of the technical safety requirement); (ii) the staffing re-
+quirements for facility positions important to safe conduct of the facility; and (iii) 
+the commitments to the safety management programs identified in the docu-
+mented safety analysis as necessary components of the safety basis for the fa-
+cility. 
+(7) Use and application provisions ............. The basic instructions for applying the safety restrictions contained in a techn ical 
+safety requirement. The use and application section includes definitions of terms, 
+operating modes, logical connectors, completion times, and frequency notations. 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00540 Fmt 8010 Sfmt 8002 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER
+
+--- page 15 ---
+531 
+Department of Energy Pt. 835 
+TABLE 3—Continued 
+As appropriate for a particular DOE 
+nuclear facility, the section of the technical 
+safety requirements on: 
+Will provide information on: 
+(8) Design features ..................................... Design features of the facility that, if altered or modified, would hav e a significant 
+effect on safe operation. 
+(9) Bases appendix ..................................... The reasons for the safety limits, operating limits, and associated surv eillance re-
+quirements in the technical safety requirements. The statements for each limit or 
+requirement shows how the numeric value, the condition, or the surveillance ful-
+fills the purpose derived from the safety documentation. The primary purpose for 
+describing the basis of each limit or requirement is to ensure that any future 
+changes to the limit or requirement is done with full knowledge of the original in-
+tent or purpose of the limit or requirement. 
+H. Unreviewed Safety Questions 
+1. The USQ process is an important tool to 
+evaluate whether changes affect the safety 
+basis. A contractor must use the USQ proc-
+ess to ensure that the safety basis for a DOE 
+nuclear facility is not undermined by 
+changes in the facility, the work performed, 
+the associated hazards, or other factors that 
+support the adequacy of the safety basis. 
+2. The USQ process permits a contractor to 
+make physical and procedural changes to a 
+nuclear facility and to conduct tests and ex-
+periments without prior approval, provided 
+these changes do not cause a USQ. The USQ 
+process provides a contractor with the flexi-
+bility needed to conduct day-to-day oper-
+ations by requiring only those changes and 
+tests with a potential to impact the safety 
+basis (and therefore the safety of the nuclear 
+facility) be approved by DOE. This allows 
+DOE to focus its review on those changes sig-
+nificant to safety. The USQ process helps 
+keep the safety basis current by ensuring ap-
+propriate review of and response to situa-
+tions that might adversely affect the safety 
+basis. 
+3. DOE Guide 424.1–1B Chg 2, Implementa-
+tion Guide for Use in Addressing Unreviewed 
+Safety Question Requirements, or successor 
+document provides DOE’s expectations for a 
+USQ process. The contractor must obtain 
+DOE approval of its procedure used to imple-
+ment the USQ process. The contractor is al-
+lowed to make editorial and format changes 
+to its USQ procedure while maintaining DOE 
+approval. 
+I. Functions and Responsibilities 
+1. The DOE Management Official for a DOE 
+nuclear facility (that is, the Assistant Sec-
+retary, the Assistant Administrator, or the 
+Office Director who is primarily responsible 
+for the management of the facility) has pri-
+mary responsibility within DOE for ensuring 
+that the safety basis for the facility is ade-
+quate and complies with the safety basis re-
+quirements of Part 830. The DOE Manage-
+ment Official is responsible for ensuring the 
+timely and proper— 
+(i) Review of all safety basis documents 
+submitted to DOE; and 
+(ii) Preparation of a safety evaluation re-
+port concerning the safety basis for a facil-
+ity. 
+2. DOE will maintain a public list on the 
+internet that provides the status of the safe-
+ty basis for each Hazard Category 1, 2, or 3 
+DOE nuclear facility and, to the extent prac-
+ticable, provides information on how to ob-
+tain a copy of the safety basis and related 
+documents for a facility. 
+PART 835—OCCUPATIONAL 
+RADIATION PROTECTION 
+Subpart A—General Provisions 
+Sec. 
+835.1 Scope. 
+835.2 Definitions. 
+835.3 General rule. 
+835.4 Radiological units. 
+Subpart B—Management and 
+Administrative Requirements 
+835.101 Radiation protection programs. 
+835.102 Internal audits. 
+835.103 Education, training and skills. 
+835.104 Written procedures. 
+Subpart C—Standards for Internal and 
+External Exposure 
+835.201 [Reserved] 
+835.202 Occupational dose limits for general 
+employees. 
+835.203 Combining internal and external 
+equivalent doses. 
+835.204 Planned special exposures. 
+835.205 Determination of compliance for 
+non-uniform exposure of the skin. 
+835.206 Limits for the embryo/fetus. 
+835.207 Occupational dose limits for minors. 
+835.208 Limits for members of the public en-
+tering a controlled area. 
+835.209 Concentrations of radioactive mate-
+rial in air. 
+VerDate Sep<11>2014 15:45 Mar 25, 2024 Jkt 262033 PO 00000 Frm 00541 Fmt 8010 Sfmt 8006 Q:\10\10V4.TXT PC31sfrattini on LAPCK6H6L3 with DISTILLER

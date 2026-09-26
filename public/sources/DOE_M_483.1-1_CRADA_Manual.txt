@@ -1,0 +1,2724 @@
+--- page 1 ---
+Approved: 1-12-01
+Sunset Review: 1-12-03
+Expiration: 1-12-05
+DOE COOPERATIVE
+RESEARCH AND DEVELOPMENT
+AGREEMENTS MANUAL
+U.S. DEPARTMENT OF ENERGY
+Office of Science and Technology Policy Analysis
+DISTRIBUTION: INITIATED BY:                 
+All Departmental Elements Office of Science and           
+ Technology Policy Analysis
+DOE M 483.1-1
+
+--- page 2 ---
+DOE M 483.1-1 i (and ii)
+1-12-01
+DOE COOPERATIVE RESEARCH
+AND DEVELOPMENT AGREEMENTS MANUAL
+1. PURPOSE .  This Manual provides detailed requirements to supplement DOE O 483.1,
+DOE COOPERATIVE RESEARCH AND DEVELOPMENT AGREEMENTS, dated 1-
+12-01, which establishes requirements for the performance of technology transfer through
+the use of Cooperative Research and Development Agreements (CRADAs).
+2. REFERENCE .  DOE O 483.1, DOE COOPERATIVE RESEARCH AND
+DEVELOPMENT AGREEMENTS, dated 1-12-01.
+3. CONTACT .  Questions concerning this Manual should be addressed to the Office of
+Science and Technology Policy Analysis at 202-586-3900.
+BY ORDER OF THE SECRETARY OF ENERGY:
+T.J. GLAUTHIER
+Deputy Secretary
+
+--- page 3 ---
+DOE M 483.1-1 iii (and iv)
+1-12-01
+CONTENTS
+Page
+1. INTRODUCTION ........................................................ 1
+2. DEFINITIONS ........................................................... 1
+3. JWS/CRADA PROCESS ................................................... 2
+4. TECHNOLOGY TRANSFER NOTIFICATIONS FOR 
+EXCEPTIONAL SITUATIONS.............................................. 2
+APPENDIXES
+A. JOINT WORK STATEMENT FORMAT....................................... 1
+B. DOE MODULAR COOPERATIVE RESEARCH AND DEVELOPMENT
+AGREEMENT............................................................ 1
+
+--- page 4 ---
+DOE M 483.1-1 1
+1-12-01
+DOE COOPERATIVE RESEARCH AND 
+DEVELOPMENT AGREEMENTS MANUAL
+1. INTRODUCTION.  The purpose of this Manual is to provide practical guidelines that will
+expedite the Cooperative Research and Development Agreement (CRADA) process.  The
+Manual provides detailed information on Department of Energy (DOE) approval requirements
+and processing guidelines.  This information has been developed to promote consistency among
+sites entering into CRADAs.
+2. DEFINITIONS.
+a. Amendment.  A change to a DOE-approved Joint Work Statement (JWS)/CRADA
+document.
+b. Funds-In.  Monies provided by a participant(s) to a DOE contractor for a CRADA
+project.
+c. In-Kind Contributions.  Noncash contributions provided by the participant or contractor. 
+In-kind contributions must include collaboration in the research and development efforts of
+the CRADA and may also include personal property (equipment and supplies), capital
+equipment, work to be performed at either party’s facilities, real property, or services that
+are directly beneficial, specifically identifiable, and necessary for performance of the
+project.  In-kind contributions generally do not include work performed prior to execution
+of the CRADA.
+d. Joint Work Statement.  A proposal prepared for a Federal agency by the director of a 
+Government-Owned, Contractor-Operated facility (or his/her delegate) describing the
+purpose, scope, schedule, and estimated cost of a proposed CRADA; assigning
+responsibilities among the agency, contractor, and any other party or parties to the
+proposed agreement; and, to the extent known, assigning rights among the various parties.
+3. JWS/CRADA PROCESS.  The JWS is intended to be the primary tool for ensuring that the
+contractor and DOE have a common understanding of the purpose, scope, schedule, and cost of
+work for a CRADA.  DOE’s approval of a JWS sets the parameters within which the contractor
+may negotiate the CRADA.  A JWS must be approved before a CRADA can be approved by
+DOE.
+The DOE field program manager will review the JWS for compliance with Federal and agency
+regulations and guidelines.  All issues and problems will be identified and resolved prior to
+approval.  Appendix A, Joint Work Statement Format, presents the DOE JWS format to be
+
+--- page 5 ---
+2 DOE M 483.1-1
+1-12-01
+used for all CRADAs.  This format is also to be used by contractors when developing multi-
+laboratory CRADAs.  The Statement of Work approved in the JWS will be made an attachment
+to the CRADA.  This JWS format may be supplemented by local field offices.
+The Modular CRADA (Appendix B, DOE Modular Cooperative Research and Development
+Agreement) contains the approved language to be used in a CRADA.  Once a CRADA has
+been approved, any amendment to the CRADA, other than a no-cost extension, requires DOE
+approval.  The mechanics for the approval of such an amendment shall be developed by the
+cognizant field office and should be consistent with this Manual. It is recognized that there are
+other models that have been developed through appropriate entities in DOE.  These include the
+Short Form CRADA and the USIC CRADA models.  If  there is any question as to the validity
+of other models, consult with the Assistant General Counsel for Technology Transfer and
+Intellectual Property.
+4. TECHNOLOGY TRANSFER NOTIFICATIONS FOR UNUSUAL CIRCUMSTANCES.
+a. Background.  DOE and its laboratory system are involved in large numbers of technology
+transfer activities.  Most proceed smoothly and significantly benefit the Department, the
+private sector, and the nation as a whole.  Some activities result in exceptional success,
+which DOE may want to promote.  Other activities involve unusual circumstances (real or
+perceived issues that can attract significant attention), which need to be communicated to
+higher levels in DOE management.
+b. Notification Process.  When concern arises about unusual circumstances in an existing or
+proposed CRADA activity, the operations/field office will notify the appropriate
+Secretarial Officers.  These include, if different, the Lead Program Secretarial Officer,
+Cognizant Secretarial Officer, and Program Secretarial Officer.  Members of the
+technology transfer working group can provide advice or guidance as to whether a
+particular concern should be reported to a Secretarial Officer.
+c. Notification Criteria.  Some notification criteria are specifically addressed in this Manual or
+imposed by other Orders.  
+(1) The following criteria are examples of situations that each have a well-defined
+notification or approval process in place which identifies when higher management
+must be notified.
+(a) Modular CRADA.  Deviation from the double-underlined language in the
+Modular CRADA standard terms, conditions, and options, and the related
+Modular CRADA guidance.
+
+--- page 6 ---
+DOE M 483.1-1 3
+1-12-01
+(b) Multi-laboratory CRADAs.  These require notification of the relevant field
+offices, which are responsible for ensuring coordination and resolution of any
+conflicting or varying terms or arrangements.
+(c) Sensitive technologies.  Projects related to sensitive technologies (as outlined
+in the Sensitive Subjects List available from the Nuclear Transfer and Supplier
+Policy Division, NN-43), nuclear applied technologies, or work involving
+export controlled information require the relevant approvals.
+(d) Human or animal subject involvement.  
+1 Human subject involvement.  If the laboratory holds an assurance of
+compliance with human subject regulations, it may approve such
+activities; however, the field office must be notified.  If the laboratory
+does not hold an assurance of compliance (either Department of Health
+and Human Services or DOE), the Office of Science must approve the
+activities.
+2 Animal subject involvement.  If the laboratory has an institutional animal
+care and use committee, it may approve such activities; however, the
+field office must be notified.  If the laboratory does not have an
+institutional animal care and use committee, it is not authorized to
+conduct research activities involving animals.
+(e) Environment, Safety and Health and National Environmental Policy Act. 
+Normal considerations are handled within the standard process.
+(2) For all other circumstances the judgment and experience of field office personnel is
+the primary determiner of when notification should occur.  DOE encourages early
+discussion among laboratories, field offices, and program offices to make this
+determination.  The following are examples of circumstances under which
+Headquarters notification might be appropriate based on field office judgment: 
+(a) foreign participation and issues; 
+(b) alternative benefits to U.S. manufacturing requirements having a potential for 
+significant impact on the U.S. economy;
+(c) size of activity and impact on the laboratory; 
+(d) large Funds-in from the partner;
+
+--- page 7 ---
+4 DOE M 483.1-1
+1-12-01
+(e) activities that may involve unique or unusual health, safety, or environmental
+issues or a significant real or perceived potential environmental impact; 
+(f) potential for major economic impact to the relevant industrial or commercial
+sector or for the appearance of inappropriate competition with the private
+sector; and
+(g) potential for significant political or media interest or significant public or
+private sector controversy.
+
+--- page 8 ---
+DOE M 483.1-1 Appendix A
+1-12-01 Page 1
+JOINT WORK STATEMENT
+JWS/CRADA #______
+A. Data Table
+1. Summary/OSTI Abstract
+_____________________________________________________________________
+_____________________________________________________________________
+_____________________________________________________________________
+2. Participant(s) Name and Address
+(NAME)
+(Mailing or Street Address)
+(City, State, Zip)
+(Telephone Number)
+(NAME)
+(City, State, Zip)
+(Telephone Number)
+3. Participant Type (check all that apply)
+Participant
+One
+Participant
+Two
+Foreign G G
+University G G
+Small Business G G
+Large Business G G
+State or Local
+Government
+G G
+Not-for-Profit G G
+National Laboratory G G
+{Project Title}
+{Submittal Date}
+
+--- page 9 ---
+Appendix A DOE M 483.1-1
+Page 2 1-12-01
+4. Funding Table
+Year 1 Year 2 Year 3
+Funding Type Funds-in *In-kind Funds-in *In-kind Funds-in *In-kind Totals
+Participant 1
+Participant 2
+Dept. of Energy
+Totals
+Federal Admin
+Charge if
+applicable
+*Note:  If applicable, the contractor has reviewed the participant(s) proposed in-kind
+contribution and based on G experience, G financial analysis, and/or G sound
+business judgment has determined the estimated in-kind contribution(s) is/are
+reasonable.
+5. Identify the DOE mission area (G Energy, G Environmental Quality, G Science, G National
+Security, G Other) that will benefit from this CRADA.  If other, please explain. 
+6. How does the proposed CRADA benefit DOE, Participant, and U.S. Taxpayer?
+(Some facilities require textual explanation; others provide a checklist for each
+stakeholder.  An example follows. ) 
+EXAMPLE: 
+DOE Benefit:  G Assists laboratory achieve programmatic scope, G adds new
+capability to the laboratory’s core competencies, G enhances the laboratory’s core
+competencies, G uses the laboratory’s core competencies, and/or G enhances U.S.
+competitiveness by utilizing DOE-developed intellectual property and/or capabilities.
+7. DOE Program Manager
+__________________________________________________
+Telephone No.
+_________________________________________________________
+8. B&R Code and/or FWP Number
+____________________________________________
+9. The Proposed CRADA will be based upon  G Modular CRADA,  G  Short Form
+CRADA, G Multilab CRADA, G USIC, G other
+(identify)________________________________.
+
+--- page 10 ---
+DOE M 483.1-1 Appendix A
+1-12-01 Page 3
+B. Special Considerations
+1. Background Intellectual Property (e.g., inventions or copyrightable software, etc.)?
+G Yes G No
+If yes, list (1)__________________________________________________________
+(2)___________________________________________________________
+(3)___________________________________________________________
+2. Is the company interested in licensing Background Intellectual Property?   G Yes   G No
+Please identify any known impediments for such licensing.________________________
+3. Are human or animal subjects involved in this project? G Yes G No
+(If yes, before the CRADA can be executed, approvals must be obtained from the Institutional
+Review Board or the Animal Care and Use Committee.)
+4. Have all necessary environmental, safety, health and quality (NEPA) reviews been satisfactorily
+completed?   G Yes G No (explain)
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+5. The laboratory is responsible for obtaining OCI Certificates and will maintain in the file the
+completed OCI Certificates for each employee with a substantial role in this CRADA.  Are there
+any organizational or personal conflict of interest issues associated with this CRADA?
+G Yes (explain) G No
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+6. Will export controlled and classified information be used or produced?G Yes G No
+If yes, identify.
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+7. How was Fairness of Opportunity determined?    G Participant approached laboratory
+G Participant responded to CBD   G Participant was contacted by laboratory after or during broad
+public announcement.  (Supporting documentation is to be maintained in CRADA file.)
+8. Did the Participant require any substantive/material changes to the laboratory-/field-approved
+modular CRADA and/or any changes to double-underlined language? G Yes G No
+If yes, attach copies of the proposed modified articles, and (if applicable) Participant’s U.S.
+Competitiveness worksheet/justification.  If requested by the Contracting Officer, the Contractor
+will provide justification for modified articles in writing.
+
+--- page 11 ---
+Appendix A DOE M 483.1-1
+Page 4 1-12-01
+9. Additional Notes:   If applicable, identify special considerations or comments.
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+If applicable, add approval signature blocks for DOE and the Contractor.
+
+--- page 12 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page i (and Page ii)
+DOE-APPROVED COOPERATIVE RESEARCH AND
+DEVELOPMENT AGREEMENT LANGUAGE AND GUIDANCE
+The Modular Cooperative Research and Development Agreement (CRADA) was developed to
+promote consistency throughout the Department of Energy (DOE).  The Modular CRADA presents
+DOE-approved language, approved optional language, and guidance for each article.
+
+--- page 13 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page iii
+CONTENTS
+Page
+Introduction................................................................... 1
+Negotiating and Approving CRADAs................................................ 2
+The Importance of Teamwork and Communication...................................... 3
+DOE-APPROVED CRADA LANGUAGE AND GUIDANCE
+TITLE OF CRADA............................................................. 5
+ARTICLE I:  DEFINITIONS ..................................................... 7
+ARTICLE II:  STATEMENT OF WORK........................................... 11
+ARTICLE III:  TERM, FUNDING AND COSTS..................................... 13
+ARTICLE IV:  PERSONAL PROPERTY........................................... 17
+ARTICLE V:  DISCLAIMER.................................................... 19
+ARTICLE VI:  PRODUCT LIABILITY............................................ 21
+ARTICLE VII:  OBLIGATIONS AS TO PROPRIETARY INFORMATION............... 25
+ARTICLE VIII:  OBLIGATIONS AS TO PROTECTED CRADA INFORMATION......... 29
+ARTICLE IX:  RIGHTS IN GENERATED INFORMATION........................... 33
+ARTICLE X:   EXPORT CONTROL.............................................. 35
+ARTICLE XI:  REPORTS AND ABSTRACTS...................................... 37
+ARTICLE XII:  PRE-PUBLICATION REVIEW..................................... 41
+ARTICLE XIII:  COPYRIGHTS.................................................. 43
+ARTICLE XIV:  REPORTING SUBJECT INVENTIONS.............................. 47
+ARTICLE XV:  TITLE TO SUBJECT INVENTIONS................................. 49
+ARTICLE XVI:  FILING PATENT APPLICATIONS................................. 53
+ARTICLE XVII:  TRADEMARKS................................................ 55
+ARTICLE XVIII:  MASK WORKS............................................... 57
+ARTICLE XIX:  COST OF INTELLECTUAL PROPERTY PROTECTION................ 59
+ARTICLE XX:  REPORTS OF INTELLECTUAL PROPERTY USE...................... 61
+ARTICLE XXI:  DOE MARCH-IN RIGHTS........................................ 63
+ARTICLE XXII:  U.S. COMPETITIVENESS....................................... 65
+ARTICLE XXIII:  ASSIGNMENT OF PERSONNEL................................. 69
+ARTICLE XXIV:  FORCE MAJEURE............................................. 71
+ARTICLE XXV:  ADMINISTRATION OF THE CRADA.............................. 73
+ARTICLE XXVI:  RECORDS AND ACCOUNTING FOR GOVERNMENT PROPERTY.... 75
+ARTICLE XXVII:  NOTICES ................................................... 77
+ARTICLE XXVIII:  DISPUTES ..................................................79
+ARTICLE XXIX:  ENTIRE CRADA AND MODIFICATIONS .......................... 81
+ARTICLE XXX:  TERMINATION ................................................ 83
+ARTICLE       :  PROJECT MANAGEMENT ....................................... 85
+
+--- page 14 ---
+Appendix B DOE M 483.1-1
+Page iv 1-12-01
+CONTENTS (continued)
+Page
+ARTICLE       :  ORDER OF PRECEDENCE........................................ 85
+ARTICLE       :  WAIVER....................................................... 86
+ARTICLE ___:  BACKGROUND INTELLECTUAL PROPERTY....................... 86
+Attachment 1: FOCI QUESTIONNAIRE FOR APPLICABLE COOPERATIVE
+RESEARCH AND DEVELOPMENT AGREEMENTS................... 87
+Attachment 2: U.S. COMPETITIVENESS WORK SHEET........................... 97
+Attachment 3: ABSTRACT FORMAT DESCRIPTION.............................. 99
+
+--- page 15 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 1
+Introduction
+This document, to be referred to as the Department of Energy (DOE) Modular Cooperative Research
+and Development Agreement (CRADA), is a compendium of provisions which may be drawn upon for
+crafting CRADAs.  It was developed to be responsive to the needs of different CRADA participants
+while protecting the interests of the Government and U.S. taxpayers.  The Modular CRADA is a tool
+to be used by DOE and its Government-Owned, Contractor-Operated laboratories (hereafter referred
+to as laboratories) to facilitate the negotiation, development, and timely approval of CRADAs.
+This Modular CRADA incorporates three types of provisions:
+1. Those few that are required by statute or policy, (set off by double underline) are strongly
+recommended for timely approval, and can only be changed with DOE Headquarters approval. 
+Changing double-underlined language or examples may delay the process.  Double-underlined
+language can be eliminated where it doesn’t apply.
+2. Those that sound judgment suggests have a valid basis for being included in the terms and
+conditions of the CRADA, consistent with the guidelines incorporated herein.  These can be
+modified in one of three ways:
+• by using the pre-approved options provided in the guidance;
+• by modifying the language without changing its substantive meaning; and
+• by negotiating the language that changes its substantive meaning, or even deleting the
+language with appropriate justification; in each of these two instances, operations or
+field office approval is required.
+3. Those that are left solely to the negotiations between the laboratory and the participants. 
+[Shown in brackets.]
+Through a spirit of teamwork and a policy of “no surprises,” this document should enable DOE and its
+laboratories to be responsive to a broad range of participant needs.  This approach is intended to
+convey the maximum flexibility in CRADA development, and in speed of negotiations and approval,
+while fostering consistency across DOE and its laboratories.
+In drafting a CRADA from the options provided in the Modular CRADA, the laboratory should be
+careful not to create internal conflicts within the agreement.  The draft CRADA should still follow the
+form (i.e., order of provisions) of the DOE Modular CRADA in order to facilitate operations or field
+office review and approval.
+
+--- page 16 ---
+Appendix B DOE M 483.1-1
+Page 2 1-12-01
+In this document, the format for presenting the various provisions of the CRADA will consist of:
+• a statement of the article, with language required by statute or policy double underlined;
+• a rationale for the article; and
+• pre-approved optional provisions for the article (set off inside a box).
+Example:
+Article 1 (Title)
+• Required provisions (if any)
+– rationale or basis for requirement
+• Pre-approved optional provisions (if any)
+– rationale/appropriate circumstances
+• Pre-approved optional provisions #2
+– rationale/appropriate circumstances
+• Bracketed provisions
+– rationale/explanation or  
+General Guidance
+Negotiating and Approving CRADAs
+By law and through prime contract provisions, the laboratories have been delegated the authority and
+responsibility for negotiating the CRADA, including a Statement of Work.  In exercising that authority,
+laboratories need to strike a balance between consistency and flexibility.  
+To the extent the negotiated CRADA uses language that does not deviate from the double-underlined
+provisions and uses the pre-approved optional provisions, the operations or field office review and
+approval of the CRADA will be faster.  
+Operations or field offices are the approval authority for Joint Work Statements (JWSs) and CRADAs. 
+To facilitate operations or field office review, laboratories should identify all deviations from the double-
+underlined provisions or pre-approved optional provisions when the CRADA is submitted for approval. 
+Laboratories should submit to the operations or field office two versions of the proposed
+CRADA—one in which all deviations from the Modular CRADA provisions are highlighted using
+“redline” and “strikeout” features, and one that is a “clean” version.  All deviations that are considered
+by the laboratories to be substantive should be supported by appropriate justification.  The field office
+may approve deletion of provisions including double-underlined provisions which are inapplicable to a
+particular CRADA.   DOE Headquarters must approve any deviation from the double-underlined
+provisions.  The operations or field office will transmit any proposed deviations from the double-
+underlined language and the reasons for the requested deviations to the DOE Office of the Assistant
+General Counsel for Technology Transfer and Intellectual Property.  That office will confer with the
+
+--- page 17 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 3 (and Page 4)
+appropriate elements in Headquarters to determine if the requested deviation is acceptable and will
+inform the operations or field office of the Headquarters determination.  Any deviations from the pre-
+approved optional provisions, except deviations from double-underlined language which must be
+approved by Headquarters, must be reviewed and approved by the operations or field office. 
+Approval of the changes from the pre-approved optional provisions, which the operations or field office
+agrees are nonsubstantive, may be reflected merely by approval of the CRADA.  For substantive
+changes, specific approval in the form of a notation on the “redline” version or other supporting
+documents will suffice.  Any operations or field office requests for the laboratory to modify the CRADA
+must comply with the requirements of 15 U.S.C. 3710a(c)(5)(C).
+While available for consultation to both the laboratory and the prospective participant, the operations or
+field office should refrain from becoming a third party to the negotiations.  Each operations or field
+office is encouraged to designate a single point of contact to facilitate its CRADA review and approval
+process.  Like operations or field offices, program offices and others should refrain from becoming a
+third party to the negotiations between the laboratory and the prospective participant.
+The Importance of Teamwork and Communication
+To use this document effectively, close cooperation and communication between the laboratory and
+DOE is essential.  Issues that can be foreseen as key issues, especially critical departures from pre-
+approved language, should be discussed as early in the development process as possible.  There should
+be a minimum of surprises.  The laboratory and DOE should be open to proposed changes from
+participants that could help the negotiation process and do not infringe upon the Government’s rights or
+laboratory policy.  When alternative language is clearly called for, it should be used.  One of the
+objectives of this document is to provide pre-approved alternative language for a variety of situations,
+as well as guidance and rationale for using that alternative language.
+The DOE Modular CRADA will be updated on a routine basis to incorporate new language and
+alternatives, based on input from the participants, laboratories, operations or field offices, and DOE
+programs.  Laboratory staff with proposed updates should contact their operations or field office;
+operations or field office staff with proposed updates should contact the DOE Office of the Assistant
+General Counsel for Technology Transfer and Intellectual Property.
+
+--- page 18 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 5 (and Page 6)
+TITLE OF CRADA
+LANGUAGE:
+STEVENSON-WYDLER (15 U.S.C. 3710)
+COOPERATIVE RESEARCH AND DEVELOPMENT 
+AGREEMENT (hereinafter “CRADA”) No.                           
+BETWEEN
+____________________
+under its U.S. Department of Energy Contract
+No. __________ (hereinafter “Contractor”)
+AND
+____________________ (hereinafter “Participant”),
+both being hereinafter jointly referred to as the “Parties.”
+GENERAL GUIDANCE:
+The CRADA number and names of the Parties to the CRADA must be included in the CRADA
+immediately preceding Article I, Definitions.
+
+--- page 19 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 7
+OPTION:
+E. “Proprietary Information” means information which is developed at private
+expense outside of this CRADA, is marked as Proprietary Information, and
+embodies (i) trade secrets or (ii) commercial or financial information which is
+privileged or confidential under the Freedom of Information Act (5 U.S.C. 552
+(b)(4)).
+GUIDANCE:  Alternative language, which may be used if desired.
+ARTICLE I:  DEFINITIONS
+LANGUAGE:
+A. “Government” means the Federal Government of the United States of America and
+agencies thereof.
+B. “DOE” means the Department of Energy, an agency of the Federal Government.
+C. “Contracting Officer” means the DOE employee administering the Contractor’s DOE
+contract.
+D. “Generated Information” means information produced in the performance of this
+CRADA.
+E. “Proprietary Information” means information which embodies (i) trade secrets or
+(ii) commercial or financial information which is privileged or confidential under the
+Freedom of Information Act (5 U.S.C. 552 (b)(4)), either of which is developed at private
+expense outside of this CRADA and which is marked as Proprietary Information.
+(based on 15 U.S.C. 3710a(c)(7)(A))
+F. “Protected CRADA Information” means Generated Information which is marked as
+being Protected CRADA Information by a Party to this CRADA and which would have
+been Proprietary Information had it been obtained from a non-Federal entity.
+(based on 15 U.S.C. 3710a(c)(7)(B))
+
+--- page 20 ---
+Appendix B DOE M 483.1-1
+Page 8 1-12-01
+OPTION:
+H. “Intellectual Property” means Patents, Copyrights, Trademarks, and Mask Works
+protected by Federal law and foreign counterparts, except trade secrets.
+GUIDANCE:  Alternative language, which may be used if desired.
+G. “Subject Invention” means any invention of the Contractor or Participant conceived or
+first actually reduced to practice in the performance of work under this CRADA.
+(based on 35 U.S.C. 201(e))
+H. “Intellectual Property” means Patents, Trademarks, Copyrights, Mask Works, Protected
+CRADA Information, and other forms of comparable property rights protected by
+Federal law and foreign counterparts, except trade secrets.
+I. “Trademark” means a distinctive mark, symbol, or emblem used in commerce by a
+producer or manufacturer to identify and distinguish its goods or services from those of
+others.
+J. “Service Mark” means a distinctive word, slogan, design, picture, symbol, or any
+combination thereof, used in commerce by a person to identify and distinguish its services
+from those of others.
+K. “Mask Work” means a series of related images, however fixed or encoded, having or
+representing the predetermined, three-dimensional pattern of metallic, insulating, or
+semiconductor material present or removed from the layers of a semiconductor chip
+product and in which series the relation of the images to one another is that each image
+has the pattern of the surface of one form of the semiconductor chip product. 
+(from 17 U.S.C. 901(a)(2)).
+L. “Background Intellectual Property” means the Intellectual Property identified by the
+Parties in Appendix __, Background Intellectual Property, which was in existence prior
+to or is first produced outside of this CRADA, except that in the case of inventions in
+those identified items, the inventions must have been conceived outside of this CRADA
+and not first actually reduced to practice under this CRADA to qualify as Background
+Intellectual Property.
+
+--- page 21 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 9
+[When the need for a foreign ownership, control, or influence (FOCI) review has been determined to
+exist and where Article X, Export Control, has been appropriately modified, the following definitions
+should be added:]
+M. “Foreign Interest” is defined as any of the following:
+(1)  A foreign government or foreign government agency;
+(2) Any form of business enterprise organized under the laws of any country other
+than the United States or its possessions;
+(3) Any form of business enterprise organized or incorporated under the laws of the
+United States, or a State or other jurisdiction within the United States, which is
+owned, controlled, or influenced by a foreign government, agency, firm,
+corporation or person; or
+(4) Any person who is not a U.S. citizen.
+N. “Foreign ownership, control, or influence (FOCI)” means the situation where the degree
+of ownership, control, or influence over a participant by a foreign interest is such that a
+reasonable basis exists for concluding that compromise of classified information or
+special nuclear material, as defined in 10 CFR Part 710, may result.
+GENERAL GUIDANCE:
+A definition section must include definitions for DOE Contracting Officer, DOE, Generated
+Information, Subject Invention, and any other terms that would be used in the CRADA.  If the
+CRADA is expected to involve Proprietary Information being furnished and/or Protected CRADA
+Information being generated, these definitions must be included.
+The definition for Background Intellectual Property may not be all-inclusive (e.g., pre-existing invention
+disclosures or unregistered copyrighted software).  It is essential that the existence of this additional
+Background Intellectual Property be brought to the attention of the other party before the CRADA is
+signed.  This can be done by either changing the definition or by using a separate article on Background
+Intellectual Property (see article on page 88) to recognize such Background Intellectual Property. 
+Additionally, it should be made clear either in an appendix listing Background Intellectual Property or in
+one of the separate articles on Background Intellectual Property, if used, that the only Background
+Intellectual Property that need be identified is that necessary to perform the CRADA or practice the
+results of the CRADA, as appropriate.
+If a defined term is not relevant for a particular CRADA, the definition may be deleted so long as the
+relevant provisions are appropriately modified (i.e., if the Statement of Work does not contemplate the
+
+--- page 22 ---
+Appendix B DOE M 483.1-1
+Page 10 1-12-01
+creation of mask works, Article XVIII should be reserved by so indicating in [brackets] and the
+definition of mask works should be deleted from the definition section.  This will avoid the need to
+renumber all of the articles after Article XVII.)  The parties may incorporate additional definitions into
+the CRADA.  An example of a common definition that may be needed is the following:
+• “CRADA” means a Cooperative Research and Development Agreement.
+
+--- page 23 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 11 (and Page 12)
+ARTICLE II:  STATEMENT OF WORK
+LANGUAGE:
+Appendix __, Statement of Work, is an integral part of this CRADA.
+OR
+The Statement of Work is attached as Appendix __.
+GENERAL GUIDANCE:
+The CRADA must include a Statement of Work.  The Statement of Work must include a technical
+description of the scope encompassed by the proposed CRADA, including tasks, the party responsible
+for the tasks, and a list of deliverables (reports, prototypes, etc.).  The Statement of Work should also
+include who the principal investigators for each party will be; who will provide what funds, personnel,
+services, and property; who will do what reporting on the work; and procedures for interaction
+between the parties to accomplish the Statement of Work, which is the objective of the CRADA.  Any
+Proprietary Information included in the Statement of Work should be clearly marked.  Proprietary
+Information must not be included in the Statement of Work unless the parties consider it absolutely
+necessary to define the work.  The name of the participant cannot be considered proprietary.
+
+--- page 24 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 13
+OPTION:
+A. The effective date of this CRADA shall be the latter date of (1) the date on which it
+is signed by the last of the Parties, (2) the date on which it is approved by DOE, or
+(3) the date on which the advance funding referred to in Article III.E is received by
+the Contractor.  The work to be performed under this CRADA shall be completed
+within _________ months/years from the effective date.
+GUIDANCE:  This option should be used for CRADAs which have funds to the Contractor
+from the participant.
+OPTION FOR 100% FUNDS-IN CRADAS:
+B. The Participant’s estimated contribution is $                 .  
+GUIDANCE:  Language which may be used for 100% funds-in CRADAs.
+ARTICLE III:  TERM, FUNDING AND COSTS
+LANGUAGE:
+A. The effective date of this CRADA shall be the latter date of (1) the date on which it is
+signed by the last of the Parties or (2) the date on which it is approved by DOE.  The
+work to be performed under this CRADA shall be completed within ____ months/years
+from the effective date.  
+B. The participant’s estimated contribution is $_____.  The Government’s estimated
+contribution, which is provided through the contractor’s contract with DOE, is $_____,
+subject to available funding.
+(based on 31 U.S.C. 1341(a)(1): Anti-Deficiency Act, as well as Departmental policy)
+C. Neither Party shall have an obligation to continue or complete performance of its work
+at a contribution in excess of its estimated contribution as contained in Article III.B,
+above, including any subsequent amendment.
+D. Each Party agrees to provide at least ___ days’ notice to the other Party if the actual
+cost to complete performance will exceed its estimated cost.
+
+--- page 25 ---
+Appendix B DOE M 483.1-1
+Page 14 1-12-01
+OPTION:  
+D. Notification to all Parties that actual costs will substantially exceed estimated costs
+shall be provided by any Party who makes such determination.  Such notification
+shall take place as soon as possible after making such determination, but not later
+than 30 days prior to termination based on such cause.  If the Parties mutually
+agree to continue the project, subject to Article XXIX  [ENTIRE CRADA AND
+MODIFICATIONS], the estimated cost shall be appropriately amended and the
+Parties shall agree on the share of each Party of such increase in estimated cost by
+duly executed amendments to this CRADA.
+GUIDANCE:  Alternative language, which may be used if desired.  This is a management tool
+to catch large deviations.  It is not intended that this option would come into play for minor
+deviations from estimated cost.
+OPTION 1:  Recommended provision to be used for most participants, where the work is
+greater than $25,000 and will last longer than 90 days.  Advance payments in this option are to
+be calculated on a 90-day basis.
+E. The Participant shall provide Contractor sufficient advance funds to maintain
+approximately a 90-day advance of funds during the entire period of work.  No
+work will begin before the receipt of a cash advance.  Failure of the Participant to
+provide the necessary advance funding is cause for termination of the CRADA.
+OPTION 2:  Where the participant’s contribution in direct funds to the contractor is $25,000 or
+less or where the work will be completed in 90 days or less:
+E. The Participant shall provide Contractor full funding prior to beginning work
+covered by those funds.
+[E. For CRADAs which include (non-Federal) funding on a funds-in basis, an advance
+payment provision will be negotiated consistent with current DOE policy.]
+The following examples represent a range of alternative advance payment provisions that can be used
+for paragraph E if necessary.  They are all consistent with current DOE policy on requiring advance
+payments, as elaborated in the DOE Acting Chief Financial Officer’s memorandum of August 4, 1992,
+“Guidance on Advance Funding Under Cooperative Research and Development Agreements
+(CRADAs).”  Some of these options are appropriate only for specific types of participants.
+
+--- page 26 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 15
+OPTION 3:  For small businesses that are unable to meet the 90-day advance payment
+requirement, the contractor may negotiate a shorter time period (applicable to Option 1 above).
+OPTION 4:  The contractor performing the work may elect to provide the advance funding
+from its award/management fees, royalties, or other non-Federal corporate funds.
+OPTION 5:  Recommended provision when it is not feasible for certain participants to provide
+a cash advance who cannot fulfill the advance payment requirements of Options 1 or 2 (only for
+a small or disadvantaged business currently not in a position to lose interest on advanced funds
+for an extended period of time).  Refer to the DOE Accounting Handbook, Chapter 13,
+paragraph 5b for appropriate instructions for accounting procedure for this option.
+E. Upon execution of this CRADA, the Participant shall have established an
+irrevocable trust or escrow account.  The balance in this account must be
+maintained at a level equivalent to approximately a 90-day advance of funds
+during the life of the CRADA.  Accrued costs and commitments of the Participant
+shall not exceed the balance in the trust or escrow account plus the payments
+received from the Participant.
+OPTION 6:  For State or local governments with a statute or other legal prohibition to
+advancing funds, no advance funding provision is required.  Refer to the DOE Accounting
+Handbook, Chapter 13, paragraph 5b for appropriate instructions for accounting procedures
+for this option.
+GENERAL GUIDANCE:
+In accordance with DOE O 483.1, DOE COOPERATIVE RESEARCH AND DEVELOPMENT
+AGREEMENTS, each CRADA must provide a benefit consistent with the program missions at the
+facility and the facility mission established by the Cognizant Secretarial Officer and must involve
+collaboration between the CRADA participant and the DOE laboratory.
+There must be a statement of funding for the CRADA, showing the estimated contributions of the
+parties.  The statement must clearly state that the Government’s estimated contribution is provided
+
+--- page 27 ---
+Appendix B DOE M 483.1-1
+Page 16 1-12-01
+through the contractor’s contract with DOE and is subject to available funding, except for 100% funds-
+in CRADAs, for which there is no Government contribution.  The statement may indicate that the
+participant’s contributions are also subject to availability of funds and should include provisions that
+describe the obligations of the parties relative to exceeding the estimated costs.  
+The statement of funding must include a provision addressing advance payment requirements whenever
+there are “funds-in” from the participant.  The contractor may not agree to waive advance payments
+unless the contractor is using its own funds (e.g., from royalties).  The contractor may, however,
+negotiate variations to the standard advance payment requirement for small businesses and others,
+consistent with DOE policy and financial guidance.  Several example clauses are provided above.
+The parties may also wish to set forth levels of commitment to the CRADA, in terms of full-time
+equivalent numbers of various staff and personnel classifications.
+Program officers and Cognizant Secretarial Officers may provide supplemental guidance on funding and
+other issues to the contractor and operations or field office to help avoid surprises and ensure effective
+coordination of CRADAs and management of multi-year resource requirements.  For example, there
+could be specific requirements to get either written approval from, or provide written notice to, the
+Cognizant Secretarial Officer and/or the appropriate program office for 100% funds-in CRADAs
+involving more than $1 million dollars total effort per year. 
+Under current DOE policy, funds previously obtained from Federal sources can be used to finance a
+non-Federal participant’s share of a project.  One of the purposes of CRADAs is to stimulate private
+investment in collaborations with laboratories.  It is important that the overall program be supported
+with significant private funds.  However, DOE generally is unconcerned if the funds for the participant’s
+share of a specific CRADA come ultimately from some other Federal program, so long as the decision
+process for obtaining those funds precedes the final CRADA negotiation and the obtaining of those
+funds complies with the rules of that process.  If the funds come from some other part of the
+Department, extra care must be taken to ensure that there is no real or apparent conflict of interest and
+that there is fairness of opportunity.
+Other contractual obligations of the participant with respect to the Government are not overridden by
+this CRADA.
+
+--- page 28 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 17 (and Page 18)
+OPTION 1:
+All tangible personal property produced or acquired under this CRADA (specifically
+excluding Intellectual Property rights, Background Intellectual Property, and
+Proprietary Information) shall become the property of the Participant or the
+Government, depending upon whose funds were used to obtain it.  Such property is
+identified in Appendix __, Statement of Work.  Personal property shall be disposed
+of as directed by the owner at the owner’s expense.  There shall not be any jointly
+funded property under this CRADA except by the mutual agreement of the Parties.
+GUIDANCE:  Alternative language, which may be used if desired.
+ARTICLE IV:  PERSONAL PROPERTY
+LANGUAGE:
+All tangible personal property produced or acquired under this CRADA shall become the
+property of the Participant or the Government, depending upon whose funds were used to obtain
+it.  Such property is identified in Appendix __, Statement of Work.  Personal property shall be
+disposed of as directed by the owner at the owner’s expense.  All jointly funded property shall be
+owned by the Government.
+GENERAL GUIDANCE:
+There must be agreement among the parties as to who will retain what tangible property, if any is to be
+obtained, acquired, produced, or modified in the course of the CRADA.  Remember that Government
+property disposal regulations pertain to any property in which Government money is involved.
+OPTION 2:
+Participant shall have title to any tangible personal property the Contractor produces
+or acquires using solely the Participant’s funds under this CRADA whose cost is greater
+than $5,000 (unless identified otherwise in Appendix __).  The Government shall have
+title to all other tangible personal property produced or acquired by the Contractor.
+GUIDANCE:  Alternative language, which may be used if desired.
+
+--- page 29 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 19 (and Page 20)
+OPTION:
+THE GOVERNMENT, THE PARTICIPANT, AND THE CONTRACTOR MAKE NO
+EXPRESS OR IMPLIED WARRANTY AS TO THE CONDITIONS OF THE
+RESEARCH OR ANY INTELLECTUAL PROPERTY, GENERATED
+INFORMATION, OR PRODUCT MADE OR DEVELOPED UNDER THIS CRADA,
+OR THE OWNERSHIP, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR
+PURPOSE OF THE RESEARCH OR RESULTING PRODUCT.  NEITHER THE
+GOVERNMENT, THE PARTICIPANT, NOR THE CONTRACTOR SHALL BE
+LIABLE FOR LOST PROFITS, LOST SAVINGS, SPECIAL, CONSEQUENTIAL,
+INCIDENTAL, OR OTHER INDIRECT DAMAGES, EVEN IF SUCH PARTY IS
+MADE AWARE OF THE POSSIBILITY THEREOF.
+GUIDANCE:  Alternative language, which may be used as desired.  Adds in lost profits and
+savings and provides that the parties are not liable for special, consequential, incidental, or other
+indirect damages, even if they are made aware of the possibility of such damages. 
+ARTICLE V:  DISCLAIMER
+LANGUAGE:
+THE GOVERNMENT, THE PARTICIPANT, AND THE CONTRACTOR MAKE NO EXPRESS
+OR IMPLIED WARRANTY AS TO THE CONDITIONS OF THE RESEARCH OR ANY
+INTELLECTUAL PROPERTY, GENERATED INFORMATION, OR PRODUCT MADE OR
+DEVELOPED UNDER THIS CRADA, OR THE OWNERSHIP, MERCHANTABILITY, OR
+FITNESS FOR A PARTICULAR PURPOSE OF THE RESEARCH OR RESULTING PRODUCT. 
+NEITHER THE GOVERNMENT, THE PARTICIPANT, NOR THE CONTRACTOR SHALL BE
+LIABLE FOR SPECIAL, CONSEQUENTIAL, OR INCIDENTAL DAMAGES ATTRIBUTED TO
+SUCH RESEARCH OR RESULTING PRODUCT, INTELLECTUAL PROPERTY, GENERATED
+INFORMATION, OR PRODUCT MADE OR DEVELOPED UNDER THIS CRADA.
+GENERAL GUIDANCE:
+There must be a disclaimer of express or implied warranties as to the conduct of the research.  This
+statement should be in the form of a Uniform Commercial Code (UCC)-type disclaimer, which should
+be conspicuous in the CRADA so as to meet the standards of due notice to the parties.  One way to do
+this is to use bold type, all capital letters, or to have an especially large type font specifying the
+disclaimer.
+
+--- page 30 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 21
+OPTION 1:  Use Of Hold Harmless Provision
+As an option to using the above language for product liability, a hold harmless provision may be
+substituted therefor, such as the following: 
+Except for any liability resulting from any negligent acts or omissions of the
+Contractor, the Participant agrees to hold harmless the Government and the
+Contractor for all damages, costs, and expenses, including attorney’s fees, arising
+from personal injury or property damage occurring as a result of the making, using,
+or selling of a product, process, or service by or on behalf of the Participant, its
+assignees, or licensees, which was derived from the work performed under this
+CRADA.
+ARTICLE VI:  PRODUCT LIABILITY
+LANGUAGE:
+Except for any liability resulting from any negligent acts or omissions of the Contractor,
+the Participant indemnifies the Government and the Contractor for all damages, costs,
+and expenses, including attorney’s fees, arising from personal injury or property damage
+occurring as a result of the making, using, or selling of a product, process, or service by
+or on behalf of the Participant, its assignees, or licensees, which was derived from the
+work performed under this CRADA.  In respect to this article, neither the Government
+nor the Contractor shall be considered assignees or licensees of the Participant, as a
+result of reserved Government and Contractor rights.  The indemnity set forth in this
+paragraph shall apply only if the Participant shall have been informed as soon and as
+completely as practical by the Contractor and/or the Government of the action alleging
+such claim and shall have been given an opportunity, to the maximum extent afforded by
+applicable laws, rules, or regulations, to participate in and control its defense, and the
+Contractor and/or the Government shall have provided all reasonably available
+information and reasonable assistance requested by the Participant.  No settlement for
+which the Participant would be responsible shall be made without the Participant’s
+consent unless required by final decree of a court of competent jurisdiction.
+
+--- page 31 ---
+Appendix B DOE M 483.1-1
+Page 22 1-12-01
+OPTION 2:  States and State Agencies 
+When the CRADA involves a State, a State Agency, a State college or university, or a political
+subdivision of a State or an agency thereof, and such entity is limited by law from assuming all
+such indemnification obligations, the product liability article may begin with:
+To the extent permitted by {name of State} State law and except for any liability
+resulting from any negligent acts or omissions . . .
+As an alternative to these examples, a “hold harmless” or “disclaimer” may also be used.
+When any of these provisions under Option 2 are incorporated into a CRADA, product liability
+indemnification by third parties must be provided using the following Option 3, appropriately
+modified to reflect the correct parties in interest.
+OPTION 3:  ADDITIONAL CLAUSE:  Indemnification by Third Party 
+When the contractor retains rights to license or otherwise transfer technology arising under a
+CRADA, the contractor may agree to flow down to its licensees or transferees indemnification
+of the participant from product liability, such as with the following additional clause:
+For licenses granted or assignments made by the Contractor to any third party in
+Intellectual Property derived from Generated Information, such licenses shall
+include the requirement that the third party shall indemnify the Government,
+Contractor, and Participant for all damages, costs, and expenses, including
+attorneys’ fees, arising from personal injury or property damage occurring as a
+result of the making, using, or selling of a product, process, or service by or on
+behalf of such third party, its assignees, or licensees, provided, however, such third
+parties shall not be required to indemnify the Participant for any negligent acts or
+omissions of the Participant.
+
+--- page 32 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 23
+OPTION 4:  Purchase of Product Liability Insurance
+The participant or the contractor may agree to purchase and maintain adequate product liability
+insurance to protect the Government and the contractor against product liability claims.  Product
+liability insurance is appropriate for CRADAs when there is a high risk of personal injury or
+property damage from using the product, process, or service derived from work performed
+under the CRADA.  An example of a suitable provision is:
+The   (Participant, Contractor, or Parties)   agree to obtain and maintain
+product liability insurance in the amount of $________  during the life of this
+agreement and subsequently for the life of any products, processes, or
+services resulting from work under the agreement.  The Government and the
+Contractor shall be covered against any claims for product liability as a
+result of this insurance.  A copy of this product liability insurance policy shall
+be provided to both the Government and the Contractor, including any
+material modifications thereto, including any notices of termination.
+The cost for this insurance shall not be charged directly or indirectly to the Government.
+OPTION 5:  Participant Defends
+Participant agrees to indemnify the Government and defend the Contractor against
+any claim or proceeding and pay all damages, costs, and expenses, including
+attorney’s fees, arising from personal injury or property damage occurring as a
+result of the making, using, or selling of a product, process, or service by or on
+behalf of the Participant, its assignees, or licensees, which was derived from the
+work performed under this CRADA.  In respect to this article, neither the
+Government nor the Contractor shall be considered assignees or licensees of the
+Participant.  The agreement set forth in this paragraph shall apply only if the
+Participant shall have been informed as soon and as completely as practical by the
+Contractor and/or the Government of the action alleging such claim and shall have
+been given an opportunity, to the maximum extent afforded by applicable laws,
+rules, or regulations, to participate in and control its defense, and the Contractor
+and/or the Government shall have provided all reasonable assistance requested by
+the Participant.  No settlement of an action against the Contractor and/or the
+Government for which the Participant would be responsible hereunder shall be
+made without the consent of the Participant and of the Contractor and the
+Government (whichever or both of the latter two parties is involved), unless
+required by final decree of a court of competent jurisdiction.
+
+--- page 33 ---
+Appendix B DOE M 483.1-1
+Page 24 1-12-01
+GENERAL GUIDANCE:
+If the results of the research covered by the CRADA are restricted in any way for the purpose of
+commercialization (such as through patents, copyrights, or Protected CRADA Information), or if there
+is a specific, identifiable laboratory technology being transferred, there must be a provision that
+indemnifies the contractor and the Government from all costs related to personal injury and property
+damage that may result from the participant’s commercialization and use of a product, process, or
+service.  The protection should usually take the form of the above provision on product liability.  
+Special situations may provide for deletion of the language of the above product liability provision from
+the CRADA or may justify the use of some other provision in its place.  The following are examples of
+special situations for which a product liability provision is not required: 
+(a) When the results will be a product, process, or service unlikely to be commercialized (e.g.,
+activity is limited to technical assistance), circumstances must be such that they justify the
+exclusion of the product liability indemnity provision from the agreement.  Such determinations
+will be made on a case-by-case basis and will be supported by facts indicating there is little or
+no potential risk of liability to the Government or the contractor.  The authority to make these
+determinations shall reside with the laboratory director.  
+(b) When the results are to be placed totally in the public domain (i.e., no Protected CRADA
+Information or Intellectual Property) and accompanied by a DOE-approved disclaimer; if the
+purpose of the agreement is to provide information which is intended to be placed in the public
+domain with an appropriate disclaimer provision, a product liability provision need not be used.
+In the event either of the above paragraphs (a) or (b) apply, this article should be [Reserved].
+
+--- page 34 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 25
+OPTION:
+A. Each Party agrees not to disclose Proprietary Information provided by another
+Party to anyone other than the CRADA Participant and Contractor without written
+approval of the providing Party, except to Government employees who are subject
+to 18 U.S.C. 1905.  To the extent that any Generated Information discloses or
+duplicates Proprietary Information, such Generated Information shall be marked
+and treated as Proprietary Information.
+Disclosures of Proprietary Information to DOE employees shall occur only onsite at
+the Contractor’s facilities unless mutually agreed upon by the Parties.  The
+Contractor and DOE shall limit their respective internal disclosure of Proprietary
+Information to those employees or agents having a need to know such information.   
+GUIDANCE:  Alternative language, which may be used if desired.
+ARTICLE VII:  OBLIGATIONS AS TO
+PROPRIETARY INFORMATION
+LANGUAGE:
+A. Each Party agrees to not disclose Proprietary Information provided by another Party to
+anyone other than the CRADA Participant and Contractor without written approval of
+the providing Party, except to Government employees who are subject to the statutory
+provisions against disclosure of confidential information set forth in the Trade Secrets
+Act (18 U.S.C. 1905).  
+(based on a DOE policy that its employees not sign nondisclosure agreements, based on the provisions
+of the above-cited criminal statute)
+B. If Proprietary Information is orally disclosed to a Party, it shall be identified as such,
+orally, at the time of disclosure and confirmed in a written summary thereof,
+appropriately marked by the disclosing Party, within            days as being Proprietary
+Information.
+C. All Proprietary Information shall be returned to the provider thereof at the conclusion of
+this CRADA at the provider’s expense.
+
+--- page 35 ---
+Appendix B DOE M 483.1-1
+Page 26 1-12-01
+OPTION:
+C. Proprietary Information in tangible form shall be returned to the disclosing Party or
+destroyed with a certificate of destruction submitted to the disclosing Party upon
+termination or expiration of this CRADA, or during the term of this CRADA upon
+request by the disclosing Party.
+GUIDANCE:  Alternative language, which may be used if desired.
+OPTION:
+D. All information marked as Proprietary Information shall be protected by the
+recipient as Proprietary Information for a period of _____ years from the effective
+date of this CRADA, unless, as shown by the recipient, such Proprietary
+Information becomes publicly known without the fault of the recipient, comes into
+recipient’s possession from a third party without an obligation of confidentiality on
+the recipient, is independently developed by recipient’s employees who did not
+have access to such Proprietary Information, is released by the disclosing Party to
+a third party without restriction, or is released for disclosure with the written
+consent of the disclosing Party.
+GUIDANCE:  Alternative language, which may be used, if desired.
+D. All Proprietary Information shall be protected for a period of _____ years from the
+effective date of this CRADA, unless such Proprietary Information becomes publicly
+known without the fault of the recipient, shall come into recipient’s possession without
+breach by the recipient of any of the obligations set forth herein, or is independently
+developed by recipient’s employees who did not have access to such Proprietary
+Information.
+The following paragraph may be included in this article, if desired.
+E. In no case shall the Contractor provide Proprietary Information of the Participant to any
+person or entity for commercial purposes, unless otherwise agreed to in writing by such
+Participant. 
+GENERAL GUIDANCE:
+
+--- page 36 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 27 (and Page 28)
+If Proprietary Information will be involved in the CRADA, a definition along the lines of the Freedom of
+Information Act (5 U.S.C. 552) and Stevenson-Wydler statute (15 U.S.C. 3710 a(c)(7)(A)) must be
+included in Article I, Definitions, of the CRADA, clearly indicating that Proprietary Information is
+“information embodying trade secrets developed outside the CRADA at private expense.”  The
+contractor cannot negotiate away the right of a Government employee subject to 18 U.S.C. 1905 to
+see CRADA-related Proprietary Information.  The contractor should seek additional rights to
+Proprietary Information at the DOE laboratory where program needs require rights greater than those
+prescribed in the CRADA clauses (i.e., including limiting the period in which Proprietary Information is
+maintained as proprietary when such information is retained by the contractor).
+The obligations of the parties with regard to Proprietary Information should require that all such
+materials be sufficiently identified and marked such that the personnel involved in the project will have
+no trouble understanding what materials are to be protected.  The parties should stipulate whether the
+contractor will return such materials, destroy them, or keep them at the end of work on the CRADA. 
+If information could not be protected as a valid trade secret, or commercial or financial information, it
+should not be protected under the CRADA.  
+If the parties will be using software, biological materials, specimen materials, equipment, or other
+tangible personal property which a party wants to protect as proprietary, such items should be included
+in the definition of Proprietary Information to ensure such protection.  Additional materials can be found
+at 48 CFR 927.400.
+Parties may wish to return Proprietary Information before the conclusion of the CRADA, when such
+information is no longer needed for CRADA work.
+
+--- page 37 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 29
+ARTICLE VIII:  OBLIGATIONS AS TO PROTECTED
+CRADA INFORMATION
+LANGUAGE:
+A. Each Party may designate as Protected CRADA Information any Generated Information
+produced by its employees which meets the definition of Article I.F and, with the
+agreement of the other Party, so designate any Generated Information  produced by the
+other Party’s employees which meets the definition of Article I.F.  All such designated
+Protected CRADA Information shall be appropriately marked.
+B. For a period of _____ [not to exceed  5 years] from the date Protected CRADA
+Information is produced, the Parties agree not to further disclose such information
+except: 
+(1) as necessary to perform this CRADA;
+(2) as provided in Article XI [REPORTS AND ABSTRACTS];
+(3) as requested by the DOE Contracting Officer to be provided to other DOE
+facilities for use only at those DOE facilities with the same protection in place;
+(4) to existing or potential licensees, affiliates, customers, or suppliers of the Parties
+in support of commercialization of the technology with the same protection in
+place.  Disclosure of the Participant’s Protected CRADA Information under this
+subparagraph shall only be done with the Participant’s consent; or
+(5) as mutually agreed by the Parties in advance.
+GUIDANCE:  Any delivery to DOE of Protected CRADA Information will be to implement the
+following policy:
+(1) Ensure that anticipated DOE mission benefit is received from CRADAs;
+(2) avoid duplication of expense and effort;
+(3) help to advance technology; and
+(4) enable DOE to meet statutory requirements to disseminate information after the expiration of
+the withholding period.
+
+--- page 38 ---
+Appendix B DOE M 483.1-1
+Page 30 1-12-01
+OPTION 1:
+B. For a period of _____ [not to exceed 5 years] from the date Protected CRADA
+Information is produced, pursuant to 15 U.S.C. 3710 a(c)(7)(B), the Parties agree
+not to further disclose such information and to use the same degree of care and
+discretion, but no less than reasonable care and discretion, to avoid disclosure,
+publication or dissemination of such information to a third party, as the Party
+employs for similar protection of its own information which it does not desire to
+disclose, publish, or disseminate except:
+1. as necessary to perform this CRADA;
+2. as provided in Article XI [REPORTS AND ABSTRACTS];
+3. as requested by the DOE Contracting Officer to be provided to other DOE
+facilities solely for Government use only at those DOE facilities with the same
+protection in place; 
+4. to existing or potential licensees, affiliates, customers, or suppliers of the
+Parties in support of commercialization of the technology with the same
+protection in place.  Disclosure of Participant’s Protected CRADA
+Information under this subparagraph shall only be done with the
+Participant’s consent; or
+5. as mutually agreed by the Parties in advance.
+GUIDANCE: Alternative language, which may be used if desired.
+
+--- page 39 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 31
+OPTION 2:
+B. For a period of _____ [not to exceed 5 years] from the date Protected CRADA
+Information is produced, pursuant to 15 U.S.C. 3710 a(c)(7)(B), the Parties agree
+not to further disclose such information and to use the same degree of care and
+discretion, but no less than reasonable care and discretion, to avoid disclosure,
+publication, or dissemination of such information to a third party, as the Party
+employs for similar protection of its own information which it does not desire to
+disclose, publish, or disseminate except:
+1. as necessary to perform this CRADA;
+2. as provided in Article XI; [REPORTS AND ABSTRACTS];
+3. other than as provided in Article XI, as requested by the DOE Contracting
+Officer to be provided to other DOE facilities for use only at those facilities
+with the same protection in place;
+4. to existing or potential licensees, affiliates, customers, or suppliers of the
+Parties in support of commercialization of the technology with the same
+protection in place.  Disclosure of Participant’s Protected CRADA
+Information under this subparagraph shall only be done with Participant’s
+consent; or
+5. as mutually agreed by the Parties in advance.
+GUIDANCE:  Alternative language, which may be used if desired.
+C. The obligations of paragraph B above shall end sooner for any Protected CRADA
+Information which shall become publicly known without fault of either Party, shall come
+into a Party’s possession without breach by that Party of the obligations of paragraph B
+above, or shall be independently developed by a Party’s employees who did not have
+access to the Protected CRADA Information.
+
+--- page 40 ---
+Appendix B DOE M 483.1-1
+Page 32 1-12-01
+OPTION:
+C. The obligations of paragraph B, above, shall end sooner for any Protected CRADA
+Information which shall become publicly known without fault of either Party, shall be
+independently developed outside of the CRADA by a Party’s employees who did not
+have access to the Protected CRADA Information, or is disclosed through a product
+released by the Participant.  If recipient receives any information independently
+developed by a third party without any obligation of confidentiality which is similar
+to Protected CRADA Information, disclosure by recipient of such third party
+information shall not be a breach of this CRADA.
+GUIDANCE:  Alternative language, which may be used if desired.
+GENERAL GUIDANCE:
+If the parties desire, provisions for Protected CRADA Information can also be included with the normal
+marking requirements and exceptions.  The contractor cannot negotiate away DOE’s right to share
+Protected CRADA Information with other DOE facilities having the same protection in place without
+the approval of the DOE operations or field office responsible for the CRADA.  Article VIII.B of the
+DOE Modular CRADA or comparable language must be included in the CRADA.
+The parties should negotiate the respective responsibilities for marking Generated Information that
+meets the definition of Protected CRADA Information and the obligations that will attach to such
+information.  To avoid losing the ability to mark Generated Information as Protected CRADA
+Information, the determination as to which Generated Information is to be marked as Protected
+CRADA Information should be made when the Generated Information is produced, not at the end of
+the CRADA.  The parties shall embody the rights and obligations in an appropriate legend.  The DOE
+Modular CRADA language allows each party to mark its own Generated Information and Generated
+Information of the other party with its agreement.  The parties should address the issue of further
+dissemination of Protected CRADA Information within the DOE community.  The wording of the
+definition for Protected CRADA Information should be along the lines of the Stevenson-Wydler statute
+(15 U.S.C. 3710a(c)(7)(B)) and placed in the Definitions article to support the substantive clause on
+protecting this material.  The CRADA must include a requirement that designated Protected CRADA
+Information be appropriately marked.
+Generated Information that is marked Protected CRADA Information cannot be protected for more
+than 5 years from the date it is produced.  The parties should negotiate the term for which it will be
+protected and the nature of the obligations of the parties with regard to such Protected CRADA
+Information.  If no protection is needed or when protection is no longer permitted, the parties should
+resolve to quickly publish the Generated Information.
+
+--- page 41 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 33 (and Page 34)
+OPTION:
+The Parties and the Government shall have unlimited rights in all Generated
+Information produced or provided by a Party under this CRADA, except for
+information which is:  (a) disclosed in a Subject Invention disclosure being
+considered for Patent protection, (b) protected as a Mask Work, or (c) marked as
+being Copyrighted or as Protected CRADA Information or as Proprietary
+Information.
+GUIDANCE:  Alternative language, which may be used if desired.
+ARTICLE IX:  RIGHTS IN GENERATED INFORMATION
+LANGUAGE:
+The Parties agree that they shall have no obligations of nondisclosure or limitations on their use
+of, and the Government shall have unlimited rights in, all Generated Information produced and
+information provided by the Parties under this CRADA, except for (a) information which is
+marked as being Copyrighted (subject to Article XIII) or as Protected CRADA Information
+(subject to Article VIII B) or as Proprietary Information (subject to Article VII B), or
+(b) information that discloses an invention which may later be the subject of a U.S. or foreign
+Patent application.
+GENERAL GUIDANCE:
+There should be a provision recognizing the Government’s unlimited rights in Generated Information,
+except as otherwise restricted.
+
+--- page 42 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 35 (and Page 36)
+ARTICLE X:  EXPORT CONTROL
+LANGUAGE:
+A. THE PARTIES UNDERSTAND THAT MATERIALS AND INFORMATION RESULTING
+FROM THE PERFORMANCE OF THIS CRADA MAY BE SUBJECT TO EXPORT
+CONTROL LAWS AND THAT EACH PARTY IS RESPONSIBLE FOR ITS OWN
+COMPLIANCE WITH SUCH LAWS.
+The following approved language was developed to address foreign ownership, control, or 
+influence issues with respect to the Partner.  It should only be used for those CRADAs involving access
+to classified information, access to special nuclear materials, or unescorted access to security areas of
+Departmental facilities.  If it is not used, then there is only one paragraph, pertaining to export control,
+and the designator “A” may be deleted.
+B. The Participant has a continuing obligation to provide the Contractor written notice of
+any changes in the nature and extent of foreign ownership, control, or influence over the
+Participant which would affect the Participant’s answers to the previously completed
+FOCI certification.
+GENERAL GUIDANCE:
+There must be an export control warning statement to warn the parties that material and information
+resulting from the CRADA may be export controlled.  This statement should be conspicuous, like the
+UCC-like disclaimer.
+If the CRADA involves access to classified information, access to special nuclear materials, or
+unescorted access to security areas of Departmental facilities, the requirements of the Atomic Energy
+Act of 1954, as amended, must be met, this article of the CRADA should be retitled “Export
+Control/Foreign Ownership and Control,” and language pertaining to FOCI should be added.  The
+completed FOCI questionnaire attached hereto as Attachment 1 must be completed by the participant
+and included as an appendix to the CRADA.
+
+--- page 43 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 37
+ARTICLE XI:  REPORTS AND ABSTRACTS
+LANGUAGE:
+A. The Parties agree to produce the following deliverables: 
+(1) an initial abstract suitable for public release at the time the CRADA is approved
+by DOE;
+(2) other abstracts (final when work is complete, and others as substantial changes in
+scope and dollars occur);
+(3) a final report, upon completion or termination of this CRADA, to include a list of
+subject inventions; 
+(4) an annual signed financial report of the Participant’s in-kind contributions to the
+project; 
+(5) other topical/periodic reports, when the nature of research and magnitude of
+dollars justify; and
+(6) computer software in source and executable object code format as defined within
+the Statement of Work or elsewhere within the CRADA documentation.
+Each of the above-identified deliverables shall include the project identification number
+as described in DOE’s Research and Development (R&D) Tracking System Data and
+Process Guidance Document (http://www.doe.gov/rd/).
+B. The Parties acknowledge that the Contractor has the responsibility to provide the above
+information at the time of its completion to the DOE Office of Scientific and Technical
+Information.
+C. The Participant agrees to provide the above information to the Contractor to enable full
+compliance with paragraph B of this article.
+(DOE has a responsibility to disseminate scientific and technical information, by 42 U.S.C. 2051(d), 42
+U.S.C. 2161(b), and 42 U.S.C. 2166(b).)
+D. The Parties acknowledge that the Contractor and DOE have a need to document the
+long-term economic benefit of the cooperative research under this CRADA.  Therefore,
+the Participant shall respond to the Contractor’s reasonable requests, during the term of
+
+--- page 44 ---
+Appendix B DOE M 483.1-1
+Page 38 1-12-01
+this CRADA and for a period of _____ years [2 to 5 years would be reasonable] thereafter
+for pertinent information.
+GUIDANCE:  There is currently no requirement that the participant must respond to information
+requests made by the Department through the contractor regarding long-term economic data (i.e., the
+results of commercializing products, processes, or services based on this CRADA), but the participant
+should recognize that the Department has a need to measure economic outcomes of CRADAs that it
+funds.  Such follow-up surveys are already being done for R&D 100 award-winning technologies
+without intruding into sensitive market or financial information.  Measurement of the outcomes of
+cooperative research, both for the Department and for the participant, is a very important aspect of the
+Department’s Technology Partnerships activity.  Examples of the types of long-term economic data that
+could be sought include jobs created/lost/retained, increases in market share, and sales increases. 
+Surveys would be done in such a way that answers are  provided in broad categories (i.e., 1-50 jobs
+created, etc.) in a “check-the-box” approach.  Mechanisms used to gather the information could
+include customer surveys, third-party personal interviews, and third-party studies commissioned by the
+Department.
+GENERAL GUIDANCE:
+The CRADA must include a provision setting forth the required deliverables.  The contractor should
+ensure that the CRADA specifies, at a minimum, abstracts, a final report, and other topic/periodic
+reports (where appropriate) to be furnished to DOE.  The abstracts should not contain any Proprietary
+Information.  An abstract suitable for public release, which is not protectable, must be furnished to
+DOE as part of DOE’s annual R&D data call.  Further, where the participant and/or the contractor
+identifies that such reports contain Protected CRADA Information, the reports will be properly marked
+with a restrictive legend identifying the agreed-to period of withholding from public disclosure.  Such
+reports shall be furnished to the DOE Office of Scientific and Technical Information (OSTI) for
+Departmental use only and be withholdable for the stated withholding period as materials exempt from
+Subchapter II of Chapter 5 of Title 5, United States Code.  The contractor must ensure that adequate
+deliverables are provided to OSTI to ensure that the results of DOE-approved CRADAs are made
+known to other DOE contractors for DOE program needs.
+Alternative language may be developed in other instances, such as a CRADA involving technical
+assistance, where the type of work to be performed does not lead to the documentation required by the
+language of this article.
+The Contracting Officer will direct the contractor as to which deliverables will be furnished to OSTI. 
+This will include, as a minimum, (1) an initial abstract suitable for public release, (2) a final report, and
+(3) all generated software in source and object code format, as defined within the Statement of Work. 
+All deliverables and/or accompanying transmittal documents shall reference the associated R&D
+Tracking System project identification number, which is more fully described at the following Web site:
+
+--- page 45 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 39 (and Page 40)
+http://www.doe.gov/rd/.  The initial abstract should be provided with other required CRADA
+information as part of DOE’s annual R&D data call.
+The submission of an annual signed financial report of the participant’s in-kind contributions to the
+project will both provide assurance that the participant is providing in-kind contributions in accordance
+with the CRADA and indicate the validity and reasonableness of the participant’s valuation of its in-
+kind contributions.
+The Scope of Work should be written so that the agreed-upon deliverables are included in it.
+CRADA reports should fully cover and describe the research done under the CRADA, incorporating
+technical data as needed to support conclusions, and including Protected CRADA Information as
+appropriate.   The format for CRADA reports will comply with OSTI’s requirements.
+Cooperative research performed in CRADAs involves industrial partners that have information which
+they consider to be of commercial value.  Such commercially valuable information could possibly be
+divulged in the formal CRADA document, including the incorporated Statement of Work.  Because
+taxpayer funds are used in the Government share of CRADAs, it is possible that there will be requests
+for public release of the formal CRADA document.  Commercially valuable information that the partner
+considers sensitive should not routinely be included in the CRADA, including the accompanying
+Statement of Work, unless specifically needed.  Should DOE receive a request for public release of the
+formal CRADA document, only business-sensitive or proprietary information that qualifies under 5
+U.S.C. 552(b)(4) will be exempt from release after appropriate review.
+If no computer software is to be developed under this CRADA, subparagraph A(6) may be    deleted.
+
+--- page 46 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 41
+OPTION:
+A. The Parties anticipate that their employees may wish to publish technical
+developments and/or research findings generated in the course of this CRADA.  On
+the other hand, the Parties recognize that an objective of this CRADA is to provide
+business advantages to the Participant.  In order to reconcile publication and
+business concerns, the Parties agree to a review procedure as follows:
+1. Each Party (“Submitter”) shall submit to the other Party (“Recipient”), in
+advance, proposed written and oral publications pertaining to work under
+the CRADA.  Proposed oral publications shall be submitted to the Recipient
+in the form of a written presentation synopsis and a written abstract.
+2. The Recipient shall provide a written response to the Submitter within
+30 days, either objecting or not objecting to the proposed publication.  The
+Submitter shall consider all objections of the Recipient and shall not
+unreasonably refuse to incorporate the suggestions and meet the objections
+of the Recipient.  The proposed publication shall be deemed not
+objectionable, unless the proposed publication contains Proprietary
+Information, Protected CRADA Information, export controlled information
+or material that would create potential statutory bars to filing the United
+States or corresponding foreign Patent applications, in which case express
+written permission shall be required for publication.  In the event an
+objection is raised because of a potential statutory bar, the Recipient shall
+file its Patent application within _____ days of making such objection, after
+which time the Submitter is free to publish. 
+GUIDANCE:  Alternative language intended only to provide greater detail on procedures to be
+followed, which may be used if desired.
+ARTICLE XII:  PRE-PUBLICATION REVIEW
+LANGUAGE:
+A. The Parties agree to secure pre-publication approval from each other which shall not be
+unreasonably withheld or denied beyond ___ days.
+
+--- page 47 ---
+Appendix B DOE M 483.1-1
+Page 42 1-12-01
+B. The Parties agree that neither will use the name of the other Party or its employees in
+any promotional activity, such as advertisements, with reference to any product or
+service resulting from this CRADA, without prior written approval of the other Party.
+GENERAL GUIDANCE:
+A publication review provision must be included in the CRADA.  The pre-publication review process
+must consider the protection of rights to filing U.S. and foreign patent applications, since any disclosure
+may be a bar to filing.
+
+--- page 48 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 43
+OPTION 1:
+B. Each Party shall have the first option to assert Copyright in works authored by its
+employees.  Copyrights in co-authored works by employees of the Parties shall be
+held jointly, and use by either Party shall be without accounting.  A Party electing
+not to assert Copyright in a work authored by its employees agrees to assign such
+Copyright to the other Party upon the request of, and at the expense of, the other
+Party.
+GUIDANCE:  Alternative language, which may be used if desired.
+OPTION 2:
+B. All Participant and Contractor Copyrights to original information for which
+authorship takes place during the performance of work under this CRADA shall be
+owned and licensed as set forth in Appendix          (if any) subject to any obligation
+of protection as required in Articles VII and VIII and other provisions of this
+article.
+GUIDANCE:  Alternative language, which may be used if desired.
+ARTICLE XIII:  COPYRIGHTS
+LANGUAGE:
+A. The Parties may assert Copyright in any of their Generated Information.  Assertion of
+Copyright generally means to enforce or give an indication of an intent or right to
+enforce such as by marking or securing Federal registration.
+B. [Allocation of rights to Copyrights in Generated Information will be negotiated by the
+Parties.]
+C. For Generated Information, the Parties acknowledge that the Government has for itself
+and others acting on its behalf, a royalty-free, nontransferable, nonexclusive, irrevocable
+worldwide Copyright license to reproduce, prepare derivative works, distribute copies to
+the public, and perform publicly and display publicly, by or on behalf of the Government,
+all Copyrightable works produced in the performance of this CRADA, subject to the
+restrictions this CRADA places on publication of Proprietary Information and Protected
+CRADA Information.
+
+--- page 49 ---
+Appendix B DOE M 483.1-1
+Page 44 1-12-01
+(DOE has a responsibility to disseminate scientific and technical information, by 42 U.S.C. 2051(d), 42
+U.S.C. 2161(b), and 42 U.S.C. 2166(b).)
+D. For all Copyrighted computer software produced in the performance of this CRADA, the
+Party owning the Copyright will provide the source code, an expanded abstract as
+described in Appendix __, the executable object code and the minimum support
+documentation needed by a competent user to understand and use the software to DOE’s
+Energy Science and Technology Software Center, P.O. Box 1020, Oak Ridge, TN 37831. 
+The expanded abstract will be treated in the same manner as Generated Information in
+paragraph C of this article.
+E. The Contractor and the Participant agree that, with respect to any Copyrighted
+computer software produced in the performance of this CRADA, DOE has the right, at
+the end of the period set forth in paragraph B of Article VIII hereof and at the end of
+each 2-year interval thereafter, to request the Contractor and the Participant and any
+assignee or exclusive licensee of the Copyrighted software to grant a nonexclusive,
+partially exclusive, or exclusive license to a responsible applicant upon terms that are
+reasonable under the circumstances, provided such grant does not cause a termination of
+any licensee’s right to use the Copyrighted computer software.  If the Contractor or the
+Participant or any assignee or exclusive licensee refuses such request, the Contractor
+and the Participant agree that DOE has the right to grant the license if DOE determines
+that the Contractor, the Participant, assignee, or licensee has not made a satisfactory
+demonstration that it is actively pursuing commercialization of the Copyrighted
+computer software. 
+Before requiring licensing under this paragraph E, DOE shall furnish the Contractor/
+Participant written notice of its intentions to require the Contractor/Participant to grant
+the stated license, and the Contractor/Participant shall be allowed 30 days (or such
+longer period as may be authorized by the cognizant DOE Contracting Officer for good
+cause shown in writing by the Contractor/Participant) after such notice to show cause
+why the license should not be required to be granted.
+The Contractor/Participant shall have the right to appeal the decision by DOE to the
+grant of the stated license to the Invention Licensing Appeal Board as set forth in
+paragraphs (b)-(g) of 10 CFR 781.65, “Appeals.”
+F. The Parties agree to place Copyright and other notices, as appropriate for the protection
+of Copyright, in human-readable form onto all physical media, and in digitally encoded
+form in the header of machine-readable information recorded on such media such that
+the notice will appear in human-readable form when the digital data are off loaded or the
+data are accessed for display or printout.
+
+--- page 50 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 45 (and Page 46)
+GENERAL GUIDANCE:
+DOE, by approving a CRADA, authorizes the participant and the contractor to assert copyright in
+Generated Information.  The parties must grant to the United States an irrevocable, paid-up copyright
+license to any and all works that come out of the project and may be copyrightable.  The parties may
+also make this or any other negotiated license reciprocal among themselves.  As an alternative, the
+parties can agree as part of the CRADA to negotiate the software license rights each party is to receive
+upon the production and copyright of software under the CRADA.  The contractor must ensure that all
+copyrighted works are available to other DOE contractors for Governmental purposes.  However, the
+Government-retained license may be limited with the approval of the field office.  Any restriction on the
+Government and others acting by or on behalf of the Government of the right to prepare derivative
+works or the right to use any copyrighted Generated Information must also be approved by the
+Assistant General Counsel for Technology Transfer and Intellectual Property. 
+Copies of all generated computer software on which copyright protection will be asserted must be
+delivered to the Energy Science and Technology Software Center (ESTSC) by either (1) delivering
+same directly to ESTSC or (2) delivering same to the contractor, who will in turn deliver it to ESTSC. 
+The delivery to the DOE ESTSC of materials with respect to copyrighted computer software may be
+done by having the participant deliver the materials to the contractor who will in turn deliver them to the
+ESTSC.  The contractor may delay the applicability of the DOE march-in rights of paragraph E for up
+to 5 years from the date that the software is produced.  The participant should be given a right of
+appeal to DOE’s march-in right.
+Co-authored copyrighted material should be addressed in the CRADA.  One way is to specify that any
+copyrights in Generated Information jointly attributable to contractor and participant employees should
+be jointly owned by the contractor and the participant.
+The parties should also be careful to appropriately mark as Protected CRADA Information in human-
+readable form onto all physical media and in digitally encoded form in all machine-readable information.
+A suggested format for the expanded abstract called for in Article XIII is attached hereto as
+Attachment 3.
+If no copyrights are contemplated to be created under a CRADA, this article may be [reserved].
+
+--- page 51 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 47
+OPTION:
+A. The Parties agree to disclose to each other through the project managers each
+Subject Invention which may be patentable or otherwise protectable under the
+Patent Act within 2 months, or such longer period as is reasonably required, after
+the inventor first discloses the Subject Invention in writing to the person(s)
+responsible for Patent matters of the disclosing Party.  The Contractor and the
+Participant will disclose such Subject Inventions to DOE, the Contractor doing so
+in accordance with its prime contract.
+GUIDANCE:  Alternative language, which may be used if desired.  If the alternative
+language is used, the alternate article on project management should be used, as well, in order
+to provide a definition and list of duties for project managers.
+ARTICLE  XIV:  REPORTING SUBJECT INVENTIONS
+LANGUAGE:
+A. The Parties agree to disclose to each other each Subject Invention which may be
+patentable or otherwise protectable under the Patent Act.  The Parties agree that the
+Contractor and the Participant will disclose their respective Subject Inventions to DOE
+and each other within two (2) months after the inventor first discloses the Subject
+Invention in writing to the person(s) responsible for Patent matters of the disclosing
+Party.
+B. These disclosures should be in sufficiently complete technical detail to convey a clear
+understanding, to the extent known at the time of the disclosure, of the nature, purpose,
+and operation of the Subject Invention.  The disclosure shall also identify any known
+actual or potential statutory bars; i.e., printed publications describing the Subject
+Invention or the public use or “on sale” of the Subject Invention in this country.  The
+Parties further agree to disclose to each other any subsequently known actual or
+potential statutory bar that occurs for a Subject Invention disclosed but for which a
+Patent application has not been filed.  All Subject Invention disclosures shall be marked
+as confidential under 35 U.S.C. 205.
+
+--- page 52 ---
+Appendix B DOE M 483.1-1
+Page 48 1-12-01
+OPTION 1:
+B. These disclosures should be in sufficiently complete technical detail to convey a
+clear understanding to the extent known at the time of the disclosure of the nature,
+purpose, and operation of the Subject Invention and shall also identify any events
+that could give rise to a statutory bar (i.e., printed publications describing the
+Subject Invention or the public use or “on sale” of the Subject Invention in this
+country).  The Parties further agree to disclose to each other any subsequently
+known statutory bar that occurs for a Subject Invention disclosed but for which a
+Patent application has not been filed.  All Subject Invention disclosures shall be
+marked as confidential under 35 U.S.C. 205.
+GUIDANCE:  Alternative language, which may be used if desired.  
+OPTION 2:
+B. These disclosures should be in sufficiently complete technical detail to convey a
+clear understanding to the extent known at the time of the disclosure of the nature,
+purpose, and operation of the Subject Invention.  The disclosure shall also identify
+any statutory bars; i.e., printed publications describing the Subject Invention or the
+public use or “on sale” of the Subject Invention in this country.  The Parties further
+agree to disclose to each other any subsequent statutory bar that occurs for a
+Subject Invention disclosed but for which a Patent application has not been filed. 
+All Subject Invention disclosures shall be marked as confidential under 35 U.S.C.
+205.
+GUIDANCE:  Alternative language, which may be used if desired.
+GENERAL GUIDANCE:
+The CRADA must include an article which states that the parties agree to promptly disclose to each
+other and to DOE all Subject Inventions made under the CRADA.  Disclosures should be written so as
+to serve as a basis for patent applications.  Since any public disclosure can be a bar to U.S. and some
+foreign filings, the parties may wish to state that the disclosure should identify any publication describing
+the invention, public use, or sale of the invention.
+
+--- page 53 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 49
+ARTICLE XV:  TITLE TO SUBJECT INVENTIONS
+LANGUAGE:
+Wherein DOE has granted the Participant and the Contractor the right to elect to retain title to
+their respective Subject Inventions, and wherein the Participant has the option to choose an
+exclusive license, for reasonable compensation, for a pre-negotiated field of use to the
+Contractor’s Subject Inventions,
+A. [Allocation of rights will be negotiated by the Parties.]
+Some alternative options that may be used for subparagraph XV.A are:
+OPTION 1:
+A. Each Party shall have the first option to elect to retain title to any Subject Invention
+made by its employees and that election shall be made:  (1) for the Participant,
+within 12 months of disclosure of the Subject Invention to DOE or (2) for the
+Contractor, within [insert in this space the time period specified in its prime
+contract for electing to retain title to Subject Inventions] of disclosure of the
+Subject Invention to DOE.  If a Party elects not to retain title to any Subject
+Invention of its employees, the other Party shall have the second option to elect to
+retain title to such Subject Invention in accordance with Appendix ____ [if used] of
+this CRADA.  DOE shall retain title to any Subject Invention which is not retained
+by any Party.
+GUIDANCE:  Extensions under this option may be granted for good and sufficient cause. 
+Nonprofit contractors may change “shall retain” to “may obtain” in the last sentence.
+OPTION 2:
+A. The Parties intend that title to any Subject Inventions of either Party shall be owned
+by ___________, and the Parties agree to make the necessary elections and
+assignments to effect this intent (subject to any DOE approvals, if necessary).
+
+--- page 54 ---
+Appendix B DOE M 483.1-1
+Page 50 1-12-01
+B. The Parties acknowledge that DOE may obtain title to each Subject Invention reported
+under Article XIV for which a Patent application or applications are not filed pursuant to
+OPTION 3:
+A. For Subject Inventions conceived or first actually reduced to practice under this
+CRADA, which are joint Subject Inventions made by the Contractor and the
+Participant, title to such Subject Inventions shall be jointly owned by the
+Contractor and the Participant.
+GUIDANCE:  This may be used in conjunction with a statement that each party has title to
+Subject Inventions produced exclusively by that party.
+OPTION 4:
+Where it is appropriate to have a cross-licensing provision, paragraph XV.A can be amended to
+include the following statement:
+A. Each Party grants the other Party a nonexclusive, transferable, irrevocable, paid-
+up license to practice or to have practiced for or on behalf of that Party every
+invention arising out of this agreement throughout the world, with a right to grant
+sublicenses of no greater scope to others.
+OPTION 5:
+A. The Participant acknowledges that the Contractor has offered to the Participant
+the option to choose an exclusive license for a pre-negotiated field of use for
+reasonable compensation for any Subject Invention made in whole or in part by a
+Contractor employee.
+GUIDANCE:   This may be used in conjunction with other language allocating invention rights
+where the Contractor retains title to its inventions.  In some cases a participant may not want the
+CRADA to include the option to choose the field of use license.  To ensure that it is documented
+that the statutorily required option has been offered in those cases, it is suggested that a pre-
+agreement notice or other correspondence with a potential participant provide a notice to the
+participant about the option.  In this situation, the Contractor should include an acknowledgment
+of the notice in the CRADA.
+
+--- page 55 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 51
+Article XVI and for which any issued Patents are not maintained by any Party to this
+CRADA.
+(Authority: 35 U.S.C. 202(c)(2) for DOE’s nonprofit management and operating contractors entering
+into CRADAs and by DOE policy for other management and operating contractors and CRADA
+participants.)
+C. The Parties acknowledge that the Government retains a nonexclusive, nontransferable,
+irrevocable, paid-up license to practice or to have practiced for or on behalf of the
+United States every Subject Invention under this CRADA throughout the world.  The
+Parties agree to execute a Confirmatory License to affirm the Government’s retained
+license.
+(Authority:  15 U.S.C. 3710a (b)(2)&(3), as well as 35 U.S.C. 202(c)(4))
+The following additional paragraph, or one with similar language, placing a time limit for the participant’s
+exercise of the field of use license in contractor inventions may be added if desired:
+D. The Participant has the option for _______ (insert a time period) plus a period of not
+more than 6 months after completion or termination of this CRADA to choose an
+exclusive license in Contractor’s Subject Inventions in the field of use of ___________
+(insert the field of use negotiated between the Parties).
+GENERAL GUIDANCE:
+The CRADA must include an article which sets forth the allocation of rights to Subject Inventions
+between the parties.  Through a class waiver at each laboratory, DOE has provided the participant with
+title to inventions made by employees of the participant.  The terms and conditions of that waiver have
+been effectively changed by P.L. 104-113 (the National Technology Transfer Act of 1995, hereinafter
+in this guidance, the “Act”) to include a field of use license granted to the participant in Subject
+OPTION:
+D. During the term of this CRADA and for a period of 6 months after the termination
+or completion of the CRADA, the Participant shall have the opportunity, pursuant
+to 15 U.S.C. 3710a, to obtain a license to [insert laboratory name] Subject
+Inventions.  In particular, the Participant shall have the option to obtain, up to and
+including, an exclusive license to [insert laboratory name] Subject Inventions within
+a defined field of use on agreed-upon reasonable terms and conditions, including the
+payment of negotiated license fees and royalties.
+
+--- page 56 ---
+Appendix B DOE M 483.1-1
+Page 52 1-12-01
+Inventions made in whole or in part by the contractor and the Government license and march-in rights
+contained in the Act.  The article must indicate that DOE retains rights for Subject Inventions for which
+a party to the CRADA does not file patent applications or maintain patents.  The article must also
+provide that the Government retains a nonexclusive, nontransferable, irrevocable, paid-up license to
+practice or to have practiced for or on behalf of the United States every Subject Invention under the
+CRADA throughout the world. 
+The Act provides that the contractor must ensure through the CRADA that the participant has the
+option to choose an exclusive license for a pre-negotiated field of use to contractor Subject Inventions. 
+This can be accomplished by providing the optional language in Article XV of the CRADA or in an
+appendix thereto.
+The exclusive license itself, per the Act, may be only in exchange for reasonable compensation, when
+appropriate, and subject only to reasonable terms and conditions associated with obtaining reasonable
+compensation.  Failure of the participant to fulfill its obligations under the CRADA, minimum annual
+royalty payments, objective performance obligations in the license agreement, contributions to the costs
+of prosecution and litigation to maintain a patent and other commercially reasonable terms are terms are
+considered to be associated with obtaining reasonable compensation, which will satisfy the statutory
+requirement of “for reasonable compensation.”  Although these are the types of terms that may be
+reasonable in appropriate circumstances, DOE does not require that any or all of these terms be a
+condition of the license in all circumstances.  Additionally, the exclusive license may be limited to a
+negotiated field of use.  In accordance with the Act, the license must provide the participant with the
+right of enforcement under Chapter 29 of Title 35 U.S.C.
+The contractor should document the terms of the option and whether the option was exercised or not.
+
+--- page 57 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 53
+OPTION:
+A. The Parties agree that the Party initially indicated as having an ownership interest
+in any Subject Inventions shall have the first opportunity to file U.S. and foreign
+Patent applications; but if such Party does not file such applications within 1 year
+after disclosure, the other Party to this CRADA may file Patent applications on
+such Subject Inventions.  If a Patent application is filed by the other Party (“Filing
+Party”), the Inventing Party shall reasonably cooperate and assist the Filing
+Party, at the Filing Party’s expense, in executing a written assignment of the
+Subject Invention to the Filing Party and in otherwise perfecting the Patent
+application, and the Filing Party shall have the right to control the prosecution of
+the Patent application.  The Parties shall agree among themselves as to who will
+file Patent applications on any joint Subject Invention.
+GUIDANCE:  Alternative language, which may be used if desired.
+ARTICLE XVI:  FILING PATENT APPLICATIONS
+LANGUAGE:
+A. The Parties agree that the Party initially indicated as having an ownership interest in any
+Subject Inventions (“Inventing Party”) shall have the first opportunity to file U.S. and
+foreign Patent applications.  If the Participant does not file such applications within
+1 year after election, or if the Contractor does not file such applications within the filing
+time specified in its prime contract, the other Party to this CRADA exercising an option
+pursuant to Article XV may file Patent applications on such Subject Inventions.   If a
+Patent application is filed by the other Party (“Filing Party”), the Inventing Party shall
+reasonably cooperate and assist the Filing Party, at the Filing Party’s expense, in
+executing a written assignment of the Subject Invention to the Filing Party and in
+otherwise perfecting the Patent application, and the Filing Party shall have the right to
+control the prosecution of the Patent application.  The Parties shall agree between
+themselves as to who will file Patent applications on any joint Subject Invention.
+GUIDANCE:  The parties may also wish to set forth who files for patents on which inventions,
+including the treatment of joint inventions.  If extensions of time are necessary, on a case-by-case basis,
+such extensions can be obtained consistent with Article XXIX.  Other terms for filing foreign
+applications can be negotiated when appropriate.
+
+--- page 58 ---
+Appendix B DOE M 483.1-1
+Page 54 1-12-01
+B. The Parties agree that DOE has the right to file Patent applications in any country if
+neither Party desires to file a Patent application for any Subject Invention.  Notification
+of such negative intent shall be made in writing to the DOE Contracting Officer within
+3 months of the decision of the non-Inventing Party to not file a Patent application for
+the Subject Invention pursuant to Article XV or not later than 60 days prior to the time
+when any statutory bar might foreclose filing of a U.S. Patent application.
+C. The Parties agree to include within the beginning of the specification of any U.S. Patent
+applications and any Patent issuing thereon (including foreign Patents) covering a
+Subject Invention, the following statement:  “This invention was made under a CRADA
+(identify CRADA number) between (name the Participant) and (name the laboratory)
+operated for the United States Department of Energy.  The Government has certain
+rights in this invention.”
+Three additional paragraphs have been approved for use in this article, if desired:
+D. A Party electing title or filing a Patent application in the United States or in any foreign
+country shall advise the other Party and DOE if it no longer desires to continue
+prosecution, pay maintenance fees, or retain title in the United States or any foreign
+country.  The other Party and then DOE will be afforded the opportunity to take title and
+retain the Patent rights in the United States or in any such foreign country.
+E. Each Party agrees to provide the project manager of the other Party with a copy of each
+Patent application it files on any Subject Invention. 
+GUIDANCE:  This paragraph F can be used in any event, but if it is used, it will be necessary to
+include the additional article providing a definition and list of duties of the project manager.
+F. Every             months from the date of the CRADA, each Party shall deliver to the other
+Party interim reports listing the Subject Inventions, if any, it has produced during the
+preceding            -month period.  If a Party has produced no Subject Invention for any 
+          -month period, the Party’s interim report for that period will explicitly state so.
+GENERAL GUIDANCE:
+The CRADA must include an article in which the parties agree that if neither party desires to file a
+patent application for any invention, notice of such negative intent shall be made to DOE not later than
+60 days prior to the time when any statutory bar might foreclose filing of a U.S. patent application.
+
+--- page 59 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 55
+OPTION:  The following language is an option for the bracketed language in the above
+paragraph:
+The Party originating the Trademark/Service Mark on products or services
+generated under this CRADA in the United States or foreign countries shall have
+the full right, title, and interest in such Trademark or Service Mark subject only to
+the Government’s retained right to use the mark on any similar goods or services as
+set forth below.
+ARTICLE XVII:  TRADEMARKS
+If no trademarks are contemplated to be created under the CRADA, this article may be [reserved].  If
+trademarks are contemplated to be created under the CRADA, the following language may be used for
+this article.
+LANGUAGE:
+The Parties may seek to obtain Trademark/Service Mark protection on products or services
+generated under this CRADA in the United States or foreign countries.  [The ownership and
+other rights relating to this Trademark shall be as mutually agreed to in writing by the Parties.] 
+The Parties hereby acknowledge that the Government shall have the right to indicate on any
+similar goods or services produced by or for the Government that such goods or services were
+derived from and are a DOE version of the goods or services protected by such Trademark/
+Service Mark, with the Trademark and the owner thereof being specifically identified.  In
+addition, the Government shall have the right to use such Trademark/Service Mark in print or
+communications media.
+
+--- page 60 ---
+Appendix B DOE M 483.1-1
+Page 56 1-12-01
+OPTION:  The following sentence may be added to the end of the above standard language
+paragraph, if desired:
+Where the Government indicates on goods that such goods were derived from
+goods protected by a Trademark/Service Mark, the Government will also indicate
+that the Trademark owner has had no right to perform a quality review/inspection
+of the DOE version of the goods.
+GUIDANCE:  One CRADA participant objected to the Government’s retention of any right
+to use any trademark owned by the participant because the participant had no right to perform
+a quality review or inspection of the DOE version of the trademarked goods.  The above
+addition to the language is offered as a possible response to such an objection.
+GENERAL GUIDANCE:
+By approving a CRADA, DOE authorizes the contractor and the participant to assert trademark
+protection for products or services arising out of the performance of that CRADA.  The parties shall
+acknowledge the Government’s right to indicate the relationship between the goods and services it
+produces and those protected by trademark/service mark in appropriate circumstances.  The parties
+may negotiate between themselves any licensing rights they desire, consistent with the Government’s
+license.
+Trademarks for jointly developed products or services should be addressed in the CRADA.  One
+way is to specify that any trademarks in generated products or services jointly attributable to contractor
+and participant employees shall be jointly owned by the contractor and the participant.
+
+--- page 61 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 57 (and Page 58)
+OPTION:  The following language is an option for the bracketed language in the above
+paragraph:
+The allocation of rights to Mask Works will be commensurate with the distribution
+of Copyrights under Article XIII, paragraph B of this CRADA.
+ARTICLE XVIII:  MASK WORKS
+If no mask works are contemplated to be created under the CRADA, this article may be [reserved].  If
+mask works are contemplated to be created under the CRADA, the following language may be used
+for this article.
+LANGUAGE:
+The Parties may seek to obtain legal protection for Mask Works fixed in semiconductor products
+generated under this agreement as provided by Chapter 9 of Title 17 of the United States Code. 
+[The rights to any Mask Work covered by this provision shall be as mutually agreed to in writing
+by the Parties.]  The Parties hereby acknowledge that the Government or others acting on its
+behalf shall retain a nonexclusive, paid-up, worldwide, irrevocable, nontransferable license to
+reproduce, import, or distribute the covered semiconductor product by or on behalf of the
+Government, and to reproduce and use the Mask Work by or on behalf of the Government.
+GENERAL GUIDANCE:
+By approving a CRADA, DOE authorizes the contractor and the participant to assert mask work
+protection for semiconductor chip products first produced during the performance of the CRADA.  The
+parties shall grant to the Government and others acting on its behalf an  irrevocable, paid-up license to
+use any of these covered products.  The parties may negotiate between themselves any licensing rights
+they desire, consistent with the Government’s license.
+Jointly developed semiconductor chip materials may be registered for protection; this should be
+addressed in the CRADA.  One way to address this is to specify that any mask works fixed in
+semiconductor chip products generated under the CRADA and jointly attributable to contractor and
+participant employees shall be jointly owned by the contractor and the participant.
+
+--- page 62 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 59 (and Page 60)
+OPTION:
+Each Party shall be responsible for payment of all costs relating to Copyright filing,
+U.S. and foreign Patent application filing and prosecution, and all costs relating to
+maintenance fees for U.S. and foreign Patents hereunder which are owned by that
+Party.
+GUIDANCE: For use when trademark and mask work articles are omitted.
+ARTICLE XIX:  COST OF INTELLECTUAL
+PROPERTY PROTECTION
+LANGUAGE:
+Each Party shall be responsible for payment of all costs relating to Copyright, Trademark, and
+Mask Work filing; U.S. and foreign Patent application filing and prosecution; and all costs
+relating to maintenance fees for U.S. and foreign Patents hereunder which are solely owned by
+that Party.  Government/DOE laboratory funds contributed as DOE’s cost share to a CRADA
+cannot be given to the Participant for payment of the Participant’s costs of filing and
+maintaining Patents or filing for Copyrights, Trademarks, or Mask Works.
+GENERAL GUIDANCE:
+The CRADA must include an article which sets out the parties’ agreement on the costs of filing for and
+maintaining patents as well as the costs of filing for copyrights, trademarks, and mask works, where
+applicable.  This article should include consideration of any jointly owned intellectual property.
+
+--- page 63 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 61 (and Page 62)
+ARTICLE XX:  REPORTS OF INTELLECTUAL PROPERTY USE
+LANGUAGE:
+The Participant agrees to submit, for a period of _____ years from the date of termination or
+completion of this CRADA and upon request of DOE, a nonproprietary report no more
+frequently than annually on efforts to utilize any Intellectual Property arising under the CRADA.
+GENERAL GUIDANCE:
+The CRADA must include an article in which the parties set out their agreement with regard to
+reporting efforts to obtain utilization of Intellectual Property arising under the CRADA.  This article
+allows DOE to document the linkage of the CRADA to DOE mission benefits as well as to customer
+satisfaction and other performance measurement aspects of the CRADA program.  As is indicated by
+the term limit, it is clearly intended that this participant obligation will survive completion or termination
+of the CRADA.
+
+--- page 64 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 63 (and Page 64)
+OPTION: 
+For Subject Inventions made solely by the participant and for assignments and
+exclusive  licenses by the Contractor to the Participant in Subject Inventions made
+in whole or in part by the Contractor, the DOE shall retain the right to require the
+Participant to grant a responsible applicant a nonexclusive, partially exclusive, or
+exclusive license to use the invention in a field of use of interest to the applicant, on
+terms that are reasonable under the circumstances, or if the Participant fails to
+grant such a license, to grant the license itself.  DOE may exercise the right only in
+exceptional circumstances and only if DOE determines that (1) the action is
+necessary to meet health or safety needs that are not reasonably satisfied by the
+Participant; (2) the action is necessary to meet the requirements for public use
+specified by Federal regulations and such regulations and such requirements are
+not reasonably satisfied by the Participant; or (3) the Participant has failed to
+comply with the provision of Article XXII U.S. Competitiveness of this agreement. 
+For all other retained or transferred by the Contractor to Subject Inventions of the
+Contractor, the Contractor acknowledges that the DOE has certain march-in-rights
+in accordance with 48 CFR 27.304-1(g).
+GUIDANCE: Alternative language which may be used if desired.
+ARTICLE XXI:  DOE MARCH-IN RIGHTS
+LANGUAGE:
+The Parties acknowledge that DOE has certain march-in rights to any Subject Inventions in
+accordance with 48 CFR 27.304-1(g) and 15 U.S.C. 3710a(b)(1)(B) and (C).
+(Authority:  35 U.S.C. 203; 15 U.S.C. 3710a(b)(1)(B) and (C); and DOE policy: 
+(1) Provides for consistent treatment of CRADA participants;
+(2) Helps promote commercialization of technology from CRADAs; and
+(3) Protects the interest of taxpayers.)
+GENERAL GUIDANCE:
+The CRADA must include an article which says that the parties recognize that DOE has certain march-
+in rights to any inventions arising from the performance of this CRADA in accordance with 48 CFR
+27.304-1(g) and 15 U.S.C. 3710a(b)(1)(B) and (C).
+
+--- page 65 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 65
+OPTION:
+A. A plan for providing net benefit to the U.S. economy is attached in Appendix _____.
+GUIDANCE:  If the participant is unable or unwilling, in advance, to meet the requirements of
+Article XXII.A.1 and XXII.A.2, above, this language will be substituted for paragraph A.
+ARTICLE XXII:  U.S. COMPETITIVENESS
+LANGUAGE:
+The Parties agree that a purpose of this CRADA is to provide substantial benefit to the U.S.
+economy.
+A. In exchange for the benefits received under this CRADA, the Participant therefore agrees
+to the following:
+1. Products embodying Intellectual Property developed under this CRADA shall be
+substantially manufactured in the United States, and
+2. Processes, services, and improvements thereof which are covered by Intellectual
+Property developed under this CRADA shall be incorporated into the
+Participant’s manufacturing facilities in the United States either prior to or
+simultaneously with implementation outside the United States.  Such processes,
+services, and improvements, when implemented outside the United States, shall
+not result in reduction of the use of the same processes, services, or improvements
+in the United States.
+B. The Contractor agrees to a U.S. Industrial Competitiveness clause in accordance with its
+prime contract with respect to any licensing and assignments of its intellectual property
+arising from this CRADA, except that any licensing or assignment of its intellectual
+property rights to the Participant shall be in accordance with the terms of paragraph A
+of this article.
+GENERAL GUIDANCE:
+The CRADA must include an article which sets forth the parties’ agreement with respect to benefits to
+accrue to the U.S. economy as a result of the CRADA.  The preferred benefit is that any products
+embodying any Intellectual Property resulting from the performance of the CRADA shall be
+manufactured substantially in the United States  This must be the laboratories’ opening negotiating
+position for all CRADAs.  Thus, any specific laboratory “model” CRADAs must include a U.S.
+
+--- page 66 ---
+Appendix B DOE M 483.1-1
+Page 66 1-12-01
+manufacturing commitment for products embodying Intellectual Property, not just inventions. 
+Contractors shall ensure that adequate benefits are being secured for the U.S. taxpayer for the
+commercialization worldwide of Intellectual Property arising under the CRADA.  Commitment to
+alternative benefits as part of or in conjunction with this article or another article of the CRADA (i.e.,
+Article II) are acceptable in certain situations and are provided for in this guidance. 
+The Government, in funding CRADAs, is seeking to transfer technology to companies with significant
+manufacturing and research facilities in the United States in a way which will provide short- and long-
+term benefits to the U.S. economy and the industrial competitiveness of such companies.
+The Department’s policy on U.S. competitiveness is based on the fact that billions of taxpayer dollars
+have paid for the research at DOE laboratories.  Before technology is transferred from DOE
+laboratories, we as negotiator/agents are required to ensure that the taxpayers (who also pay our
+salaries) will receive some return on their investment.  The preferred benefit to the U.S. economy is the
+creation and maintenance of manufacturing capabilities and jobs within the United States  However, if a
+potential partner cannot identify increased U.S. jobs as a result of the technology being transferred,
+some other substantial economic benefit to the U.S. economy must be identified.  DOE policy on U.S.
+competitiveness is stated in the memorandum of February 10, 1993, issued by the Director of
+Technology Utilization.  DOE policy is summarized in the following list.
+• It is DOE policy for the laboratories, in their selection of CRADA partners, to give preference
+to business units located in the United States which agree to substantially manufacture resulting
+technology in the United States.
+• DOE will approve, as exceptions, agreements with some partners on the basis of contractual
+commitments to appropriate alternative benefits to the U.S. economy.  Exceptions must be
+based on specific information and not generic assertions.
+• When there are multiple partnering opportunities in a common technical or technology area, and
+limitations on resources for partnering, preference should be given to partnerships that accept
+the requirement for substantial U.S. manufacturing.
+• The U.S. competitiveness aspects of prospective CRADA partners and CRADAs will be
+resolved as up-front matters, before completion of any Joint Work Statements.  Where Joint
+Work Statements are forwarded to program offices, they will be preceded by either written
+assurances that the participant intends to accept the preferred Modular CRADA U.S.
+competitiveness language in toto or else a signed agreement in which the participant agrees to
+provide specific economic benefit to the U.S. economy under one or more criteria of the U.S.
+competitiveness work sheet.  This signed agreement must set forth specific detailed measures. 
+Departure from U.S. competitiveness commitments made by CRADA partners can be a basis
+for stopping work under the CRADA and will be considered as background information in any
+future CRADA negotiation with the same CRADA partner.  It should also be emphasized to
+prospective CRADA partners that, once they give these U.S. competitiveness related
+
+--- page 67 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 67 (and Page 68)
+assurances to DOE, their departure from them in subsequent stages of the CRADA negotiation
+will result in prolonged negotiations and could be taken as evidence of negotiating in bad faith.
+• If the operations or field office is unable or unwilling to make a determination as to whether
+U.S. competitiveness requirements have been satisfied, they should refer the matter to the
+appropriate program office for a determination.  The program office may then consult with the
+Office of Technology Utilization and may also choose to seek the advice of the Technology
+Transfer Committee.
+• DOE, in its policy on U.S. competitiveness, distinguishes among products, which are
+manufactured, and processes and services, which are practiced or implemented.  In the context
+of a multi-national firm, it may be advantageous to the U.S. economy and to the competitive
+position of the firm for a process or service to be implemented worldwide as quickly as
+possible.
+Attachment 2, U.S. Competitiveness Work Sheet, contains criteria for operations or field office and
+program office use in deciding whether U.S. competitiveness requirements have been satisfied, should it
+be necessary to use the above option.
+When CRADAs involve foreign entities, additional factors must be addressed.  Under Executive Order
+12591, when considering whether to enter into a CRADA with a foreign company, and after
+consultation with the U.S. Trade Representative (USTR), appropriate consideration must be given to
+(1) whether the foreign company and/or its government permit and encourage U.S. entities to enter into
+similar agreements on a comparable basis; (2) whether the foreign government has policies to protect
+Intellectual Property rights; and (3) when the research will involve or produce technologies subject to
+U.S. national security export controls, whether the foreign government has adequate measures to
+protect the transfer of the technology to prohibited locations.  Consideration of the first factor is also
+required under 15 U.S.C. 3710a(c)(4)(B).
+The USTR consultation is required and is to be conducted through the Office of the Assistant General
+Counsel for Intellectual Property and Technology Transfer (GC-62) at DOE Headquarters.  The
+USTR consultation does not address export control issues.  The USTR opinion on the CRADA is not
+controlling.  It is only required that their findings be considered by the person designated by the
+laboratory director that decides whether to enter into the CRADA.
+
+--- page 68 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 69
+OPTION:
+A. Each Party may assign personnel to the other Party’s facility as part of this
+CRADA.  Such personnel assigned by the assigning Party to participate in or
+observe the research to be performed under this CRADA shall not during the period
+of such assignments be considered employees of the receiving Party for any
+purposes, including but not limited to any requirements to provide workers’
+compensation, liability insurance coverage, payment of salary or other benefits, or
+withholding of taxes.
+GUIDANCE:  Alternative language providing more complete recitation of exclusions, which
+may be used for paragraph A, if desired.
+OPTION:
+B. The assigning Party’s employees and agents shall observe the working hours, security
+and safety rules, and holiday schedule of the receiving Party while working on the
+receiving Party’s premises.  The receiving Party shall have the reasonable right to
+approve the assignment of personnel or request their removal by the assigning Party.
+GUIDANCE:  Alternative language, which may be used if desired.
+ARTICLE XXIII:  ASSIGNMENT OF PERSONNEL
+LANGUAGE:
+A. Each Party may assign personnel to the other Party’s facility as part of this CRADA to
+participate in or observe the research to be performed under this CRADA.  Such
+personnel assigned by the assigning Party shall not during the period of such assignments
+be considered employees of the receiving Party for any purpose.
+B. The receiving Party shall have the right to exercise routine administrative and technical
+supervisory control of the occupational activities of such personnel during the
+assignment period and shall have the right to approve the assignment of such personnel
+and/or to later request their removal by the assigning Party.
+
+--- page 69 ---
+Appendix B DOE M 483.1-1
+Page 70 1-12-01
+OPTION:
+C. The assigning Party shall bear any and all costs and expenses with regard to its
+personnel assigned to the receiving Party’s facilities under this CRADA.  The
+receiving Party shall bear the costs of providing an appropriate work space, access
+to a telephone, use of laboratory, manufacturing or other work areas as
+appropriate, and any other utilities and facilities related to such assignments.
+GUIDANCE:  Alternative language providing more complete and explicit recitation of facilities,
+etc., to be provided by the receiving party to assigned personnel, which may be used for
+paragraph C, if desired.
+C. The assigning Party shall bear any and all costs and expenses with regard to its
+personnel assigned to the receiving Party’s facilities under this CRADA.  The receiving
+Party shall bear facility costs of such assignments.
+GENERAL GUIDANCE:
+If it is anticipated that personnel may be assigned back and forth between the facilities, a provision for
+such assignments must be included in the CRADA so that such assignments of personnel can be easily
+facilitated during the course of the CRADA.  The contractors should ensure that, when this article is
+being discussed, the participants are given copies of contractor regulations, procedures, policies, and
+practices for entrance of outside personnel to work in the laboratories and/or facilities, especially where
+foreign participants are involved.  DOE facilities must comply with U.S. export and security laws when
+receiving assigned foreign national partner personnel.
+
+--- page 70 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 71 (and Page 72)
+ ARTICLE XXIV:  FORCE MAJEURE
+LANGUAGE:
+No failure or omission by the Contractor or the Participant in the performance of any obligation
+under this CRADA shall be deemed a breach of this CRADA or create any liability if the same
+shall arise from any cause or causes beyond the control of the Contractor or the Participant,
+including but not limited to the following, which, for the purpose of this CRADA, shall be
+regarded as beyond the control of the Party in question:  Acts of God, acts or omissions of any
+government or agency thereof, compliance with requirements, rules, regulations, or orders of
+any governmental authority or any office, department, agency, or instrumentality thereof, fire,
+storm, flood, earthquake, accident, acts of the public enemy, war, rebellion, insurrection, riot,
+sabotage, invasion, quarantine, restriction, transportation embargoes, or failures or delays in
+transportation. 
+GENERAL GUIDANCE:
+A force majeure clause stating that neither party will be liable for unforeseeable events beyond its
+reasonable control must be included in the CRADA.  The above language may be expanded.
+
+--- page 71 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 73 (and Page 74)
+OPTION:
+The Contractor enters into this CRADA under the authority of its prime contract
+with DOE.  The Contractor is authorized to and will administer this CRADA in all
+respects unless otherwise specifically provided for herein.  Administration of this
+CRADA may be transferred from the Contractor to DOE or its designee as a
+successor to Contractor who is assuming responsibilities for the facilities
+managed by Contractor with notice of such transfer to the Participant, and the
+Contractor shall have no further responsibilities except for the confidentiality, use
+and/or nondisclosure obligations of this CRADA.  This CRADA shall be binding
+upon and inure to the benefit of the Parties, and their respective successors and
+assigns.
+GUIDANCE:  Alternative language, which may be used if desired.
+ARTICLE XXV:  ADMINISTRATION OF THE CRADA
+LANGUAGE:
+The Contractor enters into this CRADA under the authority of its prime contract with DOE.  The
+Contractor is authorized to and will administer this CRADA in all respects unless otherwise
+specifically provided for herein.  Administration of this CRADA may be transferred from the
+Contractor to DOE or its designee with notice of such transfer to the Participant, and the
+Contractor shall have no further responsibilities except for the confidentiality, use and/or
+nondisclosure obligations of this CRADA.
+GENERAL GUIDANCE:
+The CRADA must include an administration of CRADA article which says that the CRADA is entered
+into by the contractor under the authority of its prime contract with DOE.  The article must also allow
+DOE to substitute another contractor (with notice to the participant) in the event that there is a change
+of contractors at the facility.
+
+--- page 72 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 75 (Page 76)
+OPTION:
+The Participant shall maintain records of the following with respect to all
+Government property in its custody, related to the CRADA:  receipts, expenditures,
+and dispositions.  Participant represents that its accounting system is in accordance
+with generally accepted accounting principles.
+GUIDANCE:  Alternative language, which may be used if desired.
+ARTICLE XXVI:  RECORDS AND ACCOUNTING FOR
+GOVERNMENT PROPERTY
+LANGUAGE:
+The Participant shall maintain records of receipts, expenditures, and the disposition of all
+Government property in its custody related to the CRADA.
+GENERAL GUIDANCE:
+The CRADA must include a records and accounting system provision, requiring the participant to
+maintain records of receipts, expenditures, and the disposition of all Government property in its
+custody.
+Where Government property will be under the participant’s control, contractors should include
+language regarding periodic access, inspection, inventory, and records of the property.  In such a case,
+the contractor may choose to add the following language:
+The Participant shall, with reasonable notice, grant to the Government and to the
+Contractor periodic access to Participant’s premises during regular business hours for
+the purposes of inspection of CRADA-related Government property in its custody.
+
+--- page 73 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 77
+OPTION:
+B. The addresses, telephone numbers, and facsimile numbers for the Parties are as follows:
+1. For CONTRACTOR:
+U.S. Mail Only: FedEx, UPS, Freight 
+_______________ _______________
+_______________ _______________
+_______________ _______________
+a. FORMAL NOTICES AND COMMUNICATIONS, COPIES OF REPORTS
+Attn: _________________________________
+Tel: _________________________________
+Fax: _________________________________
+b. PROJECT MANAGER, REPORTS, COPIES OF FORMAL NOTICES AND COMMUNICATIONS
+Attn: _________________________________
+Tel: _________________________________
+Fax: _________________________________
+2. For PARTICIPANT:
+U.S. Mail Only: FedEx, UPS, Freight
+________________ _______________
+________________ _______________
+________________ _______________
+a. FORMAL NOTICES AND COMMUNICATIONS, COPIES OF REPORTS
+Attn: _________________________________
+Tel: _________________________________
+Fax: _________________________________
+b. PROJECT MANAGER, REPORTS, COPIES OF FORMAL NOTICES AND COMMUNICATIONS
+Attn: _________________________________
+Tel: _________________________________
+Fax: _________________________________
+GUIDANCE:  Alternative language, which may be used if desired. 
+ARTICLE XXVII:  NOTICES
+LANGUAGE:
+A. Any communications required by this CRADA, if given by postage prepaid first class
+U.S. Mail or other verifiable means addressed to the Party to receive the communication,
+shall be deemed made as of the day of receipt of such communication by the addressee,
+or on the date given if by verified facsimile.  Address changes shall be given in
+accordance with this article and shall be effective thereafter.  All such communications,
+to be considered effective, shall include the number of this CRADA.
+B. The addresses, telephone numbers, and facsimile numbers for the Parties are as follows:
+
+--- page 74 ---
+Appendix B DOE M 483.1-1
+Page 78 1-12-01
+GENERAL GUIDANCE:
+There should be a provision for communications among the parties to the CRADA for invoicing and
+receipt of funds, as well as other notices under the CRADA.  For funds-in CRADAs a billing and/or an
+invoice address for the participant can be added, if needed.
+
+--- page 75 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 79
+ARTICLE XXVIII:  DISPUTES
+LANGUAGE:
+The Parties shall attempt to jointly resolve all disputes arising from this CRADA.  If the Parties
+are unable to jointly resolve a dispute within a reasonable period of time, they agree to follow
+the dispute resolution process set forth in Appendix ____.  To the extent that there is no
+applicable U.S. Federal law, this CRADA and performance thereunder shall be governed by the
+law of the State of _________, without reference to that state’s conflict of laws provisions.
+OPTION 1:
+In the event of any controversy or claim arising under this CRADA, the Parties
+shall attempt to resolve the dispute through good faith negotiations.  If the dispute
+cannot be resolved within 15 days, the Parties agree to submit the dispute to
+mediation by a trained, experienced mediator mutually selected by the Parties. 
+The Parties agree to attempt to make such selection within 30 days after the
+dispute arises (the DOE Office of Disputes Resolution (GC-12) is available to
+assist with such selection).
+The mediation shall commence within 30 days of selection of the mediator and
+shall be held in a mutually convenient location.  The mediator’s role shall be to
+facilitate an agreement between the Parties, based on their mutual interests.  In
+the event that the Parties are unable to reach a resolution in mediation and they
+wish the mediator to proffer a nonbinding evaluation or a binding resolution, they
+must jointly request it in writing.  Should the Parties select a binding resolution by
+the mediator, the maximum dollar value of the award, whether in money,
+property, or services, must be agreed to by the Parties and approved by the
+cognizant DOE Contracting Officer.  The Parties agree to share the costs of
+mediation equally.
+Neither Party will be prevented from resorting to a judicial proceeding if (1) good
+faith efforts to resolve the dispute have been unsuccessful or (2) interim relief
+from a court is necessary to prevent serious injury.  To the extent that there is no
+applicable U.S. Federal law, this CRADA and performance thereunder shall be
+governed by the law of the State of                                     .
+GUIDANCE:  Alternative language, which may be used if desired.
+
+--- page 76 ---
+Appendix B DOE M 483.1-1
+Page 80 1-12-01
+OPTION 2:
+The Parties shall attempt to jointly resolve all disputes arising from this CRADA.  If
+the Parties are unable to jointly resolve a dispute within a reasonable period of time,
+the dispute shall be decided by the DOE Contracting Officer, who shall reduce
+his/her decision to writing within 60 days of receiving in writing the request for a
+decision by either Party to this CRADA.  The DOE Contracting Officer shall mail or
+otherwise furnish a copy of the decision to the Parties.  The decision of the DOE
+Contracting Officer is final unless, within 120 days, the Participant brings an action
+for adjudication in a court of competent jurisdiction in the State of _____________. 
+To the extent that there is no applicable U.S. Federal law, this CRADA and
+performance thereunder shall be governed by the law of the State of ____________.
+GUIDANCE:  Alternative language, which may be used if desired.
+OPTION 3:
+At the request of either Party, after reasonable attempt to settle without arbitration,
+any controversy or claim arising out of or relating to the CRADA shall be settled by
+arbitration conducted in the State of                    in accordance with the then current
+and applicable rules of the American Arbitration Association.  Judgment upon the
+award rendered by the Arbitrator(s) shall be nonbinding on the Parties.
+GUIDANCE:  Alternative language, which may be used if desired.
+GENERAL GUIDANCE:
+The CRADA must include a dispute resolution article which requires the parties to attempt to settle
+disputes themselves (with or without the assistance of third parties, such as mediators) before taking
+them to court.  If the parties are unable to jointly resolve a dispute within a reasonable period of time,
+they may agree to seek mediation, binding or  nonbinding arbitration, use the good offices of the DOE
+Contracting Officer, and/or seek adjudication in a court of competent jurisdiction.  It is strongly
+recommended that the contractor seek to include an intermediate step after it attempts to directly
+resolve the dispute with the participant before going to court.
+If mediation is undertaken, it is recommended that the confidentiality provisions of the Alternative
+Dispute Resolution Act be incorporated into the agreement to mediate.  Sample agreements are
+available from the DOE Office of Dispute Resolution.  If the parties decide to replace mediation with
+another form of Alternative Dispute Resolution, such as a neutral evaluation or mini-trial, the DOE
+Office of Dispute Resolution (GC-12) can provide information and guidance on these processes.
+
+--- page 77 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 81 (and Page 82)
+OPTION 1:
+The last sentence of paragraph A may be modified to read:
+This CRADA shall not be effective until approved by DOE and the effective date
+shall be the date when signed by the last of the Parties.
+GUIDANCE:  Alternative language, which may be used if desired.  
+OPTION 2:
+A. It is expressly understood and agreed that this CRADA with its appendixes, which
+are attached hereto and incorporated herein by reference, contains the entire
+agreement between the Parties with respect to the subject matter hereof and that all
+prior representations or agreements relating hereto have been merged into this
+document and are thus superseded in totality by this CRADA.  This CRADA shall not
+be effective until approved by DOE.
+GUIDANCE:  Alternative language, which may be used if desired.
+ARTICLE XXIX:  ENTIRE CRADA AND MODIFICATIONS
+LANGUAGE:
+A. This CRADA with its appendixes contains the entire agreement between the Parties with
+respect to the subject matter hereof, and all prior representations or agreements relating
+hereto have been merged into this document and are thus superseded in totality by this
+CRADA.  This CRADA shall not be effective until approved by DOE.
+B. Any agreement to materially change any terms or conditions of this CRADA or the
+appendixes shall be valid only if the change is made in writing, executed by the Parties
+hereto, and approved by DOE.
+(based on: 15 U.S.C. 3710a(c)(5)(C)(iv))
+GENERAL GUIDANCE:
+The CRADA must include an article stating that all the terms and conditions of the CRADA are entirely
+contained within the CRADA agreement and its appendixes (for example, Statement of Work). 
+Subsequent modifications to the CRADA must acknowledge or supersede this statement.
+
+--- page 78 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 83
+OPTION:
+The confidentiality, use, and/or non-disclosure obligations of this CRADA shall
+survive any termination of this CRADA. 
+GUIDANCE: Additional language which may, if desired, be added to the end of the second
+paragraph above.
+ARTICLE XXX:  TERMINATION
+LANGUAGE:
+This CRADA may be terminated by either Party upon ___ days written notice to the other Party. 
+This CRADA may also be terminated by the Contractor in the event of failure by the Participant
+to provide the necessary advance funding, as agreed in Article III.
+In the event of termination by either Party, each Party shall be responsible for its share of the
+costs incurred through the effective date of termination, as well as its share of the costs incurred
+after the effective date of termination, and which are related to the termination. 
+FOR CONTRACTOR:
+BY___________________________________
+TITLE________________________________
+DATE________________________________
+FOR PARTICIPANT:
+BY___________________________________
+TITLE________________________________
+DATE________________________________
+
+--- page 79 ---
+Appendix B DOE M 483.1-1
+Page 84 1-12-01
+OPTION 1:
+This CRADA may be terminated by either Party upon 30 days written notice to the
+other Party.  In the event of termination by either Party, each Party shall be
+responsible for its share of the costs incurred through the effective date of
+termination, as well as its share of the costs incurred after the effective date of
+termination, and which are related to the termination. 
+GUIDANCE:  Alternative language, which may be used if desired.
+GENERAL GUIDANCE:
+The CRADA should include a termination clause.  The termination clause may also reference Article
+III, Funding and Costs, in so far as to clearly state that “failure of the participant to provide the
+necessary advance funding, or to promptly pay the invoices rendered by the contractor is cause for
+termination of the CRADA.”
+When the contractor is entering into a CRADA with a division or subsidiary of another corporation, it
+may be desirable to add a statement to the signatory line of the participant stating that the person attests
+that he/she has the legal authority to bind the company to all the terms and conditions of the CRADA.
+
+--- page 80 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 85
+ARTICLE ___:  PROJECT MANAGEMENT
+A. Each Party shall assign and identify in writing a project manager prior to the start of the
+CRADA.  Either Party may change its project manager by providing written notification
+to the other Party.  Each project manager shall be responsible for coordinating all
+matters relating to this CRADA, any Statement of Work hereunder, and all other related
+matters between the Parties.  All communications between the Parties relating to this
+CRADA shall take place between the project managers.
+B. Project managers for this CRADA are as follows:
+for CONTRACTOR for PARTICIPANT
+____________________  ____________________
+____________________ ____________________
+____________________ ____________________
+C. The Parties will use reasonable efforts to manage the disclosure of Proprietary
+Information or Protected CRADA Information through the project managers or their
+designees; however, failure to do so will not cause any marked Proprietary Information
+or any marked Protected CRADA Information to lose the protection afforded by
+Articles VII and VIII.
+GENERAL GUIDANCE:
+This additional article has been approved for use if desired.  The same or similar information may also
+be provided under Article XXVII.B, in which case the title of that article should be “Notices and
+Project Management.”
+These additional articles have been approved for use if desired:
+Article ____:  Order of Precedence
+In the event of a conflict between the provisions of the appendixes and those of this agreement,
+this agreement shall prevail.
+
+--- page 81 ---
+Appendix B DOE M 483.1-1
+Page 86 1-12-01
+Article ____:  Waiver
+The failure of the Contractor or the Participant at any time to enforce any provisions of this
+agreement or to exercise any right or remedy shall not be construed to be a waiver of such
+provisions or of such right or remedy or of the right of the Contractor or the Participant
+thereafter to enforce each and every provision, right, or remedy.
+Article ____:  Background Intellectual Property
+The Contractor and the Participant have identified and agreed that the following Background
+Intellectual Property may be used in the performance of work under this CRADA and may be
+needed to practice the results of this CRADA:
+Contractor’s Background Intellectual Property:                                                                              
+                                                                                                                                                           
+Participant’s Background Intellectual Property:                                                                             
+                                                                                                                                                           
+The Contractor and the Participant represent that the above-identified Background Intellectual
+Property is available for licensing as of the effective date of this CRADA.
+Each Party has used reasonable efforts to list all relevant Background Intellectual Property, but
+Intellectual Property may exist that is not identified.  Neither Party shall be liable to the other
+Party because of failure to list Background Intellectual Property.
+Article ____:  Background Intellectual Property
+Each Party may use the other Party’s Background Intellectual Property identified in Appendix D
+of this CRADA solely in performance of research under the Statement of Work.  This CRADA
+does not grant to either Party any option, grant, or license to commercialize, or otherwise use
+the other Party’s Background Intellectual Property.  Licensing of Background Intellectual
+Property, if agreed to by the Parties, shall be the subject of separate licensing agreements
+between the Parties. 
+Each Party has used reasonable efforts to list all relevant Background Intellectual Property, but
+Intellectual Property may exist that is not identified.  Neither Party shall be liable to the other
+Party because of failure to list Background Intellectual Property.
+
+--- page 82 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 87
+Attachment 1
+FOCI QUESTIONNAIRE FOR APPLICABLE 
+COOPERATIVE RESEARCH AND DEVELOPMENT AGREEMENTS
+(To be used by proposed participants in technology transfer agreements involving participant access to
+classified information or special nuclear materials or unescorted access to security areas of
+Departmental facilities.  This information is requested in accordance with provisions of the Atomic
+Energy Act of 1954, as amended)
+Instructions:
+I. For the purposes of this questionnaire, a foreign interest is defined as any of the following:
+A. A foreign government or foreign government agency;
+B. Any form of business enterprise organized under the laws of any country other than the
+United States or its possessions;
+C. Any form of business enterprise organized or incorporated under the laws of the  U.S., or
+a State or other jurisdiction within the U.S., which is owned, controlled, or influenced by a
+foreign government, agency, firm, corporation or person; or
+D. Any person who is not a U.S. citizen.
+II. If your organization has not previously submitted responses to the following questions, then
+provide the information requested herein.  Answer each question in either the yes or no space.  If
+the answer to any of the questions is yes, provide the detailed information requested in the
+attached Guidelines for Completing the FOCI Certification for that specific question. 
+Information which responds to these questions and which has been previously submitted to a
+Government agency may be resubmitted for this questionnaire if the information is accurate,
+complete, and current.  
+III. If you own other entities, you must provide consolidated information for all your wholly- and
+majority-owned subsidiaries (foreign and domestic).  If you are owned by a parent organization,
+it must also complete a FOCI certification which should be submitted along with your
+certification.
+
+--- page 83 ---
+Appendix B DOE M 483.1-1
+Page 88 1-12-01
+IV. Each FOCI representation must also include the following supporting information:
+A. Identification of all your organization’s owners, officers, directors and executive personnel,
+including their names; social security numbers; citizenship; titles of all positions they hold
+within your organization; and clearances they possess, if any, and the name of the
+agency(ies) which granted the clearances.
+B. Your organization’s latest annual report and the Securities and Exchange Commission
+Form 10-K.  If you are a privately held company or a subsidiary of another corporation
+and cannot provide these documents, the appropriate official within your organization (e.g.,
+chief financial officer, treasurer, or secretary) must provide the following consolidated
+financial information for all wholly and majority-owned subsidiaries and affiliates:  assets,
+current and total; liabilities, current and total; stockholder’s equity; revenue and net
+income; and the amount of revenue derived from foreign interests.
+V. The certification of the FOCI questionnaire must be signed by an individual who can legally do so
+for the participant and may include an owner, officer, or director.
+QUESTIONS:
+1. Does a foreign interest own or have beneficial ownership in 5% or more of your organization’s
+voting securities?
+_____ Yes _____ No
+2. Does your organization own 10% or more of any foreign interest?
+_____ Yes _____ No
+3. Do any foreign interests have management positions such as directors, officers, or executive
+personnel in your organization?
+_____ Yes _____ No
+4. Does any foreign interest control or influence, or is any foreign interest in a position to control or
+influence the election, appointment, or tenure of any of your directors, officers, or executive
+personnel? 
+_____ Yes _____ No
+
+--- page 84 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 89
+5. Does your organization have any contracts, binding agreements, understandings, or arrangements
+with a foreign interest(s) that cumulatively represent 10% or more of your organization’s gross
+income? 
+_____ Yes _____ No
+6. Is your organization indebted to foreign interests? 
+_____ Yes _____ No
+7. Does your organization derive any income from sensitive countries included on the attached list?
+_____ Yes _____ No
+8. Is 5% or more of any class of your organization’s securities held in “Nominee shares,” in “street
+names,” or in some other method which does not disclose beneficial ownership of equitable title? 
+_____ Yes _____ No
+9. Does your organization have interlocking directors with foreign interests?
+_____ Yes _____ No
+10. Are there any citizens of foreign countries employed by, or who may visit, your offices or facilities
+in a capacity which may permit them to have access to classified information or a significant
+quantity of special nuclear material? 
+_____ Yes _____ No
+11. Does your organization have foreign involvement not otherwise covered in your answers to the
+above questions? 
+_____ Yes _____ No
+
+--- page 85 ---
+Appendix B DOE M 483.1-1
+Page 90 1-12-01
+CERTIFICATION:
+Check one:
+(     ) I certify that the entries made herein are accurate, complete, and current to the best of my
+knowledge and belief and are made in good faith.
+(     ) I certify that the information requested herein has been previously submitted to the
+Department of Energy as required for a facility clearance and that the information in the
+previous submission is accurate, complete, and current for the purposes of this Cooperative
+Research and Development Agreement.
+CERTIFIED BY:
+_________________________: NAME OF PARTNER REPRESENTATIVE
+_________________________: TITLE
+_________________________: STREET ADDRESS
+_________________________: CITY, STATE, ZIP CODE
+_________________________: SIGNATURE AND DATE
+
+--- page 86 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 91
+Attachment 1 (continued)
+GUIDELINES FOR COMPLETING FOREIGN
+OWNERSHIP, CONTROL, OR INFLUENCE CERTIFICATION
+Question Number 1.  Does a foreign interest own or have beneficial ownership in 5% of more of
+your organization’s voting securities?  
+Identify the percentage of any class of shares or other securities issued which are owned by foreign
+interests, listed by country.  If you answered “Yes” and have received from an investor a copy of
+Schedule 13D or Schedule 13G filed by the investor with the Securities and Exchange Commission,
+you are to attach a copy of Schedule 13D or Schedule 13G.
+Question Number 2.  Does your organization own 10% or more of any foreign interest? 
+If your answer is “Yes”, furnish the name of the foreign interest, address by country, and the percentage
+owned.  For each employee occupying a position with the foreign firm, provide the following
+information:
+1. Complete name.
+2. Citizenship.
+3. Titles of positions within the foreign entity.
+4. Clearances, if any, they possess, and by whom those clearances were granted.
+5. To what extent the employees are involved in the operations of the foreign facilities. 
+6. Whether or not any of these individuals will, by virtue of their position, knowledge, or expertise,
+require access to Department of Energy classified information.
+If the employees possess DOE clearances, or are in the process of being cleared, and hold positions
+with foreign interests, they need to complete the attached “Representative of Foreign Interest
+Statement” for each such firm.
+Does your organization have branch or sales offices or other facilities, or are you qualified to do
+business as a foreign corporation in any other countries?  If the answer is “Yes” list all.
+What percentage of your organization’s gross income is derived from your foreign subsidiaries or
+affiliates?
+
+--- page 87 ---
+Appendix B DOE M 483.1-1
+Page 92 1-12-01
+Question Number 3.  Do any foreign interests have management positions such as directors,
+officers, or executive personnel in your organization? 
+Furnish details concerning the identity of the foreign interest and the position(s) held in your
+organization, to include the amount of time the individual spends at your facility.  If the individual spends
+less than full time at your facility, provide information on how and where the rest of his/her time is spent.
+Question Number 4.  Does any foreign interest control or influence, or is any foreign interest in a
+position to control or influence the election, appointment, or tenure of any of your directors,
+officers, or executive personnel?  
+Identify the foreign interest(s) and furnish details concerning the control or influence.  If the individuals
+have been excluded from access to Department of Energy classified information by Board resolution or
+corporate exclusion, an official (signed and dated) copy of such exclusion must be submitted with this
+package.
+Question Number 5.  Does your organization have any contracts, binding agreements,
+understandings, or arrangements with a foreign interest(s) that cumulatively represent 10% or
+more of your organization’s gross income?
+Furnish the name of the foreign interest, country, and nature of agreement or involvement.  If there is no
+ownership involved in these arrangements, provide details along the same lines of information required
+for Question Number 2.  Certification should be made as to whether or not the agreements are:
+1. Purely commercial in nature.
+2. Involve defense procurement.
+3. Involve classified information.
+4. Involve sensitive countries.
+Provide the amount of revenue derived from foreign sources.  This should be provided by country. 
+Also, state the time frame, e.g., fiscal year ending December 31, 1992, during which the revenue was
+derived.  This should include revenue from all foreign sources, e.g., subsidiaries, equity income derived
+from your interest in less than wholly owned subsidiaries, export sales, divestitures to foreign interests,
+royalties from licensing and patent agreements, dividends from foreign stock holdings, and investment or
+real estate.  Compliance with export license requirements and international traffic in arms regulations
+(ITAR) requirements must be acknowledged, if applicable.
+In addition, due to the political sensitivity of some countries, the Department of Energy requires that you
+provide the following information if you derive revenue and have other understandings or arrangements
+with sensitive countries:
+1. The amount of international and export revenue.
+2. The type of service or product provided (be specific—show whether they are commercial in
+nature or involve defense procurement).
+
+--- page 88 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 93
+1 For the purposes of these guidelines, special nuclear materials shall mean quantities as defined in 10 CFR
+Part 710.
+2 If an individual has the ability and/or opportunity to obtain access to classified information or matter by being in
+a place where such information or matter is accessible, and, if the security measures which are in force do not
+prevent  the gaining of access to the classified information or matter, the FOCI review must be completed
+3. Compliance with export license and ITAR requirements, if applicable.
+4. Any other involvement not covered by the prior two elements of this question.
+NOTE:  Information provided must be audited information, and NOT MORE THAN ONE
+YEAR OLD.
+Question Number 6.  Is your organization indebted to foreign interests? 
+Report all lines of credit your organization has with foreign interests even if there is no current
+indebtedness.  Provide the following information:
+1. The amount and  type of indebtedness.
+2. If any debentures are convertible, explain under what circumstances.
+3. The name(s) of the lending institution(s) and the country(ies) in which they are located.
+4. What collateral, if any, has been furnished or pledged.
+5. The total line of credit available from these lending institutions.
+6. What percentage of your current assets does this indebtedness represent?
+7. If you have a worldwide line of credit available, what is the total line of credit available from
+foreign sources?
+NOTE:  If you own other entities, you must provide consolidated information for all of your
+wholly and majority-owned subsidiaries (foreign and domestic).
+GENERAL GUIDANCE:
+DOE operations or field offices are required to include a foreign ownership, control, or influence
+(FOCI) review as part of their security review of Cooperative Research and Development Agreements
+(CRADAs) involving Participant access to classified information, access to special nuclear materials,1
+or unescorted access to security areas within Departmental facilities.  If a CRADA does not involve
+access to classified information, special nuclear materials, or secure facilities, a FOCI review is not
+required to meet the Department’s national security obligations as mandated by the Atomic Energy Act
+of 1954, as amended.2
+
+--- page 89 ---
+Appendix B DOE M 483.1-1
+Page 94 1-12-01
+regardless of whether the CRADA involves classified matter or information.
+3 The option to return for additional information should not be used instead of a disapproval but only when the
+operations office does not have sufficient information to make an approval/disapproval decision.
+4 Nothing in this guidance relieves the obligation to address other considerations such as export control or U.S.
+competitiveness issues.  Broad concerns about existing U.S. competitiveness policies and procedures should be
+referred to the chairperson of the DOE Technology Transfer Committee for discussion.
+In those cases requiring a FOCI review, DOE must receive the prospective partner’s response to the
+eleven FOCI questions, including required additional information and the certification, prior to approval
+of the associated Joint Work Statement.  These materials should be submitted as early as possible to
+the normal Joint Work Statement/CRADA contact at DOE, for referral to the Safeguards and Security
+point of contact so that the FOCI review process may be initiated expeditiously.  If the operations
+office receives a proposed Joint Work Statement prior to submission of the needed responses to the
+FOCI questions, or a proposed CRADA prior to completion of the FOCI review and resolution of
+outstanding issues, the operations office must decide whether to return the Joint Work Statement or
+CRADA for further information or to disapprove it.3
+In general, no CRADA involving access to classified information, access to special nuclear materials, or
+unescorted access to security areas of Departmental facilities will be approved until the FOCI review is
+complete and all FOCI issues are resolved.  One option, available at operations office discretion, is to
+phase the work in such a way that unclassified activities are initiated in an earlier phase than those
+requiring access to classified information, special nuclear materials, or security areas of Departmental
+facilities.  Approval of unclassified phases of the work could precede the completion of the FOCI
+determination.  Approval of phases of the work involving classified information, special nuclear
+materials, or unescorted access to security areas of Departmental facilities must await the FOCI
+determination and resolution of any FOCI issues.  The operations office may require additional
+justification from management and operating contractors to address the risk associated with terminating
+a CRADA between phases.
+Implementation of the FOCI review should be done in a manner which ensures that DOE meets the
+statutory deadlines for processing Joint Work Statements and CRADAs.  Information submitted by the
+partner as required pursuant to the FOCI review shall be treated by the management and operating
+contractor and by DOE, to the extent permitted by law, as business or financial information submitted in
+confidence to be used solely for purposes of evaluating FOCI4.
+For CRADAs involving access to classified information or special nuclear materials or unescorted
+access to security areas of Departmental facilities, the CRADA must contain provisions which ensure
+that changes in the partner’s FOCI status are promptly reported over the term of the agreement.  If a
+partner reports such changes or if more than 5 years have passed since any previous FOCI
+determination, the management and operating contractor shall forward that information to DOE
+according to its established procedures for FOCI review.  Certain changes in the FOCI status of the
+partner in an approved CRADA could result in direction from security organizations that access of the
+partner to classified information, special nuclear materials, or security areas of Departmental facilities be
+
+--- page 90 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 95 (Page 96)
+limited.  The authority to limit access is inherent in operative DOE Orders.  If the partner becomes
+subject to FOCI and cannot, or chooses not to, avoid or mitigate the FOCI problem, and the partner’s
+access to classified information is essential to continuation of the collaborative work, the management
+and operating contractor shall provide notice of termination according to Article XXX of the CRADA
+and expedite the orderly shutdown of collaborative work.
+
+--- page 91 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 97
+Attachment 2
+U.S. COMPETITIVENESS WORK SHEET
+(For Use in Resolving Issues of U.S. Competitiveness Regarding
+Prospective Technology Transfer Agreements and Partners at DOE Laboratories)
+The Government, authorizing CRADAs, is seeking to transfer technology to companies with significant
+manufacturing and research facilities in the United States in a way which will provide short- and long-
+term benefits to the U.S. economy and the industrial competitiveness of such companies.
+The preferred benefit to the U.S. economy is the creation and maintenance of manufacturing capabilities
+and jobs within the United States.
+1. Will the Participant(s) agree, as part of the CRADA, to substantially manufacture any products,
+use any processes, or perform any services in the United States incorporating or resulting from
+inventions, copyrights, mask works, or protectable data arising from the CRADA work in which
+the Participant(s) has some commercial rights?  Yes___  No___
+2. If no, Participant(s) must furnish a description of specific economic or other benefits to the U.S.
+economy which are related to the commercial use by Participant(s) of the technology being
+funded under the CRADA and which are commensurate with the Government’s contribution to
+the proposed work.
+3. The above-described agreement and/or description of benefits will be provided by the laboratory
+to the operations office before submission of the Joint Work Statement.
+Such benefits may include one or more of the following:
+• Direct or indirect investment in U.S.-based plant and equipment.
+• Creation of new and/or higher-quality U.S.-based jobs.
+• Enhancement of the domestic skills base.
+• Further domestic development of the technology.
+• Significant reinvestment of profits in the domestic economy.
+• Positive impact on the U.S. balance of payments in terms of product and service exports as well
+as foreign licensing royalties and receipts.
+
+--- page 92 ---
+Appendix B DOE M 483.1-1
+Page 98 1-12-01
+• Appropriate recognition of U.S. taxpayer support for the technology; e.g., a quid-pro-quo
+commensurate with the economic benefit that would be domestically derived by the
+U.S. taxpayer from U.S.-based manufacture.
+• Cross-licensing, sublicensing, and reassignment provisions in licenses which seek to maximize the
+benefits to the U.S. taxpayer.
+
+--- page 93 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 99
+Attachment 3
+ABSTRACT FORMAT DESCRIPTION
+(Character limit for any one field:  2,000)
+(Character limit for all information:  9,000)
+Text only; no diagrams or flowcharts
+Due to the differences in size and complexity among software packages and the corresponding
+differences in their respective documentation requirements, a specific form for the required Abstract
+document has not been provided.  Instead, this Abstract Format Description contains a listing of the
+data elements required for the Abstract and a brief description of each data clement.  The person
+assembling the submittal package is expected to create the Abstract document using a text editor. 
+Please note that each of the listed data elements is REQUIRED, and a response for each data element
+MUST be included in the completed Abstract document.
+I. Identification.  Provide the following two fields to be used to uniquely identify the software. 
+The software acronym plus the short or KWIC (keywords in context) title will be combined to
+be used as the identification of the software.
+Software Acronym (limit 20 characters).  The name given to the main or major segment of
+module packaged usually becomes the name of the code package.  If an appropriate name is
+not obvious, invent one which is related to the contents.
+Short or KWIC title (limit 80 characters).  This title should tell something of the nature of the
+code system:  calculational method, geometry, or any feature that distinguishes this code
+package from another.  It should be telegraphic in style, with no extraneous descriptors, but
+more than a string of keywords and phrases.  The word “code” (alone) and “program” do not
+belong in a description of a code “package.”
+2. Author Name(s) and Affiliations.  List author(s) or contributor(s) names followed by the
+organizational affiliation.  If more than one affiliation is applicable, please pair authors with their
+affiliations.
+3. Software Completion Date.  List approximate date(s) that the version of the executable
+module(s), which will be created by the submitted program modules, was first used in an
+application environment.
+4. Brief Description.  Briefly describe the purpose of the computer program, state the problem
+being solved, and summarize the program functions and capabilities.  This will be the primary
+field used for announcement purposes.
+
+--- page 94 ---
+Appendix B DOE M 483.1-1
+Page 100 1-12-01
+5. Method of Solution.  Provide a short summary of the mathematical methods, engineering
+principles, numerical algorithms, and procedures incorporated into the software.
+6. Computer(s) for Which Software Is Written.  List the computer(s), i.e., IBM3033,
+VAX6220, VAX, IBM PC, on which this submittal package will run.
+7. Operating System.  Indicate the operating system used, release number, and any deviations or
+exceptions, i.e., is the operating system “off the shelf” with no modifications, or has the
+operating system been modified/customized.  If modified, note modifications in field 11.
+8. Programming Language(s) Used.  Indicate the programming language(s) in which the software
+is written along with the approximate percentage (in parentheses) of each used.  For example,
+FORTRAN IV (95%); Assembler (5%).
+9. Software Limitations.  Provide a short paragraph on any restrictions implied by storage
+allocation, such as the maximum number of energy groups and mesh points, as well as those
+due to approximations used, such as implied argument-range limitations.  Also to be used to
+indicate the maximum number of users, etc. or other limitations.
+10. Unique Features of the Software.  Highlight the advantages, distinguishing features, or special
+capabilities which may influence the user to select this package over a number of similar
+packages.
+11. Related and Auxiliary Software.  If the software supersedes or is an extension of earlier
+software, identify the original software here.  Identify any programs not considered an integral
+part of this software but used in conjunction with it (e.g., for preparing input data, plotting
+results, or coupled through use of external data files).  Note similar library software, when
+known.
+12. Other Programming or Operating Information or Restrictions.  Indicate file naming conventions
+used, e.g., (filename).DOC (DOC is a filename extension normally used to indicate a
+documentation file), additional subroutines, function libraries, installation support software, or
+any special routines required for operation of this package other than the operating system and
+programming language requirements listed in other fields.  If proprietary software is required,
+this should also be indicated.
+13. Hardware Requirements.  List hardware and installation environment requirements necessary
+for full utilization of the software.  Include memory and RAM requirements, in addition to any
+nonstandard features.
+14. Time Requirements.  Include any timing requirement estimations, both wall clock and
+computer clock, necessary for the execution of the package.  Give enough detail to enable the
+potential user to estimate the execution time for a given choice of program parameters (e.g., 5-
+10 min.).
+
+--- page 95 ---
+DOE M 483.1-1 Appendix B
+1-12-01 Page 101 (and Page 102)
+c. EDB Subject Categories - Energy-related categories (6-digit) to be assigned by
+ESTSC per the Energy Science and Technology Database (EDB) schema for a further
+breakdown of subject area.
+17. Sponsor.  This field, input by ESTSC from information provided on the Primary Submittal
+Form, represents the program office or division responsible for funding the software. 
+18. Material Available.  This field, input by ESTSC, is taken from information provided on the
+submittal forms.  It will be composed of:
+a. Contents of the package available for distribution.
+b. Computer media quantity.
+19. Status.  This field, input by ESTSC for submittals other than from SIACs, consists of a dialog
+of information concerning: when the package was announced; subsequent versions and dates;
+what level of testing has been performed at NESC, SIACs, or ESTSC; etc.
+15. References.  List citations of pertinent publications.  List (by author, title, report number, bar
+code or order number if available, and date).  References are to be broken down into two
+groupings:
+a. Reference documents that are provided with the submittal package.
+b. Any additional background reference materials generally available.
+16. Categorization and Keywords.
+a. Subject Classification Code - Chosen from the Subject Classification Guide (Appendix E
+of ESTSC--I), this one-letter code designation is to be supplied by the submitter.
+b. Keywords - Submitters should include keywords as taken from the ESTSC thesaurus
+listing (Appendix F of ESTSC--I).  Keywords chosen that are not on the list will be
+subject to ESTSC approval before being added to the thesaurus.  Subsequent revision lists
+will be available.  ESTSC may also add additional keywords to aid in the indexing of the
+material.
+Note: The box above indicates data elements that will be determined by ESTSC, consisting of data
+extracted from other information provided within the submittal package.

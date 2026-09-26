@@ -232,9 +232,11 @@ test("catalog preserves libraries and gives every source an explicit preview for
     path.join(process.env.PANTEX_TEST_MODULES, "sources.js"),
   );
   const docs = getSourceDocs();
-  assert.equal(docs.length, 7);
+  assert.ok(docs.length >= 80, `expected expanded DOE library, got ${docs.length}`);
   assert.equal(docs.filter((d) => d.folder === "pantex").length, 2);
-  assert.equal(docs.filter((d) => d.folder === "doe").length, 5);
+  assert.ok(docs.filter((d) => d.folder === "doe").length >= 78);
+  assert.ok(docs.some((d) => d.id === "src-doe-o-450-2"));
+  assert.ok(docs.some((d) => d.id === "src-10-cfr-851"));
   for (const doc of docs) {
     assert.ok(
       ["pdf", "procedure", "markdown", "text", "external"].includes(doc.format),

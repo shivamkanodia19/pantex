@@ -1,9 +1,10 @@
 "use client";
 
-import { useLayoutEffect, useRef } from "react";
+import { useLayoutEffect, useRef, useState } from "react";
 import { SectionSearch } from "@/components/section-search";
 import { chapterLinks, chapterKey } from "@/lib/section-navigation";
 import { useDocStore } from "@/lib/store";
+import type { DocChange } from "@/lib/document-data";
 import { FullDocumentReader } from "@/components/full-document-reader";
 import { DoeAnalysisPanel, statusStyles } from "@/components/change-overlay";
 import { DocumentFilePicker } from "@/components/document-file-picker";
@@ -11,6 +12,9 @@ import clsx from "clsx";
 
 const navButton =
   "rounded border border-border bg-surface px-3 py-1.5 text-xs font-medium disabled:opacity-40 focus-visible:outline-accent";
+
+const offline = process.env.NEXT_PUBLIC_STATIC_EXPORT === "true";
+const BASE = process.env.NEXT_PUBLIC_BASE_PATH || "";
 
 export function DocumentReader() {
   const {
@@ -27,7 +31,17 @@ export function DocumentReader() {
     canUndo,
     meta,
     sections,
+    siteId,
+    mergeScanChanges,
   } = useDocStore();
+
+  const [scanProgress, setScanProgress] = useState<{
+    current: number;
+    total: number;
+  } | null>(null);
+  const [scanNotice, setScanNotice] = useState<string | null>(null);
+  const scanAbort = useRef(false);
+  const scanning = scanProgress !== null;
 
   const sectionIndex = Math.max(
     0,
@@ -62,6 +76,75 @@ export function DocumentReader() {
     setReviewView(next);
   }
 
+  async function runFullScan() {
+    if (offline) {
+      setScanNotice("Full scan requires a live server (local-only export).");
+      return;
+    }
+    if (scanning || sections.length === 0) return;
+    if (!siteId.includes("cd-0039")) {
+      setScanNotice("Full RAG scan is for CD-0039. Select the official Pantex PDF first.");
+      return;
+    }
+
+    scanAbort.current = false;
+    setScanNotice(null);
+    const total = sections.length;
+    setScanProgress({ current: 0, total });
+
+    let merged = 0;
+    for (let i = 0; i < sections.length; i++) {
+      if (scanAbort.current) break;
+      const sec = sections[i];
+      setScanProgress({ current: i + 1, total });
+
+      try {
+        const res = await fetch(`${BASE}/api/scan-section`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            sectionId: sec.id,
+            sectionNumber: sec.number,
+            sectionTitle: sec.title,
+            paragraphs: sec.paragraphs.map((p) => ({ id: p.id, text: p.text })),
+          }),
+        });
+        if (!res.ok) continue;
+        const data = (await res.json()) as {
+          change?: DocChange | null;
+          skipped?: boolean;
+        };
+        if (data.change) {
+          const change: DocChange = {
+            ...data.change,
+            id: data.change.id || `chg-scan-${sec.id}`,
+          };
+          mergeScanChanges([change]);
+          merged += 1;
+        }
+      } catch {
+        // Continue remaining sections on network/parse errors.
+      }
+    }
+
+    setScanProgress(null);
+    if (scanAbort.current) {
+      setScanNotice(
+        `Scan stopped${merged ? ` · ${merged} change${merged === 1 ? "" : "s"} merged` : ""}.`,
+      );
+    } else {
+      setScanNotice(
+        merged
+          ? `Scan complete · ${merged} change${merged === 1 ? "" : "s"} merged.`
+          : "Scan complete · no new proposals.",
+      );
+    }
+  }
+
+  function stopScan() {
+    scanAbort.current = true;
+  }
+
   return (
     <div>
       <div className="mb-5 flex flex-wrap items-end justify-between gap-3">
@@ -84,10 +167,39 @@ export function DocumentReader() {
             }{" "}
             proposals awaiting review
           </p>
+          {scanNotice && (
+            <p className="mt-1 text-xs text-ink-muted">{scanNotice}</p>
+          )}
         </div>
-        <button className={navButton} disabled={!canUndo} onClick={undo}>
-          Undo
-        </button>
+        <div className="flex flex-wrap items-center gap-2">
+          {scanProgress ? (
+            <>
+              <span className="text-xs text-ink-muted">
+                Scanning {scanProgress.current}/{scanProgress.total}…
+              </span>
+              <button className={navButton} type="button" onClick={stopScan}>
+                Stop
+              </button>
+            </>
+          ) : (
+            <button
+              className={navButton}
+              type="button"
+              onClick={runFullScan}
+              disabled={sections.length === 0}
+              title={
+                offline
+                  ? "Full scan needs a live API (not available in static export)"
+                  : "Experimental: scan every section via RAG"
+              }
+            >
+              Run full scan
+            </button>
+          )}
+          <button className={navButton} disabled={!canUndo} onClick={undo}>
+            Undo
+          </button>
+        </div>
       </div>
 
       <div className="mb-5 flex flex-wrap items-center gap-2 rounded-card border border-border bg-surface p-3">

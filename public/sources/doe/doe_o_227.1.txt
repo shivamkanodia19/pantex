@@ -1,0 +1,632 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov  Office of Enterprise Assessments 
+U.S. Department of Energy ORDER 
+ Washington, D.C. 
+Approved: 08-05-2026 
+ 
+SUBJECT: INDEPENDENT OVERSIGHT PROGRAM 
+1. PURPOSE.  To prescribe the requirements and responsibilities for the Department of 
+Energy (DOE) Independent Oversight Program.  The DOE Independent Oversight 
+Program is implemented by the Office of Enterprise Assessments (EA).  EA is an 
+independent office within DOE in that it has no line management or policy-making 
+responsibilities or authorities.  The Independent Oversight Program comprises one 
+element of DOE’s multifaceted approach to oversight, as described in DOE P 226.2, 
+Policy for Federal Oversight and Contractor Assurance Systems.  Effective oversight, 
+including independent oversight of DOE federal and contractor operations, is an integral 
+part of the Department’s responsibility as a self-regulating agency to provide assurance of 
+its safety and security posture to its leadership, its workers, and the public.  The 
+Independent Oversight Program is designed to enhance without duplicating DOE safety 
+and security programs by providing the Secretary and Deputy Secretary of Energy, Under 
+Secretaries of Energy, other DOE managers, senior contractor managers, Congress, and 
+other stakeholders with an independent evaluation of the adequacy of DOE policy and 
+requirements, and the effectiveness of DOE and contractor line management performance 
+and risk management in safety and security and other critical functions as directed by the 
+Secretary.  The requirements in this directive are designed to ensure that the Independent 
+Oversight Program is implemented in a transparent, efficient, and constructive manner to 
+support the safe and secure accomplishment of DOE’s missions. 
+The Independent Oversight Program will operate in a manner to avoid unnecessary 
+duplication of oversight activities.  EA shall leverage existing assessments, reviews, and 
+performance information to the maximum extent practicable and avoid repeating 
+oversight recently performed or planned for performance in the near future.  To ensure 
+operational efficiency and avoid duplication of resources/cost, the Independent Oversight 
+Program shall not duplicate any effort which is subject to Contractor Assurance Systems, 
+as described in DOE P 226.2. 
+2. CANCELS/SUPERSEDES.  DOE O 227.1, Independent Oversight Program, dated 
+August 30, 2011.  Cancellation of a directive does not, by itself, modify or otherwise 
+affect any contractual or regulatory obligation to comply with the directive.  Contractor 
+Requirements Documents (CRDs) that have been incorporated into a contract remain in 
+effect throughout the term of the contract unless and until the contract or regulatory 
+commitment is modified to either eliminate requirements that are no longer applicable or 
+substitute a new set of requirements. 
+DOE O 227.1B
+
+--- page 2 ---
+2 DOE O 227.1B 
+ 08-05-2026 
+3. APPLICABILITY. 
+a. Departmental Elements.  Except as noted in paragraph 3.c., this Order applies to 
+all DOE elements, including the National Nuclear Security Administration 
+(NNSA). 
+The NNSA Administrator must assure that NNSA employees comply with their 
+responsibilities under this directive.  Nothing in this directive will be construed to 
+interfere with the NNSA Administrator’s authority under section 3212(d) of 
+Public Law 106-65, National Defense Authorization Act for Fiscal Year 2000, to 
+establish Administration specific policies, unless disapproved by the Secretary. 
+b. DOE Contractors.  Except for the equivalencies/exemptions in paragraph 3.c, the 
+CRD provided in Attachment 1 sets forth requirements of this Order that apply to 
+contracts that include the CRD. 
+The CRD or its requirements must be included in: 
+(1) All DOE site/facility management and operating contracts. 
+(2) DOE contracts that contain the clauses “Security requirements” (48 CFR 
+§ 952.204-2); “Classification/Declassification” (48 CFR § 952.204-70); 
+“Counterintelligence” (48 CFR § 970.5204-1); and/or “Integration of 
+environment, safety and health into work planning and execution” 
+(48 CFR § 970.5223-1). 
+c. Equivalencies/Exemptions.  Equivalencies and exemptions to this Order are 
+processed in accordance with DOE O 251.1, Departmental Directives Program, 
+current version. 
+(1) Equivalency.  In accordance with the responsibilities and authorities 
+assigned by Executive Order 12344, Naval Nuclear Propulsion Program, 
+codified at 50 U.S.C. §§ 2406, Deputy Administrator for Naval Reactors, 
+and 2511, Naval Nuclear Propulsion Program, and to ensure consistency 
+through the joint Navy/DOE Naval Nuclear Propulsion Program, the 
+Deputy Administrator for Naval Reactors (Director) will implement and 
+oversee requirements and practices pertaining to this directive for 
+activities under the Director’s cognizance, as deemed appropriate. 
+(2) Exemption.  Pursuant to Executive Order 12333, United States 
+Intelligence Activities, with respect to intelligence-related activities of the 
+Director, Office of Intelligence and Counterintelligence, this Order applies 
+only to information protection (including related physical security 
+measures) and cybersecurity measures.
+
+--- page 3 ---
+DOE O 227.1B  3 
+08-05-2026 
+4. REQUIREMENTS. 
+a. Independent Oversight Activities. 
+(1) EA must conduct independent evaluations (hereafter referred to as 
+Independent Oversight appraisals) of DOE sites, facilities, nuclear design 
+and construction projects, organizations (including DOE Headquarters), 
+and operations to evaluate the effectiveness of DOE and contractor line 
+management performance and risk management in implementing and 
+overseeing safety (nuclear and industrial) and security (cyber and physical) 
+programs, including line oversight and Contractor Assurance Systems (see 
+DOE Order 226.1, Implementation of Department of Energy Oversight 
+Policy, current version).  EA must also evaluate the adequacy of DOE 
+policy, and other critical functions when directed by the Secretary. 
+(2) EA must evaluate performance and management of safety and security 
+risks against applicable laws, statutes, rules, executive orders, national 
+standards, DOE directives, DOE-approved plans and program documents 
+(e.g., security plans, emergency plans, authorization basis documents, 
+worker safety and health programs, quality assurance program plans), 
+site-specific procedures, and contractual requirements.  This includes 
+requirements promulgated by Program Secretarial Officers and formally 
+authorized for use by organizations under their cognizance. 
+(3) EA must use a formal documented process to manage and conduct 
+Independent Oversight appraisals that are published and accessible to DOE 
+employees.  This process is provided in the Independent Oversight 
+Appraisal Process Protocols available at 
+http://energy.gov/ea/services/assessments. 
+(4) Independent Oversight appraisals must be prioritized on areas of greatest 
+potential risks and implemented in a manner that supports DOE line 
+management in accomplishing its line management oversight and 
+achieving DOE mission objectives safely and securely.  Higher priority 
+and greater emphasis is placed on conducting Independent Oversight 
+appraisals of high consequence activities, such as nuclear project design, 
+construction and commissioning; high hazard nuclear operations; 
+protection of high value security assets (e.g., Category I quantities of 
+special nuclear material and classified information assets, including 
+special access programs, Sensitive Compartmented Information, and 
+Restricted Data Sigma Categories, such as 14, 15, 18, and 20); DOE 
+systems and assets that are critical infrastructure as defined by Presidential 
+Policy Directive/PPD-21, Critical Infrastructure Security and Resilience; 
+systems or programs that can have widespread impacts (e.g., 
+interconnected computer networks); and Independent Oversight appraisals 
+required by other DOE directives.
+
+--- page 4 ---
+4 DOE O 227.1B 
+ 08-05-2026 
+Other areas of consideration for Independent Oversight appraisals are 
+organizations the performance of which may present significant risk (e.g., 
+less-than-expected safety or security performance records and/or serious 
+or recurring incidents or violations of requirements). 
+(5) Persons who perform Independent Oversight appraisals must be 
+technically qualified and knowledgeable in the areas they assess. 
+(6) EA will encourage managers from the line organization subject to an 
+appraisal to observe appraisal activities.  EA will encourage and 
+accommodate appraisal augmentees from other organizations whenever 
+feasible (see the Independent Oversight Appraisal Process Protocols). 
+b. Licensed DOE Facilities or Activities.  Independent Oversight appraisal activities 
+for DOE facilities or activities licensed by the Nuclear Regulatory Commission 
+must, except where excluded by law or DOE policy, be structured to minimize or 
+eliminate duplication of oversight efforts while ensuring DOE safety and security 
+programs0F
+1 and associated facilities are independently evaluated.  Accordingly, the 
+scheduling of independent oversight activities must take into account the 
+inspection and assessment activities of the Nuclear Regulatory Commission. 
+c. Appraisal Planning. 
+(1) Independent Oversight appraisal activities must be coordinated with 
+affected DOE line management and staff offices to promote efficient and 
+effective use of resources.  EA appraisal schedules will take into 
+consideration Program Office and Field Element assessment plans and 
+schedules.  Disagreements regarding scheduling appraisals that cannot be 
+resolved between the cognizant EA Office Director and cognizant 
+manager must be elevated through organizational management levels up to 
+and including the Deputy Secretary for resolution. 
+(2) EA shall utilize, to the maximum extent practicable, existing planned, 
+completed, and approved management assessments, Contractor Assurance 
+System assessments, external regulatory reviews, accreditation reviews, 
+peer reviews, and other oversight activities when determining the need, 
+scope, and depth of Independent Oversight appraisals.  EA will not 
+duplicate assessment topics or activities performed at/by federal and 
+contractor facilities within a 24-month window (i.e., 12 months prior to 
+EA oversight and/or planned in 12 months following EA oversight, or 
+subject to Contractor Assurance Systems) as described in DOE P 226.2. 
+ 
+1  Throughout this directive, safety and security programs means (1) programs for the protection of the public, the 
+environment, and worker health and safety; and (2) programs for the protection of security assets to include 
+special nuclear materials and classified and sensitive unclassified information in all forms.  This includes 
+cybersecurity and emergency management programs.
+
+--- page 5 ---
+DOE O 227.1B  5 
+08-05-2026 
+(3) Prior to approving an appraisal plan, EA shall document consideration of 
+existing oversight activities, including Contractor Assurance System 
+assessments, management assessments, Office of Inspector General 
+reviews, Government Accountability Office reviews, Defense Nuclear 
+Facilities Safety Board reviews, Nuclear Regulatory Commission 
+inspections, and other applicable federal or external assessments and, if 
+there exists overlap/duplication with such other oversight activities, limit 
+the scope of the appraisal plan to addressing material concerns with the 
+adequacy of the prior or overlapping assessments.  Where adequate 
+assessment coverage already exists, EA shall adjust the appraisal plan to 
+avoid duplication of such other efforts, such as if subject to Contractor 
+Assurance Systems, as described in DOE P 226.2. 
+(4) EA will issue an appraisal plan before each appraisal that communicates 
+the scope, schedule, and team composition for the appraisal to the line 
+management of the organization subject to the appraisal, to include 
+representatives of the applicable Program Office and Field Element.  In 
+some cases, an appraisal plan may cover a series of related appraisals at a 
+site or similar appraisals to be conducted at multiple sites.  EA must notify 
+the cognizant DOE line management if circumstances or conditions are 
+identified that necessitate deviating from the documented scope of the 
+appraisal and coordinate with line management to accommodate the 
+revised scope. 
+(5) Upon EA request, DOE and contractor management must provide access 
+to facilities, managers and staff, and documents or other data.  EA will 
+tailor document requests to the specific information needed to support the 
+established scope of the appraisal.  Organizations subject to appraisals 
+must identify access requirements (e.g., security, training, and personal 
+protective equipment) with sufficient lead time to allow Independent 
+Oversight personnel to gain prompt access to sites, facilities, and/or 
+networks at the onset of an appraisal. 
+(6) EA must assure that appraisal team members have no conflict of interest or 
+appearance of conflict of interest with the subjects they review. 
+(7) Select Independent Oversight appraisal activities require federal and 
+contractor representatives to serve as trusted agents.  Trusted agents assist 
+in planning and conducting performance tests and must accomplish this 
+without divulging or compromising sensitive testing information.  The 
+number of trusted agents representing the site or organization must be kept 
+to the absolute minimum, and trusted agents must have the authority to 
+make decisions regarding testing details on behalf of their 
+facility/organization.  To support safe and credible oversight activities, EA 
+will coordinate performance test scenarios with appropriate trusted agents.  
+For safeguards and security performance tests, this will include 
+coordination with the Officially Designated Federal Security Authority 
+(ODFSA) or the authority’s designee.
+
+--- page 6 ---
+6 DOE O 227.1B 
+ 08-05-2026 
+(8) EA’s performance test scenarios for force-on-force security exercises 
+support its independent assessment of the adequacy of a site’s protection 
+strategy and response plan execution and are based upon the Department’s 
+threat policy.  EA will routinely conduct performance testing using 
+scenarios representing baseline adversary threat levels and capabilities 
+against which possessing sites are expected to achieve high system 
+effectiveness.  EA and ODFSA representatives will work collaboratively 
+to plan safe and operationally credible security exercises that achieve the 
+established test objectives and minimize exercise artificialities.  Safety 
+concerns will be resolved before a security exercise is performed.  ODFSA 
+disagreements with the credibility of EA performance test scenarios (both 
+at and above baseline threat levels and capabilities) must be elevated 
+through organizational management levels (up to the Deputy Secretary if 
+necessary) until resolution is obtained.  EA oversight reports will clearly 
+delineate the nature of each performance test conducted. 
+(9) Most Independent Oversight appraisals are announced in advance to the 
+responsible DOE and contractor organization to promote effective 
+coordination and efficient resource utilization.  Where EA determines that 
+unannounced appraisals are necessary to evaluate safety and security 
+performance (e.g., cybersecurity penetration testing, limited notice 
+performance testing of critical physical and information security controls), 
+trusted agents from responsible DOE Program Offices and Field Elements 
+must be consulted in advance and kept informed as the unannounced 
+appraisal is conducted.  Safety and security considerations are paramount 
+in planning and conducting unannounced appraisals. 
+d. Conduct of Appraisals. 
+(1) The EA appraisal team leader must provide informal written (preferable) 
+or verbal information on preliminary observations from the appraisal to 
+line management’s designee at the conclusion of onsite data-collection 
+activities. 
+(2) EA must document all of its Independent Oversight appraisals.  The 
+appraisal documentation must identify the overall effectiveness of the 
+DOE and/or contractor organization in managing the appraised functions 
+and any findings that represent risks to the mission and warrant a high 
+level of management attention.  EA appraisal documents may also list 
+specific implementation deficiencies, suggested opportunities for 
+improvement to assist cognizant managers in improving programs and 
+operations, any identified best practices that could help other DOE 
+organizations solve challenging problems, and recommendations for 
+senior line management’s consideration to improve program or 
+management effectiveness (see Appendix A, Definitions).  Findings and 
+deficiencies must reference applicable requirements to facilitate 
+disposition by the site’s or program’s issues management system.
+
+--- page 7 ---
+DOE O 227.1B  7 
+08-05-2026 
+Appraisals may also identify ratings (e.g., effective performance, needs 
+improvement, or significant weakness) where appropriate to convey the 
+appraisal results. 
+(3) The factual accuracy of appraisal results must be verified by the cognizant 
+DOE management responsible for the program or activity.  For major 
+appraisals (e.g., multitopic inspections), the results will be provided to the 
+cognizant DOE Field Element and Program Office for factual accuracy 
+review.  Disagreements regarding the factual accuracy of the appraisal 
+results or findings that cannot be resolved between the cognizant EA 
+Office Director and the cognizant manager must be elevated through 
+organizational management levels, up to and including the Deputy 
+Secretary, for resolution and must consider any relevant interpretation of 
+the requirements issued by the cognizant Office of Primary Interest (OPI) 
+for the directive. 
+(4) For major Independent Oversight appraisals, EA must provide the 
+cognizant Program Secretarial Officer the opportunity to submit a written 
+management response to the conclusions and any recommendations 
+included in the final draft appraisal report.  If provided, EA will reflect this 
+response in an appendix to the final appraisal report. 
+(5) EA must coordinate with the affected cognizant Program Secretarial 
+Officers, DOE Field Elements, and Under Secretaries before briefing other 
+DOE personnel on appraisal results.  EA must coordinate with the affected 
+DOE organizations and the Departmental Representative to the Defense 
+Nuclear Facilities Safety Board (DNFSB) before briefing the DNFSB.  In 
+both situations, the secretarial officer and/or DOE Field Element manager 
+must be offered the opportunity to address the appraisal outcomes, which 
+may be accomplished verbally and/or in writing. 
+e. Response to Major Vulnerabilities or Imminent Danger. 
+(1) EA personnel must notify the cognizant DOE manager verbally as soon as 
+possible and provide written notification within 24 hours when appraisal 
+activities indicate either of the following conditions: 
+(a) An imminent danger or condition that presents an unacceptable 
+immediate risk to workers, public health, or the environment, or 
+(b) A major vulnerability (e.g., unacceptable risk of special nuclear 
+material theft or diversion, radiological or industrial sabotage, 
+espionage, or significant compromise of classified information). 
+(2) When notified of either of the above conditions, cognizant DOE 
+management must take actions to mitigate the short- and long-term risk 
+and must notify the Program Secretarial Officer within 5 working days of 
+actions taken and any compensatory measures planned.
+
+--- page 8 ---
+8 DOE O 227.1B 
+ 08-05-2026 
+(3) If the cognizant DOE management disagrees with EA’s characterization of 
+the severity of the identified condition or the need for prompt action, this 
+must immediately be brought to the attention of the Program Secretarial 
+Officer or Under Secretary as applicable, and EA Director for resolution. 
+f. Corrective Actions. 
+(1) Cognizant DOE managers must use site- and program-specific issues 
+management processes and systems developed in accordance with 
+DOE O 226.1 and Quality Assurance Programs established to meet the 
+requirements of DOE O 414.1, Quality Assurance, current version, and 
+10 CFR § 830, Nuclear Safety Management, to manage and approve 
+corrective action plans and track them to completion.  Findings and other 
+deficiencies identified in Independent Oversight appraisal reports are 
+managed in accordance with DOE O 226.1 processes. 
+(2) When requested by the cognizant DOE manager, EA may review the 
+adequacy of proposed corrective action plans developed in response to 
+appraisal results and provide comments for consideration. 
+(3) Cognizant DOE managers must provide EA with information on 
+corrective actions related to major vulnerabilities or imminent danger 
+regarding their organization, sites, and/or contractor activities 
+when requested. 
+5. RESPONSIBILITIES. 
+a. Program Secretarial Officers, including the NNSA Administrator.1F
+2 
+(1) Where appropriate, review and provide comments on the factual accuracy 
+of draft appraisal reports. 
+(2) Take timely and appropriate action to address findings identified in 
+Independent Oversight appraisal reports and approve corrective action 
+plans as appropriate.  Address other deficiencies identified in Independent 
+Oversight appraisal reports in accordance with established issues 
+management processes (DOE O 226.1, current version) and quality 
+assurance programs (DOE O 414.1, Quality Assurance, current version). 
+(3) Provide EA with requested documentation, points of contact, and access to 
+sites, facilities, networks, and operations in support of appraisal activities. 
+ 
+2  In most cases, the Program Secretarial Officer is also the lead Program Secretarial Officer for a site or facility.  If 
+the Program Secretarial Officer is not also the lead Program Secretarial Officer, the Program Secretarial Officer 
+is responsible for coordinating with the lead Program Secretarial Officer on any findings that require input or 
+action from the lead Program Secretarial Officer.
+
+--- page 9 ---
+DOE O 227.1B  9 
+08-05-2026 
+(4) Work with the EA Director to resolve disagreements on appraisal 
+schedules, appraisal results, or findings that are unable to be resolved at 
+lower organizational levels.  Escalate those issues to the Deputy Secretary, 
+if necessary, to achieve resolution. 
+b. Director, Office of Enterprise Assessments. 
+(1) Direct and manage the safety and security Independent Oversight Program. 
+(2) Develop and maintain documents that describe the safety and security 
+Independent Oversight Program and implementing methods. 
+(3) Ensure that senior EA management oversight is provided for all appraisal 
+planning, conduct, and reporting. 
+(4) Determine the appropriate distribution of appraisal reports, to include 
+applicable Program Office representatives and Heads of Field Elements, 
+and lessons learned information resulting from appraisals. 
+(5) Provide updates, as appropriate, on the status of appraisals to the 
+Secretary, Deputy Secretary, Under Secretaries, Program Secretarial 
+Officers, and applicable OPIs for DOE directives. 
+(6) Brief senior DOE officials, including the NNSA Administrator, Under 
+Secretaries, Program Secretarial Officers, OPI managers, Heads of Field 
+Elements, and senior representatives of affected contractors on the results 
+of appraisal activities where appropriate. 
+(7) Notify the DOE Inspector General when appraisal activities identify 
+concerns involving potential criminal activities and/or waste, fraud, 
+and abuse. 
+(8) Work with Program Secretarial Officers to resolve disagreements on 
+appraisal schedules, appraisal results, or findings that are unable to be 
+resolved at lower organizational levels.  Escalate those issues to the 
+Deputy Secretary, if necessary, to achieve resolution. 
+(9) Direct and manage the National Training Center (NTC) to ensure lessons 
+learned from Independent Oversight activities are integrated into NTC 
+safety and security training courses. 
+(10) Notify the applicable Program Secretarial Officer when findings identified 
+by EA have not been resolved effectively or in a timely manner.
+
+--- page 10 ---
+10 DOE O 227.1B 
+ 08-05-2026 
+c. Directors, Office of Safeguards and Security Assessments; Office of Cyber 
+Assessments; and Office of Environment, Safety and Health Assessments. 
+(1) Coordinate the scheduling, notification, and planning of appraisal 
+activities with appropriate Program Secretarial Officers and/or Heads of 
+Field Elements. 
+(2) Ensure that appraisal teams are composed of an appropriate number of 
+qualified personnel and are effectively supervised during planning, 
+conduct, and reporting of appraisal results. 
+(3) Coordinate with the applicable OPIs to ensure accurate understanding of 
+requirements related to safety and security findings and deficiencies 
+identified during appraisals. 
+(4) Formally notify the applicable OPI when findings relating to DOE policy 
+or DOE directives are identified. 
+(5) Post the title and date of all final appraisal reports on the appropriate EA 
+website.  Post a copy of final appraisal reports that do not contain or reveal 
+classified or controlled unclassified information. 
+d. Director, Office of Cyber Assessments. 
+(1) In addition to other cybersecurity appraisal activities, conduct appraisals 
+of DOE national security systems, including national security systems 
+processing intelligence information, to meet the annual independent 
+evaluation requirements of the Federal Information Security 
+Management Act. 
+(2) Coordinate with the Office of the Chief Information Officer, as the OPI, 
+and provide annual briefings to the DOE Cyber Council regarding the 
+tracking of findings and resolution of issues across the enterprise. 
+e. Heads of Field Elements.2F
+3 
+(1) Identify contracts to which the CRD requirements should apply and notify 
+the cognizant contracting officers. 
+(2) Review and resolve with EA the factual accuracy of draft appraisal reports. 
+ 
+3  Operations offices, service centers, site offices, field offices, area offices, production offices, project 
+management offices, government-owned government-operated facilities and regional offices of federally staffed 
+laboratories that report directly to a DOE Headquarters office.
+
+--- page 11 ---
+DOE O 227.1B  11 
+08-05-2026 
+(3) Take timely and appropriate action to address the findings identified in 
+Independent Oversight appraisal reports and approve corrective action 
+plans as appropriate.  Address other deficiencies identified in Independent 
+Oversight appraisal reports in accordance with established issues 
+management processes (DOE O 226.1, current version) and quality 
+assurance programs (DOE O 414.1, current version). 
+(4) Provide EA with requested documentation, points of contact, and 
+information concerning programs under their jurisdiction; ensure 
+necessary support for appraisal activities, including access to sites, 
+facilities, networks, and operations; and provide workspace for 
+appraisal teams. 
+f. Contracting Officers.  Incorporate the CRD into contracts in a timely fashion 
+upon notification of its applicability.  If delegated the authority from the Head of 
+the Field Element, the contracting officer may incorporate equivalent contract 
+clauses or requirements into contracts in lieu of the CRD. 
+g. Executive Secretary of the Special Access Program Oversight Committee.  Assist 
+EA in obtaining access to special access programs as required to provide effective 
+independent oversight of the overall DOE security program. 
+h. Offices of Primary Interest (for DOE Directives). 
+(1) As applicable, review and comment on the factual accuracy of draft 
+Independent Oversight appraisal reports. 
+(2) Evaluate findings regarding DOE policies, DOE directives, or activities of 
+the OPI that are identified and transmitted by EA.  Document decisions on 
+the need for corrective actions and track all actions to closure. 
+(3) Provide clarification regarding requirements contained in DOE directives 
+under their cognizance and issue written authoritative interpretations of 
+such requirements when necessary or when requested by EA or a DOE 
+line organization. 
+6. REFERENCES. 
+a. DOE P 226.2, Policy for Federal Oversight and Contractor Assurance Systems, 
+current version, which establishes DOE’s expectations for implementation of a 
+comprehensive and robust oversight process. 
+b. DOE O 226.1, Implementation of Department of Energy Oversight Policy, current 
+version, which establishes requirements and provides direction for implementing 
+DOE P 226.2. 
+c. DOE O 251.1, Departmental Directives Program, current version, which 
+establishes requirements and responsibilities for implementing the DOE 
+Directives Program.
+
+--- page 12 ---
+12 DOE O 227.1B 
+ 08-05-2026 
+d. DOE O 414.1, Quality Assurance, current version, which establishes 
+requirements for ensuring that DOE work meets requirements and expectations, 
+and that quality improvement is effected through rigorous assessments and 
+effective corrective actions. 
+e. DOE O 470.4, Safeguards and Security Program, current version, which 
+establishes requirements and responsibilities for managing DOE safeguards 
+and security programs, including managing safeguards and security-related 
+corrective actions. 
+f. Presidential Policy Directive/PPD-21, Critical Infrastructure Security and 
+Resilience, current version, which establishes a national policy and federal 
+government roles and responsibilities for strengthening the security and resilience 
+of United States critical infrastructure against physical and cyberthreats. 
+g. 10 CFR § 830, Nuclear Safety Management, which establishes requirements for 
+the conduct of activities that may affect the safety of DOE nuclear facilities. 
+7. DEFINITIONS.  See Appendix A. 
+8. CONTACT.  Questions concerning this Order should be directed to the Office of 
+Enterprise Assessments at (202) 586-0271. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ 
+JAMES P. DANLY 
+Deputy Secretary
+
+--- page 13 ---
+DOE O 227.1B Appendix A 
+08-05-2026 Page A-1 
+APPENDIX A 
+DEFINITIONS 
+1. Appraisal.  An Independent Oversight activity conducted by the Office of Enterprise 
+Assessments to evaluate the effectiveness of line management performance and risk 
+management or the adequacy of DOE policies and requirements. 
+2. Best Practice.  A safety or security-related practice, technique, process, or program 
+attribute observed during an appraisal that may merit consideration by other DOE and 
+contractor organizations for implementation because it (1) has been demonstrated to 
+substantially improve safety or security performance of a DOE operation; (2) represents 
+or contributes to superior performance (beyond compliance); (3) solves a problem or 
+reduces the risk of a condition or practice that affects multiple DOE sites or programs; or 
+(4) provides an innovative approach or method to improve effectiveness or efficiency. 
+3. Cognizant Manager.  The DOE field or Headquarters manager who is directly responsible 
+for program management and direction and the development and implementation of 
+corrective actions.  Cognizant managers may be line managers or managers of 
+support organizations. 
+4. Deficiency.  An inadequacy in the implementation of an applicable requirement or 
+performance standard that is found during an appraisal.  Deficiencies may serve as the 
+basis for one or more findings. 
+5. Directives.  Defined in DOE O 251.1, Departmental Directives Program, current version. 
+6. Findings.  Deficiencies that warrant a high level of attention on the part of management.  
+If left uncorrected, findings could adversely affect the DOE mission, the environment, 
+worker safety or health, the public, or national security.  Findings define the specific 
+nature of the deficiency, whether it is localized or indicative of a systemic problem, and 
+identify which organization is responsible for corrective actions. 
+7. Imminent Danger:  Conditions or practices in the workplace where a danger exists which 
+could reasonably be expected to cause death or serious physical harm either immediately 
+or before the abatement of such danger, through normal procedures, would otherwise 
+be required. 
+8. Independent Oversight.  Refers exclusively to oversight by DOE Headquarters 
+organizations that do not have line management responsibility for the activity.  Oversight 
+by supporting organizations that are direct reports to line management is not considered 
+DOE independent oversight.  Within DOE, the sole responsibility for independent 
+oversight of safety and security programs resides with the Office of Enterprise 
+Assessments, reporting directly to the Office of the Secretary of Energy. 
+9. Line Management.  The unbroken chain of responsibility that extends from the Secretary 
+of Energy to the Deputy Secretary, to the Secretarial Officers who set program policy and 
+plans and develop assigned programs, to the program and Field Element Managers, and 
+to the contractors and subcontractors who are responsible for execution of these 
+programs.  It is distinct from DOE support organizations, such as the Office of
+
+--- page 14 ---
+Appendix A DOE O 227.1B 
+Page A-2 08-05-2026 
+Environment, Health, Safety and Security, Office of Management, and Office of the Chief 
+Information Officer, which also have responsibilities and functions important to security 
+and safety. 
+10. Major Vulnerability.  A vulnerability which, if detected and exploited, could reasonably 
+be expected to result in a successful attack causing serious damage to national security. 
+11. Opportunities for Improvement.  Suggestions offered in Independent Oversight appraisal 
+reports that may assist cognizant managers in improving programs and operations.  While 
+they may identify potential solutions to findings and deficiencies identified in appraisal 
+reports, they may also address other conditions observed during the appraisal process.  
+Opportunities for improvement are provided only as recommendations for line 
+management consideration; they do not require formal resolution by management through 
+a corrective action process. 
+12. Performance Testing.  Activities conducted to evaluate all or selected portions of safety 
+and security systems, networks, or programs as they exist at the time of the test.  
+Performance testing includes, but is not limited to, force-on-force exercises, tabletop 
+exercises, knowledge tests, limited-scope performance tests, limited-notice performance 
+tests, penetration testing, vulnerability scanning, continuous automated scanning, and 
+cybersecurity “red teaming.”  Performance testing can be conducted as part of a 
+scheduled appraisal activity (i.e., announced), or without prior knowledge of the entity 
+being tested (i.e., unannounced). 
+13. Policy.  The term “DOE policy” or “policy,” when used in lower case in this Order, is 
+meant to be all inclusive of documents describing the philosophies, fundamental values, 
+administration, requirements, and expectations for operation of the Department.  It 
+includes but is not limited to DOE policies and other types of directives issued under 
+DOE O 251.1. 
+14. Program Secretarial Officers.  Heads of DOE Departmental Elements listed on the Office 
+of Management website at 
+https://www.directives.doe.gov/references/doe_departmental_elements. 
+15. Recommendations.  Suggestions for senior line management’s consideration for 
+improving program or management effectiveness.  Recommendations transcend the 
+specifics associated with findings, deficiencies, or opportunities for improvement and are 
+derived from the aggregate consideration of the results of the appraisal. 
+16. Safety and Security Programs.  Includes (1) programs for the protection of the public, the 
+environment, and worker health and safety and (2) programs for the protection of security 
+assets to include special nuclear materials and classified and sensitive unclassified 
+information in all forms.  Within the scope of this directive, safety and security programs 
+include cybersecurity and emergency management programs.
+
+--- page 15 ---
+DOE O 227.1B Attachment 1 - CRD, Contractors Only 
+08-05-2026 Page 1-1 
+ATTACHMENT 1 
+CONTRACTOR REQUIREMENTS DOCUMENT (CRD) 
+DOE O 227.1B, INDEPENDENT OVERSIGHT PROGRAM 
+Regardless of the performer of the work, the contractor is responsible for complying with the 
+requirements of this CRD.  The contractor is responsible for flowing down the requirements of 
+this CRD to subcontractors at any tier to the extent necessary to ensure the contractor’s 
+compliance with the requirements. 
+The contractor must meet the following requirements: 
+1. The contractor must support the conduct of Independent Oversight appraisal activities 
+conducted by the Office of Enterprise Assessments (EA) at sites and facilities for which 
+they are responsible.  This support includes, but is not limited to, providing the following: 
+a. Timely identification of points of contact to provide information and support 
+during appraisals; 
+b. Documentation and information concerning safety and security programs3F
+4 for 
+which they are responsible; 
+c. Access to contractor-managed facilities, networks, and personnel; and 
+d. Work space and administrative support for appraisal teams. 
+2. When notified by EA of an imminent danger or condition or major vulnerability that 
+presents an unacceptable immediate risk to workers, the public, the environment, or 
+national security, the responsible contractor organization must take the following actions 
+in coordination with DOE line management: 
+a. Promptly identify and implement immediate compensatory actions to mitigate 
+the condition, 
+b. Within 5 working days, notify the cognizant DOE line manager of actions taken 
+and compensatory measures planned, and 
+c. Develop and implement actions (including determining costs and identifying 
+funds) to eliminate the vulnerability or reduce the level of risk to an acceptable 
+level as soon as possible. 
+ 
+4  Throughout this document, safety and security programs means (1) programs for the protection of the public, the 
+environment, and worker health and safety and (2) programs for the protection of security assets to include 
+special nuclear materials and classified and sensitive unclassified information in all forms.  This includes 
+cybersecurity and emergency management programs.
+
+--- page 16 ---
+Attachment 1 - CRD, Contractors Only DOE O 227.1B 
+Page 1-2 08-05-2026 
+3. When requested, the contractor must review and provide comments on the factual 
+accuracy of draft appraisal reports through the responsible DOE field element. 
+4. Draft appraisal reports provided to contractors for review must only be shared with 
+personnel within their organization, parent corporations, and subcontractors for the 
+purpose of factual-accuracy evaluation and initial corrective-action development and 
+implementation. 
+5. The contractor must prepare, implement, and track to completion corrective actions to 
+address findings identified in EA appraisal reports in accordance with established issues 
+management systems (DOE O 226.1, current version) and quality assurance programs 
+(DOE O 414.1, current version, and 10 CFR § 830, Nuclear Safety Management). 
+6. The contractor must provide information on corrective actions to DOE when requested to 
+support EA appraisal activities.

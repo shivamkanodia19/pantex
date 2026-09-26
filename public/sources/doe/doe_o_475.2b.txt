@@ -1,0 +1,2727 @@
+--- page 1 ---
+U.S. Department of Energy	 ORDER 
+Washington, DC DOE O 475.2B 
+Approved: 10-3-2014 
+SUBJECT: IDENTIFYING CLASSIFIED INFORMATION 
+1.	 PURPOSE. To establish the program to identify information classified under the Atomic 
+Energy Act [Restricted Data (RD), Formerly Restricted Data (FRD), and Transclassified 
+Foreign Nuclear Information (TFNI)] or Executive Order (E.O.) 13526 [National 
+Security Information (NSI)], so that it can be protected against unauthorized 
+dissemination. 
+2.	 CANCELLATION. DOE O 475.2A, Identifying Classified Information, dated 2-1-11. 
+Cancellation of a directive does not, by itself, modify or otherwise affect any contractual 
+or regulatory obligation to comply with the directive. Contractor Requirements 
+Documents (CRDs) that have been incorporated into a contract remain in effect 
+throughout the term of the contract unless and until the contract or regulatory 
+commitment is modified to either eliminate requirements that are no longer applicable or 
+substitute a new set of requirements. 
+3.	 APPLICABILITY. 
+a.	 Departmental Applicability. This Order applies to all Departmental elements that 
+may generate classified information, documents, or material. 
+(1)	 The Administrator of the National Nuclear Security Administration 
+(NNSA) will assure that NNSA employees and contractors comply with 
+their respective responsibilities under this directive. Nothing in this Order 
+will be construed to interfere with the NNSA Administrator’s authority 
+under section 3212(d) of Public Law (P.L.) 106-65 to establish 
+Administration-specific policies, unless disapproved by the Secretary. 
+(2)	 The Bonneville Power Administrator (BPA) will assure that BPA 
+employees and contractors comply with their respective responsibilities 
+under this directive consistent with BPA's procurement and self-financing 
+authorities. 
+(3)	 The Director, Office of Intelligence and Counterintelligence (IN), will 
+assure that IN employees, contractors, and NT-50 users comply with their 
+respective responsibilities under this Order. Nothing in this Order will be 
+construed to interfere with requirements outlined in Intelligence 
+Community (IC) Directives (ICDs) and other ICDs and IC Policy 
+Guidance (ICPG) concerning the classification and security of IC 
+information and documents pursuant to Executive Order 12333. 
+b.	 DOE Contractors. Except for the equivalency in paragraph 3.c.(3), the CRD 
+(Attachment 1) sets forth requirements of this Order that will apply to contracts 
+that include the CRD. The CRD must be included in contracts that may generate 
+classified information, documents, or material. 
+AVAILABLE ONLINE AT:	 INITIATED BY: 
+www.directives.doe.gov	 Office of Environment, Health, Safety and Security
+
+--- page 2 ---
+2 DOE O 475.2B 
+10-3-2014 
+c.	 Equivalencies/Exemptions for this Order. 
+(1)	 Requests for equivalencies/exemptions to this Order from DOE (not 
+including NNSA) are granted by the Director, Office of Classification. 
+Requests from NNSA are granted by the NNSA Classification Officer, in 
+consultation with the Director, Office of Classification. 
+(2)	 Requests must be submitted in writing by heads of Headquarters elements 
+or managers of field elements and must: 
+(a)	 Identify the Order requirement for which the equivalency or 
+exemption is being requested; 
+(b)	 Explain why the equivalency or exemption is needed; and 
+(c)	 If requesting an equivalency, describe the alternate measures for 
+addressing the requirement. 
+(3)	 Equivalency. In accordance with the responsibilities and authorities 
+assigned by E.O. 12344, codified at 50 USC sections 2406 and 2511 and 
+to ensure consistency through the joint Navy/DOE Naval Nuclear 
+Propulsion Program, the Deputy Administrator for Naval Reactors 
+(Director) will implement and oversee requirements and practices 
+pertaining to this Directive for activities under the Director's cognizance, 
+as deemed appropriate. 
+4.	 REQUIREMENTS. 
+a.	 Each Headquarters and field element that generates classified information, 
+documents, or material must maintain a classification program that ensures the 
+identification of classified information through the accurate and accountable 
+application of classification standards. 
+b.	 Each Headquarters element that oversees subordinate field elements or 
+subordinate contractors that generate classified information, documents, or 
+material must have a Program Classification Officer. The Program Classification 
+Officer will also serve as the Headquarters Classification Representative for his or 
+her element. The position of Program Classification Officer may be filled by a 
+person from outside the element who meets the qualifications for the position. 
+c.	 Each Headquarters element that has Federal or contractor employees who 
+generate classified information, documents, or material must have a Headquarters 
+Classification Representative if they do not have a Program Classification Officer. 
+The position of Headquarters Classification Representative may be filled by a 
+Program Classification Officer or Headquarters Classification Representative 
+from outside the element. Alternate Headquarters Classification Representatives 
+may be appointed in accordance with Attachment 2, Appointment of 
+Classification Officials.
+
+--- page 3 ---
+3 DOE O 475.2B 
+10-3-2014 
+d.	 Each field element that generates classified information, documents, or material 
+or oversees one or more contractors who generate classified information, 
+documents, or material must have a Classification Officer. This requirement may 
+be fulfilled by a Classification Officer within the field element or from outside the 
+field element. 
+e.	 Documents and material must be reviewed, classified, declassified, downgraded, and 
+upgraded as specified in Attachment 4, Classification/Declassification Review 
+Requirements. 
+f.	 Classified information contained in documents or material must be correctly 
+identified, basing such determinations on current classification guidance 
+developed in accordance with Attachment 3, Classification Guidance, or source 
+documents as permitted by paragraph 1.b. of Attachment 4, 
+Classification/Declassification Review Requirements. Appropriate classification 
+and declassification markings must be placed on the documents or material in 
+accordance with Attachment 4, Classification/Declassification Review 
+Requirements. 
+g.	 Information, documents, and material must be classified, declassified, 
+downgraded, or upgraded only by individuals with appropriate authorities in 
+accordance with Attachment 2, Appointment of Classification Officials. 
+h.	 Classification officials with appropriate authority who misclassify documents or 
+material must not face penalties as long as such determinations are within their 
+authority and are based on reasonable interpretations of guidance. 
+i.	 Classification guidance must be identified or the use of source documents must be 
+approved for all DOE or non-DOE-funded work performed in a classified subject 
+area that may generate derivatively classified documents or material. The guidance 
+must satisfy the requirements of Attachment 3, Classification Guidance, or 
+Attachment 4, Classification/Declassification Review Requirements. 
+j.	 Classification officials must be provided with current and appropriate classification 
+guidance. 
+k.	 Classification challenges and declassification proposals must be processed in 
+accordance with Attachment 4, Classification/Declassification Review 
+Requirements. 
+l.	 Each Headquarters and field element classification program must be periodically 
+evaluated as described in Attachment 5, Classification Program Evaluations. 
+m.	 Training programs must be conducted in accordance with Attachment 6, 
+Classification Education Program, to ensure that employees serving as classification 
+officials are competent to perform their classification-related responsibilities.
+
+--- page 4 ---
+4 DOE O 475.2B 
+10-3-2014 
+n.	 Employees with authorized access to classified information must receive a 
+classification awareness briefing when they are first authorized access and 
+annually thereafter that, at a minimum, covers the information in Attachment 6, 
+Classification Education Program, paragraph 1.b. 
+o.	 Classified information in documents requested under statute or Executive order 
+must be identified, reviewed, bracketed, and submitted in accordance with 
+Attachment 7, Freedom of Information Act/Privacy Act and Mandatory 
+Declassification Review Requirements, and Attachment 8, Bracketing and 
+Redaction Procedures. 
+5.	 RESPONSIBILITIES. 
+a.	 Deputy Secretary. 
+(1)	 Resolves all disagreements submitted by the NNSA Administrator 
+concerning final determinations made by the Office of Environment, 
+Health, Safety and Security involving information under NNSA’s 
+cognizance. 
+(2)	 Performs duties of 5b, as necessary. 
+b. Associate Under Secretary for Environment, Health, Safety and Security. 
+(1)	 Establishes classification program requirements under the Atomic Energy 
+Act and E.O. 13526, Classified National Security Information. 
+(2)	 Serves as the Senior Agency Official for DOE under E.O. 13526. 
+(3)	 Determines when RD may be transclassified to FRD or TFNI. 
+(4)	 Determines when RD and TFNI may be declassified and, in coordination 
+with the Department of Defense, when FRD may be declassified. 
+(5)	 Ensures the Department’s compliance with E.O. 13526 and Title 10 Code 
+of Federal Regulations (CFR) Part 1045, Nuclear Classification and 
+Declassification, through on-site classification program evaluations. 
+(6)	 Concurs on the classification of an unmarked document found to contain 
+classified information after the public requests the document under statute 
+or Executive order. 
+(7)	 Makes the final appeal determination concerning the denial of any RD, 
+FRD, or TFNI contained in a document requested under the Freedom of 
+Information Act or the mandatory declassification review provisions of 10 
+CFR § 1045.42, coordinating with the NNSA Chief of Defense Nuclear 
+Security for information under NNSA cognizance.
+
+--- page 5 ---
+5 DOE O 475.2B 
+10-3-2014 
+(8)	 Makes the final internal appeal determination concerning the denial of any 
+NSI contained in a document requested under the Freedom of Information 
+Act or the mandatory declassification review provisions of E.O. 13526 for 
+NSI. Ensures that the challenger is informed of his or her right to appeal 
+to the Interagency Security Classification Appeals Panel (ISCAP). 
+(9)	 Makes the final appeal determination concerning any formal classification 
+challenges for RD, FRD, and TFNI. 
+(10)	 Makes the final internal appeal determination for any formal classification 
+challenges for NSI and ensures that the challenger is informed of his or 
+her right to appeal to the ISCAP. 
+(11)	 Appoints Secret and Confidential Original Classifiers for DOE (not 
+including NNSA). Coordinates with NNSA on Secret and Confidential 
+original classification delegations, when necessary. 
+(12)	 Reports delegations of original classification authority to the Information 
+Security Oversight Office (ISOO) annually. 
+c.	 Director, Office of Classification. 
+(1)	 Serves as the DOE Restricted Data Management Official under 
+10 CFR § 1045.33. 
+(2)	 Develops, issues, and interprets policies and procedures to implement 
+DOE’s classification program under the Atomic Energy Act, 10 CFR part 
+1045, E.O. 13526, and 32 CFR part 2001. 
+(3)	 Implements the DOE classification program. 
+(4)	 Downgrades or upgrades the classification level of RD or FRD 
+information with the concurrence of the Program Office with cognizance 
+over the information. 
+(5)	 Coordinates activities for which NNSA has cognizance over the 
+information with the NNSA Chief of Defense Nuclear Security. 
+(6)	 Coordinates the classification, transclassification, or declassification of 
+any information with the Program Office with cognizance over the 
+information. 
+(7)	 Originally classifies as NSI any information under DOE’s cognizance, 
+declassifies any NSI under DOE’s cognizance, and downgrades or 
+upgrades the classification level of any NSI under DOE’s cognizance, 
+with the concurrence of the Program Office with cognizance over the 
+information.
+
+--- page 6 ---
+6 DOE O 475.2B 
+10-3-2014 
+(8)	 Evaluates Headquarters and field element classification programs to 
+ensure compliance with national and DOE policy in accordance with 
+Attachment 5, Classification Program Evaluations. 
+(9)	 Approves and cancels all classification guidance, with the concurrence of 
+the NNSA Classification Officer for information under NNSA’s 
+cognizance. 
+(10)	 Conducts fundamental classification guidance reviews in accordance with 
+section 1.9 of E.O. 13526 and 32 CFR § 2001.91(c). 
+(11)	 Performs the duties of the Classification Officer for DOE (not including 
+NNSA) Headquarters elements. 
+(12)	 Makes the initial determination pertaining to the challenge of a 
+classification determination concerning RD/FRD/TFNI or NSI. 
+(13)	 Serves as the Denying Official for any classified information contained in 
+a document requested under statute or Executive order. 
+(14)	 Classifies an unmarked document found to contain classified information 
+after the public requests the document under statute or Executive order 
+and coordinates the classification with the Senior Agency Official for such 
+NSI determinations. 
+(15)	 Manages and conducts the training of Program Classification Officers, 
+Classification Officers, Headquarters Classification Representatives, 
+Alternate Headquarters Classification Headquarters Representatives, 
+Original Classifiers, Derivative Declassifiers, and Headquarters Derivative 
+Classifiers. 
+(16)	 Appoints DOE (not including NNSA) Federal and contractor 
+Classification Officers as Derivative Classifiers. 
+(17)	 Appoints DOE (not including NNSA) Program Classification Officers, 
+Classification Officers, Headquarters Classification Representatives, 
+Alternate Headquarters Representatives, Derivative Declassifiers, and 
+Headquarters Derivative Classifiers and terminates any appointments or 
+authorities granted to these classification officials, as appropriate. 
+(18)	 Ensures that patent applications and reports of inventions or discoveries 
+covered by section 151 of the Atomic Energy Act are reviewed to 
+determine whether to impose a secrecy order under the Invention Secrecy 
+Act of 1951 or whether to control as RD. 
+(19)	 Coordinates the search for and processing of documents requested under 
+the mandatory declassification review provisions of 10 CFR part 1045 or 
+section 3.5 of E.O. 13526.
+
+--- page 7 ---
+7 DOE O 475.2B 
+10-3-2014 
+(20)	 Conducts all coordination required to declassify a document or material 
+that contains foreign government information. 
+(21)	 Conducts any interagency coordination required to declassify a document 
+or material containing information under the cognizance of another 
+Agency when the document or material relates to litigation or is requested 
+under statute or Executive order. 
+(22)	 Establishes a system for processing, tracking, and recording formal 
+classification challenges and declassification proposals made by 
+authorized holders of classified information. 
+(23)	 Coordinates with the cognizant Classification Officer, Program 
+Classification Officer, or Headquarters Classification Representative, as 
+appropriate, and responds to formal challenges and declassification 
+proposals received. 
+(24)	 Consolidates classification program data and reports such data to the 
+ISOO annually as required by 32 CFR § 2001.90. 
+(25)	 Grants equivalencies and exemptions to this order for DOE (not including 
+NNSA). 
+d.	 NNSA Chief of Defense Nuclear Security. 
+(1)	 Oversees the NNSA enterprise-wide classification program. 
+(2)	 Concurs on any classification, declassification, and transclassification 
+action made by the Associate Under Secretary for Environment, Health, 
+Safety and Security or the Director, Office of Classification, concerning 
+RD or FRD information under NNSA’s cognizance. 
+(3)	 Develops and issues NNSA-specific instructions for implementing this 
+Order as necessary. 
+(4)	 Appoints NNSA Secret and Confidential Original Classifiers in 
+consultation with the Senior Agency Official for E.O. 13526. Appoints an 
+NNSA Program Classification Officer with the following additional 
+Classification Officer functions: 
+(a)	 Grants equivalencies and exemptions to this order for NNSA in 
+consultation with the Director, Office of Classification. 
+(b)	 Appoints NNSA Federal and contractor Classification Officers as 
+Derivative Classifiers. 
+(c)	 Appoints NNSA Federal and contractor classification officials, 
+including Classification Officers, Headquarters Classification
+
+--- page 8 ---
+8 DOE O 475.2B 
+10-3-2014 
+Representatives, Derivative Declassifiers, and Headquarters 
+Derivative Classifiers. 
+(d)	 Concurs on all classification guidance concerning information 
+under NNSA’s cognizance. 
+(e)	 Requests and monitors the training and testing of NNSA Original 
+Classifiers, Classification Officers, Derivative Declassifiers, 
+Headquarters Classification Representatives, and Headquarters 
+Derivative Classifiers. 
+e.	 Director, Office of Intelligence and Counterintelligence. 
+(1)	 Ensures that any conflicts between ICDs or ICPGs and this Order are 
+coordinated with the Director, Office of Classification, and the IN 
+Program Classification Officer. 
+(2)	 Oversees classification actions involving sensitive compartmented 
+information, including the activities of Field Intelligence Elements and 
+Field Counterintelligence Offices. 
+(3)	 Ensures that intelligence and counterintelligence-related classification 
+guidance for non-DOE-funded work conforms to existing DOE 
+classification policy. 
+(4)	 Ensures that classified documents are marked in accordance with 
+procedures promulgated by the Director of National Intelligence 
+(DNI). 
+(5)	 Ensures that marking procedures for DOE equities (e.g., RD, FRD, TFNI) 
+are properly addressed in DNI procedures. 
+(6)	 Nominates a Federal employee to serve as Program Classification Officer 
+to provide oversight of the classification programs at Field Intelligence 
+Elements and Field Counterintelligence Offices and to coordinate between 
+these programs and the Director, Office of Classification. 
+(7)	 Coordinates with the cognizant Classification Officer to ensure Field 
+Intelligence Elements and Field Counterintelligence Offices are 
+evaluated in accordance with Attachment 5, Classification Program 
+Evaluations. 
+f.	 Director, Office of Public Affairs, and offices responsible for official 
+communications with the public. Ensure that documents in a classified subject 
+area intended for public release are coordinated with the cognizant Classification 
+Officer for review prior to release.
+
+--- page 9 ---
+9 DOE O 475.2B 
+10-3-2014 
+g.	 Heads of Headquarters Elements and Managers of Field Elements. 
+(1)	 Provide sufficient staffing for implementation and oversight of the 
+classification program within the element to ensure the identification of 
+classified information through the accurate and accountable application of 
+classification standards. Ensure that contracting officers are notified of any 
+contracts generating classified information, documents, or material so that 
+DEAR clause 952.204-70, "Classification/Declassification," DEAR clause 
+970.5204-1, “Counterintelligence,” for M&O and other facilities 
+management contracts, and the contents of the CRD for this Order are 
+incorporated into those contracts. 
+(2)	 Ensure performance awards incorporate performance of classification 
+requirements into award fee determinations. 
+(3)	 Ensure that a satisfactory level of performance of the requirements in this 
+Order is maintained, to include holding personnel accountable for 
+implementing the requirements, as appropriate. 
+(4)	 Ensure that classified information contained in documents or material is 
+correctly identified, and the appropriate classifier markings are placed on 
+such documents or material. 
+(5)	 Ensure that documents or material are reviewed, classified, declassified, 
+downgraded, and upgraded as specified in Attachment 4, 
+Classification/Declassification Review Requirements. 
+(6)	 Ensure that documents in classified subject areas that are intended for 
+public release (e.g., for a publicly available webpage, for news 
+organizations), including documents provided to or testimony given to 
+Congress, are coordinated with the appropriate Classification Officer for 
+review prior to release. 
+(7)	 Ensure that comprehensive searches are conducted for documents 
+responsive to Freedom of Information Act requests or mandatory 
+declassification review requests under 10 CFR § 1045.42 and section 3.5 
+of E.O. 13526 in response to an inquiry from the Director, Office of 
+Classification. 
+(8)	 Ensure that classification guidance for sensitive compartmented 
+information programs or special access programs concerning information 
+under the Headquarters’ or field element’s purview is developed and that 
+the Director, Office of Classification, or his or her designee is provided 
+access to such classification guidance. 
+(9)	 Nominate a Federal employee to serve as Program Classification Officer, 
+Field Element Classification Officer, Headquarters Classification 
+Representative, or Alternate Headquarters Classification Representative,
+
+--- page 10 ---
+10 DOE O 475.2B 
+10-3-2014 
+as appropriate in accordance with the requirements in Attachment 2, 
+Appointment of Classification Officials. 
+(10)	 Ensure Program Classification Officers, Field Element Classification 
+Officers, Headquarters Classification Representatives, or Alternate 
+Headquarters Classification Representatives have access to senior 
+management when necessary. 
+(11)	 Ensure that work in a classified subject area funded by a non-DOE entity 
+is not started until classification guidance that has been certified by a 
+Classification Officer or Program Classification Officer, as appropriate, is 
+provided, unless the use of source documents is authorized. 
+(12)	 Ensure that all employees authorized access to classified information 
+complete a classification awareness briefing when they first receive their 
+clearances and at least annually thereafter. 
+(13)	 Ensure that classification officials with appropriate authority who 
+misclassify documents or materials do not face penalties as long as such 
+determinations are within their authority and are based on reasonable 
+interpretations of guidance. 
+(14)	 Ensure that employees who formally challenge the classification of 
+information are not subject to retribution. 
+(15)	 Ensure that employees who submit declassification proposals are not 
+subject to retribution. 
+(16)	 Ensure that evaluations, self-assessments, classification decision reviews, 
+and corrective action plans are completed and reports are submitted in 
+accordance with Attachment 5, Classification Program Evaluations. 
+(17)	 Ensure that the performance contract or other system used to rate Federal 
+personnel performance includes the management of classified information 
+as a critical element or item to be evaluated in the rating of Program 
+Classification Officers, Classification Officers, Headquarters 
+Classification Representatives, Original Classifiers, Derivative 
+Declassifiers, and those Derivative Classifiers who make a significant 
+number of classification determinations annually. 
+h.	 Program Classification Officer. 
+(1)	 Ensures the satisfactory performance of Headquarters and field 
+classification programs under the cognizance of the Headquarters element 
+and maintains operational awareness of the classification programs under 
+the element’s cognizance in accordance with Attachment 5, Classification 
+Program Evaluations.
+
+--- page 11 ---
+DOE O 475.2B 
+10-3-2014 
+11 
+(2) Delegates in writing any functions that he or she has been assigned by this 
+Order to qualified individuals as necessary to implement the classification 
+program. Note: This does not include the Program Classification Officer’s 
+classification and declassification authorities, which are non-delegable. 
+(3) Concurs on the nominations of Alternate Headquarters Classification 
+Representatives, Derivative Classifiers, and Derivative Declassifiers to 
+ensure that such officials are technically competent and submits the 
+nomination in accordance with Attachment 2, Appointment of 
+Classification Officials. 
+(4) Reviews draft classification guidance, including proposed updates, 
+submitted by field elements and forwards such guidance to the Director, 
+Office of Classification, for approval in accordance with Attachment 3, 
+Classification Guidance. 
+(5) Reviews the notification submitted by a field element under his or her 
+cognizance that confirms the completion of the cover-to-cover review of 
+guidance developed by that field element and forwards the notification to 
+the Director, Office of Classification, in accordance with Attachment 3, 
+Classification Guidance. 
+(6) Reviews the notification submitted by a field element under his or her 
+cognizance concerning the conduct of a large-scale declassification review 
+of documents containing more than 25,000 pages and forwards such 
+notification to the Director, Office of Classification. 
+(7) Ensures that classified information in documents requested under statute 
+or Executive order is identified, reviewed, bracketed, and submitted in 
+accordance with Attachment 7, Freedom of Information Act/Privacy Act 
+and Mandatory Declassification Review Requirements, and Attachment 8, 
+Bracketing and Redaction Procedures. 
+(8) Responds to classification challenges received and forwards unresolved 
+formal challenges to the Director, Office of Classification, in accordance 
+with Attachment 4, Classification/Declassification Review Requirements. 
+(9) Performs any additional duties of the Headquarters Classification 
+Representative that are identified in paragraph j. below. 
+i. Field Element Classification Officer.
+ 
+(1)	 Manages the field element classification program. 
+(2)	 Ensures the satisfactory performance of the field element classification 
+programs and maintains operational awareness of the classification 
+programs under the field element’s cognizance in accordance with 
+Attachment 5, Classification Program Evaluations.
+
+--- page 12 ---
+12 DOE O 475.2B 
+10-3-2014 
+(3)	 Ensures the satisfactory performance of all classification programs for 
+subordinate elements with no Classification Officer. Conducts 
+evaluations, self-assessments, and classification decision reviews for such 
+elements in accordance with Attachment 5, Classification Program 
+Evaluations. 
+(4)	 Concurs on the nomination of contractor Classification Officers and 
+Derivative Declassifiers, as appropriate, to ensure that such officials are 
+technically competent and submits them in accordance with Attachment 2, 
+Appointment of Classification Officials. 
+(5)	 Appoints Derivative Classifiers for the field element and for any 
+subordinate elements or for contractors with no Classification Officer to 
+classify documents generated by the element or subordinate element, the 
+contractor, and any predecessor organizations. Ensures that these officials 
+are technically competent in the specific areas of their classification 
+authorities and terminates these authorities when appropriate. 
+(6)	 Appoints Derivative Classifiers to classify documents generated by 
+another organization with the concurrence of that organization’s 
+Classification Officer. Ensures that these officials are technically 
+competent in the specific areas of their classification authorities and 
+terminates these authorities when appropriate. 
+(7)	 Develops and conducts classification training for Derivative Classifiers 
+that he or she appoints. 
+(8)	 Coordinates with the IN Program Classification Officer to ensure proper 
+training and evaluations of appropriate individuals within Field 
+Intelligence Elements and Counterintelligence Offices. 
+(9)	 Ensures that all classification training and awareness briefings satisfy the 
+requirements in Attachment 6, Classification Education Program. 
+(10)	 Ensures that Derivative Classifiers and Derivative Declassifiers have 
+appropriate and current classification guidance. 
+(11)	 Ensures that classified information in documents requested under statute 
+or Executive order is identified, reviewed, bracketed, and submitted in 
+accordance with Attachment 7, Freedom of Information Act/Privacy Act 
+and Mandatory Declassification Review Requirements, and Attachment 8, 
+Bracketing and Redaction Procedures. 
+(12)	 Compiles statistics concerning the field element classification program 
+and forwards them through the Program Classification Officer, as 
+applicable, to the Director, Office of Classification, when requested.
+
+--- page 13 ---
+DOE O 475.2B 
+10-3-2014 
+13 
+(13) As needed, prepares draft classification guidance that is more detailed and 
+tailored to the needs of his or her field element and is based on other 
+current classification guidance and forwards such guidance through the 
+Program Classification Officer, as appropriate, to the Director, Office of 
+Classification, for approval. 
+(14) Conducts a cover-to-cover review of guidance developed by his or her 
+element at least once every 5 years to ensure that it is up to date and 
+notifies the Director, Office of Classification, through the Program 
+Classification Officer, as appropriate, of the review’s completion. 
+(15) Evaluates the impact of new or revised classification guidance issued by 
+the Office of Classification upon existing classification guidance 
+developed by his or her element and submits proposed updates for any 
+affected classification guidance within 90 calendar days to the Director, 
+Office of Classification, through the Program Classification Officer, as 
+appropriate. 
+(16) Conducts any interagency coordination required to declassify a document 
+or material containing information under the cognizance of another 
+Agency except when the document or material relates to litigation or is 
+requested under statute or Executive order. 
+(17) For DOE-funded work performed by the field element, certifies that 
+classification guidance is identified, as appropriate. 
+(18) For non-DOE-funded work performed by the field element, certifies that 
+classification guidance provided by the funding entity does not contradict 
+DOE classification guidance. 
+(19) Ensures that field element documents subject to section 3.3 of E.O. 13526 
+are reviewed prior to such documents becoming 25 years old. 
+(20) Notifies the Director, Office of Classification, through the Program 
+Classification Officer, as appropriate, of any large-scale declassification 
+reviews of documents containing more than 25,000 pages being conducted 
+at his or her site. 
+(21) Responds to formal classification challenges received and forwards 
+unresolved challenges to the Director, Office of Classification, in 
+accordance with Attachment 4, Classification/Declassification Review 
+Requirements. 
+(22) Delegates in writing any functions that he or she has been assigned by this 
+Order to qualified individuals as necessary to implement the field element 
+classification program. Note: This does not include the Classification 
+Officer’s classification and declassification authorities, which are non-
+delegable.
+
+--- page 14 ---
+14 DOE O 475.2B 
+10-3-2014 
+j.	 Headquarters Classification Representative. 
+(1)	 Assists individuals within his or her Headquarters element to implement 
+the requirements in this Order. 
+(2)	 Ensures the satisfactory performance of the Headquarters element 
+classification program. Conducts self-assessments and classification 
+decision reviews and submits appropriate reports. 
+(3)	 Maintains operational awareness of the classification issues in his or her 
+Headquarters element in accordance with Attachment 5, Classification 
+Program Evaluations. 
+(4)	 Concurs on the nominations of Alternate Headquarters Classification 
+Representatives, Derivative Classifiers, and Derivative Declassifiers to 
+ensure that such officials are technically competent and submits the 
+nomination in accordance with Attachment 2, Appointment of 
+Classification Officials. 
+(5)	 Ensures that Derivative Classifiers and Derivative Declassifiers within his 
+or her Headquarters element have appropriate and current classification 
+guidance. 
+(6)	 For DOE-funded work performed by the Headquarters element, certifies 
+that classification guidance is identified, as appropriate. 
+(7)	 For non-DOE-funded work, certifies that classification guidance provided 
+by the funding entity does not contradict DOE classification guidance. 
+(8)	 Ensures that classified information in documents requested under statute 
+or Executive order is identified, reviewed, bracketed, and submitted in 
+accordance with Attachment 7, Freedom of Information Act/Privacy Act 
+and Mandatory Declassification Review Requirements, and Attachment 8, 
+Bracketing and Redaction Procedures. 
+(9)	 Responds to classification challenges received and forwards unresolved 
+challenges to the Director, Office of Classification, in accordance with 
+Attachment 4, Classification/Declassification Review Requirements. 
+(10)	 Compiles statistics concerning the Headquarters element classification 
+program and forwards them to the Director, Office of Classification, when 
+requested. 
+(11)	 Delegates in writing any functions that he or she has been assigned by this 
+Order to qualified individuals as necessary to implement the Headquarters 
+element classification program. Note: This does not include the 
+Headquarters Classification Representative’s classification and/or 
+declassification authorities, which are non-delegable.
+
+--- page 15 ---
+15 DOE O 475.2B 
+10-3-2014 
+k.	 Original Classifier. 
+(1)	 Makes the initial determination to classify information as NSI in 
+accordance with sections 1.1 through 1.7 of E.O. 13526. 
+(2)	 Reports any original classification determination to the Director, Office 
+of Classification, through the Program Classification Officer, as 
+applicable, within 10 working days, providing a description of the 
+information being originally classified, the reason for classification, and 
+the level and duration of classification. 
+(3)	 Ensures each originally classified NSI document is marked in 
+accordance with 32 CFR § 2001.21 and, except for intelligence products 
+intended for the Intelligence Community, the front page of each 
+document contains the special control marking identified in Attachment 
+4, paragraph 1c(3)(b), of this Order. 
+l.	 Derivative Classifier. 
+(1)	 Determines whether a document or material contains classified 
+information or whether a document or material should be upgraded in 
+accordance with Attachment 4, Classification/Declassification Review 
+Requirements. 
+(2)	 Responds to classification challenges received and forwards unresolved 
+challenges to the Director, Office of Classification, in accordance with 
+Attachment 4, Classification/Declassification Review Requirements. 
+m.	 Derivative Declassifier. 
+(1)	 Determines whether a document or material currently marked as 
+classified may be declassified or downgraded in accordance with 
+Attachment 4, Classification/Declassification Decision Reviews. 
+(2)	 Brackets classified information in a classified document to produce a 
+redacted version in accordance with Attachment 8, Bracketing and 
+Redaction Procedures. 
+(3)	 Responds to classification challenges received and forwards unresolved 
+challenges to the Director, Office of Classification, in accordance with 
+Attachment 4, Classification/Declassification Review Requirements. 
+n.	 Employee with Authorized Access to Classified Information. 
+(1)	 Ensures that each document or material that the employee originates, 
+modifies, or possesses in a classified subject area that is intended for 
+public release is reviewed by the Classification Officer or a Derivative 
+Classifier delegated such review authority.
+
+--- page 16 ---
+16 DOE O 475.2B 
+10-3-2014 
+(2)	 Ensures that each document or material that the employee originates and 
+that is potentially classified is reviewed by a Derivative Classifier. 
+(3)	 Ensures that each document or material that the employee possesses that 
+the employee believes is misclassified is reviewed by a Derivative 
+Classifier or a Derivative Declassifier, as appropriate. 
+(4)	 Ensures that classified documents (including documents with 
+declassification dates or events that have passed) are not declassified 
+until the appropriate declassification reviews are conducted. 
+(5)	 Challenges any classification determinations he or she believes is 
+incorrect in accordance with Attachment 4, 
+Classification/Declassification Review Requirements, paragraph 4. 
+(6)	 Submits declassification proposals for classified information he or she 
+does not believe should be classified in accordance with Attachment 4, 
+Classification/Declassification Review Requirements. 
+o.	 Procurement Request Originator. Ensures that blocks 13 and 14 on Form DOE F 
+470.1, Contract Security Classification Specification, are completed correctly for 
+contracts that generate classified information, documents, or material. 
+p.	 Contracting Officers. Once notified that contracts under their purview are 
+covered by this Order, incorporate the CRD for this Order and any other 
+appropriate clauses into the affected contracts. 
+6.	 REFERENCES. 
+a.	 Public Law (P.L.) 83-503, Atomic Energy Act of 1954, as amended. This statute 
+provides the legal bases for identifying and protecting RD, FRD, and TFNI. 
+b.	 P.L. 106-65, National Nuclear Security Administration Act, Title XXXII, as 
+amended. This statute establishes a separately organized agency within the 
+Department of Energy. 
+c.	 P.L. 82-256, Invention Secrecy Act of 1951, as amended. This statute contains 
+requirements for identifying classified information during patent reviews. 
+d.	 10 CFR Part 1004, Freedom of Information. These regulations define and identify 
+Denying Officials within DOE. 
+e.	 10 CFR Part 1045, Nuclear Classification and Declassification. These regulations 
+contain requirements and responsibilities for classifying, declassifying, and 
+transclassifying RD and FRD and for processing mandatory declassification 
+review requests and classification challenges.
+
+--- page 17 ---
+DOE O 475.2B 17 (and 18) 
+10-3-2014 
+f.	 32 CFR Part 2001, Classified National Security Information. These regulations 
+contain requirements and responsibilities for implementing the requirements in 
+E.O. 13526. 
+g.	 E.O. 12333, United States Intelligence Activities, dated 12-4-1981. This 
+Executive order contains requirements and responsibilities for conducting 
+intelligence activities. 
+h.	 E.O. 13526, Classified National Security Information, dated 12-29-09. This 
+Executive order contains requirements and responsibilities for classifying, 
+declassifying, and safeguarding NSI. 
+i.	 E.O. 13470, Further Amendments to Executive Order 12333, United States 
+Intelligence Activities, dated 7-30-08. This Executive order contains requirements 
+and responsibilities for intelligence-related activities. 
+j.	 DOE O 226.1B, Department of Energy Oversight Policy, dated 4-25-2011. This 
+Order contains requirements and responsibilities for implementing DOE line 
+management oversight. 
+k.	 DOE O 205.1B, Department of Energy Cyber Security Program, dated 5-16-11. 
+This Order contains requirements and responsibilities for DOE’s cyber security 
+program. 
+l.	 DOE O 471.6, Admin Chg. 1, Information Security, dated 6-20-2011. This Order 
+contains requirements for the protection and control of classified matter. 
+m.	 Intelligence Community Directive 710, Classification Management and Control 
+Markings System, dated 06-21-2013. Governs the implementation and oversight 
+of Intelligence Community classification management and control markings. 
+7.	 DEFINITIONS. See Attachment 9 for definitions of terms contained in this Order and/or 
+necessary for implementing the DOE classification program. 
+8.	 CONTACT. Questions concerning this Order should be addressed to the Office of 
+Classification at 301-903-7567 or outreach@hq.doe.gov. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+DANIEL B. PONEMAN 
+Deputy Secretary
+
+--- page 18 ---
+
+
+--- page 19 ---
+DOE O 475.2B	 Attachment 1
+ 
+10-3-2014	 Page 1
+ 
+CONTRACTOR REQUIREMENTS DOCUMENT
+ 
+This Contractor Requirements Document (CRD) establishes the requirements for Department of 
+Energy (DOE) and National Nuclear Security Administration (NNSA) contractors whose 
+contracts may generate classified information, documents, or material. 
+In addition to the requirements set forth in this CRD, contractors are responsible for 
+complying with Attachments 2-9 to this Order referenced in and made a part of this CRD and 
+that provide program requirements and/or information applicable to contracts in which this 
+CRD is inserted. Regardless of the performer of the work, the contractor is responsible for 
+complying with the requirements of this CRD. The contractor is responsible for flowing down 
+the requirements of this CRD to subcontractors at any tier to the extent necessary to ensure the 
+contractor’s compliance with the requirements. 
+A violation of the provisions of the CRD relating to the safeguarding or security of 
+Restricted Data or other classified information may result in a civil penalty pursuant to 
+subsection a. of section 234B of the Atomic Energy Act of 1954 (42 U.S.C. 2282b). The 
+procedures for the assessment of civil penalties are set forth in Title 10 Code of Federal 
+Regulations (CFR) Part 824, Procedural Rules for the Assessment of Civil Penalties for 
+Classified Information Security Violations. 
+1.	 REQUIREMENTS. All contractors with this CRD incorporated in their contracts must 
+comply with the following requirements: 
+a.	 Each contractor that generates classified information, documents, or 
+materials must maintain a classification program that ensures the 
+identification of classified information through the accurate and accountable 
+application of classification standards. 
+b.	 Each contractor that generates classified information, documents, or material 
+must have a Classification Officer. This requirement may be fulfilled by a 
+Classification Officer either within or from outside the contractor. 
+c.	 Each contractor requests equivalencies/exemptions to this Order from the 
+Director, Office of Classification, for DOE (not including NNSA) or the 
+NNSA Classification Officer for NNSA. Requests must identify the Order 
+requirement for which the equivalency/exemption is being requested; explain 
+why the equivalency or exemption is needed; and if requesting an 
+equivalency, describe the alternate measures for addressing the requirement. 
+d.	 Classified information contained in documents or material must be correctly 
+identified, basing such determinations on current classification guidance 
+developed in accordance with Attachment 3, Classification Guidance, or 
+source documents as permitted by paragraph 1.b. of Attachment 4, 
+Classification/Declassification Review Requirements. Appropriate classifier 
+markings must be placed on the documents or material in accordance with 
+Attachment 4, Classification/Declassification Review Requirements.
+
+--- page 20 ---
+Attachment 1 DOE O 475.2B
+ 
+Page 2 10-3-2014 
+e. Sufficient staffing must be provided for implementation and oversight of the 
+contractor’s classification program. 
+f. A satisfactory level of performance of the requirements in this CRD must be 
+maintained, to include holding personnel accountable for implementing the 
+requirements, as appropriate. 
+g. Documents and material must be reviewed, classified, declassified, 
+downgraded, or upgraded only by individuals with appropriate authorities in 
+accordance with Attachment 2, Appointment of Classification Officials. 
+h. Documents and material must be reviewed, classified, declassified, 
+downgraded, or upgraded in accordance with Attachment 4, 
+Classification/Declassification Review Requirements. 
+i. Classified information in documents requested under statute or Executive 
+order must be identified, reviewed, bracketed, and submitted in accordance 
+with Attachment 7, Freedom of Information Act/Privacy Act and Mandatory 
+Declassification Review Requirements, and Attachment 8, Bracketing and 
+Redaction Procedures. 
+j. Classification officials with appropriate authority who misclassify documents 
+or materials must not face penalties as long as such determinations are within 
+their authority and are based on reasonable interpretations of guidance. 
+k. Offices responsible for public affairs must submit documents in classified 
+subject areas that are intended for public release to the Classification Officer 
+for review prior to release. 
+l. Classification guidance must be identified or the use of source documents 
+must be approved for all work performed in a classified subject area that may 
+generate derivatively classified documents or material. The guidance must 
+satisfy the requirements of Attachment 3, Classification Guidance. 
+m. Classification guidance for non-DOE-funded work must not contradict DOE 
+classification guidance. 
+n. For DOE-funded work performed by the contractor or its subcontractors, the 
+contractor must certify that classification guidance is identified. 
+o. Classification officials must be provided with current and appropriate 
+classification guidance. 
+p. Contractors must respond to classification challenges and declassification 
+proposals in accordance with Attachment 4, Classification/Declassification 
+Review Requirements.
+
+--- page 21 ---
+DOE O 475.2B	 Attachment 1
+ 
+10-3-2014	 Page 3 
+q.	 Each contractor’s classification program must be periodically evaluated in 
+accordance with Attachment 5, Classification Program Evaluations. 
+r.	 Each contractor must ensure the satisfactory performance of all subordinate 
+elements with no Classification Officer through evaluations in accordance 
+with Attachment 5, Classification Program Evaluations. 
+s.	 Training programs must be conducted in accordance with Attachment 6, 
+Classification Education Program, of this Order to ensure that employees 
+serving as classification officials are competent in their classification-related 
+responsibilities. 
+t.	 Employees with authorized access to classified information must receive a 
+classification awareness briefing when they are first authorized access and 
+annually thereafter that, at a minimum, covers the information in 
+Attachment 6, Classification Education Program, paragraph 1.b. 
+2.	 RESPONSIBILITIES OF CONTRACTOR CLASSIFICATION OFFICER. 
+a.	 Manages the contractor’s classification program. 
+b.	 Ensures the satisfactory performance of the contractor’s classification 
+program and maintains operational awareness of any classification issues in 
+accordance with Attachment 5, Classification Program Evaluations. 
+c.	 Develops and conducts classification training for Derivative Classifiers that 
+he or she appoints in accordance with Attachment 6, Classification Education 
+Program. 
+d.	 Ensures that all classification training and awareness briefings satisfy 
+requirements in Attachment 6, Classification Education Program. 
+e.	 Coordinates with the IN Program Classification Officer to ensure proper 
+training and evaluations of Field Intelligence Elements and Field 
+Counterintelligence Offices. 
+f.	 Appoints contractor Derivative Classifiers to classify documents generated 
+by the contractor, its subcontractors, and predecessor organizations. Ensures 
+that these officials are technically competent in the specific areas of their 
+classification authorities and terminates these authorities when appropriate. 
+g.	 Concurs on the nomination of contractor Derivative Declassifiers to ensure 
+that such officials are technically competent. 
+h.	 Appoints Derivative Classifiers to classify documents generated by 
+organizations outside of the contractor with the concurrence of the cognizant 
+Classification Officer. Ensures that these officials are technically competent
+
+--- page 22 ---
+Attachment 1 DOE O 475.2B
+ 
+Page 4 10-3-2014 
+in the specific areas of their classification authorities and terminates these 
+authorities when appropriate. 
+i. Ensures that contractor Derivative Classifiers and Derivative Declassifiers 
+have appropriate and current classification guidance. 
+j. Ensures that classified information in documents requested under statute or 
+Executive order is identified, reviewed, bracketed, and submitted in 
+accordance with Attachment 7, Freedom of Information Act/Privacy Act and 
+Mandatory Declassification Review Requirements, and Attachment 8, 
+Bracketing and Redaction Procedures. 
+k. Compiles statistics concerning the contractor’s classification program and 
+forwards them through the Field Element Classification Officer and the 
+Program Classification Officer, as appropriate, to the Director, Office of 
+Classification, when requested. 
+l. As needed, prepares draft classification guidance that is more detailed and 
+tailored to the needs of the contractor and is based on other current 
+classification guidance and forwards such guidance to the Director, Office of 
+Classification, for approval, through the Field Element Classification Officer 
+and the Program Classification Officer, as appropriate. 
+m. Conducts a cover-to-cover review of guidance developed by the contractor at 
+least once every 5 years to ensure it is up to date and notifies the Director, 
+Office of Classification, through the Field Element Classification Officer and 
+the Program Classification Officer, as appropriate, of its completion. 
+n. Evaluates the impact of new or revised classification guidance issued by the 
+Office of Classification upon existing classification guidance developed by 
+the contractor and submits proposed updates for any affected classification 
+guidance within 90 calendar days to the Director, Office of Classification, 
+through the Field Element Classification Officer and the Program 
+Classification Officer, as appropriate. 
+o. Conducts any interagency coordination required to declassify a document or 
+material containing information under the cognizance of another Agency 
+except when the document or material relates to litigation or is requested 
+under statute or Executive order. 
+p. For DOE-funded work performed by the contractor, certifies that 
+classification guidance is identified, as appropriate. 
+q. For non-DOE-funded work performed by the contractor, certifies that 
+classification guidance provided by the funding entity does not contradict 
+DOE classification guidance.
+
+--- page 23 ---
+DOE O 475.2B	 Attachment 1
+ 
+10-3-2014	 Page 5 (and Page 6) 
+r.	 Ensures the satisfactory performance of any subordinate organizations with 
+no Classification Officer. Includes such organizations in self-assessments 
+and classification document reviews conducted in accordance with 
+Attachment 5, Classification Program Evaluations. 
+s.	 Ensures that contractor documents subject to section 3.3 of E.O. 13526 are 
+reviewed prior to such documents becoming 25 years old. 
+t.	 Notifies the Director, Office of Classification, through the Field Element 
+Classification Officer and the Program Classification Officer, as appropriate, 
+of any large-scale declassification reviews of documents containing more 
+than 25,000 pages being conducted by the contractor. 
+u.	 Responds to classification challenges received and forwards unresolved 
+formal challenges to the Director, Office of Classification, in accordance 
+with Attachment 4, Classification/Declassification Review Requirements. 
+v.	 Delegates in writing any functions that he or she has been assigned by this 
+CRD to qualified individuals as necessary to implement the contractor’s 
+classification program. This does not include the Classification Officer’s 
+classification and declassification authorities, which are non-delegable.
+
+--- page 24 ---
+
+
+--- page 25 ---
+DOE O 475.2B	 Attachment 2
+ 
+10-3-2014	 Page 1
+ 
+APPOINTMENT OF CLASSIFICATION OFFICIALS
+ 
+This Attachment provides information and/or requirements associated with this Order as well as 
+information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to this Order) is inserted. 
+1.	 ROLE OF CLASSIFICATION OFFICIALS. DOE relies upon a hierarchy of 
+classification officials to ensure that RD, FRD, TFNI, and NSI are correctly identified in 
+documents and material. These classification officials are an integral component of 
+DOE’s classification program. 
+2.	 REQUIREMENTS FOR APPOINTING CLASSIFICATION OFFICIALS. Classification 
+officials must be appointed according to the following requirements: 
+a.	 Program Classification Officer. 
+(1)	 Qualifications. The Program Classification Officer must be a Federal 
+employee and have a relevant scientific or technical degree or work 
+experience as validated by the appointing official. The Program 
+Classification Officer must be in a position to have access to senior 
+management when necessary. 
+(2)	 Classification/Declassification Authorities Required. The Program 
+Classification Officer must be a Derivative Classifier prior to appointment 
+and must be a Derivative Declassifier within 6 months of appointment. 
+(3)	 Nomination for DOE (not including NNSA) Program Classification 
+Officer. The head of the Headquarters element or his or her representative 
+submits the following information to the Director, Office of Classification: 
+(a)	 the employee’s name, organization, mailing address (including 
+organization code), telephone number, and email address; 
+(b)	 a description of the employee’s scientific or technical degree 
+and/or relevant work experience; and 
+(c)	 a description of the employee’s knowledge about the work being 
+performed in classified subject areas by Headquarters or field 
+elements or contractors within his or her program. 
+(4)	 Appointing Official. The Program Classification Officer is appointed by 
+the Director, Office of Classification, for DOE (not including NNSA). 
+The NNSA Program Classification Officer is appointed by the NNSA 
+Chief of Defense Nuclear Security. 
+(5)	 Training. (See Attachment 6, Classification Education Program.)
+
+--- page 26 ---
+Attachment 2	 DOE O 475.2B
+ 
+Page 2	 10-3-2014 
+(6)	 Removal from Position. The Program Classification Officer must be 
+removed from the position by the appointing official or the head of the 
+Headquarters element or his or her representative if he or she cannot or 
+does not perform his or her responsibilities reliably or does not complete 
+all required training within the specified time frame. 
+b.	 Field Element and Contractor Classification Officer. 
+(1)	 Qualifications. The Classification Officer must have a relevant scientific 
+or technical degree or work experience as validated by the appointing 
+official. The Field Element and contractor Classification Officer must be 
+in a position to have access to senior management when necessary. 
+(2)	 Classification/Declassification Authorities Required. The Classification 
+Officer must be a Derivative Classifier prior to appointment and must be a 
+Derivative Declassifier within 6 months of appointment. 
+(3)	 Nomination. 
+(a)	 Field Element Classification Officer. The manager of the field 
+element or his or her representative submits the following 
+information to the Director, Office of Classification, for DOE (not 
+including NNSA) or to the NNSA Classification Officer for NNSA 
+through the Program Classification Officer, as appropriate: 
+1	 the employee’s name, organization, mailing address 
+(including organization code), telephone number, and 
+email address; 
+2	 a description of the employee’s scientific or technical 
+degree and/or relevant work experience; 
+3	 a description of the employee’s knowledge about the work 
+being performed in classified subject areas in his or her 
+organization and/or subordinate organizations; and 
+4	 request for classification/declassification authorities in 
+his/her position as Classification Officer. 
+(b)	 Contractor Classification Officer. The contractor submits the 
+information in paragraph 2.b.(3)(a) above to the appropriate Field 
+Element Classification Officer, who reviews the nominee’s 
+qualifications and, if adequate, forwards to the Director, Office of 
+Classification, for DOE (not including NNSA) or to the NNSA 
+Classification Officer for NNSA through the Program 
+Classification Officer, as appropriate.
+
+--- page 27 ---
+DOE O 475.2B	 Attachment 2
+ 
+10-3-2014	 Page 3 
+(4)	 Appointing Official. The Classification Officer is appointed by the 
+Director, Office of Classification, for DOE (not including NNSA) or the 
+NNSA Classification Officer for NNSA. These individuals also appoint 
+the Classification Officer as a Derivative Classifier and a Derivative 
+Declassifier. 
+(5)	 Training. (See Attachment 6, Classification Education Program.) 
+(6)	 Removal from Position. The Classification Officer must be removed from 
+the position by the appointing official or the manager of the field element 
+or contractor or his or her representative if he or she cannot or does not 
+perform his or her responsibilities reliably or does not complete all 
+required training within the specified time frame. 
+c.	 Headquarters Classification Representative and Alternate Headquarters 
+Classification Representatives . 
+(1)	 Qualifications. The Headquarters Classification Representative and the 
+Alternate Headquarters Classification Representatives must be Federal 
+employees knowledgeable about the work being performed in classified 
+subject areas in their Headquarters element. 
+(2)	 Classification/Declassification Authorities Required. The Headquarters 
+Classification Representative and the Alternate Headquarters 
+Classification Representatives must be Derivative Classifiers prior to 
+appointment. 
+(3)	 Nomination. 
+(a)	 Headquarters Classification Representative and Alternate 
+Headquarters Classification Representative. The head of the 
+Headquarters element or his or her representative submits the 
+following information to the Director, Office of Classification, for 
+DOE (not including NNSA) or to the NNSA Classification Officer 
+for NNSA: 
+1	 the employee’s name, organization, mailing address 
+(including organization code), telephone number, and 
+email address and 
+2	 a description of the employee’s knowledge about the work 
+being performed in classified subject areas in his or her 
+Headquarters element. 
+(b)	 Alternate Headquarters Classification Representative. In addition 
+to the above, the nomination for the Alternate Headquarters 
+Classification Representative must include:
+
+--- page 28 ---
+Attachment 2	 DOE O 475.2B
+ 
+Page 4	 10-3-2014 
+1	 duties to be performed by the Alternate Headquarters 
+Classification Representative; 
+2	 when the Alternate Headquarters Classification 
+Representative performs these duties (e.g., at any time, 
+only when the Headquarters Classification Representative 
+is on leave or on travel); and 
+3	 jurisdiction of the Alternate Headquarters Classification 
+Representative (e.g., for a specific office within a 
+program). 
+(4)	 Appointing Official. The Headquarters Classification Representative and 
+the Alternate Headquarters Classification Representatives are appointed 
+by the Director, Office of Classification, for DOE (not including NNSA) 
+or the NNSA Classification Officer for NNSA. 
+(5)	 Training. (See Attachment 6, Classification Education Program.) 
+(6)	 Removal from Position. The Headquarters Classification Representative 
+and the Alternate Headquarters Classification Representatives must be 
+removed from their positions by the appointing official or the head of the 
+Headquarters element or his or her representative if they cannot or do not 
+perform their responsibilities reliably or do not complete the required 
+training within the specified time frame. 
+d.	 Original Classifier. 
+(1)	 Top Secret Original Classifier. 
+(a)	 Qualifications. A Top Secret Original Classifier must be a Federal 
+employee. 
+(b)	 Appointing Official. The Secretary of Energy appoints each Top 
+Secret Original Classifier unless otherwise provided for by 
+Secretarial Delegation. 
+(c)	 Training. A Top Secret Original Classifier must complete training 
+provided by the Office of Classification prior to using the 
+authority. Training must be repeated at least once every calendar 
+year thereafter. If the annual training is not completed, the 
+authority is suspended until the training is completed. 
+(d)	 Delegation of Authority. A Top Secret Original Classifier may 
+not delegate his or her authority to anyone, and such authority 
+may not be assumed by a person acting for a Top Secret Original 
+Classifier.
+
+--- page 29 ---
+DOE O 475.2B	 Attachment 2
+ 
+10-3-2014	 Page 5 
+(2)	 Secret or Confidential Original Classifier. 
+(a)	 Qualifications. A Secret or Confidential Original Classifier must 
+be a Federal employee who is competent in the relevant subject 
+areas for which the authority is needed and familiar with DOE 
+classification policy, procedures, and guidance. 
+(b)	 Nomination. The immediate supervisor of the employee submits 
+the following information to the Director, Office of Classification, 
+for DOE (not including NNSA) or to the NNSA Chief of Defense 
+Nuclear Security for NNSA, through the Classification Officer, 
+Program Classification Officer, or Headquarters Classification 
+Representative, as appropriate, for confirmation of the need for an 
+Original Classifier: 
+1	 the employee’s name, organization, mailing address 
+(including organization code), telephone number, and 
+email address; 
+2	 the subject areas in which the authority will be used; 
+3	 the desired jurisdiction (e.g., information originated within 
+a particular organization); and 
+4	 a description of the employee’s competence in the subject 
+areas and familiarity with classification policy and 
+procedures. 
+(c)	 Appointing Official. A Secret or Confidential Original Classifier is 
+appointed in writing by the Associate Under Secretary for 
+Environment, Health, Safety and Security for DOE (not including 
+NNSA) and the NNSA Chief of Defense Nuclear Security, in 
+consultation with the Associate Under Secretary for Environment, 
+Health, Safety and Security for NNSA. 
+(d)	 Training. (See Attachment 6, Classification Education Program.) 
+(e)	 Appointment. The employee must be appointed in writing as a 
+Secret or Confidential Original Classifier and must be provided 
+with an authority description that includes the employee’s name, 
+organization, the effective date, the specific subject areas covered 
+by the authority, the jurisdiction of the authority, and any special 
+instructions or limitations on the authority. 
+(f)	 Authority Limitations. A Secret or Confidential Original Classifier 
+may originally classify information only as authorized by his or her 
+description of authority. A Secret or Confidential Original 
+Classifier may not declassify information.
+
+--- page 30 ---
+Attachment 2	 DOE O 475.2B
+ 
+Page 6	 10-3-2014 
+(g)	 Delegation of Authority. A Secret or Confidential Original 
+Classifier may not delegate his or her authority to anyone, and such 
+authority may not be assumed by a person acting for an Original 
+Classifier. 
+(h)	 Termination of Authority. A Secret or Confidential Original 
+Classifier’s authority must be terminated by the appointing official 
+if he or she no longer requires the authority, cannot or does not 
+exercise the authority reliably, or does not complete the required 
+training within 90 calendar days of suspension of his or her 
+authority. 
+e.	 Derivative Classifier. 
+(1)	 Qualifications. A Derivative Classifier must be competent in the subject 
+areas in which the authority will be used and familiar with DOE 
+classification policy, procedures, and guidance. 
+(2)	 Nomination. 
+(a)	 Headquarters. 
+1	 Submission. The immediate supervisor of the employee 
+submits the information identified in paragraph 2.e.(2)(a)2 
+below to the Headquarters Classification Representative, 
+who ensures the required information is accurate and 
+submits it to the Director, Office of Classification, for 
+DOE (not including NNSA) or to the NNSA 
+Classification Officer for NNSA. 
+2	 Required Information. The nomination must include the 
+following information: 
+a	 the employee’s name, organization, mailing address 
+(including organization code), telephone number, 
+and email address; 
+b	 the subject areas for which authority is needed; 
+c	 the desired jurisdiction (e.g., documents originated 
+within a particular organization); and 
+d	 any special limitations on the authority (e.g., time 
+frame of the documents). 
+(b)	 Field Element or Contractors. The nomination process must be 
+determined by the appointing official and must ensure that
+
+--- page 31 ---
+DOE O 475.2B 
+10-3-2014 
+Attachment 2 
+Page 7 
+Derivative Classifiers nominated are competent to exercise their 
+authority. 
+(3) Appointing Official. A Derivative Classifier is appointed by the following 
+officials: 
+(a) the Director, Office of Classification, for DOE (not including 
+NNSA) Headquarters and DOE (not including NNSA) Field 
+Element and Contractor Classification Officers; 
+(b) the NNSA Classification Officer for all NNSA Federal officials, 
+contractor Classification Officers and NNSA Headquarters; or 
+(c) the Classification Officer for the appropriate Field Element or 
+contractor. 
+(4) Training. (See Attachment 6, Classification Education Program.) 
+(5) Appointment. A Derivative Classifier must be appointed in writing and 
+must be provided with an authority description that includes the 
+employee’s name, organization, the effective date, the classified subject 
+areas (e.g., nuclear weapon design, gas centrifuge, safeguards and security) 
+covered by the authority, the jurisdiction of the authority (e.g., a particular 
+office, a specific Headquarters or field element), and any special instructions 
+or limitations on the authority. 
+(6) Authority Limitations. A Derivative Classifier may derivatively classify a 
+new or existing document or material only as authorized by his or her 
+description of authority. A Derivative Classifier cannot conduct the 
+classification review for documents intended for public release in 
+classified subject areas unless the authority has been delegated in writing 
+in accordance with this Order. If the employee changes positions, he or 
+she may retain the authority. The process for handling such changes is 
+determined by the Classification Officer. 
+(7) Delegation of Authority. A Derivative Classifier may not delegate his or 
+her authority to anyone, and such authority may not be assumed by a 
+person acting for a Derivative Classifier. 
+(8) Suspension of Authority. If the required retraining is not completed 
+within the 2-year time frame, the authority is suspended until the training 
+is completed. 
+(9) Termination of Authority. 
+(a) An employee’s supervisor must request the termination of a 
+Derivative Classifier’s authority from the appointing official if
+
+--- page 32 ---
+Attachment 2	 DOE O 475.2B
+ 
+Page 8	 10-3-2014 
+the Derivative Classifier no longer requires the authority or cannot 
+or does not exercise the authority reliably. 
+(b)	 The appointing official must terminate a Derivative Classifier’s 
+authority if the Derivative Classifier no longer requires the 
+authority, cannot or does not exercise the authority reliably, does 
+not complete training requirements within 90 calendar days of 
+suspension of his or her authority, or upon request of the Derivative 
+Classifier’s supervisor. 
+f.	 Derivative Declassifier. 
+(1)	 Qualifications. A Derivative Declassifier must have a relevant degree or 
+work experience, competency in the subject areas in which the authority 
+will be used, and familiarity with DOE classification and declassification 
+policy, procedures, and guidance, as validated by the appointing official. 
+(2)	 Nomination. 
+(a)	 Headquarters. 
+1	 Submission. The immediate supervisor of the employee 
+submits the information identified in paragraph 
+2.f.(2)(a)2 below to the Program Classification Officer or 
+Headquarters Classification Representative, who ensures 
+the required information is accurate and submits it to the 
+Director, Office of Classification, for DOE (not including 
+NNSA) or to the NNSA Classification Officer for 
+NNSA. 
+2	 Required Information. The nomination must include the 
+following information: 
+a	 the employee’s name, organization, mailing 
+address (including organization code), telephone 
+number, and email address; 
+b	 the employee’s relevant degree or work 
+experience; 
+c	 the subject areas and classification guidance for 
+which authority is needed; 
+d	 the desired jurisdiction (e.g., documents originated 
+within a particular organization); and 
+e	 any special limitations on the authority (e.g., time 
+frame of the documents).
+
+--- page 33 ---
+DOE O 475.2B 
+10-3-2014 
+Attachment 2 
+Page 9 
+(b) Field Element or Contractor. 
+1 Field Element and Contractor with no Classification 
+Officer. The immediate supervisor of the Federal or 
+contractor employee submits the information in paragraph 
+2.f.(2)(a)2 above to the Field Element Classification 
+Officer, who reviews the nominee’s qualifications and, if 
+adequate, forwards the information through the Program 
+Classification Officer, as appropriate, to the Director, 
+Office of Classification, for DOE (not including NNSA) 
+or to the NNSA Classification Officer for NNSA. 
+2 Contractor with Classification Officers. The immediate 
+supervisor of the contractor employee submits the 
+information in paragraph 2.f.(2)(a)2 above to the 
+Contractor Classification Officer, who reviews the 
+nominee’s qualifications and, if adequate, forwards the 
+information to the appropriate Field Element 
+Classification Officer, who reviews the nominee’s 
+qualifications and, if adequate, forwards the information 
+to the Director, Office of Classification, for DOE (not 
+including NNSA) or to the NNSA Classification Officer 
+for NNSA. 
+(3) Appointing Official. A Derivative Declassifier is appointed by the 
+Director, Office of Classification, for DOE (not including NNSA) or the 
+NNSA Classification Officer for NNSA. 
+(4) Training. (See Attachment 6, Classification Education Program.) 
+(5) Appointment. A Derivative Declassifier must be appointed in writing and 
+must be provided with an authority description that includes the 
+employee’s name, organization, the effective date, the classified subject 
+areas (e.g., nuclear weapon design, gas centrifuge, safeguards and security) 
+covered by the authority, the jurisdiction of the authority (e.g., a particular 
+office, a specific Headquarters element), and any special instructions or 
+limitations on the authority. 
+(6) Authority Limitations. A Derivative Declassifier may declassify a 
+document or material only as authorized by his or her description of 
+authority. If the employee changes positions, he or she may retain the 
+authority. The process for handling such changes is determined by the 
+Classification Officer, who must also notify the appointing official. 
+(7) Delegation of Authority. A Derivative Declassifier may not delegate his or 
+her authority to anyone, and such authority may not be assumed by a 
+person acting for a Derivative Declassifier.
+
+--- page 34 ---
+Attachment 2 
+Page 10 
+DOE O 475.2B 
+10-3-2014 
+(8) Suspension of Authority. If the required retraining is not completed 
+within the 2-year time frame, the authority is suspended until the training 
+is completed. 
+(9) Termination of Authority. 
+(a) An employee’s supervisor must request the termination of a 
+Derivative Declassifier’s authority from the appointing official if 
+the Derivative Declassifier no longer requires the authority or 
+cannot or does not exercise the authority reliably. 
+(b) The appointing official must terminate a Derivative Declassifier’s 
+authority if the Derivative Declassifier no longer requires the 
+authority, cannot or does not exercise the authority reliably, does 
+not complete the retraining requirements within 90 calendar days 
+of suspension of his or her authority, or upon the request of the 
+Derivative Declassifier’s supervisor.
+
+--- page 35 ---
+DOE O 475.2B	 Attachment 3
+ 
+10-3-2014	 Page 1
+ 
+CLASSIFICATION GUIDANCE
+ 
+This Attachment provides information and/or requirements associated with this Order as 
+well as information and/or requirements applicable to contracts in which the associated 
+CRD (Attachment 1 to this Order) is inserted. 
+1.	 Requirement to Use Classification Guidance. Within DOE, classification guidance (i.e., 
+guides and bulletins) is the foundation for the classification program. Classification 
+guidance must be used as the basis for determining whether a document or material 
+contains RD, FRD, TFNI, or NSI unless use of a source document is permitted by 
+paragraph 1.b. of Attachment 4, Classification/Declassification Review Requirements. 
+2.	 Requirements for Developing and Distributing Classification Guidance. 
+a.	 Classification guidance must be developed in accordance with the requirements in 
+10 CFR § 1045.37, section 2.2 of E.O. 13526, and 32 CFR § 2001.15. 
+b.	 DOE classification guides must conform to the Standard Guide Format developed 
+by the Office of Technical Guidance, Office of Classification, to the extent 
+practical. 
+c.	 The Office of Classification will distribute all new or revised classification 
+guidance to the appropriate Classification Officers. The Classification Officer 
+must distribute the new or revised classification guidance to the appropriate 
+Derivative Classifiers and Derivative Declassifiers within 60 calendar days of 
+receipt of the approved guidance. If the new or revised guidance is announcing 
+that information has been upgraded or reclassified, it must be disseminated as 
+soon as possible. 
+3.	 Requirements for Maintaining Classification Guides. 
+a.	 Classification guides must be revised to reflect determinations that information no 
+longer meets the standards for classification in section 1.1 of E.O. 13526 or 
+10 CFR § 1045.14. 
+b.	 Each classification guide must receive a cover-to-cover review at least once every 
+5 years. Classification Officers must notify the Office of Classification when 
+reviews are complete. Updates to any guide must be submitted to the Director, 
+Office of Classification, through the Field Element Classification Officer and the 
+Program Classification Officer, as appropriate, within 90 days of completing the 
+review. 
+c.	 Upon receipt of a new or revised Headquarters classification guide, existing 
+classification guides developed by Classification Officers must be evaluated to 
+determine if changes need to be made to those guides. Proposed revisions to any 
+affected guides must be submitted to the Director, Office of Classification, 
+through the Field Element Classification Officer and the Program Classification 
+Officer, as appropriate, within 90 calendar days.
+
+--- page 36 ---
+Attachment 3	 DOE O 475.2B
+ 
+Page 2	 10-3-2014 
+d.	 Recipients of page changes to classification guides must make page or pen-and­
+ink changes in guides that have been revised, as appropriate, within 45 calendar 
+days of receipt of the page changes. 
+4.	 Completion of DOE F 470.1, “Contract Security Classification Specification,” 
+Concerning Classification Guidance for DOE-Funded Work. For contracts that generate 
+classified information, documents, or material (i.e., Block 12 indicates the contract 
+generates classified matter), certain sections of the “Contract Security Classification 
+Specification” form must be completed as follows: 
+a.	 Block 13 must list the classification guidance or a brief explanation as to why 
+classification guidance is not needed. 
+b.	 Block 14 must have the box for DEAR clause 952.204-70 checked. 
+c.	 Block 18 must be signed by the Classification Officer, Headquarters 
+Classification Representative, or a Derivative Classifier delegated the authority to 
+certify that any classification guidance needed has been identified. 
+5.	 Classification Guidance for Non-DOE-Funded Work in Classified Subject Areas. 
+a.	 Certification of Classification Guidance. Prior to commencement of the work, the 
+Classification Officer must review the work request and proposed classification 
+guidance and certify in writing that the guidance does not contradict DOE 
+classification guidance. 
+b.	 Contradictory Guidance. If the proposed classification guidance contradicts DOE 
+classification guidance, the contradictions must be resolved before using the 
+guidance. 
+c.	 Use of DOE Guidance. 
+(1)	 Work That Involves RD/FRD/TFNI. DOE classification guidance 
+concerning RD/FRD/TFNI may be used in place of or to supplement 
+other-Agency classification guidance if the work involves RD/FRD/TFNI. 
+(2)	 Work That Involves NSI. DOE classification guidance concerning NSI 
+may be used if the work explicitly falls within the scope of such guidance, 
+and the funding Agency agrees to such use in writing. 
+6.	 Classification Guidance for Jointly Funded Work. Classification guidance for work 
+performed at DOE facilities and funded by DOE and other U.S. Government 
+organizations is the joint responsibility of the funding organizations. 
+a.	 Availability of Guidance. The DOE organization responsible for funding the 
+classified work must contact the Office of Classification, through the Field 
+Element Classification Officer and the Program Classification Officer, as
+
+--- page 37 ---
+DOE O 475.2B Attachment 3
+ 
+10-3-2014 Page 3 (and Page 4) 
+appropriate, to ensure that appropriate joint classification guidance is either 
+available or developed. 
+b. Use of Other-Agency Classification Guidance. If NSI classification guidance 
+covering the subject area(s) has already been developed by another of the funding 
+agencies, the DOE organization responsible for funding the classified work must 
+contact the Office of Classification who will coordinate with the Field Element 
+Classification Officer and the Program Classification Officer, as appropriate, to 
+approve its use. The guidance may be used for up to 90 days pending final 
+approval. 
+7. Classification Guidance for DOE-Funded Work. 
+a. Performed at Other Government Facilities. DOE organizations responsible for 
+funding classified work at other Government facilities must contact the Office 
+of Classification, through the Program Classification Officer, as appropriate, to 
+ensure that classification guidance covering the work is either available or 
+developed. 
+b. Performed at DOE Facilities concerning Classified Information under the 
+Cognizance of another Agency. DOE organizations using another Agency’s 
+classification guidance for work funded by DOE that is being performed at a 
+DOE facility must submit such guidance to the Director, Office of 
+Classification, through the Program Classification Officer, as appropriate, prior 
+to its use.
+
+--- page 38 ---
+
+
+--- page 39 ---
+DOE O 475.2B	 Attachment 4
+ 
+10-3-2014	 Page 1
+ 
+CLASSIFICATION/DECLASSIFICATION REVIEW REQUIREMENTS 
+This Attachment provides information and/or requirements associated with this Order as well 
+as information and/or requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to this Order) is inserted. 
+1.	 CLASSIFICATION. A document or material potentially containing classified 
+information must be reviewed for classification to ensure that such information is 
+identified for protection. 
+a.	 Required Classification Reviews. 
+(1)	 A newly generated document or material in a classified subject area that 
+potentially contains classified information must receive a classification 
+review by a Derivative Classifier. 
+(2)	 An existing, unmarked document or material that an employee believes 
+may contain classified information must receive a classification review 
+by a Derivative Classifier. 
+(3)	 An existing, marked document or material that an employee believes 
+may contain information classified at a higher level or more restrictive 
+category must receive a classification review by a Derivative Classifier. 
+(4)	 A document or material generated in a classified subject area and 
+intended for public release (e.g., for a publicly available webpage, for 
+news organizations), including documents provided to or testimony given 
+to Congress, must be reviewed by the Classification Officer or a 
+Derivative Classifier who has been delegated this authority in writing. 
+(5)	 Extracts. A newly generated document that consists of a complete 
+section (e.g., chapter, attachment, appendix) 
+(a)	 Marked as Classified. Extracts from a classified document that is 
+marked as classified: 
+1	 must be reviewed by a Derivative Classifier if it is 
+intended to be a standalone classified document. 
+2	 must be reviewed for declassification if it is intended to 
+be an unclassified document. 
+(b)	 Marked as Unclassified. When a complete section that is marked 
+in its entirety as unclassified is removed from a classified 
+document for use as a standalone document, a review is not 
+required unless it is intended for public release. Reviews for 
+public release must be performed in accordance with 1a(4).
+
+--- page 40 ---
+Attachment 4	 DOE O 475.2B
+ 
+Page 2	 10-3-2014 
+(6)	 Printed output from a classified information system must be reviewed by 
+a Derivative Classifier to determine the appropriate classification unless: 
+(a)	 The output is a final document that has already been reviewed 
+and is appropriately marked; 
+(b)	 The printed output is a working paper that is: 
+1	 properly marked at the highest potential level and 
+category or 
+2	 marked and protected at the highest level and category of 
+information resident on the system; or 
+(c)	 The program is verified to produce consistent output and the 
+Classification Officer has determined that the output is 
+consistently classified at a particular level and category or is 
+unclassified. When the Classification Officer documents the 
+classification determination, all printed output from the system 
+using the fields or elements reviewed can use that determination 
+as the basis for its classification. If any fields or elements are 
+added or revised, a new classification review is required. 
+b.	 Basis for Determination. 
+(1)	 Restricted Data/Formerly Restricted Data. Current classification 
+guidance must be used as the basis for determining whether a document 
+or material contains RD/FRD and, if so, its classification level. 
+Unclassified topics from canceled or obsolete guides may be used to 
+determine that information is not classified when no current guidance 
+exists. A source document may be used in place of classification 
+guidance only as authorized by the Classification Officer or the Program 
+Classification Officer. 
+(2)	 Transclassified Foreign Nuclear Information. Classification protocols 
+developed in coordination with the Intelligence Community must be used 
+as the basis for determining whether a document or material contains 
+TFNI. The classification level may be determined by using classification 
+guidance applicable to comparable RD or FRD or by using a source 
+document. 
+(3)	 National Security Information. Current classification guidance must be 
+used as the basis for determining whether a document or material 
+contains NSI and, if so, its classification level. However, a source 
+document may be used to classify any email or to classify any other 
+document that contains NSI outside the Derivative Classifier’s 
+jurisdiction or authorized subject areas, or when the Classification
+
+--- page 41 ---
+DOE O 475.2B	 Attachment 4
+ 
+10-3-2014	 Page 3 
+Officer or Program Classification Officer has specifically approved its 
+use. A source document may be used only if: 
+(a)	 The source document is portion marked and 
+(b)	 The source document is less than 25 years old and is marked with 
+a declassification date or event that has not passed or has been 
+exempted from automatic declassification and is marked with a 
+declassification date or event that has not passed 
+c.	 Classification Authority Block. Upon completion of a classification review, a 
+classification authority block containing the following information must appear 
+on a document or material that is determined to be classified. 
+(1)	 “Classified By” Line. The name or personal identifier and position title 
+of the Derivative Classifier and, if not otherwise evident, the agency and 
+the office of origin. 
+(2)	 “Derived From” Line. 
+(a)	 If a guide is used, the short title of the guide, issue date of the 
+guide, and agency and, where available, the guide’s office of 
+origin. For example, if a DOE guide, CG-SS-4, 9/2000, DOE OC; 
+if another agency guide: XYZ Affair, 3/2013, State Dept. 
+(b)	 If a source document is used, the identification of the source 
+document, the agency of origin and, where available, the office of 
+origin, and the date of the source. 
+(c)	 If more than one classification guide or source document is used, 
+the words “Multiple Sources” may be used, and a source list 
+identifying each guide must be included with the document. 
+(3)	 “Declassify On” Line. For documents containing NSI only, the 
+“Declassify on” line must contain declassification instructions from the 
+classification guide or the source document. Note: If the date is 
+displayed numerically, the following format must be used: 
+YYYYMMDD. If multiple sources are used, the declassification 
+instruction with the longest duration must be identified. 
+d.	 Special Control Marking. In order to prevent the inadvertent release of RD, 
+FRD, or TFNI and to ensure the NSI classification has not been extended, 
+documents marked as containing NSI only must have the following special 
+control marking applied to the front page. This requirement does not apply to 
+intelligence products intended for the Intelligence Community. (For email, the 
+block format is not required.)
+
+--- page 42 ---
+Attachment 4	 DOE O 475.2B
+ 
+Page 4	 10-3-2014
+ 
+Derivative Declassifier 
+review required prior to 
+declassification 
+e.	 Portion Marking Requirements. The following portion marking requirements 
+supplement those required by DOE O 471.6, Admin Chg. 1, Information Security. 
+(1)	 Documents containing RD or FRD are not required to be portion marked. 
+(2)	 Documents containing only TFNI or NSI or both must be portion marked 
+as required by E.O. 13526. 
+(3)	 Documents containing both RD/FRD and TFNI or NSI are not required to 
+be portion marked. 
+(a)	 If portion marked: 
+1	 the “Declassify On” line must be used and must be 
+annotated with “Not Applicable to RD/FRD/TFNI 
+portions” and “See source list for NSI portions.” “N/A” 
+may be used in lieu of “Not Applicable.” 
+2	 for multiple page documents, the source list must not 
+appear on the front page of the document. 
+3	 the source list must include the longest duration 
+declassification instruction for each of the NSI source 
+documents cited. 
+4	 in the case of a single page document, the NSI source list 
+may appear at the bottom of the document, below and 
+clearly identified as separate from the classification 
+authority block. Alternatively, the declassification 
+instruction may be added at the end of each NSI portion. 
+(b)	 If not portion marked, the “Declassify On” line and the source list 
+containing the NSI declassification instructions must not be used. 
+(4)	 Documents prepared for the Intelligence Community must follow portion 
+marking requirements of the Intelligence Community. 
+(5)	 Documents prepared under a Work-for-Others contract must follow the 
+portion marking requirements of the funding organization if specified in 
+the contract or those in paragraph 1.e. if not specified in the contract.
+
+--- page 43 ---
+DOE O 475.2B	 Attachment 4
+ 
+10-3-2014	 Page 5
+ 
+f.	 Classification Based on Association and Compilation. Classification 
+determinations must take into account the potential for classification by 
+association or compilation. 
+(1)	 Association. 
+(a) Description. Classification by association concerns: 
+1	 two or more different, unclassified facts that when 
+combined in a specific way result in a classified statement 
+or 
+2	 two or more different, classified facts or unclassified and 
+classified facts that when combined in a specific way 
+result in a higher classification level or more restrictive 
+category. 
+(b)	 Basis for Determination. Associations are classified based on 
+existing classification guide topics. 
+(c)	 Additional Marking Requirements. If the document containing the 
+association is portion marked, then each portion of the associated 
+information must be marked at the level (and category if RD, FRD 
+or TFNI) of the association. 
+(2)	 Compilation. 
+(a)	 Description. Classification by compilation occurs at the document 
+level when: 
+1	 a large number of often similar, unclassified pieces of 
+information whose selection, arrangement, or 
+completeness in the document adds sufficient value to 
+merit classification or 
+2	 a large number of often similar classified pieces of 
+information or of unclassified and classified pieces of 
+information whose selection, arrangement, or 
+completeness in the document adds sufficient value to 
+merit classifying the document at a higher classification 
+level or more restrictive category. 
+(b)	 Basis for Determination. Compilations are classified based on: 
+1	 classification guide topics, only if such topics exist, or 
+2	 a determination by the Director, Office of Classification 
+(for RD/FRD/TFNI), or by an Original Classifier (for NSI).
+
+--- page 44 ---
+Attachment 4	 DOE O 475.2B
+ 
+Page 6	 10-3-2014 
+(c)	 Additional Marking Requirements. A document that is classified 
+based on compilation is never portion marked and must contain the 
+following statement: 
+This document has been classified as a 
+compilation and must not be used as a source 
+document for a derivative classification decision. 
+g.	 Classification of Documents Containing Foreign Government Information. The 
+following requirements for documents containing foreign government information 
+supplement those required by DOE O 471.6, Admin Chg.1, Information Security. 
+(1)	 Document Generated by a Foreign Government. A review by a Derivative 
+Classifier is not required to apply a U.S. classification level (i.e., Top 
+Secret, Secret, Confidential, or Confidential/Foreign Government 
+Information-Modified Handling Authorized) that provides at least an 
+equivalent level of protection to a document or material classified by a 
+foreign government. However, if the person in possession of the document 
+is unsure about the appropriate U.S. classification level, then he or she 
+must consult a Derivative Classifier. 
+(2)	 Document Generated by the United States. A document generated by the 
+U.S. Government that contains foreign government information must be 
+reviewed by a Derivative Classifier. 
+(3)	 Additional Marking Requirements. If a classification authority block is 
+applied, the “Declassify On” line must be annotated with the 
+declassification instructions from the classification guide or source 
+document used to make the determination. If no declassification 
+instructions are available, the Derivative Classifier must consult his or her 
+Classification Officer. 
+h.	 Inconsistent or No Guidance. If a Derivative Classifier encounters inconsistent 
+guidance or cannot determine the proper classification of information using 
+guidance approved for his or her use, the Derivative Classifier must contact his or 
+her Classification Office for assistance. Pending a determination, the document or 
+material must be protected at the more restrictive level and category or at the 
+highest potential level and category. 
+2.	 DECLASSIFICATION. Classified documents or material must be reviewed for 
+declassification by the appropriate official. 
+a.	 Required Declassification Reviews. 
+(1)	 A classified document that is being prepared for declassification in full 
+must be reviewed by two individuals knowledgeable in the subject area, 
+except as provided in 2.a(5)(a). The first review may be conducted either 
+by a Derivative Classifier or a Derivative Declassifier; the second review
+
+--- page 45 ---
+DOE O 475.2B 
+10-3-2014 
+Attachment 4 
+Page 7 
+must be conducted by a Derivative Declassifier (other than the first 
+reviewer). 
+(2) A classified document that is being prepared as a redacted version must be 
+reviewed as described in paragraph 2.a.(1) and must clearly indicate that it 
+is a redacted version. 
+(3) A classified document that is requested under statute or Executive order 
+must be reviewed in accordance with Attachment 7, Freedom of 
+Information Act/Privacy Act and Mandatory Declassification Review 
+Requirements. 
+(4) A document referred to DOE for declassification review by another 
+Government agency that is marked as containing or identified as 
+potentially containing RD, FRD, or TFNI must be reviewed as described 
+in paragraph 2.a.(1). 
+(5) An NSI document or material that is: 
+(a) Marked for declassification with a specific date or event that has 
+passed must be reviewed by a Derivative Declassifier (single 
+review only) prior to actual declassification to ensure that the 
+document or material does not contain classified information; 
+(b) Marked with one of the following declassification instructions: 
+Group 1, Group 2, or Group 3 (from E.O. 10501); “Exempt from 
+General Declassification Schedule” (from E.O. 11652); “Review 
+for Declassification on date indicated” (from E.O. 12065); 
+“Originating Agency’s Determination Required” (from 
+E.O.12356); or “Declassify on: Xn” (where n is a number between 
+1 and 8) (from E.O. 12958) must be reviewed in accordance with 
+paragraph 2.a.(1); 
+(c) Not marked for declassification with a specific date or event that 
+has passed or with one of the markings identified in paragraph 
+2.a.(5)(b) must be reviewed in accordance with paragraph 2.a.(1); 
+or 
+(d) A permanent historical record that is 25 years old or older must be 
+reviewed in accordance with paragraphs 2.a.(5)(a), (b), and (c) 
+above, as appropriate. 
+(6) Documents that were declassified but not publicly released during the 
+Comprehensive Classification Review Program must be reviewed by a 
+Derivative Declassifier (single review only) to ensure that they do not 
+contain classified information. Such documents were declassified between 
+1971 and 1978 and may include the following or similar markings:
+
+--- page 46 ---
+Attachment 4	 DOE O 475.2B
+ 
+Page 8	 10-3-2014
+ 
+CLASSIFICATION CANCELED 
+OR CHANGED TO 
+BY AUTHORITY OF DOC 
+BY John Doe DATE 3/20/73 
+(7)	 Documents dated prior to December 15, 1953, and marked as “Restricted” 
+and documents dated from July 18, 1949, through October 22, 1951, and 
+marked as “Official Use Only” must be reviewed by a Derivative 
+Declassifier or a Derivative Classifier (single review only). Until the 
+review is completed, such documents must be handled and protected as 
+Confidential NSI. 
+b.	 Basis for Determination. Classification guidance must be used as the basis for 
+determining whether a document or material can be declassified. If a Derivative 
+Declassifier encounters inconsistent guidance or cannot determine the proper 
+classification of an element of information using guidance approved for his or her 
+use, the Derivative Declassifier must contact his or her Classification Office for 
+assistance. 
+c.	 Derivative Declassification Markings. The following Derivative Declassifier 
+markings must be placed on the document or material that is declassified: 
+(1)	 Names or personal identifiers and positions or titles of individuals 
+declassifying the document on the “Declassified By” line. 
+(2)	 Short title of the guide, issuance date of the guide, and “DOE OC” (e.g., 
+CG-SS-4, 9/2000, DOE OC) on the “Derived From” line. 
+(3)	 The date of declassification on the “Declassified On” line. 
+(4)	 In addition, existing classification markings that are no longer valid must 
+be lined through but not obliterated. 
+d.	 Notification. 
+(1)	 Required Recipients. The Derivative Declassifier authorizing the 
+declassification of a document or material must notify the following 
+individuals, providing sufficient information for them to identify the 
+specific document or material being declassified: 
+(a)	 The originator or custodian of the document or material, if 
+identifiable, and 
+(b)	 If the document is a scientific or technical report, the Office of 
+Scientific and Technical Information (OSTI) Classified 
+Information Program Manager.
+
+--- page 47 ---
+DOE O 475.2B	 Attachment 4
+ 
+10-3-2014	 Page 9 
+(2)	 Time Frame. Notification must be sent within 75 calendar days of the 
+declassification. 
+(3)	 Additional Recipients. The individuals identified in paragraph 2.d.(1) who 
+receive a declassification notification must notify all known holders of the 
+document or material that the document or material is being declassified. 
+e.	 Changing Classification Markings Based on Receipt of a Declassification Notice. 
+The person changing the classification markings on a document based on receipt 
+of a declassification notice must include the following information on the front of 
+the document: 
+(1)	 The word “Declassified” on the “Classification changed to” line. 
+(2)	 A brief description of the notice advising of the declassification and its 
+date on the “Authorized by” line. 
+(3)	 The name of the person making the change on the “Changed by” line. 
+(4)	 The date the change is made on the “Date changed” line. 
+f.	 Declassified Documents for the OpenNet Data Base. Documents that have been 
+declassified and determined eligible to be released to the public must be entered 
+into the OpenNet data base managed by OSTI for the Office of Classification. 
+Identifying information and, if available, an electronic version of the document 
+must be provided. This requirement does not apply to documents declassified 
+under sections 3.3 or 3.4 of E.O. 13526. 
+3.	 DOWNGRADING AND UPGRADING. When the classification level or category of 
+information contained in a document or material is changed by classification guidance, 
+the document must be remarked, as appropriate. 
+a.	 Downgrading. Documents or material must be downgraded by a Derivative 
+Declassifier (single review only) and must be marked with the following: 
+(1)	 The downgraded level (and category if RD, FRD, or TFNI). 
+(2)	 The name or personal identifier and position or title of the Derivative 
+Declassifier authorizing the downgrading on the “Downgraded By” line. 
+(3)	 Date of the downgrading on the “Downgraded On” line. 
+(4)	 On the “Derived From” line, the short title, issuance date of the guide, and 
+“DOE OC” or, if another agency guide is used, the agency and, where 
+available, the office of origin (e.g., CG-SS-4, 9/2000, DOE OC or 
+CG No. 1, 7/5/2005, Dept. of Good Works, Office of Administration).
+
+--- page 48 ---
+Attachment 4	 DOE O 475.2B
+ 
+Page 10	 10-3-2014 
+(5)	 If NSI, the duration of classification derived from the guidance on the 
+“Declassify On” line. 
+(6)	 Portion markings, if required by paragraph 1.e. above. 
+(7)	 In addition, the existing classification markings that are no longer valid 
+must be lined through but not obliterated. 
+b.	 Upgrading. Documents or material must be upgraded by a Derivative Classifier 
+and must be marked with the following: 
+(1)	 The upgraded level (and category if RD, FRD, or TFNI). 
+(2)	 The name or personal identifier and position or title of the Derivative 
+Classifier authorizing the upgrading on the “Upgraded By” line. 
+(3)	 The date of the upgrading on the “Upgraded On” line. 
+(4)	 On the “Derived From” line, the short title, issuance date of the guide, 
+and“DOE OC” or, if another agency guide is used, the agency and, where 
+available, the office of origin (e.g., CG-SS-4, 9/2000, DOE OC or 
+CG No. 1, 7/5/2005, Dept. of Good Works, Office of Administration). 
+(5)	 If NSI, include the duration of classification derived from the guidance on 
+the “Declassify On” line. 
+(6)	 Portion markings, if required by paragraph 1.e. above. 
+(7)	 In addition, the existing classification markings that are no longer valid 
+must be lined through but not obliterated. 
+c.	 Notification. 
+(1)	 Required Recipients. The Derivative Declassifier or Derivative Classifier 
+authorizing the downgrading or upgrading of a document or material must 
+notify the following individuals, providing sufficient information for them 
+to identify the specific document or material being downgraded or 
+upgraded: 
+(a)	 The originator or custodian of the document or material, if 
+identifiable, 
+(b)	 If the document is a scientific or technical report, the OSTI 
+Classified Information Program Manager, and 
+(c)	 For upgrades, the cognizant Classification Officer. 
+(2)	 Time Frame. Notification must be sent within 75 calendar days of the 
+downgrading or upgrading action.
+
+--- page 49 ---
+DOE O 475.2B	 Attachment 4
+ 
+10-3-2014	 Page 11 
+(3)	 Additional Requirements for Downgrading/Upgrading Actions That 
+Result in a Change to the TFNI or NSI Category. 
+(a)	 If downgrading results in a change from the RD or FRD category 
+to the TFNI or NSI category, then portion marking instructions for 
+the TFNI and NSI in the document must be included in the 
+notification, and declassification instructions must be included for 
+the NSI. 
+(b)	 If upgrading results in a change from unclassified to TFNI or NSI, 
+then portion marking instructions for the TFNI and NSI in the 
+document must be included in the notification, and declassification 
+instructions must be included for the NSI. 
+(4)	 Additional Recipients. The individuals identified in paragraphs 3.c.(1) 
+must notify all known holders of the document or material that the 
+document has been downgraded or upgraded. Note: For upgrade notices 
+the recipient must have the appropriate access authorization. 
+d.	 Changing Classification Markings based on Receipt of a Downgrading or 
+Upgrading Notice. The person changing the classification markings on a 
+document based on receipt of a downgrading or upgrading notice must include the 
+following information on the front of the document: 
+(1)	 The appropriate classification level (and category if RD, FRD, or TFNI) 
+on the “Classification Changed to” line. 
+(2)	 A brief description of the notice advising of the change in classification 
+and its date on the “Authorized By” line (e.g., Change Notice 138, 
+8/31/06). 
+(3)	 The name of the person making the change on the “Changed By” line. 
+(4)	 The date the change is made on the “Date Changed” line. 
+(5)	 If a downgrading action resulted in a change from the RD or FRD 
+category to the TFNI or NSI category: 
+(a)	 The declassification instructions for the NSI described in the 
+notification on the “Declassify On” line and 
+(b)	 The appropriate portion markings (throughout the document). 
+(6)	 If an upgrading action resulted in a change from unclassified to the TFNI 
+or NSI category: 
+(a)	 The declassification instructions for the NSI described in the 
+notification on the “Declassify On” line, and
+
+--- page 50 ---
+Attachment 4	 DOE O 475.2B
+ 
+Page 12	 10-3-2014 
+(b)	 The appropriate portion markings (throughout the document). 
+4.	 CHALLENGES. Each employee is encouraged and expected to challenge the 
+classification of information, documents, or material that he or she believes is improperly 
+classified. Employees are encouraged to resolve classification challenges locally. If the 
+challenge cannot be resolved locally, the employee has the right to submit a challenge in 
+writing to the Director, Office of Classification. However, every employee has the right 
+at any time to submit a challenge in writing directly to the Director, Office of 
+Classification. Under no circumstances is the employee subject to retribution for making 
+a challenge. 
+a.	 The Director, Office of Classification. The Director, Office of Classification, will 
+coordinate formal challenges with the cognizant Classification Officer, Program 
+Classification Officer, or Headquarters Classification Representative, as 
+appropriate, and must respond to the challenger within 60 days of the initial 
+receipt of the challenge. Any response that denies a change in the classification 
+status of the challenged information, document, or material must include the 
+appeal rights of the challenger. 
+b.	 Appeals. If an employee is not satisfied with the response to his or her 
+classification challenge, he or she may appeal the decision. 
+(1)	 NSI Appeals. 
+(a)	 The Director, Office of Classification, must respond to an NSI 
+challenge within 60 days or notify the challenger if the expected 
+response is beyond 60 days. If the response is expected beyond 60 
+days, the notification must include the date the response will be 
+provided. The notification must also include a statement that if no 
+response is received within 120 days, the challenger may forward 
+the challenge to ISCAP. 
+(b)	 If a challenger is not satisfied with the response from the Director, 
+Office of Classification, the employee may appeal to the Associate 
+Under Secretary for Environment, Health, Safety and Security. If 
+the information is under NNSA cognizance, the Associate Under 
+Secretary will coordinate with the NNSA, Chief of Defense 
+Nuclear Security. 
+(c)	 If there is no response to an appeal to the Associate Under 
+Secretary for Environment, Health, Safety and Security within 90 
+days or the employee is not satisfied with the response from the 
+Associate Under Secretary, the employee may forward the 
+challenge to the ISCAP.
+
+--- page 51 ---
+DOE O 475.2B	 Attachment 4
+ 
+10-3-2014	 Page 13 (and Page 14) 
+(d)	 If an NSI document also containing RD, FRD, or TFNI is appealed 
+to ISCAP, the RD, FRD or TFNI must be removed prior to 
+submission to ISCAP. 
+(2)	 RD/FRD/TFNI Appeals. If the person making the challenge is not 
+satisfied with the response from the Director, Office of Classification, the 
+employee may appeal to the Associate Under Secretary for Environment, 
+Health, Safety and Security. RD/FRD and TFNI appeals are not subject to 
+review by ISCAP. If the information is under NNSA cognizance, the 
+Associate Under Secretary will coordinate with the NNSA, Chief of 
+Defense Nuclear Security. 
+5.	 DECLASSIFICATION PROPOSALS. Each employee is encouraged and expected to 
+submit proposals to declassify information the employee believes no longer requires 
+protection. Declassification proposals must be submitted in writing and must include a 
+description of the information concerned and a reason for the request. Declassification 
+proposals may be submitted to the proposer’s Classification Officer or Program 
+Classification Officer or directly to the Director, Office of Classification, who will 
+coordinate the declassification proposal with the appropriate officials. 
+6.	 MISCLASSIFICATION OF INFORMATION, DOCUMENTS, OR MATERIAL. 
+a.	 Any knowing, willful, or negligent action that results in the misclassification of 
+information, documents, or material may result in termination of the classification 
+official’s authority. Additional consequences such as disciplinary action or the 
+issuance of a security infraction may result in accordance with other DOE 
+directives. Examples of knowing, willful, or negligent actions include classifying 
+without authority, classifying outside of granted authority, and failing to obtain a 
+classification review when required to do so. Such actions do not include cases 
+where classification officials legitimately disagree about the reasonable 
+interpretation of classification guidance. 
+b.	 Classification officials with appropriate authority who misclassify documents or 
+material must not face penalties as long as such determinations are within their 
+authority and are based on reasonable interpretations of guidance.
+
+--- page 52 ---
+
+
+--- page 53 ---
+DOE O 475.2B	 Attachment 5
+ 
+10-3-2014	 Page 1
+ 
+CLASSIFICATION PROGRAM EVALUATIONS
+ 
+This Attachment provides information and/or requirements associated with this Order as 
+well as information and/or requirements applicable to contracts in which the associated 
+CRD (Attachment 1 to this Order) is inserted. 
+1.	 SELF-ASSESSMENT AND EVALUATION REQUIREMENTS. 
+a.	 Coverage. 
+(1)	 Program Classification Officers. 
+(a) Each Program Classification Officer must conduct: 
+1	 a self-assessment of his or her Headquarters element and 
+2	 an evaluation of the classification programs of any 
+subordinate field elements and contractors with 
+Classification Officers. This evaluation may be 
+accomplished by: 
+a	 conducting separate on-site evaluations; 
+b	 participating in on-site evaluations conducted by the 
+Office of Classification or self-assessments 
+conducted by subordinate Classification Officers; or 
+c	 reviewing and analyzing self-assessment, 
+classification decision review, and corrective action 
+reports of subordinate organizations. However, this 
+option may not be used for consecutive 
+evaluations. 
+(b)	 In addition, each Program Classification Officer must submit an 
+overall assessment of the classification program under his or her 
+cognizance to the Office of Classification at least once every 2 
+years. 
+(2)	 Field Element Classification Officers. 
+(a)	 Each Field Element Classification Officer must conduct a self-
+assessment of his or her element. 
+(b)	 Each Field Element Classification Officer must conduct an 
+evaluation of any subordinate contractors with Classification 
+Officers. This evaluation may be accomplished by 
+1 conducting separate on-site evaluations;
+
+--- page 54 ---
+Attachment 5	 DOE O 475.2B
+ 
+Page 2	 10-3-2014 
+2	 participating in on-site evaluations conducted by the 
+Office of Classification; or 
+3	 reviewing and analyzing self-assessment, classification 
+decision review, and corrective action reports of 
+subordinate Classification Officers. 
+(3)	 Contractor Classification Officers. Each Contractor Classification Officer 
+must conduct a self-assessment of his or her classification program and of 
+any subordinate contractors that do not have a Classification Officer. The 
+Contractor Classification Officer must also evaluate any subordinate 
+contractor that has a Classification Officer. 
+(4)	 Headquarters Classification Representatives. Each Headquarters 
+Classification Representative must conduct a self-assessment of the 
+classification program within his or her organization. 
+b.	 Coordination of Self-Assessment and Evaluation Schedules. For efficiency, 
+Program Classification Officers and Field Element and Contractor Classification 
+Officers should coordinate the scheduling of self-assessments and evaluations 
+with the subordinate organizations being assessed to the maximum extent 
+practical. 
+c.	 Self-Assessments and Evaluations of Multiple Subordinate Organizations. Self-
+assessments and evaluations by Program Classification Officers and Field 
+Element and Contractor Classification Officers responsible for evaluating 
+multiple subordinate organizations may be completed in a single evaluation or in 
+multiple evaluations at different times during the 2-year period, as determined by 
+the Program Classification Officer or Field Element or Contractor Classification 
+Officer and in accordance with paragraph 1.b above. 
+d.	 Frequency. A self-assessment or an evaluation must be conducted every 2 years. 
+e.	 Scope. 
+(1)	 Self-assessments and evaluations must determine how well the 
+requirements contained in E.O. 13526, 32 CFR part 2001, 10 CFR part 
+1045, and this Order and CRD are being implemented by examining the 
+following areas: 
+(a)	 Classification Officials: organization has an adequate number and 
+appropriate distribution; authority descriptions are accurate and 
+adhered to. 
+(b)	 Classification Guidance and Procedures: classification guidance is 
+up to date; Derivative Classifiers and Derivative Declassifiers have 
+access to appropriate guidance; guidance for DOE contracts that 
+generate classified information and for classified non-DOE-funded
+
+--- page 55 ---
+DOE O 475.2B	 Attachment 5
+ 
+10-3-2014	 Page 3 
+work is certified by the Classification Officer; locally issued 
+classification procedures are consistent with National and DOE 
+directives. 
+(c)	 Classification Decisions: classification decision reviews are 
+conducted in accordance with paragraph 2, Classification Decision 
+Review Requirements, and may be completed as part of the self-
+assessment or as a separate activity. 
+(d)	 Training: training requirements are met; training materials are 
+accurate and up to date when presented. Note: Headquarters 
+Classification Representatives are only responsible for evaluating 
+training generated by his or her Headquarters program. 
+(e)	 Program Evaluations: self-assessments and evaluations were 
+conducted as required and covered all required areas; accuracy of 
+classification decision reviews was evaluated; previous 
+deficiencies or issues identified, the corrective actions taken, and 
+the effectiveness of those corrective actions are evaluated. 
+(f)	 Adequate operational awareness of the Program Classification 
+Officer, the Classification Officer, or the Headquarters 
+Classification Representative is demonstrated by the following 
+ways: 
+1	 awareness of all existing work involving classified 
+information at the site/element, to include classification 
+guidance used; 
+2	 awareness of any new work involving classified 
+information at the site/element, to include the impact of 
+the new work on existing projects; 
+3	 technical competence and authority within the 
+organization to independently conduct self-assessments 
+and evaluations at the site/element; 
+4	 cognizance of the results of self-assessments conducted of 
+special programs for which he or she does not have access 
+(e.g., sensitive compartmented information, special access 
+programs) to ensure that performance of the work will 
+meet all requirements of this Order and CRD. 
+(2)	 Self-assessments and evaluations may focus on particular aspects of the 
+areas identified in paragraph 1.e.(1). Although each area must be 
+evaluated, the classification official conducting the review may determine 
+the depth of review for each area based on the nature and extent of
+
+--- page 56 ---
+Attachment 5	 DOE O 475.2B
+ 
+Page 4	 10-3-2014 
+classified activities to be covered and performance on previous self-
+assessments. 
+f.	 Reports. 
+(1)	 Each self-assessment and evaluation must be documented in a report, 
+which must include the following: 
+(a)	 A description of how the self-assessment or evaluation was 
+conducted, including how the documents were selected for the 
+document reviews; 
+(b)	 A list of organizations assessed or evaluated; 
+(c)	 An evaluation of each program area covered in paragraph 1.e.(1); 
+(d)	 Any deficiencies identified during the self-assessment or 
+evaluation; and 
+(e)	 Any best practices identified during the self-assessment or 
+evaluation. 
+(2)	 If a portion of the self-assessment or evaluation was completed as part of a 
+security survey or another required report, the report may cite the report 
+that fulfills the requirement and attach the appropriate information to the 
+report submitted. 
+g.	 Submittal of Reports. 
+(1)	 Reports must be submitted to the Director, Office of Classification, 
+through the Field Element and Program Classification Officer, as 
+appropriate, within 60 days of the completion of the evaluation or self-
+assessment. Classification Decision Review reports may be submitted 
+separately in accordance with paragraph 2, Classification Decision Review 
+Requirements. 
+(2)	 Program Classification Officers and Field Element Classification Officers 
+must evaluate, endorse, and forward self-assessment and evaluation 
+reports received from subordinate Classification Officers to the Director, 
+Office of Classification, within 30 days of receiving the report. 
+(3)	 Each Program Classification Officer must submit a report describing the 
+overall assessment of the classification program under his or her 
+cognizance to the Office of Classification within 30 days of completing 
+the overall assessment.
+
+--- page 57 ---
+DOE O 475.2B	 Attachment 5
+ 
+10-3-2014	 Page 5 
+2.	 CLASSIFICATION DECISION REVIEW REQUIREMENTS. 
+a.	 Coverage. Each Program Classification Officer, Field Element and Contractor 
+Classification Officer, and Headquarters Classification Representative must 
+conduct a review of classification decisions (including varying types of classified 
+and unclassified documents or material) within his or her Headquarters program, 
+field element, or contractor. 
+b.	 Scope. Classification decision reviews must assess that original and derivative 
+classification decisions are accurate; decisions are made by classification officials 
+acting within their granted authorities; and classification markings are correct. 
+c.	 Frequency. Classification decision reviews must be conducted annually. The 
+review may be conducted separately or as part of the biennial self-assessment. 
+d.	 Methodology for Determining Representative Sample. At a minimum, the review 
+must include a proportionally sufficient, representative sample of the 
+organization’s classified documents. The sample size of classified products must 
+be determined by the official conducting the review using standard statistical 
+methods (e.g., ISO 2859, ANSI Z1.4). In addition to the classified documents, a 
+comparable number of unclassified documents (including documents containing 
+Unclassified Controlled Nuclear Information and Official Use Only) in a 
+classified subject area must be reviewed. 
+e.	 Report. Each review must be documented in a report. The format for the report 
+will be provided by the Office of Classification based on requirements identified 
+by ISOO. The report must include the following: 
+(1)	 The number of derivatively classified documents reviewed by type (e.g., 
+RD, TFNI, FRD, NSI); 
+(2)	 The number of unclassified documents in classified subject areas 
+reviewed; and 
+(3)	 The number of errors that were found by type (e.g., over or under 
+classification, erroneous classification decisions, specific types of marking 
+errors, incorrect declassification instructions). 
+f.	 Submittal of Report. Each report must be submitted to the Director, Office of 
+Classification, through the Field Element and Program Classification Officer, as 
+appropriate, within 60 days of the completion of the review. The Field Element 
+Classification Officer and Program Classification Officer must forward the report 
+and analysis to the Director, Office of Classification, within 30 days of receipt. 
+3.	 CORRECTIVE ACTIONS. Corrective actions identified as a result of a self-assessment 
+or evaluation must be documented in a written report. 
+a.	 Contents of Report. The written report must include the following:
+
+--- page 58 ---
+Attachment 5	 DOE O 475.2B
+ 
+Page 6	 10-3-2014 
+(1)	 A list of deficiencies identified; 
+(2)	 Corrective actions that have been taken or are planned to address 
+deficiencies; and 
+(3)	 A timeline for completing the corrective actions. 
+b.	 Submittal of Report. Each report must be submitted to the Director, Office of 
+Classification, through the Field Element and Program Classification Officer, as 
+appropriate, within 60 days of the completion of the review. The Field Element 
+Classification Officer and Program Classification Officer must forward the report 
+and analysis to the Director, Office of Classification, within 30 days of receipt. 
+4.	 AGENCY SELF-INSPECTION REQUIREMENTS UNDER 10 CFR PART 1045 and 
+32 CFR PART 2001. 
+a.	 Evaluation of Implementation of DOE’s Classification Program . The Director, 
+Office of Classification, meets the agency-wide self-inspection requirements in 
+10 CFR § 1045.4(4) and 32 CFR § 2001.60 by conducting on-site evaluations. To 
+the maximum extent practical, such on-site evaluations will be in concert and 
+coordination with line management oversight to determine the effectiveness of the 
+implementation of DOE’s classification program by the programs, field and 
+Headquarters elements, and their contractors. 
+b.	 Compilation of Evaluation Reports. The Director, Office of Classification, must 
+compile and analyze self-assessment, evaluation, and classification decision 
+review reports received from Program Classification Officers, Field Element and 
+Contractor Classification Officers, Headquarters Classification Representatives, 
+and other DOE inspecting organizations to meet external reporting requirements 
+in 32 CFR § 2001.60(f)(2). To preclude redundant oversight activities, the 
+Director, Office of Classification, will utilize information from other 
+Headquarters oversight activities, when possible. 
+c.	 Report. The Director, Office of Classification, must annually prepare a report 
+based on the results of the evaluations in paragraph 4.a. and the analysis in 
+paragraph 4.b. and submit it to the ISOO.
+
+--- page 59 ---
+DOE O 475.2B Attachment 6 
+10-3-2014 Page 1 
+CLASSIFICATION EDUCATION PROGRAM 
+This Attachment provides information and/or requirements associated with this Order as 
+well as information and/or requirements applicable to contracts in which the associated 
+CRD (Attachment 1 to this Order) is inserted. 
+1.	 CLASSIFICATION AWARENESS BRIEFINGS FOR EMPLOYEES AUTHORIZED 
+ACCESS TO CLASSIFIED INFORMATION. Classification awareness briefings for 
+employees authorized access to classified information must meet the following 
+requirements: 
+a.	 Frequency. Employees must receive an initial classification awareness briefing 
+when they are first authorized access to classified information and annually 
+thereafter. 
+b.	 Coverage. At a minimum, the following areas must be covered: 
+(1)	 Where to go for assistance with classification-related issues. 
+(2)	 When an employee must have a document or material reviewed for 
+classification and which classification official must conduct the review. 
+(3)	 When an employee must have a document or material reviewed for 
+declassification and which classification official must conduct the review. 
+(4)	 Basic information on DOE’s “no comment” policy concerning classified 
+information in the public domain. 
+(5)	 Responsibility to challenge classification decisions, where to find 
+procedures for classification challenges, and who to contact if he or she 
+decides to challenge a classification decision. 
+(6)	 Other pertinent information as determined by the Classification Officer. 
+c.	 Testing. No testing is required. 
+2.	 CLASSIFICATION TRAINING REQUIREMENTS FOR CLASSIFICATION 
+OFFICIALS. The training for classification officials must meet the following 
+requirements: 
+a.	 Original Classifier. 
+(1)	 Frequency. Each Original Classifier must receive training at least once a 
+calendar year. 
+(2)	 Coverage. At a minimum, the following areas must be covered: 
+(a)	 Basic information on classification standards and levels.
+
+--- page 60 ---
+Attachment 6	 DOE O 475.2B
+ 
+Page 2	 10-3-2014
+ 
+(b)	 A description of original classification authority and the categories 
+under which DOE information can be originally classified. 
+(c)	 The prohibitions and limitations on originally classifying 
+information. 
+(d)	 Requirements for determining how long to classify information 
+being considered for original classification. 
+(e)	 Requirements for marking an originally classified document. 
+(f)	 Requirements for reporting an original classification determination 
+to the Director, Office of Classification. 
+(g)	 Those aspects of the classification challenge process that affect an 
+Original Classifier. 
+(h)	 A description of DOE’s classification guidance-based system and 
+the role of original classification within DOE. 
+(i)	 A brief explanation of declassification and which officials may 
+declassify information and documents or material. 
+(j)	 Sanctions for improper use of original classification authority. 
+(k)	 The importance of avoiding over-classification and of considering 
+information sharing needs when making an original classification 
+determination. 
+(3)	 Testing. Testing is not required. 
+b.	 Derivative Classifier. 
+(1)	 Frequency. Each Derivative Classifier must receive initial training prior to 
+appointment and retraining every 2 years thereafter. 
+(2)	 Coverage. At a minimum, the following areas must be covered in both the 
+initial training and the retraining: 
+(a)	 Basic information on classification levels and categories. 
+(b)	 A description of derivative classification authority, including the 
+use of subject areas, jurisdiction, and limitations. 
+(c)	 Instructions for using classification guidance to make a derivative 
+classification determination, including how to determine the 
+duration of classification for a document or material being 
+considered for derivative classification as NSI.
+
+--- page 61 ---
+DOE O 475.2B	 Attachment 6
+ 
+10-3-2014	 Page 3 
+(d)	 Requirements for marking a derivatively classified document or 
+material. 
+(e)	 A brief description of upgrading and the requirements for 
+upgrading documents or material. 
+(f)	 Basic information on the proper use and marking of working 
+papers. 
+(g)	 A brief explanation of declassification and which officials may 
+declassify documents or material. 
+(h)	 Responsibility to challenge classification decisions, where to find 
+procedures for classification challenges, and who to contact if he 
+or she decides to challenge a classification decision. 
+(i)	 The prohibitions and limitations on derivatively classifying 
+documents or material. 
+(j)	 Sanctions for improper use of derivative classification authority. 
+(k)	 The importance of avoiding over-classification and of considering 
+information sharing needs when making a derivative classification 
+determination. 
+(l)	 Classification lessons learned during previous self-assessments. 
+(3)	 Testing. 
+(a)	 Initial Training. Testing includes an examination covering the 
+areas in paragraph 2.b.(2) and, at the discretion of the appointing 
+official, practical exercises using actual or simulated classification 
+guidance and documents. 
+(b)	 Retraining. The need for and content of testing during retraining 
+are determined by the appointing official. 
+c.	 Derivative Declassifier. 
+(1)	 Frequency. Each Derivative Declassifier must receive initial training prior 
+to appointment and retraining every 2 years thereafter. 
+(2)	 Coverage. At a minimum, the following areas must be covered in both the 
+initial training and the retraining: 
+(a)	 A description of derivative declassification authority and of DOE’s 
+requirement to use classification guidance as the basis for making a 
+derivative declassification determination.
+
+--- page 62 ---
+Attachment 6	 DOE O 475.2B
+ 
+Page 4	 10-3-2014
+ 
+(b)	 The coordination required before declassifying a document or 
+material. 
+(c)	 The proper procedure for bracketing and redacting classified 
+information from a classified document. 
+(d)	 Requirements for marking a derivatively declassified document or 
+material. 
+(e)	 A brief description of downgrading and the requirements for 
+downgrading documents or material. 
+(f)	 Declassification lessons learned during previous self-assessments. 
+(3)	 Testing. 
+(a)	 Initial Training. Testing includes an examination covering the 
+areas in paragraph 2.c.(2) and practical exercises using actual or 
+simulated classification guidance and documents. 
+(b)	 Retraining. Testing must include examinations provided by the 
+Office of Classification that cover the areas in paragraph 2.c.(2). 
+d.	 Program Classification Officer and Classification Officer. 
+(1)	 Frequency. Each Program Classification Officer and Classification Officer 
+must receive initial training within 6 months of being appointed and 
+complete the Office of Classification’s policy refresher at least once every 
+2 years. 
+(2)	 Training Waiver. The requirement for initial training may be waived if the 
+nominated employee has completed the training and examination in the past. 
+(3)	 Coverage of Initial Training. Initial training for the position of Program 
+Classification Officer or Classification Officer must cover the elements for 
+a Derivative Classifier and a Derivative Declassifier and the following: 
+(a)	 The bases for classifying RD, FRD, and TFNI. 
+(b)	 The basis for classifying NSI. 
+(c)	 Classification authorities and responsibilities of DOE officials. 
+(d)	 Fundamentals of an effective classification program. 
+(4)	 Testing for Initial Training: Testing includes an examination covering the 
+areas in 2.d.(3). A score of at least 80 percent is required for passing the 
+examination.
+
+--- page 63 ---
+DOE O 475.2B	 Attachment 6
+ 
+10-3-2014	 Page 5 (and Page 6)
+ 
+e.	 Headquarters Classification Representative and Alternate Headquarters 
+Classification Representatives . 
+(1)	 Frequency. Headquarters Classification Representatives and Alternate 
+Headquarters Classification Representatives must receive initial training 
+within 2 months of being appointed and complete the Office of 
+Classification’s policy refresher at least once every 2 years. 
+(2)	 Coverage. Initial training for the position of Headquarters Classification 
+Representative must cover Headquarters Classification Representative 
+responsibilities. 
+(3)	 Testing for Initial Training. Testing includes an examination covering the 
+responsibilities of the Headquarters Classification Representative. A score 
+of at least 80 percent is required for passing the examination.
+
+--- page 64 ---
+
+
+--- page 65 ---
+DOE O 475.2B	 Attachment 7
+ 
+10-3-2014	 Page 1
+ 
+FREEDOM OF INFORMATION ACT/PRIVACY ACT
+ 
+AND MANDATORY DECLASSIFICATION REVIEW REQUIREMENTS
+ 
+This Attachment provides information and/or requirements associated with this Order as 
+well as information and/or requirements applicable to contracts in which the associated 
+CRD (Attachment 1 to this Order) is inserted. 
+1.	 FREEDOM OF INFORMATION ACT/PRIVACY ACT REVIEWS. Classified 
+documents identified as being responsive to a Freedom of Information Act (FOIA) or 
+Privacy Act request must be reviewed to identify the classified information in the 
+document that must be redacted prior to release. 
+a.	 Review of Responsive Classified Documents. Each responsive classified 
+document must be reviewed by a Derivative Classifier or Derivative Declassifier 
+who identifies and brackets each portion of the document, if any, that contains 
+classified information as described in Attachment 8, Bracketing and Redaction 
+Procedures, and determines whether the document contains classified information 
+outside of the element’s or contractor’s purview. 
+(1)	 If the First Reviewer Determines the Document Does Not Contain 
+Classified or Potentially Classified Information. 
+(a)	 Field Element or Contractor. The Classification Officer must 
+conduct a second review and declassify the document. The 
+document is then processed in accordance with appropriate 
+statutes, regulations, and local procedures. 
+(b)	 Headquarters Element or Headquarters Element Contractor . The 
+document must be forwarded to the Office of Classification or the 
+NNSA Program Classification Officer, as appropriate, through the 
+Headquarters Classification Representative if a contractor, for a 
+second review. 
+(2)	 If the First Reviewer Determines the Document Contains Classified 
+Information under the Element’s or Contractor’s Purview. The document 
+must be forwarded to the Office of Classification for a second review. 
+(3)	 If the First Reviewer Determines the Document Contains Classified 
+Information under the Element’s or Contractor’s Purview and Potentially 
+Classified Information Outside of the Element’s or Contractor’s Purview. 
+The document must be forwarded to the Office of Classification for a 
+second review and with the indication that the document may contain 
+classified information under the purview of another DOE field or 
+Headquarters element or contractor or other Government Agency. 
+(4)	 If the First Reviewer Determines the Document Does Not Contain 
+Classified Information under the Element’s or Contractor’s Purview but 
+Contains Potentially Classified Information Outside of the Element’s or
+
+--- page 66 ---
+Attachment 7	 DOE O 475.2B
+ 
+Page 2	 10-3-2014 
+Contractor’s Purview. The document must be forwarded to the Office of 
+Classification with the indication that the document does not contain 
+classified information under the element’s or contractor’s purview but 
+may contain classified information under the purview of another DOE 
+field or Headquarters element or contractor or other Government Agency. 
+b. Office of Classification Review and Processing. The Office of Classification: 
+(1)	 Conducts the second review to validate or modify the brackets identifying 
+the portions of the document containing the classified information or to 
+declassify the document, as required. 
+(2)	 Coordinates the review of the document with any other DOE field or 
+Headquarters element or contractor or other Government Agency, as 
+appropriate. 
+(3)	 Coordinates the review with the NNSA Classification Officer, as 
+appropriate. 
+(4)	 Identifies the appropriate Denying Official and exemption for each portion 
+of the document that was bracketed as a result of the Office of 
+Classification review or any coordinate review. The document is then 
+returned to the field or Headquarters element for identifying unclassified 
+information that is exempt from release (e.g., Export Controlled 
+Information, proprietary information) and processing in accordance with 
+appropriate statutes, regulations, and local procedures. 
+c.	 OpenNet. Once the classified and unclassified information exempt from public 
+release is redacted, the document must be entered into the OpenNet data base by 
+the responsible program. 
+2.	 MANDATORY DECLASSIFICATION REVIEW. Each classified document identified 
+as being responsive to a mandatory declassification review request under Executive 
+Order 13526 or 10 CFR § 1045.42 must be reviewed to identify the classified information 
+and unclassified information that is exempt from release in the document that must be 
+redacted prior to release. 
+a.	 Identification of Responsive Documents. 
+(1)	 The Office of Classification must identify field and Headquarters elements 
+and contractors that potentially have documents responsive to the request 
+and must forward the request to those elements or contractors. 
+(2)	 Each element or contractor must search for and identify classified 
+documents in its possession that are responsive to the request and must 
+notify the Office of Classification of the results of the search within 
+14 days of receiving the request.
+
+--- page 67 ---
+DOE O 475.2B	 Attachment 7
+ 
+10-3-2014	 Page 3 
+b.	 Classification Review of Responsive Documents. Each responsive classified 
+document must be reviewed by a Derivative Classifier or Derivative Declassifier 
+who identifies and brackets each portion of the document, if any, that contains 
+classified information as described in Attachment 8, Bracketing and Redaction 
+Procedures, and determines whether the document contains classified information 
+outside of the element’s or contractor’s purview. 
+(1)	 If the First Reviewer Determines the Document Does Not Contain 
+Classified or Potentially Classified Information. 
+(a)	 Field Element or Contractor. The Classification Officer must 
+conduct a second review and declassify the document. The 
+document is then forwarded to the Office of Classification, through 
+the Field Element Classification Officer if a contractor. 
+(b)	 Headquarters Element or Headquarters Element Contractor . The 
+document must be forwarded to the Office of Classification or the 
+NNSA Program Classification Officer, as appropriate, through the 
+Headquarters Classification Representative if a contractor, for a 
+second review. 
+(2)	 If the First Reviewer Determines the Document Contains Classified 
+Information under the Element’s or Contractor’s Purview. The document 
+must be forwarded to the Office of Classification for a second review of 
+the classified information. 
+(3)	 If the First Reviewer Determines the Document Contains Classified 
+Information under the Element’s or Contractor’s Purview and Potentially 
+Classified Information Outside of the Element’s or Contractor’s Purview. 
+The document must be forwarded to the Office of Classification for a 
+second review and with the indication that the document may contain 
+classified information under the purview of another DOE field or 
+Headquarters element or contractor or other Government Agency. 
+(4)	 If the First Reviewer Determines the Document Does Not Contain 
+Classified Information under the Element’s or Contractor’s Purview, but 
+Contains Potentially Classified Information Outside of the Element’s or 
+Contractor’s Purview. The document must be forwarded to the Office of 
+Classification with the indication that the document does not contain 
+classified information under the element’s or contractor’s purview but 
+may contain classified information under the purview of another DOE 
+field or Headquarters element or contractor or other Government Agency. 
+c.	 Review for Unclassified Information That is Exempt from Release in Responsive 
+Documents. Prior to forwarding responsive documents to the Office of 
+Classification or the NNSA Program Classification Officer, as appropriate, the 
+unclassified information that is exempt from release must be identified along
+
+--- page 68 ---
+Attachment 7	 DOE O 475.2B
+ 
+Page 4	 10-3-2014 
+with any appropriate exemption categories and Denying Officials in accordance 
+with statutes, regulations, DOE Orders, and local procedures. The response must 
+also confirm that the document is cleared for public release when the classified 
+and unclassified information that is exempt from release (e.g., Export Controlled 
+Information, proprietary information) is redacted. 
+d. Office of Classification Review and Processing. The Office of Classification: 
+(1)	 Conducts the second review to validate or modify the brackets identifying 
+the portions of the document containing the classified information or to 
+declassify the document, as required. 
+(2)	 Coordinates the review of the document with any other DOE field or 
+Headquarters element or contractor or other Government agency, as 
+appropriate. 
+(3)	 Coordinates the review with the NNSA Classification Officer, as 
+appropriate. 
+(4)	 Identifies the appropriate Denying Official and exemption for each 
+bracketed portion of the document. 
+(5)	 Prepares a redacted version of the document, removing all portions of the 
+document containing classified information and unclassified information 
+that is exempt from release (e.g., Export Controlled Information, 
+proprietary information) 
+(6)	 Responds to the requester. 
+(7)	 Enters the redacted document into the OpenNet data base.
+
+--- page 69 ---
+DOE O 475.2B	 Attachment 8
+ 
+10-3-2014	 Page 1
+ 
+BRACKETING AND REDACTION PROCEDURES
+ 
+This Attachment provides information and/or requirements associated with this Order as 
+well as information and/or requirements applicable to contracts in which the associated 
+CRD (Attachment 1 to this Order) is inserted. 
+1.	 BRACKETING. Bracketing is the process by which classified portions of a document are 
+identified by the appropriate classification officials. 
+a.	 Classified Information. Classified information in a document must be bracketed 
+so as to preclude reconstructing the classified information within the brackets 
+after it has been redacted. 
+b.	 Unclassified Information. Unclassified information in proximity to classified 
+information may be included within a bracket if such inclusion is required to 
+prevent reconstruction of the classified information in the bracketed portion. 
+Otherwise, unclassified information that is not inextricably intertwined with 
+classified information must not be included within a bracket identifying classified 
+information. 
+c.	 Bracketing Procedures. The following procedures must be followed when 
+bracketing information: 
+(1)	 Bracketing must unambiguously identify portions (e.g., sentences, column 
+of a chart) of a document that contain classified information. Bracketing 
+can be done in a number of ways; for example, with brackets – [ . . . ], 
+parentheses – (. . . ), or by drawing boxes around each classified portion. 
+(2)	 To allow differences between the first and second reviewer to be easily 
+resolved, an erasable pencil must be used to make the brackets on paper 
+documents. For electronic documents, any method may be used that 
+clearly identifies each portion of the document containing classified 
+information as long as the method is reversible. 
+(3)	 In cases where reviewers are required to annotate applicable classification 
+guide topic numbers adjacent to the bracketed portions, the topic numbers 
+must also be included in the brackets to preclude their release. 
+(4)	 If the citation to the legal basis for denial of the bracketed portion is 
+indicated near the bracketed portion and if this legal basis is intended to be 
+released, the citation must not be included in the brackets. 
+(5)	 Other-Agency brackets must be copied exactly without expansion and the 
+denying agency and exemption identified. 
+2.	 REDACTION. Redaction is the process by which bracketed portions in a document are 
+irretrievably removed so as to allow the release of the document to a person not 
+authorized access to classified information.
+
+--- page 70 ---
+Attachment 8	 DOE O 475.2B
+ 
+Page 2	 10-3-2014 
+a.	 Redaction Procedures for Paper Documents. 
+(1)	 When redacting classified information from paper documents, the preparer 
+must: 
+(a)	 Make a copy of the bracketed version of the document. 
+(b)	 Redact the copy by physically removing the bracketed portions of 
+the document. 
+(c)	 Destroy the cut-out classified portions using any classified 
+document destruction methods approved by the local security 
+office. 
+(d)	 After the bracketed information has been irretrievably removed, 
+line through all classification markings that are no longer valid 
+(e.g., classification level and category, classification authority 
+block). 
+(e)	 Make a copy of each page of the redacted version. 
+(f)	 When the redacted version is prepared in response to a request 
+from the public (e.g., a FOIA or Mandatory Declassification 
+Review request), indicate the extent of the deletion in places where 
+information has been deleted if technically feasible. This paragraph 
+does not apply to documents requested for litigation. 
+(g)	 Ensure that the redacted version of the document clearly indicates 
+that it is a redacted version. If the original document had a unique 
+report number, then a new number must be assigned to the 
+redacted version. 
+(h)	 Make a copy of the redacted version. 
+(i)	 Ensure that another person compares the redacted version with the 
+bracketed version to verify that all the bracketed portions of the 
+document have been redacted, classification markings have been 
+lined out, and any additional required markings have been applied. 
+(2)	 A paper redacted version may also be produced using redaction software. 
+b.	 Redaction Procedures for Documents in Electronic Files. If a final electronic copy 
+of a redacted document is required, the following method is approved. The 
+preparer must scan the redacted paper copy of the document and save it as a 
+portable document format (PDF) file. This PDF file is the final electronic redacted 
+version and may be distributed and released as desired.
+
+--- page 71 ---
+DOE O 475.2B Attachment 9 
+10-3-2014 Page 1 
+DEFINITIONS 
+This Attachment provides information and/or requirements associated with this Order as 
+well as information and/or requirements applicable to contracts in which the associated 
+CRD (Attachment 1 to this Order) is inserted. 
+1.	 DEFINITIONS FOR IMPLEMENTING DOE CLASSIFICATION PROGRAM. 
+E.O. 13526, 32 CFR part 2001, and 10 CFR part 1045 contain definitions of terms 
+used in this Order and CRD that are necessary for implementing the DOE 
+classification program. These definitions must be consulted when appropriate. 
+2.	 DEFINITIONS UNIQUE TO DOE CLASSIFICATION PROGRAM. The 
+following definitions are unique to the DOE classification program: 
+a.	 Classification. The act or process by which information or documents or material 
+are determined to require protection in the interest of national security under the 
+Atomic Energy Act, 10 CFR part 1045, or E.O. 13526. 
+b.	 Classification Guidance. Written, detailed instructions (usually concerning a 
+system, plan, project, or program) that explicitly identify whether specific 
+information is classified and, if classified, such instructions identify the level and 
+category (and duration if NSI). 
+c.	 Classification Officer. An individual who has been appointed in accordance with 
+Attachment 2, 2b, of this Order to manage a classification program. 
+(1)	 Headquarters Classification Officer. The DOE Office of Classification (for 
+DOE elements, not including NNSA) or the NNSA Program Classification 
+Officer (for NNSA). 
+(2)	 Field Element Classification Officer. A Federal employee designated to 
+administer the classification program for that particular field element and 
+to monitor the classification programs of contractors under its cognizance. 
+(3)	 Contractor Classification Officer. An individual designated to administer 
+the classification program for that particular contractor and to monitor the 
+classification programs of subcontractors under its cognizance. 
+d.	 Classified Information. Information that is classified by statute or Executive 
+order. Such information includes: 
+(1)	 RD or FRD classified by the Atomic Energy Act or 10 CFR part 1045, 
+(2)	 TFNI classified by the Atomic Energy Act, and 
+(3)	 NSI classified by E.O. 13526 or prior Executive orders.
+
+--- page 72 ---
+Attachment 9 DOE O 475.2B
+ 
+Page 2 10-3-2014 
+e. Classified Subject Area. A subject area for which classification guidance is 
+issued. 
+f. Declassification. A determination by an appropriate authority that information no 
+longer warrants classification or that documents or material no longer contain 
+classified information. 
+g. Derivative Classifier. An individual authorized to confirm that an unmarked 
+document or material is unclassified or determine that it is classified as allowed 
+by his or her description of authority. A Derivative Classifier may also upgrade a 
+document or material. (In RD/FRD/TFNI subject areas, a Derivative Classifier is 
+equivalent to the Restricted Data Classifier referred to in 10 CFR part 1045.) 
+h. Derivative Declassifier. An individual authorized to declassify or downgrade 
+documents or material in specified areas as allowed by his or her description of 
+authority. 
+i. Document. Any recorded information, regardless of the nature of the medium or 
+the method or circumstances of recording (e.g., email). 
+j. Downgrade. A determination by an appropriate authority that – 
+(1) information may be protected at a level lower than the current 
+classification level or 
+(2) a document or material may be protected at a level and/or category lower 
+than the marked classification level and/or category. 
+In either case, however, the revised classification level must not be lower 
+than Confidential (or for foreign government information, lower than 
+Confidential Foreign Government Information-Modified Handling 
+Authorized). 
+k. Evaluation. Review of a subordinate element with a Classification Officer to 
+ensure the subordinate element’s classification program is effective and meets the 
+requirements of this Order. 
+l. Field Element. A term that includes operations offices, field offices, site offices, 
+service centers, project management offices, area offices, and regional offices of 
+federally staffed laboratories. 
+m. Formerly Restricted Data. Classified information that the DOE or its predecessor 
+agencies and the Department of Defense have jointly determined (1) to be related 
+primarily to the military utilization of atomic weapons and (2) can be adequately 
+safeguarded in a manner similar to NSI. It is also subject to the restrictions on 
+transmission to other countries and regional defense organizations that apply to 
+RD.
+
+--- page 73 ---
+DOE O 475.2B	 Attachment 9
+ 
+10-3-2014	 Page 3 
+n.	 Headquarters Classification Representative. An individual who serves as the focal 
+point for the classification program in a Headquarters element that has employees 
+who generate classified information, documents, or material. 
+o.	 Information. Facts, data, or knowledge itself as opposed to the document or 
+material in which it is contained or revealed. 
+p.	 Mandatory Declassification Review. A declassification review of a specified 
+document containing RD/FRD/TFNI information that is requested under 
+10 CFR § 1045.42, or a specified document containing NSI that is requested 
+under section 3.5 of Executive Order 13526. 
+q.	 Material. A product (e.g., a part or a machine) or substance (e.g., a compound or 
+an alloy). 
+r.	 National Security Information. Information that has been determined, pursuant to 
+E.O. 13526 or any predecessor order, to require protection against unauthorized 
+disclosure and that is so designated. 
+s.	 Original Classifier. A Federal employee authorized to make the initial 
+determination that certain information requires protection against unauthorized 
+disclosure in the interest of the national security under E.O. 13526; such 
+information is identified as NSI. 
+t.	 Program Classification Officer. A Federal employee who oversees and evaluates 
+field classification programs under the cognizance of his or her Headquarters 
+element. 
+u.	 Public Release. The act of making information available to the general public, 
+usually through an approved process. Public release includes but is not limited to 
+publishing documents on web sites available to the public, information provided 
+to Congress, briefings to audiences that include members of the public, and 
+Freedom of Information Act releases. 
+v.	 Restricted Data. All data concerning the design, manufacture, or use of nuclear 
+weapons; production of special nuclear material; or use of special nuclear material 
+in the production of energy except for data declassified or removed from the RD 
+category pursuant to section 142 of the Atomic Energy Act. 
+w.	 Self-Assessment. Internal review of the classification program to ensure it is 
+effective and in compliance with this Order. 
+x.	 Self-Inspection. Evaluation of DOE agency-wide classification program 
+conducted by the DOE Office of Classification to meet the requirements of 
+E.O. 13526 and 10 CFR part 1045. 
+y.	 Source Document. A classified document from which information is extracted 
+and included in another document whose classification is derived from the
+
+--- page 74 ---
+Attachment 9 DOE O 475.2B 
+Page 4 10-3-2014 
+classification markings of the individual portions from which the information was 
+extracted. 
+z.	 Transclassification. The removal of certain information from the RD category 
+under section 142 of the Atomic Energy Act to (1) the FRD category based on 
+joint determinations between the Department of Energy and the Department of 
+Defense or (2) the Transclassified Foreign Nuclear Information category based on 
+joint determination by the Department of Energy and the Director of National 
+Intelligence (formerly the Director, Central Intelligence Agency) 
+aa.	 Transclassified Foreign Nuclear Information. Classified information concerning 
+the nuclear energy programs of other nations (including subnational entities) 
+removed from the RD category under section 142(e) of the Atomic Energy Act 
+after the DOE and the Director of National Intelligence jointly determine that it is 
+necessary to carry out intelligence-related activities under the provisions of the 
+National Security Act of 1947, as amended, and that it can be adequately 
+safeguarded as National Security Information. This includes information removed 
+from the RD category by past joint determinations between DOE and the CIA. 
+TFNI does not include information transferred to the United States under an 
+Agreement for Cooperation under the Atomic Energy Act or any other agreement 
+or treaty in which the United States agrees to protect classified information. 
+bb.	 Upgrade. A determination by an appropriate authority that raises the classification 
+level or category of information, a document, or material to protect the contents 
+adequately. This includes correcting the classification level and/or category of a 
+document or material that was never marked as well as one erroneously marked as 
+unclassified.

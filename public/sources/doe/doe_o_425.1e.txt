@@ -1,0 +1,867 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov Office of Environment, H ealth, Safety, and Security 
+U.S. Department of Energy ORDER 
+ Washington, D.C.  
+Approved: 08-05-2026 
+ 
+SUBJECT:  VERIFICATION OF READINESS TO STARTUP OR RESTART HAZARD 
+CATEGORY 1 AND 2 NUCLEAR FACILITIES 
+1. PURPOSE.  This Order of the Department of Energy (DOE), including the National 
+Nuclear Security Administration (NNSA), establishes the requirements for the DOE 
+readiness reviews (RRs).  RRs are used to verify the readiness for startup and restart of 
+Hazard Category (HC) 1 and 2 nuclear facilities, operations, or activities as described 
+within this Order.  The final report documents the results of the RR and makes a 
+conclusion as to whether startup or restart of the nuclear facility, activity, or operation 
+can proceed safely. 
+2. CANCELS/SUPERSEDES.  DOE O 425.1E, Verification of Readiness to Startup or 
+Restart Nuclear Facilities, dated September 30, 2024. 
+Cancellation of an Order/directive does not, by itself, modify or otherwise affect any 
+contractual or regulatory obligation to comply with the Order/Directive.  Contractor 
+Requirements Documents (CRDs) that have been incorporated into a contract remain in 
+effect throughout the term of the contract unless and until the contract or regulatory 
+commitment is modified to either eliminate requirements that are no longer applicable or 
+substitute a new set of requirements. 
+3. APPLICABILITY. 
+a. Departmental Applicability.  This Order is applicable to DOE within the 
+provisions and restrictions of the NNSA Act, found at Title XXXII of Public Law 
+(P.L). 106-65, National Defense Authorization Act for Fiscal Year 2000.  This 
+Order applies to all nuclear facilities, operations or activities as defined in Title 10 
+of the Code of Federal Regulations (CFR), Part 830, Nuclear Safety Management, 
+that are classified as HC 1 and 2 nuclear facilities. 
+(1) Activities regulated by the Department of Transportation; and 
+transportation of onsite transportation packages authorized by 49 CFR, 
+Part 173, Shippers—General Requiremen ts for Shipments and Packagings, 
+Subpart I.  Onsite transportation activities may be excluded with Program 
+Secretarial Officer or Cognizant Secretarial Officer approval, and Central 
+Technical Authority (CTA) concurrence, provided an alternate process 
+is identified. 
+DOE O 425.1F
+
+--- page 2 ---
+2 DOE O 425.1F 
+ 08-05-2026 
+(2) The Administrator of the NNSA will assure that NNSA employees comply 
+with their respective responsibilities under this Order.  Nothing in this 
+Order will be construed to interfere with the NNSA Administrator’s 
+authority under Section 3212(d) of P.L. 106-65 to establish 
+Administration-specific policies, unless disapproved by the Secretary. 
+b. DOE Contractors.  The requirements of this Order shall be incorporated into 
+applicable contracts, including Management and Operating contracts.  The 
+contractor is responsible for flowing down the requirements of this CRD, if 
+applicable.  Contractors shall comply with the requirements of applicable federal, 
+state, and local laws and regulations in carrying out the requirements of this Order 
+unless relief has been granted in writing.  Omission of any applicable law or 
+regulation from the Order does not affect the obligation of the contractor to 
+comply with such law or regulation.  Contractors must comply with the 
+requirements of this Order, except to the extent modified by the equivalencies or 
+exemptions identified herein or issued to the contractor in writing by DOE 
+utilizing the process outlined in DOE Order (O) 251.1E, Departmental Directives 
+Program, including as amended or updated. 
+c. Equivalencies and Exemptions for DOE O 425.1F.  Equivalencies and exemptions 
+to the requirements of this Order are processed in accordance with 
+DOE O 251.1E.  CTA (or designee) concurrence is required for both exemptions 
+and equivalencies to this Order for nuclear facilities. 
+(1) Equivalency.  In accordance with the responsibilities and authorities 
+assigned by Executive Order 12344, Naval Nuclear Propulsion Program, 
+codified at 50 United States Code §§ 2406, Deputy Administrator for 
+Naval Reactors, and 2511, and to ensure consistency throughout the joint 
+Navy and DOE organization of the Naval Nuclear Propulsion Program, 
+the Deputy Administrator for Naval Reactors (Director) will implement 
+and oversee all requirements and practices pertaining to this DOE Order 
+for activities under the Director’s cognizance, as deemed appropriate. 
+(2) Exemptions.  This Order does not apply to the following: 
+(a) Activities regulated through a license by the Nuclear Regulatory 
+Commission (NRC) or a state under an agreement with NRC, 
+including activities certified by NRC under Section 1701 of the 
+Atomic Energy Act. 
+(b) Activities in the Transportation Safeguards System in NNSA. 
+(c) Other Equivalencies/Exemptions.  Any other equivalency or 
+exemption to the Order requires the approval of the DOE’s Safety 
+Basis Approval Authority (SBAA).  Requests for 
+equivalencies/exemption will be adjudicated by DOE’s SBAA 
+within 14 calendar days of receipt of a substantially 
+complete request.
+
+--- page 3 ---
+DOE O 425.1F 3 
+08-05-2026 
+d. Government-Owned, Government-Operated Facilities.  Attachment 1, CRD, of 
+this Order sets forth requirements applicable to DOE government-owned, 
+government-operated facilities.  Government operators must comply with the 
+requirements in Attachment 1 of this Order. 
+4. REQUIREMENTS. 
+a. DOE Head of Field Element or Designee.  Ensure that properly scoped RRs are 
+planned and conducted to verify readiness for the startup or restart of HC 1 and 
+2 nuclear facilities, activities, or operations. 
+b. HC 1 and 2 nuclear facilities, activities, or operations may be started (or restarted) 
+only after RRs have been conducted and the approvals specified in this Order 
+have been received. 
+c. RR Process.  DOE Head of Field Element or designee will review the procedures 
+that define the RR processes that will be utilized to implement this Order.  The 
+RR process must, in all cases, demonstrate there is a reasonable assurance for 
+adequate protection of workers, the public, and the environment from adverse 
+consequences from the startup (or restart) of an HC 1 and 2 nuclear facility, 
+activity, or operation.  The readiness process is illustrated within Attachment 2, 
+Readiness Review Process Flow Chart. 
+(1) Communication.  The prime contractor will communicate projected RR 
+activities to the Startup Approval Authority (SAA) or designee. 
+(2) Notification of Intent to Startup.  The prime contractor will provide formal 
+correspondence to DOE, which should be at least 90 days prior to the start 
+of the RR, but no earlier than SBAA approval of the Preliminary 
+Documented Safety Analysis, if applicable.  The SBAA will review the 
+notification, inform the SAA, and coordinate the RR team.  SAA 
+determination is in accordance with Attachment 3, Startup Approval 
+Authority and Readiness Review Determination Criteria. 
+(a) The notification of intent to startup will include the submittal of 
+the Readiness Review Plan (RP). 
+(3) RP Content and Approval. 
+(a) Content.  The prime contractor will develop an RP, using a graded 
+approach to define the scope.  The RP may take into consideration 
+the maturity of the prime contractor’s existing safety management 
+programs that are in place to implement the Core Requirements 
+(CRs).  The level of detail should also be commensurate with the 
+complexity of the startup or restart.
+
+--- page 4 ---
+4 DOE O 425.1F 
+ 08-05-2026 
+It may be appropriate to perform RRs in a segmented approach to 
+allow flexibility in managing specific activities (e.g., fuel receipt, 
+storage, and loading before initial startup).  All listed 
+documentation must be included unless it is not applicable to the 
+specific scope of the activity.  Contents or the RP must include: 
+1 A scope and purpose that addresses all Attachment 4, CRs.  
+Exclusion of any CRs must be documented and justified 
+within the RP. 
+2 Prerequisites, as defined in Attachment 5, must be 
+completed prior to the start of the RR or have 
+compensatory measures that have been documented and 
+approved.  This should include documentation ensuring 
+system operability verification and testing (to the 
+extent practical). 
+3 A description of the physical and administrative boundaries 
+of the RR. 
+4 A description of the structure, systems, and components 
+covered by the RR. 
+5 A description of safety management and security programs 
+to be reviewed. 
+6 Proposed activities for the onsite review including 
+demonstrations, interviews, and drills as applicable. 
+(b) RP Approval.  For a contractor RR, the SAA will review and 
+approve the RP with SBAA concurrence.  For a DOE RR, the RP 
+must be reviewed and approved by the SBAA.  Both approvals are 
+expected 30 days following the submittal. 
+(4) DOE RR Team Composition.  DOE Head of Field Element or designee 
+will select the RR team leader.  The team leader must then select the RR 
+team members.  The RR team leader must not be assigned to assess 
+facilities, activities, or operations for which they have direct 
+responsibilities.  Team member should not be assigned to assess facilities, 
+activities, or operations for which they have direct responsibilities to the 
+maximum extent possible.  Team leader and members’ qualifications must 
+be documented and shall address the following requirements: 
+(a) Technical knowledge of the area assigned for evaluation, including 
+experience working in the technical area. 
+(b) Knowledge of the performance-based assessment process 
+and methods.
+
+--- page 5 ---
+DOE O 425.1F 5 
+08-05-2026 
+(c) Knowledge of the facility, activity, or operations-
+specific information. 
+(5) Prior to starting the DOE RR. 
+(a) The prime contractor prerequisites will have been met or have 
+compensatory measures that have been documented and approved. 
+(b) Specific events significant to the startup and restart process that 
+occur prior to the formal commencement of the RR (e.g., site 
+emergency response drills) may be reviewed by the RR team at the 
+time they are conducted. 
+(6) Readiness to Proceed.  The SBAA must submit to the DOE RR Team 
+Leader their authorization to commence the RR. 
+(7) Commencement of RR. 
+(a) Upon receipt of the authorization to commence the RR, the RR 
+Team will initiate the RR, in accordance with the approved RP. 
+(b) The RR will be executed in accordance with the approved RP. 
+(c) The RR schedule will normally consist of: 
+1 One week of document review. 
+2 One week of onsite interviews and performance reviews as 
+planned in the RP. 
+3 One week to prepare the final report. 
+4 Deviation from this schedule due to readiness segmentation 
+may be justified and approved in the RP. 
+(8) RR Final Report.  The final report must be prepared and approved by the 
+team leader; concurred on by each team member. 
+(a) The final report documents the results of the DOE RR and makes a 
+conclusion as to whether startup or restart of the nuclear facility, 
+activity, or operation can proceed safely.  The DOE RR final report 
+must state whether the contractor has established the following: 
+1 An agreed set of requirements to govern safe operations of 
+the facility, activity, or operation has been formalized with 
+DOE through the contract or other enforceable mechanism.
+
+--- page 6 ---
+6 DOE O 425.1F 
+ 08-05-2026 
+That these requirements have been appropriately 
+implemented in the facility, activity, or operation or that 
+appropriate compensatory measures, formally approved by 
+DOE, are in place during the period prior to full 
+implementation; and 
+2 That, in the opinion of the RR team, adequate protection of 
+the public health and safety, of worker safety, and the 
+environment will be maintained. 
+(b) If appropriate, the final report will include a Minority Opinion 
+section that will give a means for team members to convey 
+diverging opinions to the SBAA. 
+(c) Any lessons learned during the RR must be documented in a 
+lessons learned section of the final report. 
+(9) Final Report Submittal.  The final report must be submitted to the SAA to 
+be used as a basis for approving the startup or restart of the nuclear 
+facility, activity, or operation.  A copy of the final RR report must be 
+forwarded to the prime contractor and the Assistant Secretary of Energy 
+for Nuclear Energy (NE-1).  A copy must be forwarded to the appropriate 
+CTA and may be forwarded to DOE Office of Environment, Health, 
+Safety and Security and Office of Enterprise Assessments for information. 
+(10) Closure of Findings.  The closure of findings must be consistent with the 
+issues management process. 
+(11) Restart and Startup Approval.  DOE Head of Field Element or designee 
+must ensure that the prime contractor has satisfactorily resolved all 
+prestart findings identified during the RRs prior to startup or restart of the 
+facility, activity, or operation.  The SAA, as identified in Attachment 3, 
+approves startup or restart after compensatory measures (if needed) are in 
+place and approved corrective action plans are in place to address any 
+open post-start findings. 
+(12) Approval to Proceed.  The SAA must provide an approval to proceed 
+memorandum to the responsible prime contractor authorizing startup 
+or restart. 
+d. Records Management Program.  Requirements for maintenance and disposition of 
+federal records, such as those pertaining to RRs, are provided under the general 
+guidance of DOE O 243.1, Records Management Program, current version.  The 
+disposition, including destruction, of federal records must be in accordance with: 
+(1) The General Records Schedules, as published by the National Archives 
+and Records Administration (NARA), or
+
+--- page 7 ---
+DOE O 425.1F 7 
+08-05-2026 
+(2) DOE records disposition authority (Standard Form 115, Request for 
+Records Disposition Authority), as approved by NARA. 
+The cognizant Field Element Records Officer can provide guidance. 
+5. RESPONSIBILITIES. 
+a. DOE Headquarters Line Management. 
+(1) Oversee DOE field methods for verifying readiness to startup and restart 
+nuclear facilities, activities or operations. 
+(2) Exercise delegation of authority and document all delegations of authority 
+made under the provisions granted by this Order. 
+b. DOE Head of Field Element or designee. 
+(1) Ensure that the prime contractor properly implements the requirements of 
+the CRD in this Order. 
+(2) Establish procedures as necessary to manage the verification of readiness 
+to startup or restart nuclear facilities, activities or operations in accordance 
+with the requirements of this Order. 
+c. Contracting Officer. 
+(1) For all applicable contracts and upon notification that a site/facility 
+management contract is affected by this Order, incorporate the 
+requirements into the affected contract(s) via the “Laws, Regulations, and 
+DOE Directives” clause of the contract, or through negotiation and 
+modification, as appropriate. 
+6. INVOKED TECHNICAL STANDARDS.  This Order does not invoke any DOE 
+technical standards or industry standards as required methods.  Any technical standard or 
+industry standard that is mentioned in or referenced by this Order is not invoked by this 
+Order.  Note:  DOE O 251.1, current version, provides a definition for “invoked 
+technical standard.” 
+7. REFERENCES. 
+a. Title 10 CFR Part 830, Nuclear Safety Management. 
+b. 10 CFR Part 835, Occupational Radiation Protection 
+c. 49 CFR, Part 173, Subpart I, Class 7 (Radioactive) Materials 
+d. DOE O 243.1, Records Management Program, current version. 
+e. DOE O 420.1, Facility Safety, current version.
+
+--- page 8 ---
+8 DOE O 425.1F 
+ 08-05-2026 
+f. DOE O 422.1, Conduct of Operations, current version. 
+g. DOE O 433.1, Maintenance Management Program for DOE Nuclear Facilities, 
+current version. 
+h. DOE-STD-1027-2025, Chg Notice 1, Hazard Categorization of DOE 
+Nuclear Facilities. 
+i. DOE-STD-1073-2016, Configuration Management. 
+j. DOE-STD-1189-2016, Integration of Safety into the Design Process. 
+k. DOE-STD-3006-2010, Planning and Conducting Readiness Reviews. 
+l. DOE-STD-3007-2007, Guidelines for Preparing Criticality Safety Evaluations at 
+Department of Energy Non-Reactor Nuclear Facilities. 
+8. DEFINITIONS.  See Attachment 5. 
+9. CONTACT.  Questions concerning this Order should be referred to the Director, Office 
+of Nuclear Safety Policy and Assistance, at (301) 903-3331. 
+ 
+JAMES P. DANLY 
+Deputy Secretary
+
+--- page 9 ---
+DOE O 425.1F Attachment 1 - CRD, Contractors Only 
+08-05-2026 Page 1-1 
+ATTACHMENT 1 
+CONTRACTOR REQUIREMENTS DOCUMENT 
+DOE O 425.1F, VERIFICATION OF READINESS TO STARTUP OR RESTART 
+HAZARD CATEGORY 1 AND 2 NUCLEAR FACILITIES 
+In addition to the requirements set forth in this Contractor Requirements Document (CRD), 
+contractors are responsible for complying with Attachments 3 and 4 of this Order, referenced in 
+and made a part of this CRD, which provide program requirements and/or information applicable 
+to contracts in which this CRD is inserted. 
+1. Department of Energy (DOE), including the National Nuclear Security Administration 
+(NNSA), Contractor Responsibilities.  This CRD applies to all nuclear facilities, 
+activities, and operations classified as Hazard Categories (HC) 1 and 2 as defined in 
+10 Code of Federal Regulations (CFR) Part 830.  Regardless of the performer of the 
+work, the contractor is responsible for complying with the requirements of this CRD and 
+flowing down CRD requirements to subcontractors at any tier to the extent necessary to 
+ensure contractor compliance. 
+Contractor Requirements.  Contractor line management must develop procedures to 
+define the processes that will be used to implement the responsibilities of this CRD.  The 
+contractor must not develop RR processes similar to RRs that exempt facilities, activities, 
+or operations from following the RR process described in this Order. 
+a. RR Process.  The RR process must, in all cases, demonstrate there is a reasonable 
+assurance for adequate protection of workers, the public, and the environment 
+from adverse consequences from the start (or restart) of a HC 1 and 2 nuclear 
+facility, activity, or operation.  The readiness process is described under 
+Attachment 2, Readiness Review Process Flow Chart, and Attachment 5, 
+Definitions.  For an RR, the contractor must prepare: an intent to startup 
+notification, a Readiness Review Plan (RP) and a final report.  The contractor will 
+perform the RR when the Startup Approval Authority (SAA) is the Senior 
+Contractor Official.  Attachment 3, Startup Approval Authority (SAA), and 
+Readiness Review (RR) Determination Criteria, describes how to determine the 
+appropriate SAA. 
+(1) Communication.  Contractors must communicate projected RR activities 
+to the appropriate Safety Basis Approval Authority (SBAA) or designee. 
+(2) Notification of Intent to Startup.  The prime contractor will provide formal 
+correspondence to DOE, which should be 90 days prior to the start of the 
+RR, but no earlier than SBAA approval of the Preliminary Documented 
+Safety Analysis, if applicable.  The Senior Contractor Official will 
+coordinate the RR. 
+The notification of Intent to Startup will include the submittal of the RP to 
+the SBAA.
+
+--- page 10 ---
+Attachment 1 – CRD, Contractors Only DOE O 425.1F 
+Page 1-2 08-05-2026 
+(3) RP Content and Approval. 
+(a) Content.  The prime contractor will develop an RP, using a graded 
+approach to define the scope.  The RP may take into consideration 
+the maturity of the prime contractor existing safety management 
+programs that are in place to implement the Core Requirements 
+(CRs).  The level of detail should also be commensurate with the 
+complexity of the startup or restart.  It may be appropriate to 
+perform RRs in a segmented approach to allow flexibility in 
+managing specific activities (e.g., fuel receipt, storage, loading 
+before initial startup).  All listed documentation must be included 
+unless it is not applicable to the specific scope of the activity.  
+Contents of the RP must include: 
+1 A scope and purpose that addresses all Attachment 4, Core 
+Requirements (CRs).  Exclusion of any CRs must be 
+documented and justified within the RP. 
+2 Prerequisites, as defined in Attachment 5, that must be 
+completed prior to the start of the RR or have 
+compensatory measures that have been documented and 
+approved.  This should include documentation ensuring 
+system operability verification and testing (to the 
+extent practicable). 
+3 A description of the physical and administrative boundaries 
+of the RR. 
+4 A description of the structures, systems, and components 
+covered by the RR. 
+5 A description of safety management and security programs 
+to be reviewed. 
+6 Proposed activities for the onsite review, including 
+demonstrations, interviews, and drills as applicable. 
+(b) RP Approval.  For a contractor RR, the SAA will approve the RP 
+with SBAA concurrence.  For a DOE RR, the RP must be 
+reviewed and approved by the SBAA.  Both approvals are 
+expected 30 days following the submittal. 
+(4) Contractor RR Team Composition.  The contractor RR team leader must 
+select the RR team members.  RR team leader and team members must not 
+be assigned to assess facilities, activities or operations for which they have 
+direct responsibilities.  Team leader and members’ qualifications must be 
+documented and shall address the following requirements:
+
+--- page 11 ---
+DOE O 425.1F Attachment 1 - CRD, Contractors Only 
+08-05-2026 Page 1-3 
+(a) Technical knowledge of the area assigned for evaluation, including 
+experience working in the technical area. 
+(b) Knowledge of the performance-based assessment process 
+and methods. 
+(c) Knowledge of the facility, activity, or 
+operations-specific information. 
+(5) Prior to starting the Contractor RR. 
+(a) The prime contractor prerequisites have been met or have 
+compensatory measures that have been documented and approved. 
+(b) Specific events significant to the startup and restart process that 
+occur prior to the formal commencement of the RR (e.g., site 
+emergency response drills) may be reviewed by the RR team at the 
+time they are conducted. 
+(6) Readiness to Proceed.  The SAA must submit to the contractor RR team 
+leader their authorization to commence the contractor RR. 
+(7) Commencement of Contractor RR. 
+(a) Upon receipt of the authorization to commence the contractor RR, 
+the contractor RR Team will initiate the contractor RR, in 
+accordance with the approved RP. 
+(b) The RR will be executed in accordance with the approved RP. 
+(8) Contractor RR Final Report.  The final report must be prepared and 
+approved by the team leader and receive concurrence from each team 
+member, and each team member must approve the section for which the 
+team member is responsible. 
+(a) The final report documents the results of the contractor RR and 
+draws a conclusion as to whether startup or restart of the nuclear 
+facility, activity, or operation can proceed safely.  The contractor 
+RR final report must state whether the contractor has established 
+the following: 
+1 An agreed set of requirements to govern safe operations of 
+the facility, activity, or operation has been formalized with 
+DOE through the contract or other enforceable mechanism.
+
+--- page 12 ---
+Attachment 1 – CRD, Contractors Only DOE O 425.1F 
+Page 1-4 08-05-2026 
+2 That these requirements have been appropriately 
+implemented in the facility, activity, or operation or 
+appropriate compensatory measures, formally approved by 
+DOE, are in place during the period prior to full 
+implementation; and 
+3 That, in the opinion of the contractor RR team, adequate 
+protection of the public health and safety of worker safety, 
+and the environment will be maintained. 
+(b) If appropriate, the final report will include a Minority Opinion 
+section that will give a means for team members to convey 
+diverging opinions to the SAA. 
+(c) Any lessons learned during the contractor RR must be documented 
+in a lessons learned section of the final report. 
+(9) Final Report Submittal.  The final report must be submitted to the SAA. 
+(10) Closure of Findings.  Contractor line management closure of contractor 
+RR findings must be consistent with the Issues Management Process in 
+DOE O 226.1, Implementation of Department of Energy Oversight Policy, 
+current version. 
+(11) Restart and Startup Approval.  Senior Contracting Official must ensure all 
+pre-start findings identified during the RR are satisfactorily resolved prior 
+to startup or restart of the facility, activity, or operation.  The SAA may 
+approve startup or restart only after pre-start finding are resolved, 
+compensatory measures (if needed) are in place; and approved corrective 
+action plans are in place to address any open post-start findings. 
+b. Records Management Program.  Requirements for maintenance and disposition of 
+federal records, such as those pertaining to RRs, are provided under the general 
+guidance of DOE O 243.1, Records Management Program, current version.  The 
+disposition, including destruction, of federal records must be in accordance with: 
+(1) The General Records Schedules, as published by the National Archives 
+and Records Administration (NARA), or 
+(2) DOE records disposition authority (Standard Form 115, Request for 
+Records Disposition Authority), as approved by NARA. 
+The cognizant Field Element Office Records Officer will provide guidance 
+as needed.
+
+--- page 13 ---
+DOE O 425.1F  Attachment 2 – Readiness Review Flowchart 
+XX-XX-2026 Page 2-1 
+ATTACHMENT 2 
+READINESS REVIEW FLOWCHART 
+This Attachment provides information associated with this Order as well as information 
+applicable to contracts in which the associated Attachment 1, Contractor Requirements 
+Document, is inserted.  The flow chart describes the Readiness Review (RR) process.  Either a 
+contractor RR or a DOE RR will be performed in accordance with the determination criteria of 
+Attachment 3, Startup Notification Report, Startup Authorization Authority (SAA), and 
+Readiness Review (RR) Determination Criteria.
+
+--- page 14 ---
+DOE O 425.1F  Attachment 3 – Fe deral and Contractor Employees 
+08-05-2026 Page 3-1 
+ATTACHMENT 3 
+STARTUP APPROVAL AUTHORITY (SAA), AND READINESS REVIEW (RR) 
+DETERMINATION CRITERIA 
+This Attachment provides information and/or requirements associated with this Order as well as 
+information and/or requirements applicable to contracts in which the associated Attachment 1, 
+Contractor Requirements Document, is inserted. 
+1. For nuclear facility, activity, or operation startups or restarts, the Approval Authority 
+must be determined using the criteria in Attachment 3, Table 1, SAA and RR 
+Determination Criteria.  Determining the level of authority, the SAA, must be 
+commensurate with RR criteria. 
+2. DOE Head of Field Element or designee must ensure that a properly scoped RR is 
+planned and conducted to verify readiness for the restart of Hazard Category (HC) 1 and 
+2 nuclear facilities, activities, or operations, unless both of the following conditions 
+are met: 
+a. The restart is a resumption of routine operations after a short interruption (such as 
+maintenance activities governed by existing maintenance procedures and 
+processes) as defined in local procedures; and 
+b. The restart is conducted using contractor approved operating procedures that 
+provide specific direction for operating systems and equipment during normal 
+conditions. 
+3. Justification for the SAA and RR determination must be documented in writing to the 
+SBAA 90 days prior to the RR, beginning with a copy sent to the Program Secretarial 
+Officer (PSO) and Central Technical Authority.  If an RR is not to be performed, the 
+contractor’s standard operating procedures for startup or restart will be used. 
+4. If any of the following conditions occur, a RR must be conducted in accordance with this 
+Order.  Additional criteria are included in Attachment 3, Table 1: 
+a. Initial reactor startup. 
+b. Initial startup of a newly constructed HC 1 or 2 non-reactor nuclear facility.  For 
+the purpose of this criterion, a newly constructed HC 1 or 2 non-reactor nuclear 
+facility refers to a new facility (not operation or activity) with a new safety-basis 
+documentation—that is, a safety evalua tion report (SER), documented safety 
+analysis (DSA), and technical safety requirements (TSRs). 
+c. Initial startup after conversion of an existing facility to a new nuclear mission 
+with a new safety-basis documentation (new SER, DSA and TSRs). 
+d. Restart of nuclear facility, activity, or operation that has upgraded its hazard 
+categorization to HC 1 or 2.
+
+--- page 15 ---
+Attachment 4 – Federal Employees and Contractors DOE O 425.1F  
+Page 3-2 08-05-2026 
+e. Restart after a DOE management official directs the shutdown of a nuclear 
+facility, activity, or operation for safety reasons. 
+f. Restart after an extended shutdown for an HC 1 or 2 nuclear facility, activity, or 
+operation.  Extended shutdown for an HC 1 or 2 nuclear facility, activity, or 
+operation is defined as 24 months. 
+g. Restart of an HC 1 or 2 nuclear facility, activity, or operation after major 
+modification (determination of “major modifications” is made per DOE-STD-
+1189). 
+h. Initial startup of a new HC 1 or 2 activity or operation after major modification 
+(determination of “major modifications” is made per DOE-STD-1189 within an 
+HC 1 or 2 nuclear facility). 
+i. Startup or restart of facility, activity, or operation as directed by DOE line 
+management. 
+j. The SAA level will determine the type of RR, either a DOE RR or contractor RR. 
+Table 1: SAA and RR Determination Criteria 
+Activity 
+Startup Approval Authority 
+Hazard Category 1 and 2 
+Off Site 
+Initial reactor startup Secretary of Energy o r designee 
+Any other activity listed below PSO o r designee 
+On Site 
+Initial Reactor Startup Secretary of Energy o r designee 
+Initial startup of a newly constructed HC 1 or 2 
+non-reactor nuclear facility.  For the purpose of 
+this criterion, a newly constructed HC 1 or 2 
+non-reactor nuclear facility refers to a new 
+facility (not operation or activity) with a new 
+safety-basis documentation (new SER, DSA, 
+and TSRs). 
+DOE SBAA or designee 
+Initial startup after conversion of an existing 
+facility to a new nuclear mission with a new 
+safety-basis documentation (new SER, DSA 
+and TSRs).1 
+DOE SBAA or designee 
+Restart of nuclear facility, activity, or 
+operation that has upgraded its hazard 
+categorization to HC 1 or 2. 
+DOE SBAA or designee 
+Restart after a DOE management official 
+directs the shutdown of a nuclear facility, 
+activity, or operation for safety reasons. 
+DOE SBAA or designee
+
+--- page 16 ---
+DOE O 425.1F  Attachment 3 – Fe deral and Contractor Employees 
+08-05-2026 Page 3-3 
+Activity 
+Startup Approval Authority 
+Hazard Category 1 and 2 
+Restart after extended shutdown for an 
+HC 1 or 2 nuclear facility, activity, or 
+operation.2 
+>24 months 
+Senior Contractor Official 
+Restart of an HC 1 or 2 nuclear facility, 
+activity, or operation after major 
+modification.3 
+Senior Contractor Official 
+Initial startup of a new HC 1 or 2 activity or 
+operation after major modification within a 
+HC 1 or 2 facility.3 
+Senior Contractor Official 
+Startup or restart of a facility, activity, or 
+operation as directed by DOE line 
+management. 
+DOE SBAA or designee 
+For all other cases: Senior Contractor Official 
+Note 1:  New includes new construction. 
+Note 2: Extended shutdown for an HC 1 or 2 nuclear facility, activity, and operation is defined as 24 months. 
+Note 3:  Determination of “major modifications” is made per DOE-STD-1189.
+
+--- page 17 ---
+DOE O 425.1F  Attachment 4 – Fe deral Employees and Contractors 
+08-05-2026 Page 4-1 
+ATTACHMENT 4 
+CORE REQUIREMENTS (CRS) 
+This Attachment provides information and/or requirements applicable to contracts in which 
+Attachment 1, Contractor Responsibilities Document, is inserted.  This Attachment defines the 
+CRs used in this Order. 
+1. CRs verify the readiness of personnel, procedures, programs, and equipment within the 
+scope of the RR to safely startup or restart a nuclear facility, activity, or operation.  The 
+CRs are aligned according to specific functional areas (FAs) or safety management 
+programs (SMPs) that are developed and implemented across Department of Energy 
+(DOE) sites to ensure activities are performed in a manner that adequately protects 
+workers, the public, and the environment.  Cross-cutting requirements are applicable to 
+each of these programs and need to be evaluated to ensure their success. 
+a. Each CR listed as applicable must be evaluated against the following cross-
+cutting requirements (cross-cutting requirements may be excluded and 
+documented in the RP with appropriate justifications): 
+(1) FA or SMP documents have been approved by DOE, if required by DOE 
+Order, Codes of Federal Regulations (CFRs), or direction. 
+(2) FA or SMP implementing procedures have been effectively implemented 
+in support of the facility and clearly define roles, responsibilities, and 
+reporting relationships. 
+(3) A sufficient number of qualified personnel are available to effectively 
+implement the FA or SMP in support of the facility. 
+(4) Adequate facilities and equipment are available to ensure that the FA or 
+SMP can be performed adequately for safe facility operation. 
+(5) Line management and personnel level of knowledge is adequate based on 
+examination results, direct observation during performance 
+demonstrations, and interviews. 
+(6) Line management and personnel exhibit an awareness of public and 
+worker safety and health and environmental protection requirements and, 
+through their actions, demonstrate a high-priority commitment to comply 
+with these requirements. 
+(7) Periodic assessments (independent and/or self) of FA or SMPs are 
+performed to verify continued robust performance.  Issues (e.g., findings, 
+deficiencies, observations, or recommendations) from assessments, both 
+internal and external, are effectively resolved.
+
+--- page 18 ---
+Attachment 4 – Federal Employees and Contractors DOE O 425.1F  
+Page 4-2 08-05-2026 
+b. The CRs are as follows: 
+(1) Conduct of Operations, Procedures, and Work Control.  A conduct of 
+operations program meets the requirements of DOE O 422.1, Conduct of 
+Operations.  The formality and discipline of operations are adequate to 
+conduct work safely, and programs are in place to maintain this formality 
+and discipline for site/facility processes in accordance with the approved 
+Conduct of Operations Implementation Matrix. 
+Procedures are approved and in place for operating the facility and 
+systems.  The procedures reflect all modifications that have been made to 
+the facility systems.  Only the most current revision of each procedure is 
+in use. 
+(2) Contractor Assurance.  An effective Contractor Assurance System (CAS) 
+meets the requirements is necessary.  A CAS has been established to 
+identify, evaluate, and resolve deficiencies and recommendations made by 
+contractor line management and independent contractor audit and 
+assessment groups.  The process also provides for resolution of issues and 
+recommendations by external official review teams and audit 
+organizations. 
+(3) Criticality Safety.  A Criticality Safety Program (CSP) that meets the 
+requirements of DOE O 420.1, Facility Safety, including DOE approval of 
+the CSP document, have been developed, implemented, and maintained. 
+Criticality safety evaluations conducted in accordance with DOE-STD-
+3007-2017, Guidelines for Preparing Criticality Safety Evaluations at 
+Department of Energy Non-Reactor Nuclear Facilities, or by other 
+documented methods approved by DOE, must show that entire processes 
+involving fissionable materials will remain subcritical under normal and 
+credible abnormal conditions, including those initiated by design-basis 
+events.  Implementation of the Criticality Safety Evaluation credited 
+controls is reviewed annually for all operations. 
+Facilities that conduct operations using fissionable material in a form that 
+could inadvertently accumulate in significant quantities must include 
+procedures for detecting and characterizing accumulations. 
+(4) Emergency Planning and Preparedness, and Operational Drills.  A routine 
+operations drill program and an emergency management drill and exercise 
+program have been established and implemented.  Records for each 
+program are adequate to demonstrate the effectiveness of completed drills 
+and exercises as well as planning for future drills and exercises.
+
+--- page 19 ---
+DOE O 425.1F  Attachment 4 – Fe deral Employees and Contractors 
+08-05-2026 Page 4-3 
+(5) Conduct of Engineering.  Structures, systems, and components (SSCs) 
+required for safe and compliant operations have been identified, and 
+programs are in place to ensure adequate maintenance, operations, and 
+modifications.  These programs include requirements for demonstrating 
+compliance with the design requirements, verifying operability of SSCs, 
+availability of replacement and spare parts, and configuration management 
+of documents and equipment. 
+(a) The facility has implemented a maintenance program compliant 
+with DOE O 433.1, Maintenance Management Program, for DOE 
+nuclear facilities.  A program is in place to confirm and 
+periodically assess the condition and operability of SSCs.  This 
+includes examinations of records of tests and calibration of these 
+systems.  A documented evaluation of maintenance items open 
+before the declaration of readiness (if any) has been conducted to 
+determine if the failure to complete the maintenance item could 
+adversely influence operations. 
+(b) Provisions have been established for storage, issuance, and 
+availability of an adequate and readily available supply of tools 
+and critical spare parts. 
+(c) Credited safety equipment being started up or restarted meets the 
+requirements of DOE O 420.1, Facility Safety, for the safety 
+functions and process controls credited in the safety 
+documentation, the design has been analyzed to demonstrate 
+compliance with the design inputs, and design outputs provide 
+specific limits, controls, and technical directions for SSCs to the 
+constructor, operator, or modifier. 
+(d) A configuration management program in accordance with DOE-
+STD-1073, Configuration Management, is defined and 
+implemented to control facility modifications with emphasis on 
+SSCs.  Authorized modifications within the scope of the RR have 
+been completed and fully closed or evaluated and determined not 
+to affect the ability to safely start up or restart nuclear operations. 
+(6) Fire Protection.  A documented fire protection program in accordance with 
+DOE O 420.1, Facility Safety, that includes the elements and requirements 
+identified in the Order for design, operations, emergency response, fire 
+analysis and assessments, wildland fire, and specific Fire Protection 
+Program criteria has been developed, implemented, and maintained by the 
+contractor.
+
+--- page 20 ---
+Attachment 4 – Federal Employees and Contractors DOE O 425.1F  
+Page 4-4 08-05-2026 
+(7) Nuclear Safety.  Facility/process safety-basis (SB) documentation 
+(documented safety analysis [DSA], hazard analysis report [HAR], and 
+technical safety requirements [TSRs]) characterizes the hazards/risks 
+associated with the facility/process; identifies preventive and mitigating 
+measures to adequately protect workers, the public, and the environment 
+from those hazards/risks; describes the safety envelope of the 
+facility/process; is approved; and controls are implemented as required by 
+10 CFR Part 830, Nuclear Safety Management, Subpart B. 
+A DOE approved Unreviewed Safety Question procedure has been 
+effectively implemented. 
+Offsite and onsite shipments of hazardous and/or radioactive materials 
+meet applicable requirements as cited in SB documents. 
+(8) Personnel and Management Training and Qualifications.  The selection, 
+training, and qualification programs for personnel performing work at or 
+managing the facility, activity, or operation that is starting or restarting 
+have been established, documented, and effectively implemented, and they 
+meet the requirements of DOE O 426.2, Personnel Selection, Training, 
+Qualification, and Certification Requirements for DOE Nuclear Facilities.  
+Training and qualification requirements for each position encompass the 
+range of assigned duties and activities. 
+Modifications to the facility, process, or system have been reviewed for 
+potential impacts on training and qualifications.  Training has been 
+performed to incorporate all aspects of these changes. 
+(9) Quality Assurance.  A contractor Quality Assurance Program (QAP) 
+meeting the requirements of 10 CFR Part 830 is in place and has been 
+approved by DOE.  The Quality Assurance (QA) criteria described in the 
+QAP have been implemented via the contractor’s QA Program and 
+integrated with other SMPs.  If applicable, the contractor has submitted to 
+DOE their basis of the graded approach used to implement nuclear 
+safety requirements. 
+(10) Radiation Protection.  A Radiation Protection Program compliant with 
+10 CFR Part 835, Occupational Radiation Protection, regulations has been 
+documented, approved by DOE, and implemented.
+
+--- page 21 ---
+DOE O 425.1F  Attachment 4 – Fe deral Employees and Contractors 
+08-05-2026 Page 4-5 
+(11) Startup/Restart Startup Plan.  An adequate startup plan (if applicable) has 
+been developed that includes plans for graded operations and testing after 
+startup or resumption to simultaneously confirm operability of equipment, 
+the viability of procedures, description of compensatory measures required 
+during the approach to full operations, and the performance and 
+knowledge of the operators.  The plans should indicate validation 
+processes for equipment, procedures, and operators after startup or 
+resumption of operations, including any required restrictions and 
+additional oversight. 
+(12) Safety and Health.  Other SMPs identified in the SB or FAs deemed 
+important to the safety and protection of workers, the public, and the 
+environment are documented, implemented, and maintained.  This may 
+include, but is not limited to, areas such as environmental protection; 
+safeguards and security; waste management; and transportation 
+and packaging. 
+(13) Federal Qualifications (DOE Only).  The personnel at the DOE Field 
+Element assigned responsibilities for providing direction and guidance to 
+the contractor and those individuals assigned oversight responsibilities 
+(including facility representatives) within the scope of the RR, possess 
+appropriate qualification, knowledge and competence to perform 
+those functions. 
+(14) DOE Management System (DOE Only).  DOE Field Element management 
+systems for oversight of facility operations, such as oversight and 
+assessment programs, facility representatives, technical qualification 
+program, corrective action management system, and quality assurance 
+programs, are adequate.
+
+--- page 22 ---
+DOE O 425.1F  Attachment 5 – Fe deral Employees and Contractors 
+08-05-2026 Page 5-1 
+ATTACHMENT 5 
+DEFINITIONS 
+This Attachment provides information applicable to contracts in which the Attachment 1, 
+Contractor Requirements Document, is inserted.  This Attachment defines the terms used in and 
+pertinent to this Order.  Additional definitions can be found in DOE-STD-3006-2010, Planning 
+and Conducting Readiness Reviews. 
+1. Core Requirement (CR).  A fundamental area or topic evaluated during a Readiness 
+Review (RR).  CRs verify the readiness of personnel, procedures, programs, and 
+equipment within the scope of the RR to safely start or restart a nuclear facility, activity 
+or operations.  The CRs are aligned according to specific functional areas/safety 
+management programs.  See Attachment 4 for a detailed description of CRs. 
+2. Line Management.  Refers the unbroken chain of responsibility that extends from the 
+Secretary of Energy to the Deputy Secretary, to the Secretarial Officers who set program 
+policy and plans and develop assigned programs, to the program and Field Element 
+Managers, and to the contractors and subcontractors who are responsible for execution of 
+these programs. 
+3. Finding.  Nonconformance with a stated requirement that represents either: (1) a 
+systematic failure to establish or implement an adequate program or control or (2) a 
+failure that could result in unacceptable impact on the safety of personnel, the facility, the 
+general public, or the environment during nuclear operations.  Findings are categorized as 
+either pre-start or post-start (DOE-STD-3006-2010, Planning and Conducting Readiness 
+Reviews, includes pre- and post-start finding screening criteria): 
+a. Pre-start finding.  A finding that reflects a programmatic or implementation 
+deficiency that requires corrective action to ensure operations are conducted 
+safely when started. 
+b. Post-start finding.  A finding that requires corrective action to mitigate longer-
+term concerns or programmatic deterioration. 
+4. New Nuclear Facility.  This is a reactor or a nonreactor nuclear facility where an activity 
+is initiated for or on behalf of DOE that includes any related area, structure, facility, or 
+process to the extent necessary to ensure proper implementation of the requirements 
+established in 10 CFR 830, Nuclear Safety Management.  The term refers to an entire 
+new facility (or conversion of an existing non-nuclear facility to a nuclear mission) 
+devoted to the operation and maintenance of a new program activity, which is generally 
+covered by a unique Documented Safety Analysis. 
+5. Nuclear Operations.  As used in this Order, nuclear operations means nuclear facilities, 
+operations, and/or activities that fall within the scope of this Order.
+
+--- page 23 ---
+Attachment 5 – Federal Employees and Contractors DOE O 425.1F 
+Page 5-2 08-05-2026 
+6. Prerequisites.  A set of specific, measurable actions or conditions, that the RP has 
+included as part of the scope of the RR.  The prerequisites, when completed, provide 
+assurance that readiness has been achieved.  The prerequisites should include verification 
+of engineering reviews, safety-basis implementation, procedures, training, system 
+operability, and integrated testing.  The prerequisites are to be completed prior to the start 
+of the respective RR or have compensatory measures that have been documented 
+and approved. 
+7. Program work.  Work in a reactor or non-reactor nuclear facility that is accomplished to 
+further the goals of the facility mission or the program for which the facility is operated.  
+Program work may include deactivation and decommissioning or environmental 
+restoration activities when that is the mission of the facility.  Program work is not 
+accomplished when an operational facility is shut down.  Program work does not include 
+work that would be required to maintain the facility in a safe shutdown condition, 
+minimize radioactive material storage, or accomplish modifications and correct 
+deficiencies required before program work can resume. 
+8. Restart.  The resumption of program work.  Restarts requiring an RR can occur in 
+operating facilities if the activity or operation to be resumed meets RR requirements.  A 
+restart may be required even if the same program work is ongoing in another portion of 
+the operating facility. 
+9. Scope.  The overall magnitude of the RR.  This is defined by the physical breadth and 
+depth of the facilities, activity, or operation to be started/restarted, the breadth of CRs 
+selected, and the depth of evaluation of these CRs during the RR. 
+10. Shutdown.  (1) A situation in which a reactor is taken subcritical, either manually or 
+automatically, to a safe shutdown condition; (2) a condition in which a non-reactor 
+nuclear facility, activity or operation ceases; or (3) a condition in which a programmatic 
+nuclear operation or activity ceases, but the structure containing the process may 
+remain operational (i.e., not shut down).  In a shutdown condition, a facility must still 
+meet all applicable technical safety requirements and environmental, safety, and 
+health requirements. 
+A shutdown condition does not exist if all the following apply: 
+a. Safety Class and Safety Significant SSCs are operable and have been maintained 
+via an effective maintenance and surveillance program; 
+b. Operator and support staff knowledge, skills, and qualifications are maintained 
+through an approved training and proficiency program; 
+c. Operating, alarm response, and abnormal/emergency procedures are current; 
+d. Configuration management and safety basis controls (including TSRs) are fully 
+implemented; and
+
+--- page 24 ---
+DOE O 425.1F  Attachment 5 – Fe deral Employees and Contractors 
+08-05-2026 Page 5-3 
+e. Existing performance gaps affecting operational readiness are identified and 
+mitigated through compensatory actions and tracked in an approved corrective 
+action management process. 
+11. Startup Approval Authority (SAA).  The line manager is designated in accordance with 
+Attachment 3 of this Order to authorize the start of nuclear operations when all 
+requirements of the Order have been met.  The SAA may range from a Senior Contractor 
+Official to the Secretary of Energy.

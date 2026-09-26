@@ -1,0 +1,2070 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov  Office of Environment, Health, Safety and Security 
+U.S. Department of Energy  ORDER 
+  Washington, D.C.   
+ 
+Approved: 12-4-2012 
+Chg 1 (PgChg): 2-27-2015 
+Chg 2 (MinChg): 7-26-2018 
+Chg 3 (LtdChg): 11-14-2019 
+SUBJECT: FACILITY SAFETY 
+1. OBJECTIVE. To establish facility and programmatic safety requirements for the 
+Department of Energy (DOE), including the National Nuclear Security Administration 
+(NNSA), for: 
+a. Nuclear safety design criteria; 
+b. Fire protection; 
+c. Criticality safety; 
+d. Natural phenomena hazards (NPH) mitigation; and, 
+e. Cognizant system engineer (CSE) program. 
+Facility safety requirements for explosive, chemical, and industrial hazards are contained 
+in other DOE rules and directives. 
+2. CANCELLATIONS. This Order (O) cancels: DOE O 420.1C Chg. 2, Facility Safety, 
+dated 7-26-08; and DOE O 5480.30 Chg. 1, Nuclear Reactor Safety Design Criteria, 
+dated 3-14-01.  
+Cancellation of a directive does not, by itself, modify, or otherwise affect any contractual 
+or regulatory obligation to comply with the directive. Contractor Requirements 
+Documents (CRDs) that have been incorporated into a contract remain in effect 
+throughout the term of the contract unless, and until, the contract or regulatory 
+commitment is modified to either eliminate requirements that are no longer applicable or 
+to substitute a new set of requirements. 
+3. APPLICABILITY. 
+a. Departmental Applicability. This Order applies to all DOE elements with 
+responsibility for design, construction, management, operation, decontamination, 
+decommissioning, or demolition of government-owned or government-leased 
+facilities and contractor-leased facilities used for DOE mission purposes. 
+The NNSA Administrator will ensure that NNSA employees comply with their 
+respective responsibilities under this directive. Nothing in this Order will be 
+construed to interfere with the NNSA Administrator’s authority under section 
+3212(d) of Public Law (Pub. L.) 106-65, National Defense Authorization Act for 
+Fiscal Year 2000, to establish Administration-specific policies, unless 
+disapproved by the Secretary.  
+DOE O 420.1C
+
+--- page 2 ---
+2 DOE O 420.1C 
+ 12-4-2012 
+ 
+ 
+b. DOE Contractors. Except for the equivalencies and exemptions in Section 3.c, the 
+CRD (see Attachment 1 of this Order) sets forth requirements of this Order that 
+will apply to contracts that include the CRD. The CRD, or its requirements, must 
+be inserted into all contracts that require design, construction, management, 
+operation, decontamination, decommissioning, or demolition of 
+government-owned and government-leased facilities. For leased facilities that are 
+not nuclear hazard category 1, 2, or 3 facilities, the requirements of the CRD 
+apply to the extent determined by the DOE Head of Field Element. 
+c. Equivalencies and Exemptions. 
+(1) Requests for equivalencies and exemptions to the requirements of this 
+Order are processed in accordance with DOE O 251.1D, Departmental 
+Directives Program. Central Technical Authority (or designee) 
+concurrence is required for both exemptions and equivalencies to the 
+requirements of this Order for nuclear facilities. Because this Order affects 
+nuclear safety, requests for advice from the Office of Primary Interest (i.e., 
+Office of Nuclear Safety) on proposed equivalencies and exemptions for 
+nuclear facilities should allow 45 days, in accordance with 
+DOE O 251.1D. (Note: This paragraph applies to requirements of this 
+Order related to DOE technical standards and industry codes and standards 
+that are invoked as required methods by this Order. If such invoked 
+technical standards and industry codes include provisions for relief, those 
+provisions govern. Authority to review and approve exemptions and 
+equivalencies may be delegated in accordance with DOE O 450.2, 
+Integrated Safety Management, Appendix A, “Delegations of Authority to 
+Perform Safety Management Functions;” such delegations are encouraged 
+whenever the field element has sufficient staff and expertise to oversee the 
+subject matter.) 
+(2) Equivalencies to DOE technical standards, as well as industry codes, and 
+standards, determined to be applicable to the facility design or operations 
+must demonstrate an equivalent level of safety (i.e., meets or exceeds the 
+level of protection) and must be approved by the DOE Head of Field 
+Element. The DOE Head of Field Element must follow provisions for 
+relief if specified in DOE technical standards and industry codes and 
+standards. (Note: Different codes and standards may use different 
+terminology for relief; e.g., for building code applications, the terms 
+‘modification’ or ‘alternative’ may be substituted for ‘equivalency’.) 
+(3) Equivalency. In accordance with the responsibilities and authorities 
+assigned by Executive Order (E.O.) 12344, Naval Nuclear Propulsion 
+Program, codified in 50 United States Code (U.S.C.) sections 2406 and 
+2511, and to ensure consistency through the joint Navy/DOE Naval 
+Nuclear Propulsion Program, the Deputy Administrator for Naval 
+Reactors (Director) will implement and oversee requirements and
+
+--- page 3 ---
+DOE O 420.1C 3 
+12-4-2012 
+ 
+ 
+practices pertaining to this Directive for activities under the Director’s 
+cognizance, as deemed appropriate. 
+(4) Exemption. This Order does not apply to activities that are regulated by 
+the Nuclear Regulatory Commission (NRC) or a state under an agreement 
+with the NRC, including activities certified by the NRC under Section 
+1701 of Pub. L. 83-703, Atomic Energy Act of 1954, as amended. DOE 
+orders, regulations, technical standards, and/or guidelines will apply to 
+activities where the NRC does not exercise regulatory authority or by 
+agreement with NRC. 
+(5) Exemption. This Order does not apply to transportation activities that are 
+regulated by the Department of Transportation. 
+(6) Exemption. The following portions of this Order do not apply to 
+accelerator facilities that are covered by DOE O 420.2C, Safety of 
+Accelerator Facilities: (1) nuclear safety design requirements, and (2) 
+system engineer program requirements. 
+(7) Exemption. Specific, individual requirements of this Order do not apply to 
+Nuclear Explosive and Weapons Surety Program activities, including 
+transportation activities, for the prevention of nuclear detonations if 
+application of such specific requirements would compromise the safety 
+and effectiveness of these activities. In the event of such conflicts between 
+specific requirements of this Order and those of DOE O 452.1E, Nuclear 
+Explosive and Weapon Surety Program, or DOE O 452.2E, Nuclear 
+Explosive Safety, the related requirements of these latter weapons and 
+explosives safety directives take precedence. 
+(8) Exemption. This Order does not apply to the Bonneville Power 
+Administration, in accordance with Secretarial Delegation Order Number 
+00-033.00C to the Bonneville Power Administrator and Chief Executive 
+Officer. 
+(9) Exemption. The design requirements in this Order do not apply to projects 
+that have reached a high level of design maturity, as determined by the 
+appropriate Head of Departmental Element. Examples of projects that 
+have reached a high level of design maturity include projects that have 
+completed the Critical Decision (CD)-2 milestone or those projects that 
+have completed the CD-1 milestone with a high level of design maturity. 
+This exemption is provided to control project costs; new design 
+requirements in this Order may be considered for inclusion where they 
+provide significant benefits and/or net cost savings. 
+(10) Exemption. This Order does not apply to off-site office facilities that are 
+owned or leased by the General Services Administration.
+
+--- page 4 ---
+4 DOE O 420.1C 
+ 12-4-2012 
+ 
+ 
+d. Government-Owned, Government-Operated Facilities. The CRD (see 
+Attachment 1 of this Order) sets forth requirements that must also be applied to 
+DOE government-owned, government-operated facilities. Government operators 
+must comply with the requirements in the CRD, as set forth in Attachment 1 of 
+this Order. 
+4. REQUIREMENTS. DOE Elements must: 
+a. Approve and oversee contractor programs, as specified in Section 5 of this Order. 
+b. Implement the requirements in Attachment 1 of this Order for government-owned 
+government-operated facilities. 
+c. Provide oversight of the contractor CSE program and the operability of safety 
+systems under the purview of the CSE program. 
+d. Document any operational responsibilities that are assigned to the contractor 
+regarding the Authority Having Jurisdiction (AHJ) for matters involving fire 
+protection as defined by the National Fire Protection Association (NFPA) codes. 
+e. Document any authorities associated with the building code official, as defined in 
+DOE-STD-1066-2016, Fire Protection, that are assigned to the contractor. 
+f. Establish an integrated site-wide wildland fire management plan, consistent with 
+the relevant portions of the Federal Wildland Fire Management Policy. 
+g. Direct its contractors, as applicable, to use DOE-STD-3009-2014, Preparation of 
+Nonreactor Nuclear Facility Documented Safety Analysis, for preparing 
+documented safety analyses (DSAs), when the DOE-STD-3009 method is used to 
+satisfy 10 Code of Federal Regulations (CFR) Part 830, Nuclear Safety 
+Management, requirements for new DOE non-reactor nuclear facilities and major 
+modifications1 to existing DOE non-reactor nuclear facilities. The appropriate 
+Head of Departmental Element, or designee, with concurrence by the applicable 
+Central Technical Authority, may approve use of DOE-STD-3009-94, 
+Preparation Guide for U.S. Department of Energy Nonreactor Nuclear Facility 
+Documented Safety Analyses, Chg. Notice 3, for major modifications to existing 
+non-reactor nuclear facilities, with the condition that the approach to chemical 
+safety and worker safety is consistent with that described in Appendices B and C 
+of DOE-STD-1189-2008, Integration of Safety into the Design Process. 
+h. Direct its contractors, as applicable, to carry out the analysis prescribed in 
+Section 3.3.1 of DOE-STD-3009-2014 pertaining to “Existing Facilities with 
+Mitigated Offsite Consequence Estimates over the EG,” and include the results of 
+ 
+1 10 CFR 830.3 defines major modification as follows: “Major modification means a modification to a DOE nuclear 
+facility that is completed on or after April 9, 2001 that substantially changes the existing safety basis for the 
+facility.” DOE-STD-1189-2016, Integration of Safety into the Design Process, provides a process to use to 
+identify major modifications and examples of major modifications.
+
+--- page 5 ---
+DOE O 420.1C 5 
+12-4-2012 
+ 
+ 
+this analysis in applicable DSAs for existing DOE nuclear facilities and activities, 
+whenever the safety analysis concludes that the mitigated off-site dose 
+consequences for one or more accident scenarios exceed the Evaluation Guideline 
+of 25 rem. 
+i. Review and approve safety basis and safety design basis documents in accordance 
+with DOE-STD-1104-2016, Review and Approval of Nuclear Facility Safety 
+Basis and Safety Design Basis Documents. 
+5. RESPONSIBILITIES. 
+a. Heads of Departmental Elements, and Administrator, National Nuclear Security 
+Administration. 
+(1) Ensure that the requirements of this Order and the CRD are implemented 
+for facilities, activities, or programs under their cognizance. Review and, 
+where justified, approve requests for equivalencies and exemptions to the 
+requirements of this Order, processed in accordance with DOE O 251.1D. 
+(2) In accordance with Section 3.c.(1) of this Order, approve the basis for not 
+including multiple physical barriers to prevent or mitigate the unintended 
+release of radioactive materials to the environment, as part of the hazard 
+category 1, 2, and 3 nuclear facility designs, where justified by sound 
+technical basis. 
+(3) Review and approve safety basis and safety design basis documents in 
+accordance with DOE-STD-1104-2016. 
+b. Associate Under Secretary, Office of Environment, Health, Safety and Security. 
+(1) Develops and maintains policy, requirements, guidance, and technical 
+standards relating to this Order and the CRD. 
+(2) Provides technical advice and assistance on the implementation of policy, 
+requirements, guidance, and technical standards related to this Order and 
+the CRD. 
+(3) Provides comments on requests for exemptions from requirements of this 
+Order. 
+c. Director, Office of Enterprise Assessments. 
+Plans and conducts independent oversight reviews of implementation of the 
+requirements of this Order and the CRD (see DOE O 226.1B, Implementation of 
+Department of Energy Oversight Policy, and DOE O 227.1A, Independent 
+Oversight Program, for details). 
+d. Heads of Field Elements.
+
+--- page 6 ---
+6 DOE O 420.1C 
+ 12-4-2012 
+ 
+ 
+(1) Ensure that the facilities, activities, and programs under their purview 
+operate in compliance with the requirements of this Order and the CRD. 
+(2) Identify contracts to which the CRD applies and notify contracting officers 
+when contracts are affected by this Order. 
+(3) Review and, where justified, approve equivalencies to DOE technical 
+standards and industry codes and standards determined to be applicable to 
+the facility design or operations. 
+(4) Approve contractor emergency services organization baseline needs 
+assessments (BNAs) that meet the requirements in Attachment 2, Chapter 
+II, Section 3.e.(1) of this Order. 
+(5) Approve contractor fire protection programs (this may be accomplished in 
+conjunction with 10 CFR Part 851, Worker Health and Safety Program) 
+and Wildland Fire Management Plans. 
+(6) Fulfill the roles and responsibilities for the AHJ for matters involving fire 
+protection, as defined by the NFPA, including documentation of any 
+delegation or assignment of related responsibilities (See Section 5.2.4 of 
+DOE-STD-1066-2016, for further discussion of delegations). 
+(7) Fulfill the roles and responsibilities for the building code official, as 
+defined in DOE-STD-1066-2016, including documentation of any 
+delegation or assignment of related responsibilities. 
+(8) Perform responsibilities of ‘owner,’ or other equivalent term in the 
+application of DOE technical standards or industry codes and standards, 
+including documentation of any delegation or assignment of related 
+responsibilities. 
+(9) Approve contractor’s criticality safety program documentation, ensure that 
+it meets requirements in Chapter III of Attachment 2 of this Order. (This 
+may be accomplished through the safety basis documentation approval 
+process.) 
+(10) Approve periodic NPH assessment evaluations, any recommended update 
+actions, and any recommended upgrade plans, in accordance with Chapter 
+IV of Attachment 2 of this Order. 
+(11) Provide oversight for contractor CSE programs and the operability of 
+associated safety systems. 
+(12) Consistent with DOE O 226.1B, establish and implement an appropriate 
+self-assessment and oversight program for the elements of this Order.
+
+--- page 7 ---
+DOE O 420.1C 7 
+12-4-2012 
+ 
+ 
+(13) When delegated, review and approve safety basis and safety design basis 
+documents in accordance with DOE-STD-1104-2016. 
+e. Contracting Officers. 
+Incorporate the CRD, or its requirements, into affected contracts and procurement 
+requests in a timely manner when notified. 
+f. Central Technical Authorities. 
+(1) Review and, where justified, concur on requests for equivalencies and 
+exemptions to the requirements of this Order, processed in accordance 
+with DOE O 251.1D. 
+(2) Provide support, as requested by the DOE Heads of Field Element, on 
+review of equivalencies to DOE technical standards and industry codes 
+and standards determined to be applicable to the facility design or 
+operations. 
+6. INVOKED STANDARDS. The following DOE technical standards and industry 
+standards are invoked as required methods in this Order in accordance with the 
+applicability and conditions described within this Order. Any technical standard or 
+industry standard that is mentioned in or referenced by this Order, but is not included in 
+the list below, is not invoked by this Order. Note: DOE O 251.1D, Appendix J provides a 
+definition for “invoked technical standard.” 
+a. DOE Standard (STD)-3009-2014, Preparation of Nonreactor Nuclear Facility 
+Documented Safety Analysis. This DOE technical standard is required to be used 
+for specified new non-reactor hazard category 1, 2, and 3 nuclear facilities and 
+major modifications to hazard category 1, 2, and 3 non-reactor nuclear facilities. 
+In addition, Section 3.3.1 of this technical standard is required to be used for 
+existing DOE nuclear facilities that have mitigated off-site dose estimates greater 
+than 25 rem. See Section 4 and Attachment 1 for specific requirements. 
+b. DOE-STD-1104-2016, Review and Approval of Nuclear Facility Safety Basis and 
+Safety Design Basis Documents. This DOE technical standard is required to be 
+used by DOE personnel for review and approval of safety basis and safety design 
+basis documents. See Section 4 for specific requirements. 
+c. DOE-STD-1189-2016, Integration of Safety into the Design Process. This DOE 
+technical standard is required to be used for development and integration of safety 
+analysis and supporting design for new hazard category 1, 2, and 3 nuclear 
+facilities and major modifications to existing hazard category 1, 2 and 3 nuclear 
+facilities. See Attachment 2, Chapter I for specific requirements. 
+d. DOE-STD-3007-2017, Preparing Criticality Safety Evaluations at DOE 
+Nonreactor Nuclear Facilities. This DOE technical standard is required to be
+
+--- page 8 ---
+8 DOE O 420.1C 
+ 12-4-2012 
+ 
+ 
+used for conduct of criticality safety evaluations at DOE facilities and activities 
+with the potential for inadvertent criticalities, unless another documented method 
+is approved by DOE. See Attachment 2, Chapter III for specific requirements. 
+e. DOE-STD-1020-2016, Natural Phenomena Hazards Analysis and Design 
+Criteria for DOE Facilities. This DOE technical standard is required to be used 
+for developing the design of new facilities and major modifications. See 
+Attachment 2, Chapter IV for specific requirements. 
+f. American National Standards Institute (ANSI)/American Nuclear Society 
+(ANS)-8 Nuclear Criticality Safety Standards. This set of industry standards is 
+required to be satisfied by Criticality Safety Programs for facilities and activities 
+with the potential for inadvertent criticalities, unless otherwise modified and 
+approved by DOE. See Attachment 2, Chapter III for specific requirements. 
+g. Institute of Electrical and Electronics Engineers (IEEE) 379-2014, IEEE Standard 
+for Application of the Single-Failure Criterion to Nuclear Power Generating 
+Station Safety Systems. This industry standard is required to be applied to the 
+design of safety-class structures, systems, and components (SSCs) for new 
+nuclear facilities and major modifications, unless another applicable standard is 
+approved by DOE. See Attachment 3 for specific requirements. 
+h. IEEE 323-2003 (R2008), IEEE Standard for Qualifying Class 1E Equipment for 
+Nuclear Power Generating Stations. This industry standard is required to be used 
+to ensure environmental qualifications of safety-class SSCs for new nuclear 
+facilities and major modifications, unless another applicable standard is approved 
+by DOE. See Attachment 3 for specific requirements. 
+i. IEEE 384-2008, IEEE Standard Criteria for Independence of Class IE Equipment 
+and Circuits. This industry standard is required to be used for new nuclear 
+facilities and major modifications for physical and electrical separation methods, 
+including the use of separation distance, barriers, electrical isolation devices, or 
+any combination thereof, unless another applicable standard is approved by DOE. 
+See Attachment 3 for specific requirements. 
+7. APPLICABLE STANDARDS. An applicable DOE technical standard or industry code 
+or standard is one for which it has been determined by the contractor that it will be used 
+or will be applied for a specific facility/site to meet the design, construction, and 
+operational requirements described in this Order. This Order provides the process for 
+determining which standards will be applicable (as described in the Attachments to this 
+Order). DOE approves the contractor’s list of applicable DOE technical standards or 
+industry codes or standards via different means, including approval of safety design 
+documents, the fire protection program, and inclusion of the DOE technical standards or 
+industry codes or standards in the contract. 
+Once a standard is identified as applicable, this Order requires that the applicable 
+requirements of the applicable standards be followed unless relief is obtained. The
+
+--- page 9 ---
+DOE O 420.1C 9 
+12-4-2012 
+ 
+ 
+provisions for relief (exemptions and equivalencies) for applicable standards are different 
+than the relief provisions for invoked standards, and are described in Section 3.c and 
+Attachment 1, Section 2. Together, the invoked standards, the applicable standards, and 
+any other applicable DOE requirement documents, along with any exemptions and 
+equivalencies, make up the “Code of Record” for a given project or design, and reflect 
+DOE’s commitment to standard-based safety management. 
+8. REFERENCES AND ACRONYMS. References and acronyms can be found in 
+Attachment 4 of this Order. 
+9. CONTACT. Address inquiries to the Office of Environment, Health, Safety and 
+Security; Office of Nuclear Safety, 301-903-3331. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ DAN R. BROUILLETTE 
+ Deputy Secretary
+
+--- page 10 ---
+
+
+--- page 11 ---
+DOE O 420.1C Attachment 1 
+12-4-2012 Page 1 
+ 
+ 
+CONTRACTOR REQUIREMENTS DOCUMENT 
+DOE O 420.1C, FACILITY SAFETY 
+This Contractor Requirements Document (CRD) includes requirements outlined in Attachments 
+2 and 3 of Department of Energy (DOE) Order (O) 420.1C, Facility Safety, referenced in and 
+made a part of this CRD, and which provide program requirements and/or information applicable 
+to contracts in which this CRD is inserted. 
+1. GENERAL REQUIREMENTS. 
+a. This CRD establishes facility safety requirements for design, construction, 
+operation, management, decontamination, decommissioning, and demolition of 
+DOE sites or facilities.  Regardless of the performer of the work, the contractors 
+are responsible for complying with the requirements of this CRD.  The 
+contractors are responsible for flowing down the requirements of this CRD to 
+subcontractors at any tier, to the extent necessary, to ensure the contractors’ 
+compliance with the requirements.  
+b. Contractors must satisfy the requirements set forth in Attachments 2 and 3 of 
+DOE O 420.1C. 
+c. For design and construction activities, contractors must identify the applicable 
+industry codes and standards, including the International Building Code (IBC), 
+and the applicable DOE requirements and technical standards.  If approved by the 
+responsible DOE Head of the Field Element, state, regional, and local building 
+codes may be used in lieu of the IBC upon contractor submission of 
+documentation providing a basis that demonstrates that implementation of the 
+substituted code for the specific application will meet or exceed the level of 
+protection that would have been provided by the IBC.  Additionally, 
+DOE O 413.3B Chg. 5, Program and Project Management for the Acquisition of 
+Capital Assets, requires nuclear projects to establish and maintain a Code of 
+Record (COR) early in project design for identifying applicable industry codes 
+and standards.  For leased facilities that are not nuclear hazard category 1, 2, or 3 
+facilities, the requirements of this paragraph apply to the extent determined by the 
+DOE Head of Field Element.   
+d. Contractors must satisfy the requirements (i.e., mandatory statements) in DOE 
+technical standards and industry codes and standards that are identified as 
+applicable in accordance with Section 1.c. above, unless relief is approved in 
+accordance with Section 2, below.  
+e. When the DOE-STD-3009 methodology is used to satisfy 10 Code of Federal 
+Regulations (CFR) Part 830, Nuclear Safety Management, contractors must 
+prepare Documented Safety Analyses (DSAs) in accordance with DOE-STD-
+3009-2014, Preparation of Nonreactor Nuclear Facility Documented Safety 
+Analysis, for new DOE non-reactor nuclear facilities and major modifications to 
+existing DOE non-reactor nuclear facilities.  Note: for such major modifications
+
+--- page 12 ---
+Attachment 1 DOE O 420.1C 
+Page 2 12-4-2012 
+ 
+ 
+to existing non-reactor nuclear facilities, the appropriate Head of Departmental 
+Element, with concurrence by the applicable Central Technical Authority, may 
+approve use of DOE-STD-3009-94, Preparation Guide for U.S. Department of 
+Energy Nonreactor Nuclear Facility Documented Safety Analyses, Chg. Notice 3. 
+f. Contractors must carry out the analysis prescribed in Section 3.3.1 of DOE-STD-
+3009-2014 and include the results of this analysis in applicable DSAs for existing 
+DOE nuclear facilities and activities whenever the safety analysis concludes that 
+the mitigated off-site dose consequences for one or more accident scenarios 
+exceed the Evaluation Guideline of 25 rem.  
+2. RELIEF FROM REQUIREMENTS, CODES AND STANDARDS.  
+a. Requests for equivalencies and exemptions to the requirements of this attachment 
+are processed in accordance with DOE O 251.1D, Departmental Directives 
+Program.  For such equivalencies and exemptions, DOE O 251.1D requires 
+approval, in consultation with the Office of Primary Interest, by the responsible 
+Head of Departmental Element or designee, or in the case of NNSA, by the 
+Administrator or designee.  Because this Order affects nuclear safety, requests for 
+advice from the Office of Primary Interest (i.e., Office of Nuclear Safety) on 
+proposed equivalencies and exemptions for nuclear facilities should allow 45 
+days, in accordance with DOE O 251.1D.  Requests for equivalencies and 
+exemptions to the requirements of this attachment must be provided to the 
+responsible contracting officer to facilitate DOE review.  (Note: The requirements 
+in this paragraph also address the requirements of this attachment, and those in 
+Attachments 2 and 3, that relate to DOE technical standards and industry codes 
+and standards that are invoked as required methods.) 
+b. Equivalencies to DOE technical standards and industry codes and standards 
+determined to be applicable to the facility design or operations must demonstrate 
+an equivalent level of safety (i.e., meets or exceeds the level of protection) and be 
+approved by the DOE Head of Field Element or designee.   
+3. REFERENCES AND ACRONYMS.  Attachment 4 of DOE O 420.1C provides a list of 
+references and acronyms.  Reference documents that may be helpful in implementing this 
+Order include rules, directives, guidance, DOE technical standards, and industry codes 
+and standards.
+
+--- page 13 ---
+DOE O 420.1C  Attachment 2 
+12-4-2012 Page i (and Page ii) 
+ 
+ 
+FACILITY SAFETY REQUIREMENTS 
+This attachment provides information and/or requirements associated with the Department of 
+Energy (DOE) Order (O) 420.1C, Facility Safety, as well as information and/or requirements 
+applicable to contracts into which the associated Contractor Requirements Document (CRD), 
+(see Attachment 1 of DOE O 420.1C) is inserted.
+
+--- page 14 ---
+
+
+--- page 15 ---
+DOE O 420.1C  Attachment 2 
+12-4-2012 Page I-1 
+ 
+ 
+CHAPTER I. NUCLEAR SAFETY DESIGN CRITERIA 
+1. OBJECTIVE. To establish requirements for safety design of DOE hazard category 1, 2, 
+and 3 nuclear facilities to support implementation of DOE Policy (P) 420.1, Department 
+of Energy Nuclear Safety Policy.2  
+The requirements of this chapter (and the criteria in Attachment 3 of DOE O 420.1C) 
+support implementation of the requirements for hazard category 1, 2, and 3 nuclear 
+facilities in 10 Code of Federal Regulations (CFR) Part 830, Nuclear Safety Management, 
+Subpart B, Safety Basis Requirements. 
+2. APPLICABILITY. 
+a. This chapter applies to the design and construction of: 
+(1) new hazard category 1, 2, and 3 nuclear facilities, as defined by 
+10 CFR Part 830; and 
+(2) major modifications to hazard category 1, 2, and 3 nuclear facilities, as 
+defined in 10 CFR Part 830, that could substantially change the facility 
+safety basis (Note: See DOE Standard (STD)-1189-2016, Integration of 
+Safety into the Design Process, for criteria and discussion on major 
+modifications). 
+b. This chapter does not impose requirements on existing facilities, except for major 
+modifications3 to those facilities. The requirements of this chapter may be used to 
+develop comparisons of existing facilities to the requirements for new facilities, as 
+one aide to judgment when evaluating the costs and benefits of non-mandatory 
+upgrades to existing facilities. 
+c. Except for the requirements of Section 3.b.(3), this chapter does not apply to 
+nuclear deactivation or decontamination and decommissioning activities at 
+end-of-facility-life if the safety analysis demonstrates that adequate protection is 
+provided consistent with the requirements of 10 CFR Part 830 through alternate 
+means and it is not cost beneficial to apply the provisions of this chapter for the 
+limited remaining life of the activity. 
+3. REQUIREMENTS. 
+a. Integration of Safety with Design. 
+(1) Safety analysis and supporting design must be developed and integrated in 
+accordance with DOE-STD-1189-2016. 
+ 
+2 DOE’s nuclear safety policy (DOE P 420.1, Department of Energy Nuclear Safety Policy) is to design, 
+construct, operate, and decommission its nuclear facilities in a manner that ensures adequate protection of 
+workers, the public, and the environment.  
+3 DOE-STD-1189-2016, Integration of Safety into the Design Process, provides a definition and examples of major 
+modifications.
+
+--- page 16 ---
+Attachment 2  DOE O 420.1C 
+Page I-2  12-4-2012 
+ 
+ 
+(2) Safety analyses must be used to: 
+(a) identify safety class and safety significant structures, systems, and 
+components (SSCs) needed to fulfill the safety functions in order 
+to prevent and/or mitigate design basis accidents (DBAs), 
+including natural and man-induced hazards and events; 
+(b) identify the safety functional requirements of the safety class and 
+safety significant SSCs; and 
+(c) identify specific administrative controls (SACs) needed to fulfill 
+safety functions. (Note: See DOE-STD-1186-2016, Specific 
+Administrative Controls). 
+b. Nuclear Facility Design. 
+(1) The nuclear facility design must include multiple layers of protection (as 
+part of the design defense-in-depth) to prevent or mitigate the unintended 
+release of radioactive materials into the environment. 
+(2) Defense-in-depth must include all of the following: 
+(a) choosing an appropriate site; 
+(b) minimizing the quantity of material-at-risk; 
+(c) applying conservative design margins; 
+(d) applying quality assurance; 
+(e) using successive/multiple physical barriers for protection against 
+radioactive releases (Note: If an exemption to having multiple 
+barriers is required, it is the responsibility of the Head of 
+Departmental Element to approve, or disapprove, the exemption 
+for not including multiple physical barriers); 
+(f) using multiple means to ensure safety functions are met by—  
+1 controlling processes; 
+2 maintaining processes in safe status; 
+3 providing preventive and/or mitigative controls for 
+accidents with the potential for radiological releases; and 
+4 providing means for monitoring facility conditions to 
+support recovery from upset or accident conditions;
+
+--- page 17 ---
+DOE O 420.1C  Attachment 2 
+12-4-2012 Page I-3 
+ 
+ 
+5 using equipment in combination with administrative 
+controls that— 
+a restrict deviation from normal operations; 
+b monitor facility conditions during and after an 
+event; and 
+c provide for response to accidents to achieve a safe 
+condition; 
+6 providing means to monitor accident releases as required 
+for emergency response (see DOE O 151.1D, 
+Comprehensive Emergency Management System, for 
+detailed requirements); and 
+7 establishing emergency plans for minimizing the effects of 
+an accident (see DOE O 151.1D for detailed requirements). 
+(3) Hazard category 1, 2, and 3 nuclear facilities with uncontained radioactive 
+materials (as opposed to materials determined by safety analyses to be 
+adequately contained within qualified drums, grout, or vitrified materials) 
+must have the means to confine the uncontained radioactive materials to 
+minimize their potential release in facility effluents during normal 
+operations and during and following accidents, up to and including DBAs. 
+Confinement design must include the following: 
+(a) For a specific nuclear facility, the number, arrangement, and 
+characteristics of confinement barriers as determined on a case-by 
+case basis. 
+(b) The type, quantity, form, and conditions for dispersing the 
+radioactive material in the confinement system design. 
+(c) An active confinement ventilation system as the preferred design 
+approach for nuclear facilities with potential for radiological 
+release.4 Alternate confinement approaches may be acceptable if a 
+technical evaluation demonstrates either that the alternate 
+confinement approach results in very high assurance of the 
+confinement of radioactive materials or that an active confinement 
+system provides no benefits. 
+Guidance for confinement ventilation systems and evaluation of 
+the alternatives is provided in DOE Guide (G) 420.1-1A, 
+Nonreactor Nuclear Safety Design Guide for Use with 
+DOE O 420.1C, Facility Safety. Some facilities where the only 
+ 
+4 The safety classification (if any) of the ventilation system is determined by the facility DSA.
+
+--- page 18 ---
+Attachment 2  DOE O 420.1C 
+Page I-4  12-4-2012 
+ 
+ 
+radioactive hazard/material is tritium have determined there is no 
+benefit from an active confinement ventilation system. 
+(4) Hazard category 1, 2, and 3 nuclear facilities must be designed to: 
+(a) facilitate safe deactivation, decommissioning, decontamination, 
+and demolition at the end of facility life, including incorporation of 
+design considerations during the operational period that facilitate 
+future decontamination and decommissioning; 
+(b) facilitate inspections, testing, maintenance, repair, and replacement 
+of safety SSCs as part of a reliability, maintainability, and 
+availability program with the objective of maintaining the facility 
+in a safe state; 
+(c) keep occupational radiation exposures within regulatory limits, and 
+as low as reasonably achievable; and 
+(d) provide hazard controls for prevention and mitigation of hazardous 
+material releases and for defense in depth, consistent with the 
+hierarchy described in DOE-STD-1189-2016. 
+(5) Facility process systems must be designed to minimize waste production 
+and mixing of radioactive and non-radioactive wastes. 
+(6) Safety SSCs and safety software must be designed to perform their safety 
+functions when called upon. 
+(7) Active safety class systems must be designed to meet single failure5 
+criterion. 
+(8) DOE G 420.1-1A, Nonreactor Nuclear Safety Design Criteria for Use 
+with DOE O 420.1C, Facility Safety, provides an acceptable method to 
+meet the requirements stated in this chapter. 
+(9) Critical experiments facilities must be designed and operated in 
+accordance with applicable American National Standards Institute (ANSI) 
+and the American Nuclear Society (ANS) standards. ANSI/ANS-1-2000 
+(R2012), Conduct of Critical Experiments, and ANSI/ANS-14.1-2004 
+(R2014), Operation of Fast Pulse Reactors, are two such standards that 
+may be applicable. 
+ 
+5 IEEE 379-2014, IEEE Standard Application of the Single-Failure Criterion to Nuclear Power Generating Station 
+Safety Systems, provides a definition of the single failure criterion. ANS 58.9-2002 (R2009),  Single Failure 
+Criteria for Light Water Reactor Safety-Related Fluid Systems, provides additional guidance for single failure 
+criteria for mechanical systems.
+
+--- page 19 ---
+DOE O 420.1C  Attachment 2 
+12-4-2012 Page I-5 
+ 
+ 
+(10) Facility design must also be integrated with other design requirements, as 
+applicable, including explosive safety, industrial safety, and nuclear 
+explosive safety (if applicable).
+
+--- page 20 ---
+
+
+--- page 21 ---
+DOE O 420.1C  Attachment 2 
+12-4-2012  Page II-1 
+ 
+ 
+CHAPTER II. FIRE PROTECTION 
+1. OBJECTIVE. To establish requirements for comprehensive fire protection programs for 
+DOE facilities and emergency response organizations to: 
+a. Minimize the likelihood of occurrence of a fire-related event; 
+b. Minimize the consequence of a fire-related event affecting the public, workers, 
+environment, property and missions; and 
+c. Provide a level of safety protection consistent with the “highly protected risk” 
+class of industrial risks. 
+2. APPLICABILITY. This chapter applies to organizations that have responsibility for the 
+design, construction, maintenance, or operation of government-owned or 
+government-leased facilities and contractor-leased facilities used for DOE mission 
+purposes. For leased facilities that are not nuclear hazard category 1, 2, or 3 facilities, the 
+requirements of this chapter apply to the extent determined by the DOE Head of Field 
+Element. (Note: DOE-STD-1066-2016, Fire Protection, provides guidance on a graded 
+approach to fire protection for leased facilities.) 
+3. REQUIREMENTS. 
+a. General Fire Protection Program Requirements. 
+(1) Policy Statement. A policy must be established that affirms the 
+contractor’s commitment to provide a comprehensive fire protection and 
+emergency response program that meets the requirements of this chapter, 
+related DOE directives, and other applicable requirements. 
+(2) Codes and Standards. The codes and standards determined to be 
+applicable, including DOE technical standards, the building code, National 
+Fire Protection Association (NFPA) codes and standards, and other 
+industry codes and standards, must be identified in the fire protection and 
+emergency response programs. The fire protection and emergency 
+response programs may specify provisions for relief (exemptions and 
+equivalencies) from identified, applicable fire protection codes and 
+standards; otherwise, see Attachment 1, Section 2 for relief provisions. 
+(a) Facilities, and major modifications thereto, must be constructed to 
+meet applicable codes and standards that are in effect when design 
+criteria are approved (otherwise known as the Code of Record, or 
+COR). Other facility changes must meet the most recent applicable 
+codes and standards to the extent determined by the Authority 
+Having Jurisdiction (AHJ).
+
+--- page 22 ---
+Attachment 2  DOE O 420.1C 
+Page II-2 12-4-2012 
+ 
+ 
+(b) Provisions of subsequent editions of codes or standards 
+(promulgated after the COR is established) are mandatory only to 
+the extent that they are explicitly stated to be applicable to existing 
+facilities. 
+(c) Conflicts between DOE O 420.1C; NFPA codes and standards; and 
+the applicable building code must be resolved as follows: 
+1 Requirements of DOE O 420.1C take precedence over all 
+NFPA and building code requirements and are subject to 
+the relief requirements of DOE O 420.1C. 
+2 Conflicts between NFPA requirements and the applicable 
+building code requirements are resolved by the DOE Head 
+of Field Element, consistent with DOE-STD-1066-2016, 
+and in consultation with designated building code and fire 
+protection subject matter experts. 
+b. Fire Protection Program Administration. 
+(1) Documentation. A documented fire protection program that includes the 
+elements and requirements identified in this chapter for design; operations; 
+emergency response; fire analysis and assessments; wildland fire; and 
+specific fire protection program criteria must be developed, implemented, 
+and maintained by the contractor. Contractor must submit this documented 
+fire protection program to the DOE Head of Field Element for review and 
+approval (Note: this may be accomplished in conjunction with submittals 
+required by 10 CFR Part 851, Worker, Health and Safety Program). 
+(2) Fire Protection Methods. Fire Protection Programs must describe the 
+methods used to implement the requirements of this chapter. 
+DOE-STD-1066-2016 is the applicable fire protection standard for use at 
+DOE facilities. [Note: Relief provisions for applicable fire protection 
+standards are described in Section 3.a.(2) above.] 
+(3) Self-Assessments. A documented comprehensive self-assessment of the 
+fire protection program must be performed at least every three years, or at 
+a frequency with appropriate justification approved by the DOE Head of 
+Field Element. 
+c. Design. 
+(1) Design Process. A process must be established to ensure that fire 
+protection program requirements are documented and incorporated into 
+plans and specifications for design of new facilities and modifications to 
+existing facilities.
+
+--- page 23 ---
+DOE O 420.1C  Attachment 2 
+12-4-2012  Page II-3 
+ 
+ 
+(2) Protection Thresholds6. 
+(a) New facilities (non-relocatable) exceeding 5,000 sq. ft. of floor 
+area must be of Type I or Type II construction, as defined in the 
+applicable building codes. 
+(b) Automatic fire suppression systems must be provided throughout 
+new facilities exceeding 5,000 sq. ft. of floor area or where a 
+Maximum Possible Fire Loss (MPFL) exceeds $5.9 million (in 
+2018 dollars7), unless a specific provision of an applicable NFPA 
+code provides different criteria for coverage (such as elimination 
+of sprinklers from a small closet). 
+(c) Automatic fire suppression systems must be provided throughout 
+facilities in which any of the following conditions exist: 
+1 where required by safety basis document (for example, to 
+prevent loss of safety functions or provide 
+defense-in-depth); 
+2 significant life safety hazards; 
+3 where fire may cause unacceptable mission or program 
+interruption if automatic fire suppression systems are not 
+provided; 
+4 where a modification to an existing facility would cause the 
+MPFL to exceed $5.9 million (in 2018 dollars) for the 
+facility; or 
+5 where a modification to an existing facility results in 
+facility floor area that exceeds 5,000 sq. ft. 
+(d) For property protection, multiple fire protection approaches, such 
+as a fire suppression system and a fire detection and alarm system, 
+must be provided in areas where the MPFL exceeds $177 million 
+(in 2018 dollars) (refer to DOE-STD-1066-2016). 
+(e) For property protection, fire areas must be established such that the 
+MPFL for each fire area does not exceed $412 million (in 2018 
+ 
+6 Some of the requirements in this section on protection thresholds may not apply to portions of subterranean 
+facilities that otherwise meet the requirements in Appendix D of DOE-STD-1066-2016.  
+7 DOE G 413.3-21 Chg. 1, Cost Estimating Guide, Section 6.4.4 provides guidance on historical cost estimates and 
+historical cost indexes. To convert 2018 dollar amounts to present value, an applicable historical cost index is 
+selected, documented, and used, as described in DOE G 413.3-21.
+
+--- page 24 ---
+Attachment 2  DOE O 420.1C 
+Page II-4 12-4-2012 
+ 
+ 
+dollars). Fire walls or other separation approaches may be used to 
+meet this requirement. 
+(3) Fire Protection and Life Safety Systems. 
+(a) Fire Suppression. The inadvertent operation or failure of fire 
+suppression systems must not result in the loss of function of 
+safety class or safety significant systems. (Note: This requirement 
+addresses proper design of the fire suppression system to ensure it 
+does not impact safety systems and is not intended to drive need 
+for redundancy in safety significant system design.) 
+(b) Fire Barriers. Complete fire-rated construction and barriers, 
+commensurate with the applicable codes and/or safety basis 
+requirements, must be provided to isolate hazardous areas and 
+minimize fire spread and loss potential consistent with limits as 
+established in this chapter. Fire barrier locations and construction 
+must be documented. 
+(c) Fire Detection. Automatic fire detection must be provided to the 
+extent required by applicable industry codes and standards. 
+(d) Life Safety. Requirements for life safety and means of egress are 
+provided in 10 CFR Part 851. Other codes and standards, such as 
+the International Building Code (IBC), and NFPA 101, Life Safety 
+Code, may also be applicable. 
+(e) Water Supply and Distribution. A reliable and adequate water 
+supply and distribution system must be provided for fire 
+suppression, as documented through appropriate analysis. 
+(f) Emergency Notification. A means to notify responders and 
+building occupants of a fire must be provided (e.g., fire alarm 
+signaling system and/or site-wide mass notification capabilities for 
+major incidents affecting the site). 
+(4) Special Hazards. Fire protection systems or features, and appropriate 
+procedures to address fire and related hazards that are special or unique to 
+DOE and not addressed by industry codes and standards, must be 
+established. 
+d. Operations. 
+(1) Criteria and Procedures. Comprehensive, written fire protection criteria 
+and procedures must be established to implement the fire protection 
+program requirements that include:
+
+--- page 25 ---
+DOE O 420.1C  Attachment 2 
+12-4-2012  Page II-5 
+ 
+ 
+(a) site-specific requirements; 
+(b) staff organization, resources, training, and roles and 
+responsibilities; 
+(c) inspection, testing, and maintenance of fire protection systems; 
+(d) use and storage of combustible, flammable, radioactive, and 
+hazardous materials; 
+(e) a “hot-work” control program; 
+(f) identification and tracking of fire protection system impairments; 
+(g) fire prevention measures (e.g., reduced combustible loading, 
+hot-work procedures, ignition source controls); 
+(h) facility and Fire Hazards Analysis (FHA) assessment programs; 
+(i) design and construction oversight; and 
+(j) equivalencies, exemptions, modifications, and variances processes. 
+(2) Implementation. To ensure effective implementation of these 
+requirements, the following elements must be addressed. 
+(a) Staffing. The contractor must ensure it has access to qualified, 
+trained fire protection staff (that includes fire protection engineers 
+(FPEs), technicians, and firefighting personnel) needed to 
+implement the requirements of this chapter. 
+(b) Design Review. Documented review of plans, specifications, 
+procedures, and acceptance tests must be conducted by an FPE 
+(Note: A definition for FPE is provided in DOE-STD-1066-2016). 
+A process must be established to oversee fire protection-related 
+activities from conceptual design to final acceptance. 
+(c) Equivalencies and Exemptions. A process must be established for 
+developing and requesting AHJ approval of fire protection 
+equivalencies and exemptions to fire protection requirements. 
+Records of technical justification must be maintained and 
+reevaluated for appropriateness as activities or operations change. 
+(d) Assigned Authority. If assigned, the contractor must document the 
+level of authority to execute the duties and responsibilities of the 
+AHJ, in accordance with the contractor’s overall fire protection 
+and emergency response programs.
+
+--- page 26 ---
+Attachment 2  DOE O 420.1C 
+Page II-6 12-4-2012 
+ 
+ 
+e. Emergency Response. Provide emergency response capabilities, as necessary, to 
+meet site needs as established by the baseline needs assessment (BNA), safety 
+basis requirements, and applicable regulations, codes and standards. 
+(1) Baseline Needs Assessment. A BNA of the fire protection and emergency 
+response organization must be conducted, and the BNA must: 
+(a) establish capabilities to provide: 
+1 effective response to extinguish fires; 
+2 emergency medical, rescue and hazardous materials 
+response; and 
+3 staffing, apparatus, facilities, equipment, training, 
+pre-incident plans, mutual aid, and procedures. 
+(b) reflect applicable requirements of NFPA codes and standards, and 
+DOE direction; 
+(c) be submitted to the DOE Head of Field Element for approval; 
+(d) be reviewed at least every three years, or whenever a significant 
+new hazard that is not covered by the current BNA is introduced, 
+and be updated as appropriate (Note: If no update is necessary, this 
+result must be documented following the review) and submitted to 
+the DOE Head of Field Element for approval; and, 
+(e) be incorporated into site emergency plans, FHAs, and safety basis 
+documentation. 
+(2) Pre-Incident Plans. Pre-incident strategies, plans, and standard operating 
+procedures must be established to enhance the effectiveness of manual fire 
+suppression activities, including areas within or adjacent to, 
+moderator-controlled areas. The criticality safety staff must review 
+pre-incident plans and procedures related to moderator-controlled areas. 
+(3) Manual Fire Suppression Activities. 
+(a) Physical access and appropriate equipment that is accessible for 
+effective manual firefighting intervention must be provided. 
+(b) Procedures governing the use of fire-fighting water or other 
+neutron moderating materials to suppress fire within, or adjacent 
+to, moderation controlled areas must be established and reviewed 
+by a criticality subject matter expert prior to release.
+
+--- page 27 ---
+DOE O 420.1C  Attachment 2 
+12-4-2012  Page II-7 
+ 
+ 
+(c) Procedures governing firefighting techniques to be used during 
+deactivation, decontamination, and demolition phases must be 
+established, when applicable. 
+(d) Where no alternative exists to criticality safety restrictions on the 
+use of water for fire suppression, the need for such restrictions 
+must be fully documented with written technical justification. 
+f. Fire Hazard Analyses and Facility Assessments. 
+(1) Fire Hazards Analyses. FHAs, using a graded approach, must be 
+conducted for the following cases:  
+(a) all hazard category 1, 2, and 3 nuclear facilities and major 
+modifications thereto; 
+(b) facilities that represent unique fire safety risks; 
+(c) new facilities or modifications to existing facilities with value 
+greater than $177 million (in 2018 dollars); and  
+(d) when directed by the responsible DOE authority. The FHAs must 
+be: 
+1 performed under the direction of an FPE; 
+2 reviewed every three years by an FPE and revised as 
+appropriate (Note: If no revision is necessary, this result 
+must be documented following the review); 
+3 revised when− 
+a changes to the facility structure or layout, 
+processes, occupancy, safety basis documentation, 
+or BNA impacts the analysis in the FHA; 
+b a modification to an associated facility or process 
+adds a significant new fire safety risk; or, 
+c the periodic (three-year) review identifies the need 
+for changes; and 
+d integrated into safety basis documentation. 
+(2) Facility Assessments. Fire protection assessments must be conducted: 
+(e) annually, or at a frequency with appropriate justification approved 
+by the DOE Head of Field Element, for facilities with a
+
+--- page 28 ---
+Attachment 2  DOE O 420.1C 
+Page II-8 12-4-2012 
+ 
+ 
+replacement value in excess of $118 million (in 2018 dollars), 
+facilities considered a high hazard, or those in which vital 
+programs are involved, as defined by the responsible DOE 
+authority; and, 
+(f) at least every three years, or at a frequency with appropriate 
+justification approved by the DOE Head of Field Element, for 
+remaining low and ordinary hazard facilities. 
+g. Wildland Fire. An integrated site-wide wildland fire management plan, consistent 
+with the Federal Wildland Fire Management Policy, must be developed, provided 
+to DOE Head of Field Element for approval, and implemented in accordance with 
+the relevant portions of the NFPA 1143, Standard for Wildland Fire 
+Management.
+
+--- page 29 ---
+DOE O 420.1C  Attachment 2 
+12-4-2012  Page III-1 
+ 
+ 
+CHAPTER III. NUCLEAR CRITICALITY SAFETY 
+1. OBJECTIVE. To establish requirements for developing and implementing nuclear 
+criticality safety programs (CSPs) for nuclear facilities and activities, including materials 
+transportation activities, which provide adequate protection to the public, workers, and 
+the environment. 
+2. APPLICABILITY. This chapter is applicable to DOE elements and DOE contractors 
+with responsibility for nuclear facilities and activities that involve or will potentially 
+involve radionuclides in such quantities that are equal to or greater than the single 
+parameter limits for fissionable materials listed in ANSI/ANS-8.1-2014, Nuclear 
+Criticality Safety in Operations with Fissionable Materials Outside Reactors, and 
+ANSI/ANS-8.15-2014, Nuclear Criticality Safety Control of Selected Actinide Nuclides. 
+These limits must be adjusted where process conditions could credibly involve 
+moderators or reflectors that are more effective than light water. 
+3. REQUIREMENTS. 
+a. A CSP document must be developed and maintained that describes how the 
+contractor will implement the requirements in this chapter, including the 
+standards invoked by this chapter. 
+b. The CSP document must describe how the contractor will satisfy the requirements 
+of the ANSI/ANS-8 series of nuclear criticality safety standards that are in effect 
+as of the date this Order, unless otherwise modified and approved by the DOE 
+Head of Field Element. The CSP document must include an explanation as to 
+why any recommendation in applicable ANSI/ANS-8 standards is not 
+implemented. 
+c. The CSP document must be submitted to and approved by the DOE Head of Field 
+Element. 
+d. Criticality safety evaluations must be conducted in accordance with 
+DOE-STD-3007-2017, Preparing Criticality Safety Evaluations at DOE 
+Nonreactor Nuclear Facilities, or by other documented methods approved by the 
+DOE Head of Field Element. 
+e. Fissile Material Accumulation Control. Facilities that conduct operations using 
+fissionable material in a form that could inadvertently accumulate in significant 
+quantities must include procedures for detecting and characterizing 
+accumulations. The following national standards provide relevant guidance for 
+procedure development: ASTM C1455-14e1, Standard Test Method for 
+Nondestructive Assay of Special Nuclear Material Holdup Using Gamma-Ray 
+Spectroscopic Methods, and any other nondestructive assay consensus or DOE 
+standards applicable to the measurement technique selected.
+
+--- page 30 ---
+Attachment 2  DOE O 420.1C 
+Page III-2 12-4-2012 
+ 
+ 
+f. Criticality safety evaluations must show that entire processes involving 
+fissionable materials will remain subcritical under normal and credible abnormal 
+conditions, including those initiated by design basis events. 
+g. The criteria and process for developing the guidelines for firefighting in areas 
+within or adjacent to moderator-controlled areas must be coordinated with 
+firefighting pre-incident plans and procedures.
+
+--- page 31 ---
+DOE O 420.1C  Attachment 2 
+12-4-2012  Page IV-1 
+ 
+ 
+CHAPTER IV. NATURAL PHENOMENA HAZARDS MITIGATION 
+1. OBJECTIVE. To establish requirements for DOE facility design, construction, and 
+operations to protect the public, workers, and the environment from the impact of natural 
+phenomena hazards (NPH) events (e.g., earthquake, wind, flood, lightning, snow, and 
+volcanic eruption). 
+2. APPLICABILITY. Requirements in this chapter apply to all government-owned and 
+government-leased nuclear and nonnuclear facilities and sites. Design requirements 
+(Sections 3.a, 3.b, and 3.c, below) apply to new facilities, major modifications, and 
+modifications that may be warranted based on periodic NPH assessment and upgrade 
+requirements. For leased facilities that are not nuclear hazard category 1, 2, or 3 
+facilities, the requirements of this chapter apply to the extent determined by the DOE 
+Head of Field Element. 
+3. REQUIREMENTS. 
+a. General. Facilities must be designed, constructed, maintained, and operated to 
+ensure that SSCs will be able to perform their intended safety functions 
+effectively under the combined effects of NPH and normal loads defined in the 
+applicable building codes contained in facilities’ CORs. Nuclear facility safety 
+functions that the SSCs must perform during and after an NPH event must be 
+defined in the facility’s safety basis documentation. Safety functions include: 
+(1) confinement/containment of hazardous materials; 
+(2) protection of occupants and co-located workers of the facility and the 
+public; 
+(3) continued operation of essential facilities and equipment; 
+(4) safe shutdown of hazardous facilities and equipment; and 
+(5) maintenance of personnel access to areas needed for responding to 
+accidents during NPH events. 
+b. NPH Design Criteria. The design of new facilities and major modifications must 
+be developed in accordance with the applicable requirements and criteria 
+contained in DOE-STD-1020-2016, Natural Phenomena Hazards Analysis and 
+Design Criteria for DOE Facilities. (Note: Requirements for non-nuclear 
+facilities are described in Section 2.2 of DOE-STD-1020-2016.) 
+c. NPH Accident Analysis. The NPH analysis supporting design and construction of 
+facilities and safety SSCs must be documented and include evaluation of: 
+(1) potential damage to and failure of safety SSCs resulting from both direct 
+and indirect NPH events; and,
+
+--- page 32 ---
+Attachment 2  DOE O 420.1C 
+Page IV-2 12-4-2012 
+ 
+ 
+(2) common cause/effect and interactions resulting from failures of other 
+nearby facilities or other SSCs in the same facility caused by or induced 
+by an NPH event. 
+d. Review and Upgrade Requirements for Existing DOE Nuclear Facilities (Hazard 
+Category 1, 2 and 3). 
+(1) Existing facility or site NPH assessments must be reviewed at least once 
+every ten years and whenever significant changes in NPH data, criteria, 
+and assessment methods warrant updating the assessments. Section 9.2 of 
+DOE-STD-1020-2016 contains criteria and guidance for performing these 
+reviews. The review results, along with any recommended update actions, 
+must be submitted to the DOE Head of Field Element for approval. If no 
+update is necessary, this result must be documented following the review. 
+(2) If a new assessment of NPH indicates deficiencies in existing SSC design, 
+a plan for upgrades must be developed and implemented on a prioritized 
+schedule, based on the safety significance of the upgrades, time or funding 
+constraints, and mission requirements. The upgrade plans must also be 
+submitted to the DOE Head of Field Element for approval. Sections 9.3 
+and 9.4 of DOE-STD-1020-2016 contain guidance on performing upgrade 
+evaluations. 
+e. Seismic Detection. DOE sites with nuclear or hazardous materials must have 
+instrumentation or other means to detect and record the occurrence and severity of 
+seismic events. 
+f. Post-Natural Phenomena Procedures. Facilities or sites with hazardous materials 
+must have procedures for inspecting facilities for damage from severe NPH 
+events and placing a facility into a safe configuration when damage has occurred.
+
+--- page 33 ---
+DOE O 420.1C  Attachment 2 
+12-4-2012  Page V-1 
+ 
+ 
+CHAPTER V. COGNIZANT SYSTEM ENGINEER PROGRAM 
+1. OBJECTIVE. To establish requirements for a cognizant system engineer (CSE) program 
+for hazard category 1, 2, and 3 nuclear facilities and to ensure continued operational 
+readiness of the systems within its scope. 
+A key element of the CSE program is the designation of CSEs who are responsible for 
+maintaining overall cognizance of assigned systems; providing systems engineering 
+support for operations and maintenance; and technical support of line management safety 
+responsibilities for ensuring continued system operational readiness. 
+2. APPLICABILITY. Requirements of this chapter apply to all hazard category 1, 2, and 3 
+nuclear facilities that have attained operational status (such as achieving Critical 
+Decision 4 (CD-4) per DOE O 413.3B, Chg. 5, Program and Project Management for 
+the Acquisition of Capital Assets) and have: 
+a. active safety class or safety significant SSCs, as defined in the facility’s 
+DOE-approved safety basis documentation; or 
+b. other active systems that perform important defense-in-depth functions, as 
+designated by facility line management. 
+Note: This chapter does not apply to passive systems or design features. Facility 
+management should consider establishing CSE programs before CD-4 to ensure their 
+stability and operation at CD-4. CSE programs should remain in place as long as the 
+covered systems are credited in the safety basis or designated by facility line 
+management. 
+3. REQUIREMENTS. 
+a. General. The protocols for implementing the site or facility CSE program must be 
+documented, must include the functions, responsibilities, and authorities of CSEs, 
+and must address the following elements: 
+(1) Identification of systems covered by the CSE program and identification 
+of systems assigned for coverage; 
+(2) Configuration management; 
+(3) Support for operations and maintenance; and 
+(4) Training and qualifications of CSEs. 
+b. CSE Program Coverage. 
+(1) The CSE program must be applied to active safety class and safety 
+significant systems, as defined in the facility’s DOE-approved safety
+
+--- page 34 ---
+Attachment 2  DOE O 420.1C 
+Page V-2 12-4-2012 
+ 
+ 
+basis, as well as to other active systems that perform important 
+defense-in-depth functions, as designated by facility line management. 
+The designated systems and the rationale for assignment of CSEs in a 
+graded approach (see below) must be documented. 
+(2) A graded approach must be used in applying the requirements of the CSE 
+program. The program must be tailored to facility hazards and the systems 
+relied upon to prevent or mitigate those hazards, considering: 
+(a) Remaining Facility Lifetime and the Safety Significance of 
+Remaining Operations. Facilities undergoing deactivation or 
+decontamination/decommissioning may undergo frequent changes, 
+modifications, or removal of systems no longer needed to support 
+the safety basis of those operations. CSE programs may require 
+more CSE attention in these operations than during normal 
+operations. After deactivation, or when a facility is in long-term 
+surveillance and maintenance, there may be less need for CSE 
+attention. 
+(b) Safety Importance of the System. Not all systems are equal as 
+measured by the likelihood and consequences of the hazard and the 
+accidents that they prevent or mitigate. The level of system 
+documentation detail in configuration management should be 
+tailored to the importance of the system. 
+(3) A qualified CSE must be assigned to each active system within the scope 
+of the program. Consistent with the graded approach, large, complex, or 
+very important systems may require assignment of more than one CSE. 
+Conversely, a single individual may be assigned to be the CSE for more 
+than one system. 
+c. Configuration Management. 
+(1) A documented configuration management program must be established 
+and implemented that ensures consistency among system requirements and 
+performance criteria, system documentation, and physical configuration of 
+the systems within the scope of the program. DOE-STD-1073-2016, 
+Configuration Management, describes an acceptable methodology for 
+establishing configuration management programs. The configuration 
+management program must address:  
+(a) system design documentation; 
+(b) system assessments; 
+(c) control of maintenance;
+
+--- page 35 ---
+DOE O 420.1C  Attachment 2 
+12-4-2012  Page V-3 
+ 
+ 
+(d) change control; and 
+(e) aging degradation and technical obsolescence. 
+(2) System design documents and supporting documents must be identified 
+and kept current using formal change control and work control processes. 
+DOE-STD-3024-2011, Content of System Design Descriptions, describes 
+an acceptable methodology to achieve this function. Design 
+documentation must include: 
+(a) system requirements and performance criteria essential to 
+performance of the system’s safety functions; 
+(b) the basis for system requirements; and 
+(c) a description of how the current system configuration satisfies the 
+requirements and performance criteria. 
+(3) System assessments must include periodic reviews of system operability, 
+reliability, and material condition. Reviews must assess the system for:  
+(a) the ability to perform design and safety functions; 
+(b) physical configuration as compared to system documentation; and 
+(c) system and component performance in comparison to established 
+performance criteria. 
+(4) System maintenance and repair and modification must be controlled 
+through a formal change control process to ensure that changes are not 
+inadvertently introduced and that required system performance is not 
+compromised. Post maintenance or modification testing must be 
+conducted to confirm continued capability to fulfill system requirements. 
+d. CSE Support for Operations and Maintenance. The CSE must: 
+(1) ensure that system configuration is being managed effectively (see Section 
+3.c. of this Chapter); 
+(2) remain apprised of operational status and ongoing modification activities; 
+(3) assist operations review of key system parameters and evaluate system 
+performance; 
+(4) initiate actions to correct problems; 
+(5) remain cognizant of system-specific maintenance and operations history 
+and industry operating experience, as well as manufacturer and vendor
+
+--- page 36 ---
+Attachment 2  DOE O 420.1C 
+Page V-4 12-4-2012 
+ 
+ 
+recommendations and any product warnings regarding their assigned 
+systems; 
+(6) identify trends from operations and maintenance; 
+(7) provide assistance in determining operability, correcting 
+out-of-specification conditions, and evaluating questionable data; 
+(8) provide or support analysis when the system is suspected of inoperability 
+or degradation; 
+(9) review and concur with design changes, use-as-is, equivalency, and 
+commercial grade dedication determinations; and 
+(10) review, and provide input into the development of, and concur on 
+operating, maintenance, and test procedures related to their assigned 
+systems. 
+e. CSE Qualification Requirements. Qualification requirements for CSEs must be 
+consistent with those defined for Technical Support personnel in DOE O 426.2, 
+Admin. Chg. 1, Personnel Selection, Training, Qualification, and Certification 
+Requirements for DOE Nuclear Facilities (see associated CRD), as applicable. 
+Qualification requirements must include knowledge of: 
+(1) related facility safety bases including safety system functions, safety 
+system performance criteria, and any relationship to SACs; 
+(2) system functional classification and bases; 
+(3) codes and standards applicable to assigned systems; 
+(4) system design, procurement, replacement, and related quality assurance 
+requirements; 
+(5) the existing condition of the systems; 
+(6) related facility operations; and 
+(7) vendor manuals, product warnings, and updates related to assigned 
+systems, available (in print or online).
+
+--- page 37 ---
+DOE O 420.1C  Attachment 3 
+12-4-2012  Page 1 
+ 
+ 
+DESIGN CRITERIA FOR 
+SAFETY STRUCTURES, SYSTEMS, AND COMPONENTS 
+This attachment provides requirements for the design and construction of safety structures, 
+systems, and components (SSCs). 
+1. OBJECTIVE. To establish requirements for the design and construction of safety SSCs, 
+both safety class and safety significant, by identifying an applicable set of industry codes 
+and standards, as well as Department of Energy (DOE) design criteria, standards, and 
+directives. Compliance with these requirements will ensure reliable performance of the 
+safety function of safety SSCs under those conditions and events for which they are 
+intended. 
+2. APPLICABILITY. 
+a. This attachment applies to the design and construction of: 
+(1) new hazard category 1, 2, and 3 nuclear facilities as defined by 10 Code of 
+Federal Regulations (CFR) Part 830, Nuclear Safety Management; and 
+(2) major modifications to hazard category 1, 2, and 3 nuclear facilities, as 
+defined in 10 CFR Part 830, that substantially change the facility safety 
+basis. 
+b. This attachment does not impose requirements on existing facilities, except for 
+major modifications to those facilities. The requirements of this attachment may 
+be used to develop comparisons of existing facilities to the requirements for new 
+facilities. 
+c. This attachment does not apply to nuclear deactivation or decontamination and 
+decommissioning activities at end-of-facility-life, if the safety analysis 
+demonstrates that adequate protection is provided consistent with the 
+requirements of 10 CFR Part 830 through alternate means and it is not 
+cost-beneficial to apply the provisions of this attachment for the limited 
+remaining life of the activity. 
+3. REQUIREMENTS. Safety SSCs must be designed, commensurate with the importance 
+of the safety functions performed, to perform their safety functions when called upon, as 
+determined by the safety analysis.  
+a. General Design Criteria. 
+(1) Conservative Design Margin. Safety SSCs must be designed with 
+appropriate margins of safety, as defined in applicable DOE or industry 
+codes and standards.
+
+--- page 38 ---
+Attachment 3  DOE O 420.1C 
+Page 2  12-4-2012 
+ 
+ 
+(2) System Reliability. 
+(a) The single failure criterion, requirements, and design analysis 
+identified in Institute of Electrical and Electronics Engineers 
+(IEEE) 379-2014, IEEE Standard for Application of the 
+Single-Failure Criterion to Nuclear Power Generating Station 
+Safety Systems, must be applied to safety class SSCs during the 
+design process as the primary method of achieving reliability, 
+unless another applicable standard is approved by DOE in 
+accordance with the process for obtaining DOE review and 
+approval of the applicability of codes and standards as described in 
+DOE-Standard (STD)-1189-2016. ANSI/ANS 58.9-2002 (R2015), 
+Single Failure Criteria for LWR Safety-Related Fluid Systems, 
+may be used in defining the scope of active safety class mechanical 
+SSCs. 
+(b) Safety significant SSCs must be designed to reliably perform all 
+their safety functions. This can be achieved through a number of 
+means, including use of redundant systems/components, increased 
+testing frequency, high reliability components, and diagnostic 
+coverage (e.g., on-line testing; monitoring of component and 
+system performance; and monitoring of various failure modes). 
+DOE-STD-1195-2011, Design of Safety Significant Safety 
+Instrumented Systems Used at DOE Nonreactor Nuclear Facilities, 
+provides an acceptable method for achieving high reliability of 
+safety significant safety instrumented systems. 
+(2) Environmental Qualification. 
+(a) Safety class SSCs must be designed to perform all safety functions 
+with no failure mechanism that could lead to common cause 
+failures under postulated service conditions. The requirements of 
+IEEE 323-2003 (R2008), IEEE Standard for Qualifying Class 1E 
+Equipment for Nuclear Power Generating Stations, must be used 
+to ensure environmental qualifications of safety class SSCs, unless 
+another applicable standard is approved by DOE in accordance 
+with the process for obtaining DOE review and approval of the 
+applicability of codes and standards as described in 
+DOE-STD-1189-2016. 
+(b) Safety significant SSCs located in a harsh environment must be 
+evaluated to establish qualified life. This may be accomplished 
+using manufacturers’ recommendations or other appropriate 
+methods. 
+(3) Safe Failure Modes. The facility design must provide reliable safe 
+conditions and sufficient confinement of hazardous material during and
+
+--- page 39 ---
+DOE O 420.1C  Attachment 3 
+12-4-2012  Page 3 
+ 
+ 
+after all design basis accidents (DBAs). At both the facility- and 
+SSC-level, the design must ensure that most probable modes of failure 
+(e.g., failure to open versus failure to close) will increase the likelihood of 
+a safe condition. 
+(4) Support System and Interface Design. 
+(a) Support SSCs must be designed as safety class or safety significant 
+SSCs if their failures prevent safety SSCs or specific 
+administrative controls (SACs) from performing their safety 
+functions. 
+(a) Interfaces—such as pressure retention boundaries, electrical 
+supply, instrumentation, cooling water, and other support 
+systems—may exist between safety SSCs and non-safety SSCs. 
+These interfaces must be evaluated to identify SSC failures that 
+would prevent safety SSCs from performing their intended safety 
+function. IEEE 384-2008, IEEE Standard Criteria for 
+Independence of Class IE Equipment and Circuits, must be used 
+for physical and electrical separation methods, including the use of 
+separation distance, barriers, electrical isolation devices, or any 
+combination thereof, unless another applicable standard is 
+approved by DOE in accordance with the process for obtaining 
+DOE review and approval of the applicability of codes and 
+standards as described in DOE-STD-1189-2016. This application 
+includes a design to ensure that both direct and indirect impacts of 
+DBAs (e.g., fire, seismic) will not cause failure of safety functions. 
+(5) Protection Against Fire. Safety class systems must be designed with 
+redundancy or other means, such that safety function is maintained for any 
+postulated fire events that credit the safety class systems. 
+(6) Quality Assurance. A quality assurance program must be established that 
+satisfies 10 CFR Part 830, Subpart A, “Quality Assurance Requirements,” 
+and DOE Order (O) 414.1D, Admin. Chg. 1, Quality Assurance, early in 
+the project, such that safety SSCs and their associated support systems are 
+designed, procured, fabricated, erected, and tested to standards and quality 
+requirements commensurate with their importance to safety. 
+b. Specific Design Criteria and Use of National Codes and Standards. The selection 
+and use of an appropriate set of applicable codes and standards establishes design 
+criteria to provide assurance that the SSCs are designed to reliably perform their 
+intended functions. The DOE technical standards and industry codes and 
+standards identified below, which are widely used for nuclear facility design and 
+construction, must be evaluated for applicability.
+
+--- page 40 ---
+Attachment 3  DOE O 420.1C 
+Page 4  12-4-2012 
+ 
+ 
+DOE technical standards and industry codes and standards are considered 
+applicable when they provide relevant design requirements for the safety SSCs 
+that are being designed (i.e., they provide design requirements that are needed to 
+ensure that desired SSC functions are achieved, and these requirements are 
+appropriate for the design materials, configuration, and service conditions). 
+Further, the use of specific codes and standards may be directed by the DOE Head 
+of Field Element. (Note: The stated applicability of industry codes and standards 
+(e.g., for nuclear reactors) should not be used to narrowly interpret relevancy for 
+SSC design.) 
+Before using these codes and standards, their application to specific DOE 
+design(s) must be reviewed. Once a code or standard is identified as applicable, 
+the applicable requirements (i.e., mandatory statements) must be applied in the 
+design. The process for obtaining DOE review and approval of the applicability of 
+codes and standards is described in DOE-STD-1189-2016. 
+The Safety Design Strategy developed in accordance with DOE-STD-1189-2016 
+may be used to specify provisions for relief (exemptions and equivalencies) from 
+identified, applicable design and construction codes and standards. If the Safety 
+Design Strategy is not used to specify relief provisions, the process for obtaining 
+relief (i.e., equivalencies or exemptions) from applicable requirements in 
+applicable DOE technical standards and industry codes and standards is described 
+in Attachment 1 of DOE O 420.1C. (Note: Relief is not necessary for 
+requirements within an applicable industry code or standard where the 
+requirements are not relevant to the design or construction. Relief from Order 
+420.1C requirements, including requirements to follow invoked standards, would 
+still be required to follow Attachment 1, Section 2.a, unless the requirements 
+specifically relate to satisfying DOE technical standards and industry codes and 
+standards that have been identified as applicable.) 
+The set of codes and standards identified below is not meant to be all-inclusive. It 
+is expected that design of SSCs will require selection of additional codes and 
+standards beyond those identified below. For example, unique design features, 
+detailed design considerations, and release of advancements may drive selection 
+of additional codes and standards. Facility designers must identify the complete 
+set of codes and standards necessary to meet the general design criteria identified 
+above (see also Attachment 4 of DOE O 420.1C for additional codes and 
+standards). 
+(1) Structural. Table 1 provides relevant codes and standards. Attachment 2, 
+Chapter IV of DOE O 420.1C provides additional natural phenomena 
+hazards (NPH) design requirements.
+
+--- page 41 ---
+DOE O 420.1C  Attachment 3 
+12-4-2012  Page 5 
+ 
+ 
+Table 1: Codes for Safety Significant and Safety Class Structures 
+Structures  Safety Significant  Safety Class  
+Concrete  
+ACI-318; 
+ACI-349 
+  
+ACI-349  
+Steel  
+ANSI/AISC 360; 
+AISC 325; 
+ANSI/AISC N690  
+ANSI/AISC N690  
+ 
+Note: See DOE-STD-1020-2016, Natural Phenomena Hazards Analysis 
+and Design Criteria for DOE Facilities, for further discussion on 
+selection and use of codes for structural design of SSCs. 
+(2) Mechanical and Process Equipment. Table 2 provides relevant codes and 
+standards. 
+Table 2: Codes for Safety Significant and Safety Class Process Equipment 
+Process 
+Equipment  Safety Significant  Safety Class  
+Pressure vessels  ASME BPVC, Section VIII, Division 1 
+or 2  
+ASME BPVC, Section VIII, Division 1 or 
+2  
+Tanks (0-15 
+psig)  
+API-620; 
+ASME BPVC Section VIII, Division 1 
+or 2  
+API-620; 
+ASME BPVC, Section VIII, Division 1 or 
+2  
+Tanks 
+(containing 
+flammable 
+liquids)  
+API-620; 
+API-650; 
+Applicable NFPA codes and standards  
+API-620; 
+API-650; 
+Applicable NFPA codes and standards  
+Tanks 
+(atmospheric 
+pressure)  
+API-650; 
+AWWA D100  
+API-650; 
+AWWA D100  
+Pumps  
+ASME B73.1, B73.2; 
+ASME BPVC, Section VIII; 
+AWWA D100; 
+Hydraulic Institute Standards, as 
+applicable  
+ASME B73.1, B73.2; 
+ASME BPVC, Section VIII; 
+AWWA D100; 
+Hydraulic Institute Standards, as 
+applicable  
+Piping  ASME B31.3  ASME B31.3  
+Valves  
+ASME B16.5; 
+B31.3; 
+ANSI N278.1  
+ASME B16.5; 
+B31.3; 
+ANSI N278.1  
+Heat 
+Exchangers  
+ASHRAE Handbook; 
+ASME BPVC, Section VIII, Division 1; 
+TEMA B, C, or R  
+ASHRAE Handbook; 
+ASME BPVC, Section VIII, Division 1; 
+TEMA B, C, or R  
+Gloveboxes  ASTM C852; AGS-G006  ASTM C852; AGS-G006
+
+--- page 42 ---
+Attachment 3  DOE O 420.1C 
+Page 6  12-4-2012 
+ 
+ 
+(3) Ventilation. Table 3 provides relevant codes and standards.  
+Appendix A of DOE Guide (G) 420.1-1A, Nonreactor Nuclear Safety 
+Design Criteria for use with DOE O 420.1C, Facility Safety, and 
+DOE-HDBK-1169-2003, Nuclear Air Cleaning Handbook, provide 
+guidance for confinement ventilation systems design and performance 
+criteria. Alternate methods must be approved by DOE Heads of Field 
+Element. 
+Table 3: Codes for Safety Significant and Safety Class Ventilation System Components 
+Ventilation  Safety Significant  Safety Class  
+Ducts  ASME AG-1  ASME AG-1  
+Fans  ASHRAE Handbook; ASME 
+AG-1  
+ASHRAE Handbook; ASME 
+AG-1  
+Filtration  ASME AG-1; 
+DOE-STD-3020-2015  
+ASME AG-1; 
+DOE-STD-3020-2015  
+Balance of system for 
+confinement ventilation  ASME AG-1  ASME AG-1  
+Off-gas treatment  ASME AG-1  ASME AG-1  
+ 
+(4) Mechanical Handling Equipment. Table 4 provides relevant codes and 
+standards. 
+Table 4: Codes for Safety Significant and Safety Class Handling Equipment  
+Handling 
+Equipment  Safety Significant  Safety Class  
+Cranes  
+Applicable CMAA standards; 
+ASME NOG-1; 
+ASME NUM-1; 
+ASME B30.2; 
+DOE-STD-1090-2011  
+Applicable CMAA standards; 
+ASME NOG-1; 
+ASME NUM-1; 
+ASME B30.2; 
+DOE-STD-1090-2011  
+Other equipment  ASME B30 Series: 
+DOE-STD-1090-2011  
+ASME B30 Series; DOE-STD-1090-2011  
+ 
+(5) Electrical. Tables 5 and 6 provide relevant codes and standards. 
+Note: ANSI/IEEE standards, below, define requirements for the 
+manufacturing, installation, and testing of commercial reactor 
+Safety-Class 1E electrical systems and components. While these 
+requirements may not be directly applicable to nonreactor nuclear 
+facilities, these standards contain useful and significant information that 
+should be considered.
+
+--- page 43 ---
+DOE O 420.1C  Attachment 3 
+12-4-2012  Page 7 
+ 
+ 
+Table 5: Codes for Safety Significant and Safety Class Electrical Systems 
+Electrical  Safety Significant  Safety Class  
+Hardware  
+Applicable NFPA codes and standards; 
+IES HB-10; 
+IEEE C2, C37; 
+IEEE-80, -141, -142, -242, -399, -446 
+493, -577  
+Applicable NFPA codes and standards; 
+IES HB-10; 
+IEEE C2, C37; 
+IEEE-80, -141, -142, -242, -308, -338, -379 
+, -384, -399, -493, -577  
+ 
+Table 6: IEEE Standards used for Both Safety Significant  
+and Safety Class Electrical Systems, as appropriate 
+Electrical  Safety Significant and Safety Class  
+Guidance standards for use as applicable for specific 
+hardware  
+IEEE-323, -334, -336, -344, -352 -382, -383, -387, 
+-420, -450, -484, -493, -535, -603, -627, -628, -649 
+, -650, -833, -946  
+ 
+(6) Instrumentation, Control, and Alarm Systems. The design of safety class 
+instrumentation and control systems must incorporate sufficient 
+independence, redundancy, diversity, and separation to ensure that all 
+safety-related functions associated with such equipment can be performed. 
+Safety significant components must be evaluated as to the need for 
+redundancy on a case-by-case basis. DOE-STD-1195-2011 provides an 
+acceptable method for achieving high reliability of safety significant 
+safety instrumented systems. 
+Table 7 provides relevant codes and standards. The codes and standards 
+for electrical systems (in Tables 5 and 6) may also be applicable to design 
+of instrumentation and control systems and need to be evaluated in this 
+context. 
+Table 7: Codes for Safety Significant and Safety Class Instrumentation, 
+Control, and Alarm Components.  
+Instruments, 
+Controls, and Alarms Safety Significant Safety Class 
+Hardware  
+Applicable NFPA codes and 
+standards; 
+ANSI/ANS-8.3, 
+-58.8, 
+-N13.1, 
+-N323D; 
+ANSI/ISA-Series including ISA 
+67.04.01 and ISA TR 84.00.06; 
+IEEE-C2, 
+-N42.18, 
+-1023,  
+Applicable NFPA codes and standards; 
+ANSI/ANS-8.3, 
+58.8, 
+-N13.1, 
+ANSI-N323D; 
+ANSI/ISA-Series including ISA 67.04.01 
+and ISA TR 84.00.06; 
+IEEE-C2, 
+-N42.18, 
+-603,
+
+--- page 44 ---
+Attachment 3  DOE O 420.1C 
+Page 8  12-4-2012 
+ 
+ 
+Instruments, 
+Controls, and 
+Alarms  
+Safety Significant  
+ 
+Safety Class  
+ -1050; 
+-7-4.3.2; and 
+DOE-STD-1195-2011  
+-1023, -1050, 
+-7-4.3.2  
+ 
+ 
+(7) Fire Protection Systems. DOE-STD-1066-2016, Fire Protection, provides 
+acceptable methods for the design of fire protection systems. Design 
+requirements for safety class and safety significant fire barriers, water 
+supplies, and wet pipe sprinkler systems are provided in Appendix A of 
+DOE-STD-1066-2016. Fire protection system designs are also required to 
+address the applicable design requirements for similar safety systems 
+provided in this attachment. 
+c. Nuclear Reactor Safety Design Criteria. Nuclear reactors are an important class of 
+DOE facilities that require special attention to design criteria and standards to 
+ensure safe design and operations. 
+(1) The Code of Record for existing DOE nuclear reactors has been 
+established by their designs. When a major modification is made to an 
+existing reactor, the existing Code of Record is the starting point for the 
+design of the major modification, and a design upgrade analysis is 
+required in accordance with DOE-STD-1189-2016 to evaluate the 
+application of nuclear safety design criteria and requirements. This design 
+upgrade analysis may identify updated nuclear reactor safety design 
+criteria and updated codes and standards to be applied to the major 
+modification. 
+(2) For any new DOE nuclear reactor, a set of reactor-specific safety design 
+criteria and a set of reactor design codes and standards must be established 
+in accordance with the Safety Design Strategy required by 
+DOE-STD-1189-2016. Existing industry codes and standards should be 
+used to the extent possible.
+
+--- page 45 ---
+DOE O 420.1C  Attachment 4 
+12-4-2012  Page 1 
+ 
+ 
+REFERENCES AND ACRONYMS 
+1. REFERENCES. The following reference documents and information sources are cited to 
+assist in implementing this Order. This attachment does not provide a complete listing of 
+industry codes and standards that may be needed.  
+a. Public Law (Pub. L.). 
+(1) Pub. L. 83-703, Atomic Energy Act of 1954, as amended. 
+(2) Pub. L. 94-580, Resource Conservation and Recovery Act of 1976 
+(RCRA), as amended. 
+(3) Pub. L. 106-65, National Defense Authorization Act for Fiscal Year 2000, 
+as amended. 
+b. Executive Orders (E.O.) and Federal Policies. 
+(1) E.O. 12344, Naval Nuclear Propulsion Program, 02-01-1982. 
+(2) Federal Wildland Fire Management Policy, National Interagency Fire 
+Center, 1995 (R 2001). 
+(3) Secretarial Delegation Order Number 00-033.00C, 08-12-2016. 
+c. Code of Federal Regulations (CFR). 
+(1) 10 CFR Part 830, Nuclear Safety Management. 
+(2) 10 CFR Part 835, Occupational Radiation Protection. 
+(3) 10 CFR Part 851, Worker Safety and Health Program. 
+(4) 29 CFR Part 1910, Occupational Safety and Health Standards. 
+(5) 29 CFR Part 1926, Safety and Health Regulations for Construction. 
+(6) 48 CFR Part 970, Section 970.5223-1, “Integration of Environment, 
+Safety, and Health into Work Planning and Execution.” 
+d. DOE Directives. 
+(1) DOE P 420.1, Department of Energy Nuclear Safety Policy, 02-08-11. 
+(2) DOE O 151.1D, Comprehensive Emergency Management System, 
+8-11-16.
+
+--- page 46 ---
+Attachment 4  DOE O 420.1C 
+Page 2  12-4-2012 
+ 
+ 
+(3) DOE O 226.1B, Implementation of Department of Energy Oversight 
+Policy, 04-25-11. 
+(4) DOE O 227.1A, Independent Oversight Program, 12-21-15. 
+(5) DOE O 251.1D, Departmental Directives Program, 01-17-17. 
+(6) DOE O 410.1, Central Technical Authority Responsibilities Regarding 
+Nuclear Safety Requirements, 08-28-07. 
+(7) DOE O 413.3B Chg. 5, Program and Project Management for the 
+Acquisition of Capital Assets, 04-12-18. 
+(8) DOE O 414.1D, Admin. Chg. 1, Quality Assurance, 05-08-13. 
+(9) DOE O 420.2C, Safety of Accelerator Facilities, 07-21-11. 
+(10) DOE O 426.2 Admin. Chg. 1, Personnel Selection, Training, 
+Qualification, and Certification Requirements for DOE Nuclear Facilities, 
+07-29-13. 
+(11) DOE O 433.1B Chg. 1, Maintenance Management Program for DOE 
+Nuclear Facilities, 03-12-13. 
+(12) DOE O 435.1 Chg. 1, Radioactive Waste Management, 01-09-07. 
+(13) DOE O 450.2, Integrated Safety Management, 04-25-11. 
+(14) DOE O 452.1E, Nuclear Explosive and Weapon Surety Program, 
+01-26-15. 
+(15) DOE O 452.2E, Nuclear Explosive Safety, 01-26-15. 
+(16) DOE M 435.1-1 Chg. 2, Radioactive Waste Management Manual, 
+06-08-11. 
+(17) DOE G 413.3-21 Chg. 1, Cost Estimating Guide, 10-22-15. 
+(18) DOE G 414.1-2B Chg. 2, Quality Assurance Program Guide, 05-08-13. 
+(19) DOE G 414.1-4, Safety Software Guide for use with 10 C.F.R 830 Subpart 
+A, Quality Assurance Requirements, and DOE O 414.1C, Quality 
+Assurance, 11-03-10. 
+(20) DOE G 420.1-1A, Nonreactor Nuclear Safety Design Criteria for Use 
+with DOE O 420.1C, Facility Safety, 12-04-12.
+
+--- page 47 ---
+DOE O 420.1C  Attachment 4 
+12-4-2012  Page 3 
+ 
+ 
+e. DOE Technical Standards (STDs). 
+(1) DOE-STD-1020-2016, Natural Phenomena Hazards Analysis and Design 
+Criteria for DOE Facilities. 
+(2) DOE-STD-1027-1992, Chg. 1, Hazard Categorization and Accident 
+Analysis Techniques for Compliance with DOE Order 5480.23, Nuclear 
+Safety Analysis Reports, September 1997. 
+(3) DOE-STD-1066-2016, Fire Protection. 
+(4) DOE-STD-1073-2016, Configuration Management. 
+(5) DOE-STD-1090-2011, Hoisting and Rigging. (Formerly Hoisting and 
+Rigging Manual). 
+(6) DOE-STD-1098-2008, Radiological Control. 
+(7) DOE-STD-1104-2016, Review and Approval of Nuclear Facility Safety 
+Basis and Safety Design Basis Documents. 
+(8) DOE-STD-1128-2013, Guide of Good Practices for Occupational 
+Radiological Protection in Plutonium Facilities. 
+(9) DOE-STD-1158-2010, Self-Assessment Standard for DOE Contractor 
+Criticality Safety Programs. 
+(10) DOE-STD-1186-2016, Specific Administrative Controls. 
+(11) DOE-STD-1189-2016, Integration of Safety into the Design Process. 
+(12) DOE-STD-1195-2011, Design of Safety Significant Safety Instrumented 
+Systems Used at DOE Nonreactor Nuclear Facilities. 
+(13) DOE-STD-1212-2012, Explosives Safety. 
+(14) DOE-STD-1628-2013, Development of Probabilistic Risk Assessments for 
+Nuclear Safety Applications. 
+(15) DOE-STD-3007-2017, Preparing Criticality Safety Evaluations at DOE 
+Nonreactor Nuclear Facilities. 
+(16) DOE-STD-3009-94, Preparation Guide for U.S. Department of Energy 
+Nonreactor Nuclear Facility Documented Safety Analyses, Chg. Notice 3, 
+March 2006. 
+(17) DOE-STD-3009-2014, Preparation of Nonreactor Nuclear Facility 
+Documented Safety Analysis.
+
+--- page 48 ---
+Attachment 4  DOE O 420.1C 
+Page 4  12-4-2012 
+ 
+ 
+(18) DOE-STD-3020-2015, Specifications for HEPA Filters Used by DOE 
+Contractors. 
+(19) DOE-STD-3024-2011, Content of System Design Descriptions. 
+f. DOE Handbooks (HDBKs). 
+(1) DOE-HDBK-1132-1999, Design Considerations. 
+(2) DOE-HDBK-1163-2003, Integration of Multiple Hazard Analysis 
+Requirements and Activities. 
+(3) DOE-HDBK-1169-2003, Nuclear Air Cleaning Handbook. 
+g. Department of Defense. 
+MIL-STD-1472F, Department of Defense Design Criteria Standard: Human 
+Engineering, August 1999. 
+h. American Concrete Institute (ACI). 
+ACI 349-06, Code Requirements for Nuclear Safety-Related Concrete Structures 
+(ACI 349-06) and Commentary, 2006. 
+e. American Conference of Governmental Industrial Hygienists (ACGIH). 
+ACGIH 2096, Industrial Ventilation: A Manual of Recommended Practices for 
+Design, January 2010. 
+f. American Glovebox Society (AGS). 
+AGS-G006-2005, Standard of Practice for the Design and Fabrication of Nuclear 
+Application Gloveboxes, 2005. 
+i. American National Standards Institute (ANSI). 
+(1) ANSI N13.1-2011, Guide to Sampling and Monitoring Releases of 
+Airborne Radioactive Substances from the Stacks and Ducts of Nuclear 
+Facilities, 2011. 
+(2) ANSI N43.2-2001 (R2010), Radiation Safety for X-ray Diffraction and 
+Fluorescence Analysis Equipment, 2001. 
+(3) ANSI N278.1-1975 (R1992), Self-Operated and Power-Operated 
+Safety-Related Valves Functional Specification Standard, 1975. 
+(4) ANSI N323D-2002, American National Standard for Installed Radiation 
+Protection Instrumentation, 2002.
+
+--- page 49 ---
+DOE O 420.1C  Attachment 4 
+12-4-2012  Page 5 
+ 
+ 
+(5) ANSI/AIHA Z9.2-2012, Fundamentals Governing the Design and 
+Operation of Local Exhaust Ventilation Systems, 2012. 
+(6) ANSI Z358.1-2009, American National Standard for Emergency Eyewash 
+and Shower Equipment, 2009. 
+j. American National Standards Institute/American Institute of Steel Construction 
+(AISC). 
+(1) AISC 325:2011, Steel Construction Manual, 2011. 
+(2) ANSI/AISC 360:10, Specification for Structural Steel Buildings, 2010. 
+(3) ANSI/AISC N690-12, Specification for Safety-Related Steel Structures for 
+Nuclear Facilities, 2012. 
+k. American National Standards Institute/American Nuclear Society (ANS). 
+(1) ANSI/ANS-1-2000 (R2007) (R2012), Conduct of Critical Experiments, 
+2000. 
+(2) ANSI/ANS-6.4.2-2006, Specification for Radiation Shielding Materials, 
+2006. 
+(3) ANSI/ANS-8 Series Standards. 
+(4) ANSI/ANS-8.1-2014, Nuclear Criticality Safety in Operations with 
+Fissionable Materials Outside Reactors, 2014. 
+(5) ANSI/ANS-8.3-1997 (R2003) (R2012), Criticality Accident Alarm 
+System, 1997. 
+(6) ANSI/ANS-8.15-2014, Nuclear Criticality Safety Control of Selected 
+Actinide Nuclides, 2014. 
+(7) ANSI/ANS-14.1-2004 (R2009) (R2014), Operation of Fast Pulse 
+Reactors, 2004. 
+(8) ANSI/ANS-58.8-1994 (R2001) (R2008), Time Response Design Criteria 
+for Safety-Related Operator Actions, 1994. 
+(9) ANSI/ANS-58.9-2002 (R2015), Single Failure Criteria for LWR 
+Safety-Related Fluid Systems, 1981. 
+l. American National Standards Institute/International Society of Automation (ISA). 
+(1) ANSI/ISA 7.0.01-1996, Quality Standard for Instrument Air, 1996.
+
+--- page 50 ---
+Attachment 4  DOE O 420.1C 
+Page 6  12-4-2012 
+ 
+ 
+(2) ANSI/ISA 18.1-1979 (R2004), Annunciator Sequences and Specifications, 
+1979. 
+(3) ANSI/ISA 67.01.01-2002 (R2007), Transducer and Transmitter 
+Installation for Nuclear Safety Applications, 2002. 
+(4) ANSI/ISA S67.02.01-1999, Nuclear-Safety-Related Instrument Sensing 
+Line Piping and Tubing Standard for Use in Nuclear Power Plants, 1999. 
+(5) ANSI/ISA 67.04.01-2006 (R2011), Setpoints for Nuclear Safety-Related 
+Instrumentation, 2006. 
+m. American Petroleum Institute (API). 
+(1) API-620, Design and Construction of Large, Welded, Low-Pressure 
+Storage Tanks, 2013. 
+(2) API-650, Welded Tanks for Oil Storage, 2013. 
+n. American Society of Heating, Refrigerating and Air Conditioning Engineers 
+(ASHRAE). 
+(1) ASHRAE Handbook, Fundamentals (Inch-Pound Edition), 2013. 
+(2) ASHRAE Standard 62.1-2010, Ventilation for Acceptable Indoor Air 
+Quality, 2010. 
+o. American Society of Mechanical Engineers (ASME). 
+(1) ASME AG-1-2015, Code on Nuclear Air and Gas Treatment, 2015. 
+(2) ASME BPVC, Boiler and Pressure Vessel Code, 2015. 
+(3) ASME B16.5-2013, Pipe Flanges and Flanged Fittings: NPS ½ through 
+NPS 24 Metric/Inch Standard, 2013. 
+(4) ASME B30.2-2011, Overhead and Gantry Cranes (Top Running Bridge, 
+Single or Multiple Girder, Top Running Trolley Hoist), 2011. 
+(5) ASME B31.3-2014, Process Piping, 2014. 
+(6) ASME B73.1-2012, Specification for Horizontal End Suction Centrifugal 
+Pumps for Chemical Process, 2012. 
+(7) ASME B73.2-2003 (R2009), Specifications for Vertical In-Line 
+Centrifugal Pumps for Chemical Process, 2003.
+
+--- page 51 ---
+DOE O 420.1C  Attachment 4 
+12-4-2012  Page 7 
+ 
+ 
+(8) ASME NOG-1-2010, Rules for Construction of Overhead and Gantry 
+Cranes (Top Running Bridge, Multiple Girder), 2010. 
+(9) ASME NUM-1-2009, Rules for Construction of Cranes, Monorails, and 
+Hoists (with Bridge or Trolley or Hoist of the Underhung Type), 2009. 
+(10) ASME NQA-1-2012, Quality Assurance Requirements for Nuclear 
+Facility Applications, 2013. 
+p. ASTM International. 
+(1) ASTM C852-09, Standard Guide for Design Criteria for Plutonium 
+Gloveboxes, 2009. 
+(2) ASTM C1455-14e1, Standard Test Method for Nondestructive Assay of 
+Special Nuclear Material Holdup Using Gamma-Ray Spectroscopic 
+Methods, 2014. 
+g. American Water Works Association (AWWA). 
+AWWA D100-11, Welded Carbon Steel Tanks for Water Storage, 2011. 
+h. Crane Manufacturers Association of America (CMAA). 
+CMAA Standards, as applicable. 
+i. Defense Nuclear Facilities Safety Board (DNFSB). 
+DNFSB Recommendation 2004-2, Active Confinement Systems. 
+j. Hydraulic Institute Standards. 
+Hydraulic Institute Standards, as applicable. 
+k. Illuminating Engineering Society (IES). 
+IES HB-10-11, IES Lighting Handbook, 2011. 
+l. Institute of Electrical and Electronics Engineers (IEEE)/International 
+Electrotechnical Commission (IEC). 
+(3) IEEE C2-2017, National Electrical Safety Code, 2017. 
+(4) IEEE C37 Standards Collection, Power Switchgears, Substations, and 
+Relays, Standards on switchgear as applicable, 2010.
+
+--- page 52 ---
+Attachment 4  DOE O 420.1C 
+Page 8  12-4-2012 
+ 
+ 
+(5) IEEE N42.18-2004, American National Standard Specification and 
+Performance of On-Site Instrumentation for Continuously Monitoring 
+Radioactivity in Effluents, 2004. 
+(6) IEEE N323D-2002, American National Standard to Installed Radiation 
+Protection Instrumentation, 2003. 
+(7) IEEE 7-4.3.2-2016, IEEE Standard Criteria for Programmable Digital 
+Devices in Safety Systems of Nuclear Power Generating Stations, 2016. 
+(8) IEEE 80-2013, IEEE Guide for Safety in AC Substation Grounding, 2013. 
+(9) IEEE 141-1993 (R1999), IEEE Recommended Practice for Electric Power 
+Distribution for Industrial Plants, 1993. 
+(10) IEEE 142-2007, IEEE Recommended Practice for Grounding of Industrial 
+and Commercial Power Systems, 2007. 
+(11) IEEE 242-2001, IEEE Recommended Practice for Protection and 
+Coordination of Industrial and Commercial Power Systems (IEEE Buff 
+Book), 2001. 
+(12) IEEE 308-2012, IEEE Standard Criteria for Class 1E Power Systems for 
+Nuclear Power Generating Stations, 2012. 
+(13) IEEE 323-2003 (R2008), IEEE Standard for Qualifying Class 1E 
+Equipment for Nuclear Power Generating Stations, 2003. 
+(14) IEEE 334-2006 (R2012), IEEE Standard for Qualifying Continuous Duty 
+Class 1E Motors for Nuclear Power Generating Stations, 2006. 
+(15) IEEE 336-2010, IEEE Recommended Practice for Installation, Inspection, 
+and Testing for Class 1E Power, Instrumentation, and Control Equipment 
+at Nuclear Facilities, 2010. 
+(16) IEEE 338-2012, IEEE Standard for Criteria for the Periodic Surveillance 
+Testing of Nuclear Power Generating Station Safety, 2012. 
+(17) IEEE 344-2013, IEEE Standard for Seismic Qualification of Equipment 
+for Nuclear Power Generating Stations, 2013. 
+(18) IEEE 352-1987, IEEE Guide for General Principles of Reliability Analysis 
+of Nuclear Power Generating Station Safety Systems, 1987. 
+(19) IEEE 379-2014, IEEE Standard for Application of the Single-Failure 
+Criterion to Nuclear Power Generating Station Safety Systems, 2014.
+
+--- page 53 ---
+DOE O 420.1C  Attachment 4 
+12-4-2012  Page 9 
+ 
+ 
+(20) IEEE 382-2006, IEEE Standard for Qualification of Safety-Related 
+Actuators for Nuclear Power Generating Stations, 2006. 
+(21) IEEE 383-2015, IEEE Standard for Qualifying Electric Cables and 
+Splices for Nuclear Facilities, 2015. 
+(22) IEEE 384-2008, IEEE Standard Criteria for Independence of Class 1E 
+Equipment and Circuits, 2008. 
+(23) IEEE 387-1995 (R2007), IEEE Standard Criteria for Diesel Generator 
+Units Applied as Standby Power Supplies for Nuclear Power Generation 
+Stations, 1995. 
+(24) IEEE 399-1997, IEEE Recommended Practice for Industrial and 
+Commercial Power Systems Analysis (IEEE Brown Book), 1997. 
+(25) IEEE 420-2013, IEEE Standard for the Design and Qualification of Class 
+1E Control Boards, Panels, and Racks Used in Nuclear Power Generating 
+Stations, 2013. 
+(26) IEEE 446-1995 (R2000), IEEE Recommended Practice for Emergency 
+and Standby Power Systems for Industrial and Commercial Applications, 
+1995. 
+(27) IEEE 450-2010, IEEE Recommended Practice for Maintenance, Testing, 
+and Replacement of Vented Lead-Acid Batteries for Stationary 
+Applications, 2010. 
+(28) IEEE 484-2002, IEEE Recommended Practice for Installation Design and 
+Installation of Vented Lead-Acid Batteries for Stationary Applications, 
+2002. 
+(29) IEEE 493-2007, IEEE Recommended Practice for the Design of Reliable 
+Industrial and Commercial Power Systems, 2007. 
+(30) IEEE 535-2013, IEEE Standard for Qualification of Class 1E Vented Lead 
+Acid Storage Batteries for Nuclear Power Generating Stations, 2013. 
+(31) IEEE 577-2012, IEEE Standard Requirements for Reliability Analysis in 
+the Design and Operation of Safety Systems for Nuclear Power 
+Generating Stations, 2012. 
+(32) IEEE 603-2009, IEEE Standard Criteria for Safety Systems for Nuclear 
+Power Generating Stations, 2009. 
+(33) IEEE 627-2010, IEEE Standard for Qualification of Equipment Used in 
+Nuclear Facilities, 2010.
+
+--- page 54 ---
+Attachment 4  DOE O 420.1C 
+Page 10  12-4-2012 
+ 
+ 
+(34) IEEE 628-2011, IEEE Standard Criteria for the Design, Installation, and 
+Qualification of Raceway Systems for Class 1E Circuits for Nuclear 
+Power Generating Stations, 2011. 
+(35) IEEE 649-2006 (R2011), IEEE Standard for Qualifying Class 1E Motor 
+Control Centers for Nuclear Power Generating Stations, 2006. 
+(36) IEEE 650-2006, IEEE Standard for Qualification of Class 1E Static 
+Battery Chargers and Inverters for Nuclear Power Generating Stations, 
+2006. 
+(37) IEEE 833-2005 (R2011), IEEE Recommended Practice for the Protection 
+of Electric Equipment in Nuclear Power Generating Stations from Water 
+Hazards, 2005. 
+(38) IEEE 946-2004, IEEE Recommended Practice for the Design of DC 
+Auxiliary Power Systems for Generating Systems, 2004. 
+(39) IEEE 1023-2004 (R2010), IEEE Recommended Practice for the 
+Application of Human Factors Engineering to Systems, Equipment, and 
+Facilities of Nuclear Power Generating Stations and other Nuclear 
+Facilities, 2004. 
+(40) IEEE 1050-2004, IEEE Guide for Instrumentation and Control Equipment 
+Grounding in Generating Stations, 2004. 
+m. International Code Council (ICC). 
+ICC, International Building Code, 2015. 
+n. International Society of Automation (ISA). 
+ISA-TR84.00.06, Safety Fieldbus Design Considerations for Process Industry 
+Sector Applications, 2009. 
+o. National Council on Radiation Protection and Measurements (NCRP). 
+NCRP Report 49, “Structural Shielding Design and Evaluation for Medical Use 
+of X Rays and Gamma Rays of Energies Up to 10 MeV,” 1976.  
+q. National Fire Protection Association (NFPA). 
+(1) NFPA 30, Flammable and Combustible Liquids Code, 2015. 
+(2) NFPA 70, National Electric Code, 2017. 
+(3) NFPA 72, National Fire Alarm and Signaling Code, 2016.
+
+--- page 55 ---
+DOE O 420.1C  Attachment 4 
+12-4-2012  Page 11 (and Page 12) 
+ 
+ 
+(4) NFPA 101, Life Safety Code, 2015. 
+(5) NFPA 110, Standard for Emergency and Standby Power Systems, 2016. 
+(6) NFPA 780, Standard for the Installation of Lightning Protection Systems, 
+2017. 
+(7) NFPA 1143, Standard for Wildland Fire Management, 2014.  
+r. Nuclear Regulatory Commission (NRC). 
+NUREG-0700, Human-System Interface Design Review Guidelines, 2002.  
+s. Tubular Exchanger Manufacturers Association (TEMA). 
+TEMA, 9th Edition TEMA Standards: Standards on Heat Exchangers Classes B, C, 
+and R. Appendix F, Concluding Material. New York, 2007.
+
+--- page 56 ---
+
+
+--- page 57 ---
+DOE O 420.1C  Attachment 4 
+12-4-2012  Page 13 (and Page 14) 
+ 
+ 
+ACRONYMS. 
+AHJ  Authority Having Jurisdiction 
+ANS  American Nuclear Society 
+ANSI  American National Standards Institute 
+BNA  Baseline Needs Assessment 
+CD  Critical Decision 
+CFR  Code of Federal Regulations 
+COR  Code of Record 
+CRD  Contractor Requirements Document 
+CSE  Cognizant System Engineer 
+CSP  Criticality Safety Program 
+DBA  Design Basis Accident 
+DOE  Department of Energy 
+DSA  Documented Safety Analysis 
+FHA  Fire Hazards Analysis 
+FPE  Fire Protection Engineer 
+G  Guide 
+IBC  International Building Code 
+IEEE  Institute of Electrical and Electronics Engineers 
+M  Manual 
+MPFL  Maximum Possible Fire Loss 
+NFPA  National Fire Protection Association 
+NPH  Natural Phenomena Hazards 
+O Order 
+P Policy 
+SAC  Specific Administrative Controls 
+SSC  Structures, Systems, and Components 
+STD  Standard

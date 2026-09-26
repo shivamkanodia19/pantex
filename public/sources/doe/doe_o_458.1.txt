@@ -1,0 +1,2801 @@
+--- page 1 ---
+AVAILABLEONLINE AT:   INITIATED BY: 
+www.directives.doe.gov    Office of Human Environment, Safety, Health, and Security 
+ 
+U.S. Department of Energy ORDER  
+ Washington, DC 
+ 
+Approved: 02-11-2011 
+Chg 1 (AdminChg): 03-08-2011 
+Chg 2 (AdminChg): 06-06-2011 
+Chg 3 (AdminChg): 1-15-2013 
+Chg 4 (LtdChg): 9-15-2020 
+Chg 5 (AdminChg): 01-30-2025 
+ 
+SUBJECT: RADIATION PROTECTION OF THE PUBLIC AND THE ENVIRONMENT 
+1. PURPOSE. 
+a. To establish requirements to protect the public and the environment against undue 
+risk from radiation associated with radiological activities conducted under the 
+control of the Department of Energy (DOE) pursuant to the Atomic Energy Act of 
+1954, as amended (AEA). 
+b. The objectives of this Order are: 
+(1) To conduct DOE radiological activities so that exposure to members of the 
+public is maintained within the dose limits established in this Order; 
+(2) To control the radiological clearance of DOE real and personal property; 
+(3) To ensure that potential radiation exposures to members of the public are 
+as low as is reasonably achievable; 
+(4) To ensure that DOE sites have the capabilities, consistent with the types of 
+radiological activities conducted, to monitor routine and non-routine 
+radiological releases and to assess the radiation dose to members of the 
+public; and 
+(5) To provide protection of the environment from the effects of radiation and 
+radioactive material. 
+2. CANCELLATION. DOE Order 458.1 Chg 4 (LtdChg), Radiation Protection of the 
+Public and the Environment, dated 9-15-2020. Cancellation of a directive, does not, by 
+itself, modify or otherwise affect any contractual or regulatory obligation to comply with 
+the directive. Contractor Requirements Documents (CRDs) that have been incorporated 
+into a contract remain in effect unless and until the contract is modified to either 
+eliminate requirements that are no longer applicable or substitute a new set of 
+requirements.
+DOE O 458.1
+
+--- page 2 ---
+2 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+3. APPLICABILITY.  
+a. Departmental Applicability.  
+(1) This Order applies to all Departmental elements that are responsible for, or 
+provide support for, the management and operation of DOE sites 
+conducting radiological activities or management of DOE radioactive 
+material or property that can result in exposures of the public to radiation 
+or radioactive material. 
+(2) The Administrator of the National Nuclear Security Administration 
+(NNSA) must assure that NNSA employees and contractors comply with 
+their respective responsibilities under this Directive. Nothing in this Order 
+will be construed to interfere with the NNSA Administrator’s authority 
+under section 3212(d) of Public Law (P.L.) 106-65 to establish 
+Administration-specific policies, unless disapproved by the Secretary. 
+b. DOE Contractors. 
+(1) Except for the equivalencies/exclusions in paragraph 3.c., the Contractor 
+Requirements Document (CRD) sets forth requirements of this Order that 
+will apply to contracts that include the CRD. 
+(2) The CRD must be included in contracts under which the contractor 
+manages or conducts radiological activities at DOE sites. 
+c. Equivalencies/Exemptions for DOE O 458.1. Equivalencies and Exemptions are 
+granted consistent with the provisions of DOE O 251.1, Departmental Directives 
+Program, current version. Central Technical Authority (or designee) concurrence 
+is required for both exemptions and equivalencies to this Order for nuclear 
+facilities. 
+(1) Equivalency. Activities regulated by the Nuclear Regulatory Commission 
+(NRC) or regulated by an NRC Agreement State under NRC AEA 
+delegated authorities. 
+(2) Equivalency. In accordance with the responsibilities and authorities 
+assigned by Executive Order 12344, codified at 50 USC sections 2406 and 
+2511, and to ensure consistency through the joint Navy/DOE Naval 
+Nuclear Propulsion Program, the Deputy Administrator for Naval 
+Reactors (Director) will implement and oversee requirements and 
+practices pertaining to this Directive for activities under the Director’s 
+cognizance, as deemed appropriate.  
+(3) Exemption. This Order does not apply to the Bonneville Power 
+Administration (BPA), in accordance with Secretarial Delegation Order
+
+--- page 3 ---
+DOE O 458.1 3 
+2-11-2011  
+ 
+ 
+Number 00-033.00B to the BPA Administrator and Chief Executive 
+Officer, dated 7-20-09.  
+4. REQUIREMENTS. 
+a. Environmental Radiological Protection Program. 
+(1) DOE must ensure that:  
+(a) DOE or DOE contractors operating sites or implementing projects, 
+involving radiological activities that can affect the public or 
+environment, establish and maintain a program that complies with 
+applicable requirements of this Order. 
+(b) The program, which is the composite of plans, procedures, 
+protocols and other documents describing the methods used to 
+achieve compliance, must be tailored to the hazard or risk and 
+particular radiological activities being conducted at the site and 
+relevant requirements of this Order. 
+(c) For any determination that a requirement of this Order is not 
+relevant, the basis for that determination is appropriate to the 
+hazard and adequately documented. 
+(2) DOE must document directions to the contractor necessary to correct any 
+potential inadequacies or inappropriate determinations of relevancy.  
+(3) DOE must ensure that long-term stewardship and institutional controls for 
+protection of the public and environment determined necessary to meet the 
+requirements of this Order are adequately documented and implemented 
+as long as is necessary. 
+b. Public Dose Limit. 
+(1) DOE radiological activities, including remedial actions and activities 
+using Technologically Enhanced Naturally Occurring Radioactive 
+Material (TENORM), must be conducted so that exposure of members of 
+the public to ionizing radiation will:  
+(a) Not cause a total effective dose (TED) exceeding 100 mrem 
+(1mSv) in a year, an equivalent dose to the lens of the eye 
+exceeding 1500 mrem (15 mSv) in a year, or an equivalent dose to 
+the skin or extremities exceeding 5000 mrem (50 mSv) in a year, 
+from all sources of ionizing radiation and exposure pathways that 
+could contribute significantly to the total dose excepting: 
+1 Dose from radon and its decay products in air [Radon is 
+regulated separately e.g., under Paragraphs 4.f. and
+
+--- page 4 ---
+4 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+4.h.(1)(d) in this Order and under Title 40 Code of Federal 
+Regulations (CFR) Part 61, Subparts Q and T]; 
+2 Dose received by patients from medical sources of 
+radiation, and by volunteers in medical research programs;  
+3 Dose from background radiation;  
+4 Dose from occupational exposure under NRC or 
+Agreement State license or to general employees regulated 
+under 10 CFR Part 835, and  
+(b) Comply with As Low As Reasonably Achievable (ALARA) 
+requirements in paragraph 4.d. of this Order. 
+(2) The public dose limit applies to members of the public located off DOE 
+sites and on DOE sites outside of controlled areas, and to those exposed to 
+residual radioactive material subsequent to any remedial action or 
+clearance of property. 
+c. Temporary Dose Limits. 
+(1) Special circumstances could affect a DOE radiological activity in such a 
+manner that the potential dose to a member of the public could exceed a 
+TED of 100 mrem (1 mSv) in a year. 
+(2) The Field Element Manager1 may request specific authorization for a 
+temporary public dose limit higher than 100 mrem (1 mSv) in a year from 
+a Cognizant Secretarial Officer in consultation with the Chief Health, 
+Safety and Security Officer. This request must include documentation that 
+justifies the need for the increase, the alternatives considered, and the 
+application of the ALARA process. 
+(3) A Cognizant Secretarial Officer must limit approval of such requests to no 
+more than 500 mrem (5 mSv) TED, provided that the average TED over any 
+5 contiguous years does not exceed 100 mrem per year. 
+(4) The specific exposure pathways excepted in paragraphs 4.b.(1)(a)1-4 are 
+also excepted for temporary dose limits. 
+d. As Low As Reasonably Achievable (ALARA). 
+(1) A documented ALARA process must be implemented to optimize control 
+and management of radiological activities so that doses to members of the 
+public (both individual and collective) and releases to the environment are 
+                                                 
+1 Includes operation office, site office, field office, area office, project office and service center.
+
+--- page 5 ---
+DOE O 458.1 5 
+2-11-2011  
+ 
+ 
+kept as low as reasonably achievable. The process must be applied to the 
+design or modification of facilities and conduct of activities that expose 
+the public or the environment to radiation or radioactive material. 
+(2) The ALARA process must: consider DOE sources, modes of exposure, 
+and all pathways which potentially could result in the release of 
+radioactive materials into the environment, or exposure to the public; use a 
+graded approach; and to the extent practical and when appropriate, be 
+coordinated with the 10 CFR Part 835 ALARA process. 
+(3) The ALARA process must be applied to all routine radiological activities. 
+Though not applicable to non-routine radiological events (for example, 
+accidental, unplanned, or inadvertent releases or exposures), the ALARA 
+process is applicable during recovery and remediation activities associated 
+with a non-routine event. 
+e. Demonstrating Compliance with the Public Dose Limit.  
+(1) Dose evaluations to demonstrate compliance with the public dose limit in 
+paragraph 4.b.(1) of this Order and to assess collective dose must include 
+the following: 
+(a) The TED to members of the public from exposure to radiation, 
+airborne effluents, and liquid effluents, of DOE origin. 
+1 Compliance may be demonstrated by calculating dose to 
+the representative person or to the maximally exposed 
+individual (MEI). 
+2 Determination of the representative person or the MEI must 
+include members of the public both on DOE sites outside of 
+controlled areas and off DOE sites. 
+3 If it is suspected that any of the dose limits specified in 
+paragraph 4.b.(1)(a) of this Order may be exceeded or the 
+estimated TED for members of the public exceeds 25 mrem 
+(0.25 mSv) in a year, then dose to the lens of the eye, skin 
+and extremities must be evaluated. 
+(b) Analytical models that consider likely exposure pathways, such as: 
+1 Direct external radiation from sources located on-site; 
+2 External radiation from airborne radioactive material; 
+3 External radiation from radioactive material deposited on 
+surfaces off-site;
+
+--- page 6 ---
+6 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+4 Internal radiation from inhaled airborne radioactive 
+material; 
+5 Internal radiation from radioactive material ingested with 
+water, and with food from terrestrial crops or animal 
+products (e.g., meat, eggs, milk); 
+6 Internal radiation from radioactive material ingested with 
+aquatic food products such as fish, shellfish, crustaceans 
+(e.g., crayfish, shrimp, crab, lobsters), and aquatic plants 
+and algae; 
+7 External or internal radiation due to residual radioactive 
+material on, or in, cleared real property; and 
+8 Any other pathway unique to the DOE site or activity. 
+(c) The dose to members of the public from DOE-related exposure 
+sources only, if the projected DOE-related dose to the 
+representative person or MEI is 25 mrem (0.25mSv) in a year or 
+less. If the DOE-related dose is greater than 25 mrem in a year, the 
+dose to members of the public must include both major non-DOE 
+sources of exposure (excluding dose from radon and its decay 
+products in air, background radiation dose, occupational doses and 
+doses due to medical exposures) and dose from DOE-related 
+sources. 
+(d) Collective dose for members of the public resulting from radiation 
+emitted and radioactive materials released from DOE radiological 
+activities only (not including radon and its decay products). 
+Collective dose for members of the public must be representative 
+of the total dose and of adequate quality for supported 
+comparisons, trending or decisions. Consistent with the graded 
+approach, collective dose estimates may be truncated by distance 
+(e.g., 50 miles) or individual dose level (e.g., 10 microrem) when 
+integration of doses beyond such thresholds does not significantly 
+affect data quality objectives. Where it is of concern, collective 
+dose for members of the public resulting from radon and its decay 
+products released by DOE radiological activities needs to be 
+calculated separately from other radionuclides. 
+(2) The estimated individual dose to the MEI or representative person that is 
+representative of the persons or group likely to receive the most dose and 
+is based on pathway and exposure parameters that are not likely to 
+underestimate or substantially overestimate the dose, and, the collective 
+dose (population dose) that is a realistic as practicable estimate of the sum 
+of the doses to all members of the actual exposed population.
+
+--- page 7 ---
+DOE O 458.1 7 
+2-11-2011  
+ 
+ 
+(3) Site-specific information on radiation source dispersion patterns, location 
+and demography of members of the public in the vicinity of DOE 
+radiological activities, land use, food supplies, and exposure pathway 
+information must be updated, as necessary, to document significant 
+changes that could affect dose evaluations. 
+(4) Values of assumed default or site-specific parameters used in calculations 
+must be identified and included with the documentation of the calculations. 
+(5) Direct measurements must be made, to the extent practicable, to obtain 
+information characterizing source terms, exposures, exposure modes, and 
+other information needed in evaluating dose. 
+(6) Models for dose evaluation calculations must be appropriate for their 
+purpose.  Dose evaluation models that are codified or approved for use by 
+regulators of DOE or by DOE must be used where applicable.  
+Alternatives to such codified or approved dose evaluation models to be 
+used for demonstrating compliance with this Order must be approved by 
+the Field Element Manager and, as determined necessary by the Field 
+Element Manager, in consultation with their Cognizant Secretarial Officer 
+and the Office of Health, Safety and Security. 
+(7) DOE-approved dose coefficients must be used to evaluate doses resulting 
+from DOE radiological activities. Use of alternative dose coefficients must 
+be approved by the Chief Health, Safety and Security Officer or by a 
+Cognizant Secretarial Officer in consultation with the Chief Health, Safety 
+and Security Officer. 
+(8) Doses to members of the public from airborne effluents must be evaluated 
+with the CAP-88 model or another EPA-approved model or method to 
+demonstrate compliance with applicable subparts of 40 CFR Part 61, 
+National Emission Standards for Hazardous Air Pollutants. 
+(9) Environmental monitoring must be conducted to characterize routine and 
+non-routine releases of radioactive material from radiological activities, 
+estimate the dispersal pattern in the environs, characterize the pathway(s) 
+of exposure to members of the public and estimate the doses to individuals 
+and populations in the vicinity of the site or operation commensurate with 
+the nature of the DOE radiological activities and the risk to the public and 
+the environment. Radiological monitoring must be integrated with the 
+general environmental and effluent monitoring. Environmental monitoring 
+must include, but is not limited to: 
+(a) Effluent Monitoring 
+(b) Environmental Surveillance
+
+--- page 8 ---
+8 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+(c) Meteorological Monitoring. Meteorological monitoring must be 
+commensurate with the level of site radiological activities, the site 
+topographical characteristics, and the distance to critical receptors. 
+The scope must be sufficient to characterize atmospheric 
+dispersion and model the dose to members of the public over 
+distances commensurate with the magnitude of potential source 
+terms and possible pathways to the atmosphere. 
+(d) Pre-operational Monitoring. Prior to the startup of a new site, 
+facility or process with the potential to expose the public or 
+environment to radiation or radioactive material, it is necessary to 
+ensure that adequate knowledge exists to understand: 1) 
+radiological background; 2) pertinent environmental and ecological 
+parameters; and 3) potential pathways for human exposures or 
+ecological/natural resource impacts either from existing data or 
+documents (for example, NEPA evaluations or existing monitoring 
+and surveillance programs, etc.) or from the conduct of a 
+pre-operational study initiated at least one year prior to startup of a 
+new operation. 
+(10) Site-specific environmental monitoring criteria must be established to 
+ensure that representative measurements of quantities and concentrations 
+of radiological contaminants are conducted and that the effects from DOE 
+radiological activities on members of the public and the environment are 
+monitored sufficiently to demonstrate compliance with this Order. 
+f. Airborne Radioactive Effluents. Radiological activities must be conducted in a 
+manner such that the release of radioactive material to the atmosphere will: 
+(1) Be evaluated using the ALARA process established in paragraph 4.d. of 
+this Order; 
+(2) Not cause radon-222 flux rates to exceed 20 pCi (0.7 Bq)/m2-sec averaged 
+over the surface area overlaying waste, including the covering or other 
+confinement structures, wherever radium-226 wastes are accepted for 
+storage or disposal (See 40 CFR Part 61, Subparts Q and T); 
+(3) Meet compliance agreements under 40 CFR Part 61, Subparts H, Q, and 
+T; 
+(4) Not cause the radon-220 and radon-222 decay product concentration, 
+including background, to exceed 0.03 WL in buildings that are being 
+released from DOE control. Further, a reasonable effort must be made to 
+meet a 0.02WL generic guideline for annual average radon-220 and 
+radon-222 decay product concentration, including background, in such 
+buildings; and
+
+--- page 9 ---
+DOE O 458.1 9 
+2-11-2011  
+ 
+ 
+(5) Not exceed 3 pCi/L annual average radon-220 and radon-222 
+concentration, not including background, at the site boundary if DOE 
+activities release radon-220 and radon-222 or their decay products. 
+g. Control and Management of Radionuclides from DOE Activities in Liquid 
+Discharges. Operators of DOE facilities discharging or releasing liquids 
+containing radionuclides from DOE activities must: 
+(1) Characterize planned and unplanned releases of liquids containing 
+radionuclides from DOE activities, consistent with the potential for 
+on- and off-site impacts, and provide an assessment of radiological 
+consequences as necessary to demonstrate compliance with the 
+requirements of this Order. 
+(2) Comply with the ALARA process requirements in paragraph 4.d. of this 
+Order. 
+(3) Conduct activities to ensure that liquid releases containing radionuclides 
+from DOE activities are managed in a manner that protects ground water 
+resources now and in the future, based on use and value considerations. 
+(4) Conduct activities to ensure that liquid discharges containing 
+radionuclides from DOE activities do not exceed an annual average (at the 
+point of discharge) of either of the following: 
+(a) 5 pCi (0.2 Bq) per gram above background of settleable solids for 
+alpha-emitting radionuclides. 
+(b) 50 pCi (2 Bq) per gram above background of settleable solids for 
+beta-gamma-emitting radionuclides. 
+(5) Except for tritium and sanitary sewers, apply Best Available Technology 
+(BAT) if at the point of discharge: 
+(a) The annual average concentration of a given radionuclide is greater 
+than the DOE-approved derived concentration standard (DCS) 
+value for water contained in the Derived Concentration Technical 
+Standard, DOE-STD-1196-2011, or for multiple radionuclides, the 
+composite DCS must be the sum of the fractional DCS values 
+derived from DOE-approved DCS values, 
+(b) The discharge contributes greater than 10 mrem (0.1 mSv) annual 
+TED to members of the public, or  
+(c) The collective dose from all DOE sources is greater than 100 
+person-rem (1 person-Sv) and the liquid discharge contributes 50 
+percent or more of this collective dose.
+
+--- page 10 ---
+10 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+(6) Control releases of tritium in a manner that has been established by 
+application of the ALARA process. 
+(7) Conduct radiological activities to ensure that radionuclides from DOE 
+activities contained in liquid effluents do not cause private or public 
+drinking water systems to exceed the drinking water maximum 
+contaminant levels in 40 CFR Part 141, National Primary Drinking Water 
+Regulations. 
+(8) Control discharges into sanitary sewers in accordance with the following 
+requirements: 
+(a) Except for excreta from patients and medical research volunteers 
+treated with radioactive material, discharges of liquids containing 
+radionuclides from DOE activities into non-Federally owned 
+sanitary sewers are prohibited unless: 
+1 The material is readily soluble (or readily dispersed 
+biological materials) in water; 
+2 Such discharges comply with ALARA process 
+requirements; 
+3 BAT is applied to discharges of liquid releases containing 
+radionuclides from DOE activities if the average monthly 
+concentration level at the point of discharge into the 
+sanitary sewer is greater than five times the DOE-approved 
+DCS values for ingestion except for tritium which is 
+addressed under paragraph 4.g.(6); 
+4 Releases do not result in an annual discharge (above 
+background) into sanitary sewers in excess of 5 Ci (185 
+GBq) of tritium; 1 Ci (37 GBq) carbon-14 or 1 Ci (37 GBq) 
+of all other radionuclides combined; 
+5 DOE operations are conducted to minimize long-term 
+buildup of radionuclides in the sewage treatment plants that 
+may create handling and disposal issues or interfere with 
+plant operations; 
+6 Operators of sewage treatment plants are informed of DOE 
+practices and processes to radiologically control and clear 
+discharges, and are notified of unusual discharges to 
+sanitary sewers; 
+7 The DOE Field Element Manager provides a report that 
+describes and summarizes such discharges to sanitary 
+sewers to appropriate local officials at least annually; and
+
+--- page 11 ---
+DOE O 458.1 11 
+2-11-2011  
+ 
+ 
+8 Existing agreements, contracts, statements of understanding 
+or other formal arrangements with other agencies 
+concerning the discharge of liquids containing 
+radionuclides from DOE activities to sanitary sewers are 
+not violated. 
+(b) DOE facilities discharging liquids containing radionuclides from 
+DOE activities into sanitary sewer systems owned by the Federal 
+government are not subject to the requirements in paragraph 
+4.g.(8)(a) of this Order if: 
+1 The system provides treatment in accordance with the 
+environmental radiological protection program and 
+2 Sludge from the system is disposed of in accordance with 
+this Order and applicable Federal, State, and municipal 
+regulations. 
+(9) Prohibit the use of soil columns. 
+(10) Manage the disposition of non-process water potentially containing 
+radionuclides from DOE activities to protect soil and ground water and 
+prevent the creation of future cleanup sites. 
+(11) Ensure that storm water runoff containing radionuclides from DOE 
+activities is considered, as appropriate, as a pathway of exposure that has 
+the potential for on- and off-site impacts. Using a graded approach, the 
+receiving ecosystem including, but not limited to, wetlands, floodplains, 
+streams, ponds, basins and lakes must be monitored to evaluate human or 
+ecological impacts when warranted based on site specific risk. 
+h. Radioactive Waste and Spent Nuclear Fuel. 
+(1) Management, Storage and Disposal of Radioactive Waste at DOE Sites. 
+(a) Radiological activities must be conducted in a manner such that 
+radiation exposure to members of the public from management and 
+storage of radioactive waste complies with ALARA process 
+requirements and does not result in a TED greater than 25 mrem 
+(0.25 mSv) in a year from all exposure pathways and radiation 
+sources associated with the waste, except for transportation and 
+radon and its decay products. 
+(b) DOE management of spent nuclear fuel, and high-level and 
+transuranic wastes at a disposal facility which is not regulated by 
+the NRC must comply with the requirements of this Order and 
+40 CFR Part 191, Environmental Radiation Protection Standards
+
+--- page 12 ---
+12 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+for Management and Disposal of Spent Nuclear Fuel, High-level 
+and Transuranic Radioactive Wastes. 
+(c) Management, storage and disposal of low-level radioactive waste 
+must be conducted in a manner such that exposure to members of 
+the public to radiation from radioactive waste complies with 
+ALARA process requirements, and does not exceed a TED of 25 
+mrem (0.25 mSv) in a year from all exposure pathways and 
+radiation sources associated with the waste, except for 
+transportation and radon and its decay products. 
+(d) Management, storage and disposal of 11e.(2) byproduct material, 
+as defined in Section 11e.(2) of the AEA and other wastes 
+containing uranium and thorium and their decay products which 
+are not subject to the requirements of 40 CFR Part 192, Health and 
+Environmental Protection Standards for Uranium and Thorium 
+Mill Tailings, are not at facilities licensed by the NRC, or are not 
+disposed of at DOE low-level waste disposal facilities, must be in 
+accordance with the requirements of paragraph 4.h.(1) of this 
+Order and DOE-approved plans.  
+1 Disposal facilities for uranium and thorium wastes must be 
+designed to: 
+a Remain effective for 1,000 years, to the extent 
+reasonably achievable, and, in any case, for at least 
+200 years and 
+b Provide reasonable assurance that releases of 
+radon-222 to the atmosphere will not: (1) exceed an 
+average release rate of 20 picocuries per square 
+meter per second or (2) increase the annual average 
+concentration of radon-222 in air at or above any 
+location outside the disposal site by more than 
+one-half picocurie per liter. 
+2 For wastes containing significant concentrations of radium 
+and thorium, special considerations must be given to 
+measures to prevent inadvertent human intrusion. 
+3 Before any potentially biodegradable contaminated wastes 
+are placed in a disposal facility, such wastes must be 
+conditioned so that the generation and escape of biogenic 
+gases will not cause the emission or dose limits in 
+paragraph 4.h.(1) of this Order to be exceeded and that 
+bio-degradation within the facility will not result in 
+premature structural failure.
+
+--- page 13 ---
+DOE O 458.1 13 
+2-11-2011  
+ 
+ 
+4 All plans for the management and disposal of these wastes 
+must provide for institutional controls and long-term 
+stewardship of the disposal facility necessary to ensure 
+continued performance. 
+(e) AEA Section 11e.(3) and 11e.(4) Byproduct Material. Discrete 
+sources of radium-226, accelerator produced radioactive material, 
+or naturally-occurring radioactive material (NORM) that pose a 
+threat similar to discrete sources of radium-226, which are defined 
+as Section 11e.(3) or 11e.(4) byproduct material in the AEA, must 
+be managed as high-level waste, low-level waste or 11e.(2) 
+material as appropriate under DOE AEA authorities and in 
+compliance with the requirements of this Order and DOE O 435.1, 
+current version. 
+i. Protection of Drinking Water and Ground Water. 
+(1) DOE sites must provide a level of radiation protection for persons 
+consuming water from a drinking water system operated by DOE, directly 
+or through a DOE contractor, which is equivalent to that provided to 
+members of the public by the community drinking water standards of 
+40 CFR Part 141, National Primary Drinking Water Regulations (that is, 
+not exceed the radionuclide maximum contaminant levels (MCLs)). 
+(2) Ground water must be protected from radiological contamination to ensure 
+compliance with dose limits in the Order and consistent with ALARA 
+process requirements. To this end, DOE must ensure that: 
+(a) Baseline conditions of the ground water quantity and quality are 
+documented; 
+(b) Possible sources of, and potential for, radiological contamination 
+are identified and assessed; 
+(c) Strategies to control radiological contamination are documented 
+and implemented; 
+(d) Monitoring methodologies are documented and implemented; and 
+(e) Ground water monitoring activities are integrated with other 
+environmental monitoring activities. 
+j. Protection of Biota. 
+(1) Radiological activities that have the potential to impact the environment 
+must be conducted in a manner that protects populations of aquatic 
+animals, terrestrial plants, and terrestrial animals in local ecosystems from
+
+--- page 14 ---
+14 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+adverse effects due to radiation and radioactive material released from 
+DOE operations. 
+(2) When actions taken to protect humans from radiation and radioactive 
+materials are not adequate to protect biota then evaluations must be done 
+to demonstrate compliance with paragraph 4.j.(1) of this Order in one or 
+more of the following ways: 
+(a) Use DOE-STD-1153-2002, A Graded Approach for Evaluating 
+Radiation Doses to Aquatic and Terrestrial Biota. 
+(b) Use an alternative approach to demonstrate that the dose rates to 
+representative biota populations do not exceed the dose rate criteria 
+in DOE-STD-1153-2002, Table 2.2. 
+(c) Use an ecological risk assessment to demonstrate that radiation and 
+radioactive material released from DOE operations will not 
+adversely affect populations within the ecosystem. 
+k. Release and Clearance of Property. Release or clearance of property with the 
+potential to contain residual radioactive material must be conducted in accordance 
+with the requirements in paragraph 4.k. of this Order. 2 
+(1) Property control and clearance processes must be developed and 
+implemented in accordance with the dose limits in paragraph 4.b. under 
+any plausible use of the property and the ALARA process requirements in 
+paragraph 4.d. of this Order must be met before property is cleared. 
+(2) Dose Constraints. Unless alternative dose constraints are approved by 
+issuance of a directive or memorandum by the Chief Health, Safety and 
+Security Officer or for NNSA, the Cognizant Secretarial Officer in 
+consultation with the Chief Health, Safety and Security Officer, the 
+following dose constraints for DOE residual radioactive material must be 
+applied to each specific clearance of property for any actual or likely 
+future use of the property: 
+(a) Real property – a TED of 25 mrem (0.25 mSv) above background 
+in any calendar year; 
+(b) Personal property - a TED of 1 mrem (0.01 mSv) above 
+background in any calendar year. 
+                                                 
+2 In addition to paragraph 4.k of this Order, the following may have applicable requirements regarding clearance of 
+property: 41 CFR Chapter 109, Department of Energy Property Management Regulations; 10 CFR Part 770, 
+Transfer of Real Property at Defense Nuclear Facilities for Economic Development; and DOE O 430.1, Real 
+Property Asset Management, current version.
+
+--- page 15 ---
+DOE O 458.1 15 
+2-11-2011  
+ 
+ 
+(3) Residual Radioactive Material. Property potentially containing residual 
+radioactive material must not be cleared from DOE control unless either: 
+(a) The property is demonstrated not to contain residual radioactive 
+material based on process and historical knowledge, radiological 
+monitoring or surveys, or a combination of these; or 
+(b) The property is evaluated and appropriately monitored or surveyed 
+to determine: 
+1 The types and quantities of residual radioactive material 
+within the property; 
+2 The quantities of removable and total residual radioactive 
+material on property surfaces (including residual 
+radioactive material present on and under any coating);  
+3 That for property with potentially contaminated surfaces 
+that are difficult to access for radiological monitoring or 
+surveys, an evaluation of residual radioactive material on 
+such surfaces is performed which is: 
+a Based on process and historical knowledge meeting 
+the requirements of paragraph 4.k.(5) of this Order 
+and monitoring and or surveys, to the extent 
+feasible and 
+b Sufficient to demonstrate that applicable specific or 
+pre-approved DOE Authorized Limits will not be 
+exceeded; and 
+4 That any residual radioactive material within or on the 
+property is in compliance with applicable specific or 
+pre-approved DOE Authorized Limits. 
+(4) Evaluation of the Need for Maintaining Institutional Controls for Real 
+Property. Real property under evaluation for clearance from DOE 
+radiological controls must be evaluated against the need for maintaining 
+institutional controls or impacting long-term stewardship of adjacent DOE 
+real property. In situations where transfer of the real property to other use 
+would impact long-term radiological protection of adjacent DOE 
+properties, it must be demonstrated that the impact of the property 
+clearance would not result in noncompliance for the adjacent property 
+with the requirements of this Order, DOE O 435.1, current version, or 
+other applicable statutes, regulations or orders. 
+(5) Process and Historical Knowledge. Organizations responsible for 
+radiological clearance of property, when they rely in part, on process
+
+--- page 16 ---
+16 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+knowledge as a basis for clearance decisions, must establish a documented 
+evaluation process, using a graded approach, for applying process and 
+historical knowledge to determine if property potentially contains residual 
+radioactive material. 
+(a) This process must include procedures for evaluating operational 
+records and operating history, including the use of any radioactive 
+materials or radiation generating devices. 
+(b) For real property, this process must address each specific property 
+individually. If several parcels of land are contiguous, or if several 
+structures are located in the same area and have a common 
+operational history, a single evaluation for all of the properties is 
+acceptable. 
+(c) If available process and historical knowledge cannot demonstrate 
+that property does not contain residual radioactive materials, 
+radiological monitoring or surveys must be conducted to 
+supplement process and historical knowledge evaluations. 
+(d) If not supplemented by radiological surveys, process and historical 
+knowledge evaluations must be adequate to determine: 
+1 Whether the property has ever been used for radiological 
+activities or in areas that could have resulted in the 
+presence of residual radioactive material within or on the 
+property or 
+2 Whether property formerly containing residual radioactive 
+material has been decontaminated and demonstrated to 
+meet DOE Authorized Limits, and has not been used in a 
+manner or in areas that could have resulted in the 
+re-contamination of the property. 
+(e) For property that is determined to potentially contain residual 
+radioactive material under paragraph 4.k.(5)(d)1, or determined to 
+be re-contaminated under paragraph 4.k.(5)(d)2, the process and 
+historical knowledge evaluation must also include an assessment of 
+the types and quantities of residual radioactive material and the 
+sources and pathways by which the property became contaminated.  
+(6) Authorized Limits.  
+(a) Authorized Limits must be established and approved for the 
+clearance of any property with residual radioactive material to 
+provide reasonable assurance that the requirements of paragraphs 
+4.k.(1) and 4.k.(2) are met. Authorized Limits may be applied to 
+property for which process knowledge cannot establish the absence
+
+--- page 17 ---
+DOE O 458.1 17 
+2-11-2011  
+ 
+ 
+of residual radioactive material and in which the presence of 
+residual radioactive material cannot be determined.  
+(b) Authorized Limits must:  
+1 Be developed in accordance with the ALARA requirements 
+in paragraph 4.d. of this Order; 
+2 Be based on the applicable dose constraint, supported by a 
+complete exposure pathway analysis using appropriate 
+methodologies, techniques, parameters and models (such as 
+the RESRAD family of codes) that meet DOE quality 
+assurance requirements under DOE O 414.1, Quality 
+Assurance, current version; 
+3 Be expressed in terms of concentration of radioactivity per 
+unit surface area (e.g., dpm per 100 cm2), radioactivity per 
+unit mass (e.g., pCi per gram) or volume (e.g., pCi per ml), 
+total radioactivity, or DOE controls and restrictions, if 
+applicable; 
+4 Explicitly state any restrictions or conditions on future use 
+of the property necessary to ensure the basic dose limit and 
+applicable dose constraint are not exceeded; 
+5 Include written notification of applicable Federal, State, or 
+local regulatory agencies, or Tribal governments; 
+6 Be approved in accordance with paragraph 4.k.(6)(d); and  
+7 In addition to paragraphs 4.k.(6)(b)1-6, for clearance of 
+personal property only: 
+a Be based on expected annual quantity of property to 
+be cleared or 
+b Be based on expected total amount of property 
+cleared over the life of the project for specific 
+remedial action or decontamination and 
+decommissioning projects and 
+c Prior to clearance of metals, the Field Element 
+Manager must determine that there is no practical 
+internal DOE opportunity for reuse or recycle of the 
+material or equipment. 
+(c) Applications for DOE approval of Authorized Limits must contain 
+the following:
+
+--- page 18 ---
+18 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+1 A description of the property. 
+2 Specific limits proposed for each radionuclide or group of 
+radionuclides and/or external radiation exposure, surrogate 
+metrics, or conditions used to limit radionuclides. 
+3 Potential collective dose to the exposed population and the 
+potential dose to a member of the public most likely to 
+receive the highest dose for both: actual or likely future 
+use, and plausible future use of the property. 
+4 ALARA assessments conducted under paragraph 4.d. of 
+this Order for the proposed clearance action to include, at a 
+minimum, the effects of:  
+a Implementing the proposed Authorized Limits; 
+b Implementing alternative levels of residual 
+radioactive material instead of the proposed 
+Authorized Limits; 
+c Not implementing the proposed Authorized Limits, 
+i.e., not proceeding with the proposed clearance 
+action. 
+5 A description of the procedures and radiological 
+monitoring or surveys to be used to demonstrate 
+compliance with proposed limits. 
+6 Identification of any restrictions or conditions on the future 
+use of the property upon which the proposed limits are 
+based, and the means by which the restrictions or 
+conditions will be implemented and maintained. 
+7 Evidence of notification of applicable Federal, State or 
+local regulatory agencies or Tribal governments. 
+8 An estimated date for when the property will be cleared and 
+an estimate of when the property will be released from 
+DOE control. 3 
+(d) DOE Approval of Authorized Limits. All Authorized Limits must 
+be approved in writing. The use of pre-approved Authorized Limits 
+                                                 
+3 This information is needed to support the DOE expectation stated at 72 FR 31904, 31906 (10 CFR Part 835, June 
+8, 2007) that the material, equipment, or real property to which the 10 CFR Part 835.1(b)(6) exclusion is applied 
+will be released from DOE control according to a specified time interval.
+
+--- page 19 ---
+DOE O 458.1 19 
+2-11-2011  
+ 
+ 
+are approved by the Field Element Manager under paragraph 
+4.k.(6)(f). Otherwise: 
+1 Authorized Limits for real property require Field Element 
+Manager approval in consultation with the Cognizant 
+Secretarial Officer. 
+2 The Field Element Manager approves Authorized Limits 
+for personal property (including any restrictions or 
+conditions on future use of the personal property) under the 
+following conditions: 
+a Clearance of the property must not cause a TED to a 
+member of the public in excess of 1 mrem (0.01 
+mSv) in any year or a public collective dose of more 
+than 10 person-rem (0.1 person-Sv) in any year due 
+to residual radioactive material for any actual or 
+likely future use of the property; 
+b Documentation supporting the Authorized Limits is 
+provided to the responsible Cognizant Secretarial 
+Officer and the Chief Health, Safety and Security 
+Officer at least 45 working days prior to the 
+intended implementation date of the Authorized 
+Limits; and 
+c The Cognizant Secretarial Officer in consultation 
+with the Chief Health, Safety and Security Officer 
+does not notify the Field Element Manager within 
+30 working days of receipt of application that the 
+documentation is incomplete or that the Authorized 
+Limits are not acceptable. 
+Otherwise; Authorized Limits for personal property must 
+be approved by the Cognizant Secretarial Officer in 
+consultation with the Chief Health, Safety and Security 
+Officer. 
+3 Authorized Limits for property that has not been released 
+from DOE control must meet the criteria in paragraphs 
+4.k.(6)(a) through (d) of this Order and be approved by a 
+Cognizant Secretarial Officer in consultation with the Chief 
+Health, Safety and Security Officer if such property is to be 
+excluded from the provisions of 10 CFR Part 835. 
+(e) Revision of Authorized Limits. If established Authorized Limits 
+are found to be not protective, appropriate or practical to apply for
+
+--- page 20 ---
+20 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+a specific type or portion of property, further clearance for that 
+specific type or portion of property must not proceed without 
+revised Authorized Limits. 
+1 An application for revised Authorized Limits must be 
+submitted in accordance with the requirements in 
+paragraphs 4.k.(6)(a) through (d) of this Order. 
+2 Approval of revised Authorized Limits must be provided in 
+accordance with the requirements in paragraph 4.k.(6)(d) of 
+this Order. 
+3 In addition to the requirements of applicable paragraphs of 
+4.k.(6) of this Order, requests for approval of revised 
+Authorized Limits must include a justification for the need 
+for the revised Authorized Limits. Justifications for revised 
+Authorized Limits must be based upon one of the 
+following: 
+a Complying with existing Authorized Limits would 
+pose a clear and present risk of injury to general 
+employees or members of the public; or 
+b Complying with existing Authorized Limits would 
+produce environmental harm (e.g., destruction of 
+artifacts, ecological damage, loss of cultural assets) 
+that is clearly excessive compared to the potential 
+health benefits to persons exposed to affected 
+properties; or  
+c Complying with existing Authorized Limits is 
+unreasonably costly relative to long-term benefits 
+and where the residual radioactive material does not 
+pose a clear present or future potential of exceeding 
+the public dose limit of paragraph 4.b.(1) of this 
+Order; or 
+d Portions of the project or activity for which the 
+scenarios or assumptions used to establish the 
+existing Authorized Limits are overly conservative, 
+or where more appropriate scenarios or assumptions 
+indicate that other limits are applicable or 
+appropriate for protection of the public and the 
+environment; or
+
+--- page 21 ---
+DOE O 458.1 21 
+2-11-2011  
+ 
+ 
+e New information which indicates the existing 
+Authorized Limits are not sufficient to meet the 
+protective requirements of this Order. 
+(f) Pre-Approved Authorized Limits. 
+1 The following values have been pre-approved by DOE for 
+use as Authorized Limits, and may be used as specified 
+below instead of developing and approving specific 
+Authorized Limits. 
+a For radium-226 and radium-228 in soil - 5 pCi/gram 
+(0.2 Bq/gram) in excess of background levels, 
+averaged over 100 m2, in the first 15 cm depth of 
+the surface layer of soil; and 15 pCi/gram (0.56 
+Bq/gram) in excess of background levels, averaged 
+over any subsequent 15 cm subsurface layer of soil 
+plus an ALARA assessment. If both thorium-230 
+and radium-226 or both thorium-232 and 
+radium-228 are present and not in secular 
+equilibrium, the appropriate pre-approved limit 
+must be applied to the radionuclide with the higher 
+concentration. 
+b Previously approved guidelines and limits (such as 
+the surface activity guidelines) may continue to be 
+applied and used as Pre-Approved Authorized 
+Limits until they are replaced or revised by 
+Pre-Approved Authorized Limits issued under this 
+Order. 
+2 Other Pre-Approved Authorized Limits must be approved 
+by the Chief Health, Safety and Security Officer or the 
+responsible Cognizant Secretarial Officer in consultation 
+with the Chief Health, Safety and Security Officer. 
+a The approvals may be made through a DOE 
+memorandum but must be included in a DOE 
+Directive issued under DOE O 251.1, current 
+version, or a Technical Standard under DOE O 
+252.1, Technical Standards Program, current 
+version, within eighteen months of issuance. 
+b Pre-Approved Authorized Limits must provide 
+reasonable expectation that their implementation 
+will comply with the requirements in paragraphs 
+4.k.(1) and 4.k.(2) of this Order.
+
+--- page 22 ---
+22 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+c The scope of applicability (e.g., property, activities, 
+or radionuclides) and conditions of, or restrictions 
+on, their use must be documented. 
+3 Pre-Approved Authorized Limits may be used for any 
+radiological activity instead of developing specific 
+Authorized Limits if their use is documented in the 
+environmental radiological protection program and the 
+specific application of the Authorized Limits is approved 
+by the responsible Field Element Manager. 
+(g) Documentation of Approved Authorized Limits. Approved 
+Authorized Limits and approved revised Authorized Limits and 
+supporting documentation must be made available to the public. 
+(7) Clearance of Environmental Restoration, Deactivation and 
+Decommissioning, and Other Cleanup Materials. 
+(a) Clearance of property with residual radioactive material from 
+environmental restoration activities, including deactivation and 
+decommissioning, must meet the requirements of this Order. 
+Environmental restoration activities using the Comprehensive 
+Environmental Response, Compensation, and Liability Act 
+(CERCLA) process may demonstrate compliance with the 
+requirements of this Order (including public dose assessments, 
+ALARA analysis, and consideration of scenarios) using 
+documentation from the CERCLA process and any necessary 
+supplemental information. 
+(b) For the purpose of clearance of real or personal property, approved 
+CERCLA remediation criteria may be considered equivalent to 
+Authorized Limits if the appropriate Field Element Manager has 
+determined that the criteria meet the requirements in this Order for 
+Authorized Limits, and provided that the use of the criteria as DOE 
+Authorized Limits is documented and approved as would be an 
+Authorized Limit. Compliance with all requirements of this Order 
+not met through the CERCLA process must also be demonstrated. 
+(c) Field Elements performing environmental restoration activities 
+involving clearance of real or personal property with residual 
+radioactive material under CERCLA that use the CERCLA 
+analysis and documentation in lieu of DOE O 458.1-specific 
+analysis and documentation to demonstrate compliance with this 
+Order must: 
+1 Submit certification to a Cognizant Secretarial Officer that 
+compliance with the requirements of this Order for
+
+--- page 23 ---
+DOE O 458.1 23 
+2-11-2011  
+ 
+ 
+clearance of property has been met using documentation 
+from the CERCLA process and 
+2 Submit the relevant CERCLA documentation and any 
+additional information necessary to demonstrate that the 
+requirements for Authorized Limits have been met to a 
+Cognizant Secretarial Officer and provide a copy to the 
+Chief Health, Safety and Security Officer. 
+(8) Radiological Monitoring or Surveys. 
+(a) All radiological monitoring or surveys performed in support of 
+clearance of property must: 
+1 Use methodologies sufficient to meet measurement 
+objectives such as those in the Multi-Agency Radiation 
+Survey and Site Investigation Manual (MARSSIM), the 
+Multi-Agency Radiation Survey and Assessment of 
+Materials and Equipment Manual (MARSAME) or other 
+methodologies approved by DOE;  
+2 Meet Measurement Quality Objectives; 
+3 Use DOE-approved sampling and analysis techniques, if 
+applicable; and  
+4 Include an evaluation of non-uniformly distributed residual 
+radioactive material, if applicable. 
+(b) Instrumentation used for radiological monitoring or surveys must 
+be capable of detecting and quantifying residual radioactive 
+material consistent with the applicable Authorized Limits, and be: 
+1 Periodically maintained and calibrated on an established 
+frequency; 
+2 Appropriate for the type(s), levels, and energies of the 
+radiation(s) encountered; and 
+3 Appropriate for existing environmental conditions and 
+routinely tested for operability. 
+(9) Documentation and Verification. 
+(a) DOE elements responsible for radiological clearance of property 
+must ensure that final radiological monitoring or surveys are 
+conducted and that documentation is prepared that shows that the 
+clearance meets applicable DOE Authorized Limits, or other
+
+--- page 24 ---
+24 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+applicable requirements including associated restrictions or 
+institutional controls (See DOE P 454.1, Use of Institutional 
+Controls, current version). 
+(b) DOE Field Element Managers responsible for oversight of 
+clearance processes must implement oversight duties to verify that 
+the contractor assurance program is ensuring that the applicable 
+radiological clearance requirements have been met. DOE must 
+determine the type and scope of oversight activities necessary to 
+independently verify compliance. Such oversight must use a 
+graded approach commensurate with the Department’s 
+requirements to implement DOE oversight functions (See DOE O 
+226.1, current version). 
+1 The graded approach to the independent verification 
+activities must be commensurate with the scope, 
+complexity, and risk associated with the clearance action. 
+The oversight must, at a minimum, ensure procedures, 
+instruments, data and analyses, and documentation used for 
+the clearance are adequate to comply with the requirements 
+of this Order. 
+2 Oversight for personal property releases will be graded at 
+the discretion of DOE to include formal assessments, if 
+necessary, but at a minimum must include operational 
+awareness of radiological monitoring and survey 
+instrumentation, radiological survey procedures, 
+recordkeeping, methodologies, and techniques used for the 
+clearance of such property to ensure their adequacy. If 
+deemed appropriate by the Field Element Manager, such as 
+in cases of high technical complexity or poor historical 
+performance, a more formal independent verification 
+process (e.g., peer review, third party support in review of 
+clearance processes or independent audit or sampling) may 
+be instituted. 
+3 The independent verification activities required for the 
+clearance of all real property must, at a minimum, include 
+review of the radiological characterization report or data, 
+but, as appropriate, may include independent surveys or 
+sample analysis to verify compliance. If the real property is 
+to be transferred to the public, or managed by another 
+agency/entity other than DOE or a new facility constructed, 
+an independent verification plan will be prepared and 
+independent verification surveys and sample analysis will 
+be conducted to verify compliance, unless determined to be
+
+--- page 25 ---
+DOE O 458.1 25 
+2-11-2011  
+ 
+ 
+unneeded by DOE because, for example, the transferred 
+property will be under a license. 
+4 Independent verification must be performed by DOE 
+personnel not directly involved in the specific clearance 
+action or by a contractor who is independent of the 
+contractor conducting clearance activities. The personnel 
+performing independent verification activities must:  
+a Report directly to DOE,  
+b Have sufficient authority and freedom to report 
+unresolved issues to the Field Element Manager, 
+and  
+c Be qualified or have sufficient knowledge and 
+experience to oversee radiological clearance 
+activities.  
+(10) Public Notification of Clearance of Property. 
+(a) Field Element Managers must, as appropriate, incorporate 
+information on site clearance policies and protocols, process 
+knowledge decisions, approved Authorized Limits, any approved 
+revised Authorized Limits, use of pre-approved Authorized Limits, 
+and property control and clearance programs into effective site 
+public notification and communications programs. 
+(b) Information on approved Authorized Limits, any approved revised 
+Authorized Limits, use of pre-approved Authorized Limits, results 
+of radiological monitoring and surveys of cleared property with 
+type and quantity of property cleared, and independent verification 
+results must be summarized in the Annual Site Environmental 
+Report. 
+(c) The responsible field element must make documentation on 
+clearance of property available to the public and to the property 
+owner or recipient as appropriate. 
+(11) Final Clearance Documentation. Clearance of property must be 
+documented. The contents of the documentation or the mechanism for 
+documenting information may be tailored to the need, situation, and type 
+of property being cleared. For ongoing, routine clearances, e.g., clearance 
+of personal property from controlled areas, such documentation may be 
+based on the general process(es) rather than each specific clearance. In 
+general, the documentation must describe the clearance process(es) and 
+the property being cleared.
+
+--- page 26 ---
+26 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+(a) The documentation must serve to demonstrate requirements have 
+been met, show criteria used for clearance, identify the property’s 
+destination or disposition, as appropriate, and provide additional 
+confidence to DOE and assurance to other interested parties that 
+the public and the environment are being protected. The 
+documentation must indicate any Authorized Limits, including any 
+revised or pre-approved Authorized Limits used for the clearance, 
+and include information and data supporting the clearance of 
+property such as radiological certification and independent 
+verification results and summarize the annual quantities cleared. 
+(b) Field Element Managers or their designees must ensure in the 
+preparation and maintenance of documentation that property being 
+sold or otherwise cleared from DOE radiological control: 
+1 Meets all DOE radiological protection requirements, 
+2 Is not required to be controlled for national security 
+reasons, and 
+3 Meets DOE property control requirements. 
+l. Records, Retention and Reporting Requirements.  
+(1) Records must be maintained to document compliance with the 
+requirements of this Order. 
+(2) Required records include the following: 
+(a) Information and data necessary to identify and characterize 
+releases of radioactive material to the environment, their fate in the 
+environment, and their probable impact on radiation dose to 
+members of the public, and any impacts on ecological systems. 
+(b) Documentation of individual and collective dose to members of the 
+public due to radiological activities. This includes documentation 
+of site-specific information on radiation source dispersion patterns, 
+location and demography of members of the public in the vicinity 
+of the radiological activity and assumed default values or 
+site-specific parameters used in calculations. 
+(c) Requests for specific authorization for temporary public dose 
+limits, and subsequent approvals and other related actions. 
+(d) Identification of radiological activities subject to environmental 
+radiological protection program requirements, and descriptions of 
+the measures to be used in implementing these requirements.
+
+--- page 27 ---
+DOE O 458.1 27 
+2-11-2011  
+ 
+ 
+(e) Documentation of actions taken to implement the ALARA process 
+identified in paragraph 4.d. of this Order. 
+(f) Documentation of actions taken to demonstrate compliance with 
+the public dose limit [See paragraph 4.e.(1) of this Order]. 
+(g) Documentation of actions taken to implement the BAT selection 
+process in regulating liquid discharges, including documentation of 
+analyses and factors considered to be important, including 
+alternative processes, for the BAT selection process. 
+(h) Effluent monitoring and environmental surveillance information 
+and data, including: 
+1 Results of effluent monitoring for determining sources of 
+radiation and radioactive material that provide direct 
+exposure to members of the public and releases of 
+radioactive material in liquid or airborne effluent; 
+2 Results of surveys for radiation and radioactive material in 
+the environment; 
+3 Results of surveys, measurements, and calculations used to 
+determine the dose to members of the public and ecological 
+receptors from external and internal radiation sources; 
+4 Meteorological data used in assessing dose; and 
+5 Results of pre-operational monitoring. 
+(i) Documentation related to the long-term management of radioactive 
+waste and residual radioactive material.  
+(j) Final documentation for clearance of property containing residual 
+radioactive material. 
+(k) Documentation of:  
+1 Approved Authorized Limits for routine clearance of 
+property for unrestricted or restricted use and the scenarios 
+evaluated in selecting the limits, 
+2 Approved revised Authorized Limits for clearance of 
+property, and 
+3 Written notification of applicable Federal, State or local 
+regulatory agencies or Tribal governments (See paragraph 
+4.k.(6)(c)7 of this Order).
+
+--- page 28 ---
+28 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+(l) Annual summaries related to clearance of property. 
+(3) Records required by this Order must be maintained by, or transferred to, 
+DOE upon cessation of a DOE radiological activity at a site. 
+(4) Records must be retained until final disposition is authorized by DOE in 
+accordance with DOE O 243.1, Records Management Program, current 
+version. 
+(5) Reporting. 
+(a) Reporting requirements for this Order are contained in DOE O 
+232.2, Occurrence Reporting and Processing of Operations 
+Information, current version, and DOE O 231.1, Environment, 
+Safety and Health Reporting, current version. 
+(b) The responsible Field Element Manager must notify a Cognizant 
+Secretarial Officer and the Chief Health, Safety and Security 
+Officer within 30 calendar days when it has been identified that 
+any requirement in this Order that is not required to be reported 
+under paragraph 4.l.(5)(a) has not been met. 
+(6) Units. Unless otherwise specified, the quantities used in the reports and 
+records required by this Order must be clearly indicated in special units of 
+curie, rad, roentgen, or rem, including multiples and subdivisions of these 
+units, or other conventional units, such as dpm, dpm/100 cm2, or mass 
+units. The SI units, becquerel (Bq), gray (Gy), and sievert (Sv) may be 
+provided parenthetically for reference with scientific standards. 
+m. Implementation. Full implementation of the requirements of this Order must be 
+completed within 18 months of its issuance, unless a different implementation 
+schedule is approved by a Cognizant Secretarial Officer. 
+5. RESPONSIBILITIES.  
+a. Cognizant Secretarial Officers (or Designees).  
+(1) Ensure that the requirements of this Order are implemented throughout 
+organizations under their purview. 
+(2) Request through the annual Department budgetary process the funding and 
+resources needed to implement the requirements of this Order. 
+(3) Assess as part of line oversight of field elements under their purview, the 
+implementation of the requirements, and the responsibilities of paragraph 
+5.b. of the Order. 
+(4) Approve Temporary Dose Limits in accordance with paragraphs 4.c.(2) 
+and (3) of this Order.
+
+--- page 29 ---
+DOE O 458.1 29 
+2-11-2011  
+ 
+ 
+(5) Approve or consult on Authorized Limits for clearance of property in 
+accordance with the requirements of this Order. 
+(6) Notify a field organization if the requested Authorized Limit, revised 
+Authorized Limit, or supporting materials are incomplete or not acceptable 
+within 30 working days of receipt of a submitted application.  
+(7) Identify to which contracts the CRD should apply and notify the cognizant 
+contracting officer.  
+b. Field Element Managers.  
+(1) Implement the requirements in this Order for radiological activities under 
+their purview. Such implementation must include, but may not be limited 
+to ensuring that: 
+(a) Environmental radiological protection programs are established 
+and maintained, 
+(b) Reviews of the sites’ effectiveness in implementing the 
+requirements in this Order are conducted, and 
+(c) All records, reports, and documentation required by this Order are 
+prepared, issued, and/or retained in accordance with applicable 
+requirements. 
+(2) Approve applicable Authorized Limits for clearance of property in 
+accordance with the requirements of this Order. 
+(3) Ensure that sites’ annual budget requests include the funding and 
+resources needed to implement the requirements of this Order. 
+(4) Determine the type and scope of oversight activities necessary to 
+independently verify compliance and implement the site independent 
+verification activities. 
+(5) Ensure that appropriate capabilities are maintained for monitoring and 
+assessing routine and unplanned releases of radioactive materials, 
+consistent with the types of radioactive materials released, release modes, 
+and radiological activities conducted. 
+(6) Ensure that agreements, permits, leases, licenses, or other legally-binding 
+obligations between DOE and a tenant or concessionaire entered into after 
+the effective date of this Order, require that the tenant or concessionaire 
+take actions relating to matters within the scope of the contract that 
+facilitate DOE’s compliance with this Order. 
+(7) Temporarily suspend any requirement of this Order when doing so is in 
+their judgment necessary to minimize damage to life or property or to
+
+--- page 30 ---
+30 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+protect public health or safety. Whenever this provision is invoked, such 
+suspension and the reason for it are to be reported to a Cognizant 
+Secretarial Officer and to the Chief Health, Safety and Security Officer at 
+the earliest practicable time. 
+(8) Approve use of an alternative approach capable of demonstrating that the 
+dose rates to representative biota populations do not exceed the dose rate 
+criteria in DOE-STD-1153-2002, Table 2.2. 
+(9) Ensure survey methods and modeling are adequate to meet the 
+requirements of this Order, and consult with the Office of Health, Safety 
+and Security as necessary. 
+c. Chief Health, Safety and Security Officer. 
+(1) Develops new, or revises existing DOE directives, policies, guidance, 
+standards, requirements and procedures related to this Order and CRD, 
+and provides assistance on implementation issues. 
+(2) Plans and conducts appraisals to determine compliance with requirements 
+of this Order. (See DOE O 227.1, Independent Oversight Program, current 
+version). 
+(3) Evaluates the effectiveness of Departmental elements’ implementation of 
+the requirements and responsibilities of this Order. 
+(4) Provides consultation to Cognizant Secretarial Officers on approval 
+decisions related to the following: 
+(a) Requests for specific authorizations for a temporary public dose 
+limit and 
+(b) Authorized Limits for real and personal property, and property 
+excluded from the provisions of 10 CFR Part 835. 
+(5) Approves or provides consultation to Cognizant Secretarial Officers’ 
+approval decisions, or for NNSA sites provides consultation to the NNSA 
+Cognizant Secretarial Officer, on the following: 
+(a) The use of alternative dose coefficients,  
+(b) Alternative dose constraints for DOE residual radioactive material, 
+and 
+(c) Other (Alternative) Pre-Approved Authorized Limits. 
+(6) Consults in Field Element Managers’ approval of alternative dose 
+evaluation models, or for NNSA sites, provides consultation to the NNSA 
+Cognizant Secretarial Officer.
+
+--- page 31 ---
+DOE O 458.1 31 
+2-11-2011  
+ 
+ 
+(7) Following receipt of Authorized Limit applications provides consultation 
+to Cognizant Secretarial Officers on whether the supporting 
+documentation is incomplete, or if the Authorized Limits are not 
+acceptable. 
+d. Office of the Chief Financial Officer, in coordination with other Departmental 
+elements, ensures that requests for funding by Departmental elements responsible 
+for the development of policies, directives, and programs for maintaining the 
+radiological protection of the public and the environment are considered in the 
+annual budget requests. 
+e. Contracting Officers or Representatives. Modify contracts to incorporate the 
+Contractor Requirements Document in Attachment 1. 
+6. INVOKED TECHNICAL STANDARDS. The following DOE technical standard is 
+invoked as required methods in this Order in accordance with the applicability and 
+conditions described within this Order. Any technical standard or industry standard that is 
+mentioned in or referenced by this Order, but is not included in the list below, is not 
+invoked by this Order.  Note:  DOE O 251.1D, Appendix J provides a definition for 
+“invoked technical standard.” 
+DOE-STD-1196-2011, Derived Concentration Technical Standard.  This technical 
+standard establishes the DOE-approved concentrations for comparison with average 
+annual concentrations of radionuclides at discharge to determine the need for applying 
+Best Available Technology.  See Section 4.g. and Attachment 1, Section 2.g. for specific 
+requirements.   
+7. REFERENCES.  
+a. P.L. 106-65, Title 32, National Nuclear Security Administration Act, as amended, 
+which established a separately organized agency within the Department of 
+Energy. 
+b. 42 U.S.C. 2011, et seq., Atomic Energy Act of 1954, as amended, which 
+authorizes the conduct of atomic energy activities and establishes authority for 
+protecting the health and safety of the public. 
+c. 42 U.S.C. 300f et seq., Safe Drinking Water Act (SDWA) as amended, which 
+authorizes EPA to promulgate regulations under two specific programs: the first 
+protects the Nation's public drinking water supplies; the second protects 
+subsurface waters by regulating underground injection of materials. 
+d. DOE P 226.12, Policy for Federal Oversight and Contractor Assurance Systems, 
+current version, which establishes DOE’s expectations for the implementation of 
+a comprehensive and robust oversight process that enables the Department’s 
+mission to be accomplished effectively and efficiently while maintaining the 
+highest standard of performance for safety and security.
+
+--- page 32 ---
+32 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+e. DOE P 450.4, Integrated Safety Management System Policy, current version, 
+which establishes DOE’s expectation for environment, safety and health, 
+including integrated safety management that will enable DOE’s mission goals to 
+be accomplished efficiently while ensuring safe operations at all Departmental 
+facilities and activities. 
+f. DOE P 454.1, Use of Institutional Controls, current version, which delineates 
+how DOE will use institutional controls in the management of resources, facilities 
+and properties under its control and to implement its programmatic 
+responsibilities. 
+g. DOE O 226.1, Implementation of Department of Energy Oversight Policy, current 
+version, which establishes requirements and provides direction for implementing 
+DOE P 226.2, Policy for Federal Oversight and Contractor Assurance Systems, 
+current version.  
+h. DOE O 227.1, Independent Oversight Program, current version, which prescribes 
+the requirements and responsibilities for DOE’s Independent Oversight Program. 
+i. DOE O 231.1, Environment, Safety and Health Reporting, current version, which 
+ensures the Department of Energy, including NNSA, receives timely and accurate 
+information about events that have affected or could adversely affect the health, 
+safety and security of the public or workers, the environment, the operations of 
+DOE facilities, or the credibility of the Department. 
+j. DOE O 232.2, Occurrence Reporting and Processing of Operations Information, 
+current version, which ensures that DOE and NNSA are informed about events 
+that could adversely affect the health and safety of the public or the workers, the 
+environment, DOE missions, or the credibility of the Department. 
+k. DOE O 243.1, Records Management Program, current version, which sets forth 
+requirements and responsibilities for implementing and maintaining a 
+cost-effective records management program throughout DOE. 
+l. DOE O 251.1D, Departmental Directives Program, current version, which 
+defines requirements and responsibilities for implementing DOE’s Directives 
+Program, and establishes directives as the primary means to set, communicate, 
+and institutionalize policies, requirements, responsibilities, and procedures for 
+DOE elements and contractors. 
+m. DOE O 252.1, Technical Standards Program, current version, which promotes 
+the use of voluntary consensus standards by DOE as the primary method for 
+application of technical standards, and establishes and manages the Technical 
+Standards Program including technical standards development, information, 
+activities, issues and interactions.  
+n. DOE O 413.3, Program and Project Management for the Acquisition of Capital 
+Assets, current version, which provides the Department of Energy, including
+
+--- page 33 ---
+DOE O 458.1 33 
+2-11-2011  
+ 
+ 
+NNSA, with program and project management direction for the acquisition of 
+capital assets with the goal of delivering projects within the original performance 
+baseline, cost and schedule, and fully capable of meeting mission performance, 
+safeguards and security, and environmental, safety and health requirements unless 
+impacted by a directed change. 
+o. DOE O 414.1, Quality Assurance, current version, which contains requirements to 
+ensure that DOE, including NNSA, products and services meet or exceed 
+customers’ expectations, to achieve QA for all work, and to establish additional 
+process-specific quality requirements to be implemented under a QA program for 
+the control of suspect/counterfeit items, and nuclear safety software.  
+p. DOE O 430.1, Real Property Asset Management, current version, which 
+establishes a corporate, holistic, and performance-based approach to real property 
+life-cycle asset management that links real property asset planning, programming, 
+budgeting, and evaluation to program mission projections and performance 
+outcomes. 
+q. DOE G 435.1-1, Implementation Guide for Use with DOE M 435.1-1, current 
+version, which aids in implementing the requirements of DOE M 435.1-1, related 
+to general requirements and responsibilities, high-level waste requirements, 
+transuranic waste requirements and low-level waste requirements. 
+r. DOE M 435.1-1, Radioactive Waste Management Manual, current version, which 
+catalogs procedural requirements and existing practices to ensure that all DOE 
+elements and contractors continue to manage DOE’s radioactive waste in a 
+manner that is protective of worker and public health and safety and the 
+environment. 
+s. DOE O 435.1, Radioactive Waste Management, current version, which 
+establishes requirements to ensure that all DOE radioactive waste is managed in a 
+manner that is protective of worker and public health and safety and the 
+environment. 
+t. DOE-STD-1153-2002, A Graded Approach for Evaluating Radiation Doses to 
+Aquatic and Terrestrial Biota, dated 7-02, which provides methods, models, and 
+guidance within a graded approach that DOE and its contractors may use to 
+evaluate doses of ionizing radiation to populations of aquatic animals, terrestrial 
+plants, and terrestrial animals from DOE activities for the purpose of 
+demonstrating protection, and provides dose evaluation methods that can be used 
+to meet the requirements of DOE’s Order on Radiation Protection of the Public 
+and the Environment. 
+u. DOE-STD-1196-2011, Derived Concentration Technical Standard, dated 4-11, 
+which establishes the numerical values of Derived Concentration Standards in a 
+manner reflecting the current state of knowledge and practice in radiation 
+protection.
+
+--- page 34 ---
+34 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+v. DOE/EH-0173T, Environmental Regulatory Guide for Radiological Effluent 
+Monitoring and Environmental Surveillance, dated 1-91, which identifies those 
+monitoring and surveillance elements that are considered high priorities for a 
+radiological effluent monitoring and environmental surveillance program. 
+w. EH-412-0014/1099, Information Brief: The Long-Term Control of Property: 
+Overview of Requirements in Orders DOE 5400.1 & DOE 5400.5, dated 10-99, 
+which summarizes DOE requirements for radiation protection of the public and 
+environment to assist DOE elements plan and implement programs for long-term 
+control (stewardship) of property. 
+x. American National Standards Institute (ANSI) and Health Physics Society (HPS), 
+1999. ANSI/HPS N.13-12-1999, Surface and Volume Radioactivity Standards for 
+Clearance, which contains recommendations on clearance of solid materials. 
+y. American National Standards Institute (ANSI) and Health Physics Society (HPS), 
+2009. ANSI/HPS N 13.53-2009, Control and Release of Technologically 
+Enhanced Naturally Occurring Radioactive Material (TENORM), which contains 
+recommendations on control of TENORM. 
+z. International Atomic Energy Agency, Safety Standards Series No. RS-G-1.7, 
+2004. Application of the Concepts of Exclusion, Exemption and Clearance, which 
+contains recommendations for exemption of radioactive materials from 
+administrative controls. 
+aa. International Commission on Radiological Protection (ICRP) Publication 60, 
+1991, 1990 Recommendations of the International Commission on Radiological 
+Protection, Ann. ICRP Vol. 21(1-3), which provides recommendations regarding 
+the fundamental principles of radiation protection. It specifically was used as a 
+basis for radiation and tissue weighting factors in 10 CFR Part 835 and is 
+considered here for consistency with other DOE regulations. 
+bb. ICRP Publication 101, 2006, Assessing Dose of the Representative Person for the 
+Purpose of Radiation Protection of the Public and the Optimisation of 
+Radiological Protection, Ann. ICRP Vol. 36(3), provides bases for the 
+development of ‘reference person’ and ‘representative person.’ 
+cc. ICRP Publication 103, 2007, 2007 Recommendations of the International 
+Commission on Radiological Protection, Ann. ICRP Vol. 37(2-4), which provides 
+the most recent ICRP recommendations regarding the fundamental principles of 
+radiation protection. Concepts presented in this edition, such as 'reference person' 
+and 'representative person' were used in this directive. 
+dd. Interagency Steering Committee on Radiation Standards (ISCORS), Federal 
+Institutional Control Requirements for Radioactive Waste and Restricted Release 
+of Property Containing Radioactive Material, dated 12-99, which tabulates
+
+--- page 35 ---
+DOE O 458.1 35 
+2-11-2011  
+ 
+ 
+regulatory requirements for disposal of radioactive waste and restricted release of 
+sites containing radioactive material for the Environmental Protection Agency, the 
+Nuclear Regulatory Commission and the Department of Energy. 
+ee. ISCORS Technical Report 2004-02 (DOE/EH-0676), RESRAD-BIOTA: A Tool 
+for Implementing a Graded Approach to Biota Dose Evaluation, User’s Guide, 
+Version 1, dated 1-04, which presents a User’s Guide for the RESRAD-BIOTA 
+code.  The RESRAD-BIOTA code provides a complete spectrum of biota dose 
+evaluation capabilities, from methods for general screening, to comprehensive 
+receptor-specific dose estimation. 
+ff. National Council on Radiation Protection and Measurements (NCRP) Report No. 
+116, Limitation of Exposure to Ionizing Radiation, dated 3-93, which provides 
+recommendations on specific dose limit criteria and methods of demonstrating 
+compliance with the dose limits. 
+gg. U.S. Nuclear Regulatory Commission NUREG-1575, Rev. 1 Multi-Agency 
+Radiation Survey and Site Investigation Manual (MARSSIM), Revision 1, 
+Environmental Protection Agency (EPA) 402-R-97-016, Rev. 1, DOE/EH-0624, 
+Rev. 1, dated 8-00, which provides comprehensive guidance on planning, 
+conducting, assessing and documenting radiological surveys of sites with 
+radioactive contaminants in surface soil and on building surfaces with a specific 
+focus on the final status surveys that are carried out to demonstrate compliance 
+with cleanup regulations. 
+hh. NUREG-1576, EPA 402-B-04-001A, Multi-Agency Radiological Laboratory 
+Analytical Protocols Manual (MARLAP), Vol. 1-3, National Technical 
+Information Service Publication (NTIS PB) 2004-105421, dated 7-04, which 
+provides guidance for the planning, implementation and assessment phases of 
+projects involving laboratory analysis of radionuclides to ensure the generation of 
+consistent and comparable data projects and programs and to ensure that 
+laboratory data meet project-specific data quality objectives. 
+ii. NUREG-1575, Supp. 1 Multi-Agency Radiation Survey and Assessment of 
+Materials and Equipment Manual (MARSAME), EPA 402-R-09-001, 
+DOE/HS-004, dated 1-09, which is a multi-agency consensus document that 
+supplements the Multi-Agency Radiation Survey and Site Investigation Manual 
+(MARSSIM) by providing information on planning, conducting, evaluating, and 
+documenting radiological disposition surveys for the assessment of materials and 
+equipment. 
+jj. Yu, C., D.J. LePoire, J.-J. Cheng, E. Gnanapragasam, S. Kamboj, J.Arnish, B.M. 
+Biwer, A.J. Zielen, A. Wallo III, W.A. Williams, and H. T. Peterson, Jr., User’s 
+Manual for RESRAD-BUILD Version 3, dated June 2003, which provides 
+documentation for RESRAD-BUILD, a computer code used to evaluate potential
+
+--- page 36 ---
+36 DOE O 458.1 
+ 2-11-2011 
+ 
+ 
+health impacts in buildings contaminated with radioactive materials, and available 
+at: http://web.ead.anl.gov/resrad/. 
+kk. Yu, C., A.J. Zielen, J.-J. Cheng, D.J. LePoire, E. Gnanapragasam, S. Kamboj, A. 
+Wallo III, W.A. Williams, and H. Peterson, User’s Manual for RESRAD Version 
+6, dated July 2001, which provides documentation for the RESRAD pathway 
+analysis computer code available at: http://web.ead.anl.gov/resrad/. 
+ll. 10 CFR Part 20, Standards for Protection Against Radiation, which establishes 
+standards for protection against ionizing radiation resulting from activities 
+conducted by NRC licensees. 
+mm. 10 CFR Part 770, Transfer of Real Property at Defense Nuclear Facilities for 
+Economic Development, which establishes a process for disposing of unneeded 
+real property at DOE’s defense nuclear facilities for economic development 
+purposes. 
+nn. 10 CFR Part 835, Occupational Radiation Protection, which establishes radiation 
+protection standards, limits, and program requirements for protecting individuals 
+from ionizing radiation resulting from the conduct of DOE activities. 
+oo. 40 CFR Part 61, National Emission Standards for Hazardous Air Pollutants. 
+Subpart H applies to the emissions of radionuclides other than radon from DOE 
+facilities. Subpart Q applies to radon emissions from DOE facilities. Subpart T 
+applies to radon emissions from the disposal of uranium mill tailings. Subpart A 
+contains General Provisions. 
+pp. 40 CFR Part 141, National Primary Drinking Water Regulations which prescribes 
+radionuclide concentration limits for public drinking water. 
+qq. 40 CFR Part 191, Environmental Radiation Protection Standards for 
+Management and Disposal of Spent Nuclear Fuel, High-Level and Transuranic 
+Radioactive Wastes which establishes requirements for the management and 
+disposal of spent nuclear fuel, high-level, and transuranic wastes. 
+rr. 41 CFR Chapter 109, Department of Energy Property Management Regulations, 
+which establishes uniform DOE property management policies, regulations, and 
+procedures that implement and supplement the Federal Property Management 
+Regulations.  
+8. DEFINITIONS. See Attachment 2. 
+9. CONTACT. Questions concerning this Order should be referred to the Office of 
+Environmental Protection, Sustainability Support and Corporate Safety Analysis at (202) 
+586-7870.
+
+--- page 37 ---
+DOE O 458.1 37 
+2-11-2011  
+ 
+ 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ 
+MARK W. MENEZES 
+Deputy Secretary
+
+--- page 38 ---
+DOE O 458.1 Attachment 1 
+2-11-2011 Page 1-1 
+ 
+ 
+ATTACHMENT 1 
+CONTRACTOR REQUIREMENTS DOCUMENT 
+DOE O 458.1 Chg. 5, RADIATION PROTECTION OF THE PUBLIC AND THE 
+ENVIRONMENT 
+The provisions of this Contractor Requirements Document (CRD) apply to all radiological 
+activities conducted by Department of Energy (DOE) and National Nuclear Security 
+Administration (NNSA) contractors. 
+Regardless of the performer of the work, the contractor is responsible for complying with the 
+requirements of this CRD and flowing down the CRD requirements to subcontractors at any tier 
+to the extent necessary to ensure contractor compliance with the requirements. 
+1. GENERAL REQUIREMENTS. 
+a. The contractor must establish and implement a program to protect the public and 
+the environment against undue risk from radiation associated with DOE 
+radiological activities through application of the Specific Requirements (paragraph 
+2.) in this CRD. 
+b. The contractor must provide a schedule for full implementation of the Specific 
+Requirements in this CRD as directed by DOE. 
+c. The contractor must develop documentation that demonstrates how the Specific 
+Requirements in this CRD are implemented. 
+d. The contractor must obtain DOE line management approval of the documentation 
+demonstrating compliance with the Specific Requirements in this CRD. 
+2. SPECIFIC REQUIREMENTS. 
+a. Environmental Radiological Protection Program. The contractor conducting 
+radiological activities must develop and implement a documented program which 
+addresses compliance with the Specific Requirements in this CRD that are 
+relevant to the particular activities being conducted.  
+(1) The program, (documented by the contractor’s plans, procedures, 
+protocols and other documents developed to implement the relevant 
+requirements of this CRD) must be tailored to these activities and reflect a 
+graded approach commensurate with the hazard or risk to the public and 
+the environment resulting from the DOE operations. 
+(2) Where long-term stewardship and institutional controls for protection of 
+the public and the environment are necessary to meet the Specific 
+Requirements in this CRD, the contractor must ensure that the need for the 
+controls is documented and maintained and to the extent the contractor is 
+responsible, implement the controls. If the contractor is not responsible for 
+implementation of the controls, the contractor must provide reasonable
+
+--- page 39 ---
+Attachment 1 DOE O 458.1 
+Page 1-2 2-11-2011 
+ 
+ 
+assurance that necessary controls are being implemented by the 
+responsible party prior to conducting activities that can affect the public or 
+the environment. 
+b. Public Dose Limit. The contractor must establish and implement procedures and 
+practices to address the following elements related to the public dose limit: 
+(1) DOE radiological activities, including remedial actions and activities 
+using Technologically Enhanced Naturally Occurring Radioactive 
+Material (TENORM), must be conducted so that exposure of members of 
+the public to ionizing radiation will: 
+(a) Not cause a total effective dose (TED) exceeding 100 mrem 
+(1mSv) in a year, an equivalent dose to the lens of the eye 
+exceeding 1500 mrem (15 mSv) in a year, or an equivalent dose to 
+the skin or extremities exceeding 5000 mrem (50 mSv) in a year, 
+from all sources of ionizing radiation and exposure pathways that 
+could contribute significantly to the total dose excepting: 
+1 Dose from radon and its decay products in air [Radon is 
+addressed separately e.g., under paragraphs 2.f. and 2.h. of 
+the Specific Requirements in this CRD and under Title 40 
+Code of Federal Regulations (CFR) Part 61, Subparts Q 
+and T]; 
+2 Dose received by patients from medical sources of 
+radiation, and by volunteers in medical research programs;  
+3 Dose from background radiation; and 
+4 Dose from occupational exposure under Nuclear 
+Regulatory Commission (NRC) or Agreement State license 
+or to general employees regulated under 10 CFR Part 835, 
+and  
+(b) Comply with As Low As Reasonably Achievable (ALARA) 
+requirements in paragraph 2.d. of the Specific Requirements in this 
+CRD. 
+(2) The public dose limit applies to members of the public located off DOE 
+sites and on DOE sites outside of controlled areas, and to those exposed to 
+residual radioactive material subsequent to any remedial action or 
+clearance of property. 
+c. Temporary Dose Limits. If special circumstances could affect a DOE 
+radiological activity in such a manner that the potential dose to a member of the 
+public could exceed a TED of 100 mrem (1 mSv) in a year the contractor must
+
+--- page 40 ---
+DOE O 458.1 Attachment 1 
+2-11-2011 Page 1-3 
+ 
+ 
+submit a request for specific authorization for a temporary public dose limit 
+higher than 100 mrem (1 mSv) in a year to the responsible Field Element 
+Manager. This request must include documentation that justifies the need for 
+the increase, the alternatives considered, and the application of the ALARA 
+process. The specific exposure pathways excepted in paragraphs 2.b.(1)(a) 1-4 
+of the Specific Requirements in this CRD are also excepted for temporary dose 
+limits. 
+d. As Low As Reasonably Achievable (ALARA). 
+(1) An ALARA process must be implemented to optimize control and 
+management of radiological activities so that doses to members of the 
+public (both individual and collective) and releases to the environment 
+are kept as low as reasonably achievable. The process must be applied 
+to the design or modification of facilities and conduct of activities that 
+can expose the public or the environment to radiation or radioactive 
+material. 
+(2) The ALARA process must: consider DOE sources, modes of exposure and 
+all pathways which potentially could result in the release of radioactive 
+material into the environment, or exposure to the public; use a graded 
+approach; and, to the extent practical and when appropriate, be 
+coordinated with the 10 CFR Part 835 ALARA process. 
+e. Demonstrating Compliance with the Public Dose Limit. The contractor must 
+establish and implement procedures and practices to demonstrate compliance with 
+the public dose limit and to address the following elements: 
+(1) Dose evaluations to demonstrate compliance with the public dose limit in 
+paragraph 2.b.(1) of the Specific Requirements in this CRD and assess 
+collective dose must include the following: 
+(a) The TED to members of the public from exposure to radiation, 
+airborne effluents, and liquid effluents, of DOE origin. 
+1 Compliance may be demonstrated by calculating dose to 
+the representative person or to the maximally exposed 
+individual (MEI). 
+2 Determination of the representative person or the MEI must 
+include members of the public both on DOE sites outside of 
+controlled areas and off DOE sites. 
+3 If it is suspected that any of the dose limits specified in 
+paragraph 2.b.(1)(a) of the Specific Requirements in this 
+CRD may be exceeded or the estimated TED for members 
+of the public exceeds 25 mrem (0.25 mSv) in a year, then
+
+--- page 41 ---
+Attachment 1 DOE O 458.1 
+Page 1-4 2-11-2011 
+ 
+ 
+dose to the lens of the eye, skin, and extremities must be 
+evaluated.  
+(b) Analytical models that consider likely exposure pathways, such as: 
+1 Direct external radiation from sources located on-site; 
+2 External radiation from airborne radioactive material; 
+3 External radiation from radioactive material deposited on 
+surfaces off-site; 
+4 Internal radiation from inhaled airborne radioactive 
+material; 
+5 Internal radiation from radioactive material ingested with 
+water, and with food from terrestrial crops or animal 
+products (e.g., meat, eggs, milk);  
+6 Internal radiation from radioactive material ingested with 
+aquatic food products such as fish, shellfish, crustaceans 
+(e.g., crayfish, shrimp, crab, lobsters), and aquatic plants 
+and algae; 
+7 External or internal radiation due to residual radioactive 
+material on, or in, cleared real property; and 
+8 Any other pathway unique to the DOE site or activity. 
+(c) The dose to members of the public from DOE-related exposure 
+sources only, if the projected DOE-related dose to the 
+representative person or MEI is 25 mrem (0.25mSv) in a year or 
+less. If the DOE-related dose is greater than 25 mrem in a year, the 
+dose to members of the public must include both major non-DOE 
+sources of exposure (excluding dose from radon and its decay 
+products in air, background radiation dose, occupational doses and 
+doses due to medical exposures) and dose from DOE-related 
+sources; 
+(d) Collective dose for members of the public resulting from 
+radiation emitted and radioactive materials released from DOE 
+radiological activities only (not including radon and its decay 
+products). Collective dose for members of the public must be 
+representative of the total dose and of adequate quality for 
+supported comparisons, trending or decisions. Consistent with the 
+graded approach, collective dose estimates may be truncated by 
+distance (e.g., 50 miles) or individual dose level (e.g., 10 
+microrem) when integration of doses beyond such thresholds does
+
+--- page 42 ---
+DOE O 458.1 Attachment 1 
+2-11-2011 Page 1-5 
+ 
+ 
+not significantly affect data quality objectives. Where it is of 
+concern, collective dose for members of the public resulting from 
+radon and its decay products released by DOE radiological 
+activities needs to be calculated separately from other 
+radionuclides.  
+(2) The estimated individual dose to the MEI or representative person that is 
+representative of the persons or group likely to receive the most dose and 
+is based on pathway and exposure parameters that are not likely to 
+underestimate or substantially overestimate the dose, and, the collective 
+dose (population dose) that is a realistic as practicable estimate of the 
+sum of the doses to all members of the actual exposed population. 
+(3) Site-specific information on radiation source dispersion patterns, location 
+and demography of members of the public in the vicinity of DOE 
+radiological activities, land use, food supplies, and exposure pathway 
+information must be updated, as necessary, to document significant 
+changes that could affect dose evaluations.  
+(4) Values of assumed default or site-specific parameters used in 
+calculations must be identified and included with the documentation of the 
+calculations. 
+(5) Direct measurements must be made, to the extent practicable, to obtain 
+information characterizing source terms, exposures, exposure modes, and 
+other information needed in evaluating dose.  
+(6) Models for dose evaluation calculations must be appropriate for their 
+purpose.  Dose evaluation models that are codified or approved for use 
+by regulators of DOE or by DOE must be used where applicable.  
+Alternatives to such codified or approved dose evaluation models to be 
+used for demonstrating compliance must be approved by the Field 
+Element Manager. 
+(7) DOE-approved dose coefficients must be used to evaluate doses resulting 
+from DOE radiological activities. Use of alternative dose coefficients 
+must be approved by the Chief Health, Safety and Security Officer or by 
+a Cognizant Secretarial Officer in consultation with the Chief Health, 
+Safety and Security Officer.  
+(8) Doses to members of the public from airborne effluents must be 
+evaluated with the CAP-88 model or another EPA-approved model or 
+method to demonstrate compliance with applicable subparts of 
+40 CFR Part 61, National Emission Standards for Hazardous Air 
+Pollutants.
+
+--- page 43 ---
+Attachment 1 DOE O 458.1 
+Page 1-6 2-11-2011 
+ 
+ 
+(9) Environmental monitoring must be conducted to characterize routine and 
+non-routine releases of radioactive material from radiological activities, 
+estimate the dispersal pattern in the environs, characterize the pathway(s) 
+of exposure to members of the public and estimate the doses to 
+individuals and populations in the vicinity of the site or operation 
+commensurate with the nature of the DOE radiological activities and the 
+risk to the public and the environment. Radiological monitoring must be 
+integrated with the general environmental and effluent monitoring. 
+Environmental monitoring must include, but is not limited to: 
+(a) Effluent Monitoring 
+(b) Environmental Surveillance 
+(c) Meteorological Monitoring. Meteorological monitoring must be 
+commensurate with the level of site radiological activities, the site 
+topographical characteristics, and the distance to critical 
+receptors. The scope must be sufficient to characterize 
+atmospheric dispersion and model the dose to members of the 
+public over distances commensurate with the magnitude of 
+potential source terms and possible pathways to the atmosphere. 
+(d) Pre-operational Monitoring. Prior to the startup of a new site, 
+facility or process with the potential to expose the public or 
+environment to radiation or radioactive material, it is necessary to 
+ensure that adequate knowledge exists to understand: 1) 
+radiological background; 2) pertinent environmental and 
+ecological parameters; and 3) potential pathways for human 
+exposures or ecological/natural resource impacts either from 
+existing data or documents (for example, NEPA evaluations or 
+existing monitoring and surveillance programs, etc.) or from the 
+conduct of a pre-operational study initiated at least one year prior 
+to startup of a new operation. 
+(10) Site-specific environmental monitoring criteria must be established to 
+ensure that representative measurements of quantities and concentrations 
+of radiological contaminants are conducted and that the effects from 
+DOE radiological activities on members of the public and the 
+environment are monitored sufficiently to demonstrate compliance with 
+the Specific Requirements in this CRD. 
+f. Airborne Radioactive Effluents. The contractor must establish and implement 
+procedures and practices related to airborne radioactive effluents so that 
+radiological activities are conducted in a manner such that the release of 
+radioactive material to the atmosphere will:
+
+--- page 44 ---
+DOE O 458.1 Attachment 1 
+2-11-2011 Page 1-7 
+ 
+ 
+(1) Be evaluated using the ALARA process established in paragraph 2.d. of 
+the Specific Requirements in this CRD; 
+(2) Not cause radon-222 flux rates to exceed 20 pCi (0.7 Bq)/m2-sec 
+averaged over the surface area overlaying waste, including the covering 
+or other confinement structures, wherever radium-226 wastes are 
+accepted for storage or disposal (See 40 CFR Part 61, Subparts Q and T);  
+(3) Meet compliance agreements under 40 CFR Part 61, Subparts H, Q, and 
+T;  
+(4) Not cause the radon-220 and radon-222 decay product concentration, 
+including background, to exceed 0.03 WL in buildings that are being 
+released from DOE control. Further, a reasonable effort must be made to 
+meet a 0.02WL generic guideline for annual average radon-220 and 
+radon-222 decay product concentration, including background, in such 
+buildings; and 
+(5) Not exceed 3 pCi/L annual average radon-220 and radon-222 
+concentration, not including background, at the site boundary if DOE 
+activities release radon-220 and radon-222 or their decay products. 
+g. Control and Management of Radionuclides from DOE Activities in Liquid 
+Discharges. The contractor must establish and implement procedures and 
+practices related to control and management of radionuclides from DOE 
+activities in liquid discharges. Operators of DOE facilities discharging or 
+releasing liquids containing radionuclides from DOE activities must: 
+(1) Characterize planned and unplanned releases of liquids containing 
+radionuclides from DOE activities, consistent with the potential for 
+on- and off-site impacts, and provide an assessment of radiological 
+consequences as necessary to demonstrate compliance with the Specific 
+Requirements of this CRD. 
+(2) Comply with the ALARA process requirements in paragraph 2.d. of the 
+Specific Requirements in this CRD. 
+(3) Conduct activities to ensure that liquid releases containing radionuclides 
+from DOE activities are managed in a manner that protects ground water 
+resources now and in the future, based on use and value considerations. 
+(4) Conduct activities to ensure that liquid discharges containing 
+radionuclides from DOE activities do not exceed an annual average (at 
+the point of discharge) of either of the following: 
+(a) 5 pCi (0.2 Bq) per gram above background of settleable solids for 
+alpha-emitting radionuclides.
+
+--- page 45 ---
+Attachment 1 DOE O 458.1 
+Page 1-8 2-11-2011 
+ 
+ 
+(b) 50 pCi (2 Bq) per gram above background of settleable solids for 
+beta-gamma-emitting radionuclides. 
+(5) Except for tritium and sanitary sewers, apply Best Available Technology 
+(BAT) if at the point of discharge: 
+(a) The annual average concentration of a given radionuclide is 
+greater than the DOE-approved derived concentration standard 
+(DCS) value for water contained in the Derived Concentration 
+Technical Standard, DOE-STD-1196-2011, or for multiple 
+radionuclides, the composite DCS must be the sum of the 
+fractional DCS values derived from DOE-approved DCS values; 
+(b) The discharge contributes greater than 10 mrem (0.1 mSv) annual 
+TED to members of the public; or  
+(c) The collective dose from all DOE sources is greater than 100 
+person-rem (1 person-Sv) and the liquid discharge contributes 50 
+percent or more of this collective dose. 
+(6) Control releases of tritium in a manner that has been established by 
+application of the ALARA process. 
+(7) Conduct radiological activities to ensure that radionuclides from DOE 
+activities contained in liquid effluents do not cause private or public 
+drinking water systems to exceed the drinking water maximum 
+contaminant levels in 40 CFR Part 141, National Primary Drinking 
+Water Regulations.  
+(8) Control discharges into sanitary sewers in accordance with the following 
+requirements: 
+(a) Except for excreta from patients and medical research volunteers 
+treated with radioactive material, discharges of liquids containing 
+radionuclides from DOE activities into non-Federally owned 
+sanitary sewers are prohibited unless: 
+1 The material is readily soluble (or readily dispersed 
+biological materials) in water; 
+2 Such discharges comply with ALARA process 
+requirements; 
+3 BAT is applied to discharges of liquid releases containing 
+radionuclides from DOE activities if the average monthly 
+concentration level at the point of discharge into the 
+sanitary sewer is greater than five times the DOE-approved
+
+--- page 46 ---
+DOE O 458.1 Attachment 1 
+2-11-2011 Page 1-9 
+ 
+ 
+DCS values for ingestion except for tritium which is 
+addressed under paragraph 2.g.(6); 
+4 Releases do not result in an annual discharge (above 
+background) into sanitary sewers in excess of 5 Ci (185 
+GBq) of tritium; 1 Ci (37 GBq) carbon-14 or 1 Ci (37 GBq) 
+of all other radionuclides combined; 
+5 DOE operations are conducted to minimize long-term 
+buildup of radionuclides in the sewage treatment plants that 
+may create handling and disposal issues or interfere with 
+plant operations; 
+6 The contractor notifies the responsible Field Element 
+Manager of unusual discharges to sanitary sewers from 
+DOE facilities;  
+7 The contractor prepares and provides a report that describes 
+and summarizes such discharges to sanitary sewers to the 
+responsible Field Element Manager at least annually; and 
+8 Existing agreements, contracts, statements of understanding 
+or other formal arrangements with other agencies 
+concerning the discharge of liquids containing 
+radionuclides from DOE activities to sanitary sewers are 
+not violated. 
+(b) DOE facilities discharging liquids containing radionuclides from 
+DOE activities into sanitary sewer systems owned by the Federal 
+government are not subject to the requirements in paragraph 
+2.g.(8)(a) of the Specific Requirements in this CRD if: 
+1 The system provides treatment in accordance with the 
+environmental radiological protection program and 
+2 Sludge from the system is disposed of in accordance with 
+the Specific Requirements in this CRD and applicable 
+Federal, State, and municipal regulations. 
+(9) Prohibit the use of soil columns.  
+(10) Manage the disposition of non-process water potentially containing 
+radionuclides from DOE activities to protect soil and ground water and 
+prevent the creation of future cleanup sites. 
+(11) Ensure that storm water runoff containing radionuclides from DOE 
+activities is considered, as appropriate, as a pathway of exposure that has 
+the potential for on- and off-site impacts. Using a graded approach, the
+
+--- page 47 ---
+Attachment 1 DOE O 458.1 
+Page 1-10 2-11-2011 
+ 
+ 
+receiving ecosystem including, but not limited to, wetlands, floodplains, 
+streams, ponds, basins and lakes must be monitored to evaluate human or 
+ecological impacts when warranted based on site specific risk. 
+h. Radioactive Waste and Spent Nuclear Fuel. The contractor must establish and 
+implement procedures and practices to ensure that management, storage and 
+disposal of radioactive waste and spent nuclear fuel on DOE sites address the 
+following elements: 
+(1) Radiological activities must be conducted in a manner such that radiation 
+exposure to members of the public from management and storage of 
+radioactive waste complies with ALARA process requirements and does 
+not result in a TED greater than 25 mrem (0.25 mSv) in a year from all 
+exposure pathways and radiation sources associated with the waste, except 
+for transportation and radon and its decay products. 
+(2) Management of spent nuclear fuel, and high-level and transuranic wastes 
+at a disposal facility which is not regulated by the NRC must comply with 
+the requirements of this CRD and 40 CFR Part 191, Environmental 
+Radiation Protection Standards for Management and Disposal of Spent 
+Nuclear Fuel, High-level and Transuranic Radioactive Wastes. 
+(3) Management, storage and disposal of low-level radioactive waste must be 
+conducted in a manner such that exposure to members of the public to 
+radiation from radioactive waste complies with ALARA process 
+requirements, and does not exceed a TED of 25 mrem (0.25 mSv) in a 
+year from all exposure pathways and radiation sources associated with the 
+waste, except for transportation and radon and its decay products. 
+(4) Management, storage and disposal of 11e.(2) byproduct material, as 
+defined in Section 11e.(2) of the AEA and other wastes containing 
+uranium and thorium and their decay products which are not subject to the 
+requirements of 40 CFR Part 192, Health and Environmental Protection 
+Standards for Uranium and Thorium Mill Tailings, are not at facilities 
+licensed by the NRC, or are not disposed of at DOE low-level waste 
+disposal facilities, must be in accordance with the requirements of 
+paragraph 2.h. of the Specific Requirements in this CRD and 
+DOE-approved plans. 
+(a) Disposal facilities for uranium and thorium wastes must be 
+designed to: 
+1 Remain effective for 1,000 years, to the extent 
+reasonably achievable, and, in any case, for at least 200 
+years, and
+
+--- page 48 ---
+DOE O 458.1 Attachment 1 
+2-11-2011 Page 1-11 
+ 
+ 
+2 Provide reasonable assurance that releases of radon-222 
+to the atmosphere will not:  
+a Exceed an average release rate of 20 picocuries 
+per square meter per second or  
+b Increase the annual average concentration of 
+radon-222 in air at or above any location outside 
+the disposal site by more than one-half picocurie 
+per liter. 
+(b) For wastes containing significant concentrations of radium and 
+thorium, special considerations must be given to measures to 
+prevent inadvertent human intrusion. 
+(c) Before any potentially biodegradable contaminated wastes are 
+placed in a disposal facility, such wastes must be conditioned so 
+that the generation and escape of biogenic gases will not cause the 
+emission or dose limits in paragraph 2.h. of the Specific 
+Requirements in this CRD to be exceeded and that bio-degradation 
+within the facility will not result in premature structural failure. 
+(d) All plans for the management and disposal of these wastes must 
+provide for institutional controls and long-term stewardship of the 
+disposal facility necessary to ensure continued performance. 
+(5) Discrete sources of radium-226, accelerator produced radioactive material, 
+or naturally-occurring radioactive material (NORM) that pose a threat 
+similar to discrete sources of radium-226, which are defined as Section 
+11e.(3) or 11e.(4) byproduct material in the AEA, must be managed as 
+high-level waste, low-level waste or 11e.(2) material as appropriate under 
+DOE AEA authorities and in compliance with the Specific Requirements 
+in this CRD and the requirements in the CRD to DOE O 435.1, current 
+version. 
+i. Protection of Drinking Water and Ground Water. 
+(1) The contractor must establish and implement procedures and practices to 
+ensure that DOE sites provide a level of radiation protection for persons 
+consuming water from a drinking water system operated by DOE, directly 
+or through a DOE contractor, which is equivalent to that provided to 
+members of the public by the community drinking water standards of 
+40 CFR Part 141, National Primary Drinking Water Regulations (that is, 
+not exceed the radionuclide maximum contaminant levels (MCLs)). 
+(2) The contractor must protect ground water from radiological contamination 
+to ensure compliance with dose limits in the Specific Requirements in this
+
+--- page 49 ---
+Attachment 1 DOE O 458.1 
+Page 1-12 2-11-2011 
+ 
+ 
+CRD and consistent with ALARA process requirements. To that end the 
+contractor must ensure that: 
+(a) Baseline conditions of the ground water quantity and quality are 
+documented; 
+(b) Possible sources of, and potential for, radiological contamination 
+are identified and assessed; 
+(c) Strategies to control radiological contamination are documented 
+and implemented; 
+(d) Monitoring methodologies are documented and implemented; and 
+(e) Ground water monitoring activities are integrated with other 
+environmental monitoring activities. 
+j. Protection of Biota. The contractor must establish and implement procedures and 
+practices to ensure that biota are protected and to address the following 
+elements: 
+(1) Radiological activities that have the potential to impact the environment 
+must be conducted in a manner that protects populations of aquatic 
+animals, terrestrial plants, and terrestrial animals in local ecosystems from 
+adverse effects due to radiation and radioactive material released from 
+DOE operations. 
+(2) When actions taken to protect humans from radiation and radioactive 
+materials are not adequate to protect biota then evaluations must be done 
+to demonstrate compliance with paragraph 2.j.(1) of the Specific 
+Requirements in this CRD in one or more of the following ways:  
+(a) Use DOE-STD-1153-2002, A Graded Approach for Evaluating 
+Radiation Doses to Aquatic and Terrestrial Biota. 
+(b) Use an alternative approach to demonstrate that the dose rates to 
+representative biota populations do not exceed the dose rate criteria 
+in DOE-STD-1153-2002, Table 2.2.  
+(c) Use an ecological risk assessment to demonstrate that radiation and 
+radioactive material released from DOE operations will not 
+adversely affect populations within the ecosystem. 
+k. Release and Clearance of Property. The contractor must establish and implement 
+procedures and practices to ensure that release or clearance of property with the 
+potential to contain residual radioactive material must be conducted in accordance
+
+--- page 50 ---
+DOE O 458.1 Attachment 1 
+2-11-2011 Page 1-13 
+ 
+ 
+with DOE direction and in accordance with the requirements in paragraph 2.k. of 
+the Specific Requirements in this CRD4. 
+(1) Property control and clearance processes must be developed and 
+implemented in accordance with the dose limits in paragraph 2.b of the 
+Specific Requirements in this CRD under any plausible use of the property 
+and the ALARA process requirements in paragraph 2.d of the Specific 
+Requirements in this CRD must be met before property is cleared. 
+(2) Dose Constraints. Unless alternative dose constraints are approved by 
+issuance of a directive or memorandum by the Chief Health, Safety and 
+Security Officer or for NNSA, the Cognizant Secretarial Officer in 
+consultation with the Chief Health, Safety and Security Officer, the 
+following dose constraints for DOE residual radioactive material must be 
+applied to each specific clearance of property for any actual or likely 
+future use of the property: 
+(a) Real property – a TED of 25 mrem (0.25 mSv) above background 
+in any calendar year; 
+(b) Personal property - a TED of 1 mrem (0.01 mSv) above 
+background in any calendar year. 
+(3) Residual Radioactive Material. Property potentially containing residual 
+radioactive material must not be cleared from DOE control unless either: 
+(a) The property is demonstrated not to contain residual radioactive 
+material based on process and historical knowledge, radiological 
+monitoring or surveys, or a combination of these; or 
+(b) The property is evaluated and appropriately monitored or surveyed 
+to determine: 
+1 The types and quantities of residual radioactive material 
+within the property; 
+2 The quantities of removable and total residual radioactive 
+material on property surfaces (including residual 
+radioactive material present on and under any coating);  
+3 That for property with potentially contaminated surfaces 
+that are difficult to access for radiological monitoring or 
+                                                 
+4 In addition to paragraph 2.k of the Specific Requirements in this CRD, the following may have applicable 
+requirements regarding clearance of property: 41 CFR Chapter 109, Department of Energy Property Management 
+Regulations; DOE O 430.1, Real Property Asset Management, current version.
+
+--- page 51 ---
+Attachment 1 DOE O 458.1 
+Page 1-14 2-11-2011 
+ 
+ 
+surveys, an evaluation of residual radioactive material on 
+such surfaces is performed which is: 
+a Based on process and historical knowledge meeting 
+the requirements of paragraph 2.k.(5) of the 
+Specific Requirements in this CRD and monitoring 
+and or surveys, to the extent feasible and 
+b Sufficient to demonstrate that applicable specific or 
+pre-approved DOE Authorized Limits will not be 
+exceeded; and 
+4 That any residual radioactive material within or on the 
+property is in compliance with applicable specific or 
+pre-approved DOE Authorized Limits. 
+(4) Evaluation of the Need for Maintaining Institutional Controls for Real 
+Property. Real property under evaluation for clearance from DOE 
+radiological controls must be evaluated against the need for maintaining 
+institutional controls or impacting long-term stewardship of adjacent DOE 
+real property. In situations where transfer of the real property to other use 
+would impact long-term radiological protection of adjacent DOE 
+properties, it must be demonstrated that the impact of the property 
+clearance would not result in noncompliance for the adjacent property 
+with the requirements of applicable statutes, regulations or DOE 
+directives. 
+(5) Process and Historical Knowledge. Contractors responsible for 
+radiological clearance of property, when they rely in part, on process 
+knowledge as a basis for clearance decisions, must establish a documented 
+evaluation process, using a graded approach, for applying process and 
+historical knowledge to determine if property potentially contains residual 
+radioactive material. 
+(a) This process must include procedures for evaluating operational 
+records and operating history, including the use of any radioactive 
+materials or radiation generating devices. 
+(b) For real property, this process must address each specific property 
+individually. If several parcels of land are contiguous, or if several 
+structures are located in the same area and have a common 
+operational history, a single evaluation for all of the properties is 
+acceptable. 
+(c) If available process and historical knowledge cannot demonstrate 
+that property does not contain residual radioactive materials,
+
+--- page 52 ---
+DOE O 458.1 Attachment 1 
+2-11-2011 Page 1-15 
+ 
+ 
+radiological monitoring or surveys must be conducted to 
+supplement process and historical knowledge evaluations. 
+(d) If not supplemented by radiological surveys, process and historical 
+knowledge evaluations must be adequate to determine: 
+1 Whether the property has ever been used for radiological 
+activities or in areas that could have resulted in the 
+presence of residual radioactive material within or on the 
+property, or 
+2 Whether property formerly containing residual radioactive 
+material has been decontaminated and demonstrated to 
+meet DOE Authorized Limits, and has not been used in a 
+manner or in areas that could have resulted in the 
+re-contamination of the property. 
+(e) For property that is determined to potentially contain residual 
+radioactive material under paragraph 2.k.(5)(d)1 of the Specific 
+Requirements in this CRD or determined to be re-contaminated 
+under paragraph 2.k.(5)(d)2 of the Specific Requirements in this 
+CRD, the process and historical knowledge evaluation must also 
+include an assessment of the types and quantities of residual 
+radioactive material and the sources and pathways by which the 
+property became contaminated.  
+(6) Authorized Limits. 
+(a) Authorized Limits for the clearance of any property with residual 
+radioactive material must provide reasonable assurance that the 
+requirements of paragraphs 2.k.(1) and 2.k.(2) of the Specific 
+Requirements in this CRD are met. Authorized Limits may be 
+applied to property for which process knowledge cannot establish 
+the absence of residual radioactive material and in which the 
+presence of residual radioactive material cannot be determined. 
+(b) Authorized Limits must:  
+1 Be developed in accordance with the ALARA requirements 
+in paragraph 2.d. of the Specific Requirements in this CRD. 
+2 Be based on the applicable dose constraint, supported by a 
+complete exposure pathway analysis using appropriate 
+methodologies, techniques, parameters and models (such as 
+the RESRAD family of codes) that meet DOE quality
+
+--- page 53 ---
+Attachment 1 DOE O 458.1 
+Page 1-16 2-11-2011 
+ 
+ 
+assurance requirements under the CRD to DOE O 414.1, 
+Quality Assurance, current version. 
+3 Be expressed in terms of concentration of radioactivity per 
+unit surface area (e.g., dpm per 100 cm2), radioactivity per 
+unit mass (e.g., pCi per gram) or volume (e.g., pCi per ml), 
+total radioactivity, or DOE controls and restrictions, if 
+applicable. 
+4 Explicitly state any restrictions or conditions on future use 
+of the property necessary to ensure the basic dose limit and 
+applicable dose constraint are not exceeded. 
+5 In addition to paragraphs 2.k.(6)(b)1-4 of the Specific 
+Requirements in this CRD for clearance of personal 
+property only: 
+a Be based on expected annual quantity of property to 
+be cleared or 
+b Be based on expected total amount of property 
+cleared over the life of the project for specific 
+remedial action or decontamination and 
+decommissioning projects and 
+c Prior to clearance of metals, the contractor must 
+provide the necessary information to support a 
+determination by the Field Element Manager that 
+there is no practical internal DOE opportunity for 
+reuse or recycle of the material or equipment. 
+6 Authorized limits must be submitted to the Field Element 
+Manager to obtain DOE approval. 
+(c) Applications for DOE approval of Authorized Limits must contain 
+the following: 
+1 A description of the property. 
+2 Specific limits proposed for each radionuclide or group of 
+radionuclides and/or external radiation exposure, surrogate 
+metrics, or conditions used to limit radionuclides. 
+3 Potential collective dose to the exposed population and the 
+potential dose to a member of the public most likely to
+
+--- page 54 ---
+DOE O 458.1 Attachment 1 
+2-11-2011 Page 1-17 
+ 
+ 
+receive the highest dose for both: actual or likely future 
+use, and plausible future use of the property. 
+4 ALARA assessments conducted under paragraph 2.d. of the 
+Specific Requirements in this CRD for the proposed 
+clearance action to include, at a minimum, the effects of: 
+a Implementing the proposed Authorized Limits; 
+b Implementing alternative levels of residual 
+radioactive material instead of the proposed 
+Authorized Limits; 
+c Not implementing the proposed Authorized Limits, 
+i.e., not proceeding with the proposed clearance 
+action. 
+5 A description of the procedures and radiological 
+monitoring or surveys to be used to demonstrate 
+compliance with proposed limits. 
+6 Identification of any restrictions or conditions on the future 
+use of the property upon which the proposed limits are 
+based, and the means by which the restrictions or 
+conditions will be implemented and maintained. 
+7 An estimated date for when the property will be cleared and 
+an estimate of when the property will be released from 
+DOE control. 5 
+(d) Property covered by Authorized Limits is subject to 10 CFR Part 
+835 requirements unless the criteria in paragraphs 2.k.(6)(a) 
+through (c) of the Specific Requirements in this CRD have been 
+met and the Authorized Limits have been approved by a Cognizant 
+Secretarial Officer in consultation with the Chief Health, Safety 
+and Security Officer as required by the 10 CFR Part 835 exclusion. 
+(e) Revision of Authorized Limits. If established Authorized Limits 
+are found to be not protective, appropriate or practical to apply for 
+a specific type or portion of property, further clearance for that 
+                                                 
+5 This information is needed to support the DOE expectation stated at 72 FR 31904, 31906 (10 CFR Part 835, June 
+8, 2007) that the material, equipment, or real property to which the 10 CFR Part 835.1(b)(6) exclusion is applied 
+will be released from DOE control according to a specified time interval.
+
+--- page 55 ---
+Attachment 1 DOE O 458.1 
+Page 1-18 2-11-2011 
+ 
+ 
+specific type or portion of property must not proceed without 
+revised Authorized Limits. 
+1 An application for revised Authorized Limits must be 
+submitted in accordance with the requirements in 
+paragraphs 2.k.(6)(a) through (d) of the Specific 
+Requirements in this CRD. 
+2 In addition to the requirements of applicable paragraphs of 
+2.k.(6) of the Specific Requirements in this CRD, requests 
+for approval of revised Authorized Limits must include a 
+justification for the need for the revised Authorized Limits. 
+Justifications for revised Authorized Limits must be based 
+upon one of the following: 
+a Complying with existing Authorized Limits would 
+pose a clear and present risk of injury to general 
+employees or members of the public; or 
+b Complying with existing Authorized Limits, would 
+produce environmental harm (e.g., destruction of 
+artifacts, ecological damage, loss of cultural assets) 
+that is clearly excessive compared to the potential 
+health benefits to persons exposed to affected 
+properties; or  
+c Complying with existing Authorized Limits is 
+unreasonably costly relative to long-term benefits 
+and where the residual radioactive material does not 
+pose a clear present or future potential of exceeding 
+the public dose limit of paragraph 2.b. of the 
+Specific Requirements in this CRD; or  
+d Portions of the project or activity for which the 
+scenarios or assumptions used to establish the 
+existing Authorized Limits are overly conservative, 
+or where more appropriate scenarios or assumptions 
+indicate that other limits are applicable or 
+appropriate for protection of the public and the 
+environment; or 
+e New information which indicates the existing 
+Authorized Limits are not sufficient to meet the 
+protective requirements established by DOE. 
+(f) Pre-Approved Authorized Limits.
+
+--- page 56 ---
+DOE O 458.1 Attachment 1 
+2-11-2011 Page 1-19 
+ 
+ 
+1 The following values have been pre-approved by DOE for 
+use as Authorized Limits, and may be used as specified 
+below instead of developing specific Authorized Limits. 
+a For radium-226 and radium-228 in soil - 5 pCi/gram 
+(0.2 Bq/gram) in excess of background levels, 
+averaged over 100 m2, in the first 15 cm depth of 
+the surface layer of soil; and 15 pCi/gram (0.56 
+Bq/gram) in excess of background levels, averaged 
+over any subsequent 15 cm subsurface layer of soil 
+plus an ALARA assessment. If both thorium-230 
+and radium-226 or both thorium-232 and 
+radium-228 are present and not in secular 
+equilibrium, the appropriate pre-approved limit 
+must be applied to the radionuclide with the higher 
+concentration. 
+b Previously approved guidelines and limits (such as 
+the surface activity guidelines) may continue to be 
+applied and used as Pre-Approved Authorized 
+Limits until they are replaced or revised by 
+Pre-Approved Authorized Limits issued by the 
+Department. 
+2 Pre-Approved Authorized Limits may be used for any 
+radiological activity instead of developing specific 
+Authorized Limits if their use is documented in the 
+environmental radiological protection program and the 
+specific application of the Authorized Limits is approved 
+by the responsible Field Element Manager.  
+(g) Documentation of Approved Authorized Limits. Approved 
+Authorized Limits and approved revised Authorized Limits and 
+supporting documentation must be made available to the public. 
+(7) Clearance of Environmental Restoration, Deactivation and 
+Decommissioning, and Other Cleanup Materials. 
+(a) Clearance of property with residual radioactive material from 
+environmental restoration activities, including deactivation and 
+decommissioning, must meet the Specific Requirements in this 
+CRD. Environmental restoration activities using the 
+Comprehensive Environmental Response, Compensation, and 
+Liability Act (CERCLA) process may demonstrate compliance 
+with the Specific Requirements in this CRD (including public dose 
+assessments, ALARA analysis, and consideration of scenarios)
+
+--- page 57 ---
+Attachment 1 DOE O 458.1 
+Page 1-20 2-11-2011 
+ 
+ 
+using documentation from the CERCLA process and any necessary 
+supplemental information. 
+(b) For the purpose of clearance of real or personal property, approved 
+CERCLA remediation criteria may be considered equivalent to 
+Authorized Limits if the appropriate Field Element Manager has 
+determined that the criteria meet the Specific Requirements in this 
+CRD for Authorized Limits, and provided that the use of the 
+criteria as DOE Authorized Limits is documented and approved as 
+would be an Authorized Limit. Compliance with all Specific 
+Requirements in this CRD not met through the CERCLA process 
+must also be demonstrated. 
+(c) If the contractor performs environmental restoration activities 
+involving clearance of real or personal property with residual 
+radioactive material under CERCLA that use the CERCLA 
+analysis and documentation in lieu of analysis and documentation 
+developed specifically to demonstrate compliance with the 
+Specific Requirements in this CRD, the contractor must submit the 
+relevant CERCLA documentation and any additional information 
+necessary to demonstrate that the requirements for Authorized 
+Limits have been met to the responsible Field Element Manager. 
+(8) Radiological Monitoring or Surveys. 
+(a) All radiological monitoring or surveys performed in support of 
+clearance of property must: 
+1 Use methodologies sufficient to meet measurement 
+objectives such as those in the Multi-Agency Radiation 
+Survey and Site Investigation Manual (MARSSIM), the 
+Multi-Agency Radiation Survey and Assessment of 
+Materials and Equipment Manual (MARSAME) or other 
+methodologies approved by DOE; 
+2 Meet Measurement Quality Objectives; 
+3 Use DOE-approved sampling and analysis techniques, if 
+applicable; and  
+4 Include an evaluation of non-uniformly distributed residual 
+radioactive material, if applicable.  
+(b) Instrumentation used for radiological monitoring or surveys must 
+be capable of detecting and quantifying residual radioactive 
+material consistent with the applicable Authorized Limits, and be:
+
+--- page 58 ---
+DOE O 458.1 Attachment 1 
+2-11-2011 Page 1-21 
+ 
+ 
+1 Periodically maintained and calibrated on an established 
+frequency; 
+2 Appropriate for the type(s), levels, and energies of the 
+radiation(s) encountered; and 
+3 Appropriate for existing environmental conditions and 
+routinely tested for operability. 
+(9) Documentation and Verification. Any contractor responsible for 
+radiological clearance of property must ensure that final radiological 
+monitoring or surveys are conducted and that documentation is prepared 
+that shows that the clearance meets applicable DOE Authorized Limits, or 
+other applicable requirements including associated restrictions or 
+institutional controls (See DOE P 454.1, Use of Institutional Controls, 
+current version). 
+(10) Public Notification of Clearance of Property. Information on approved 
+Authorized Limits, any approved revised Authorized Limits, use of 
+pre-approved Authorized Limits, results of radiological monitoring and 
+surveys of cleared property with type and quantity of property cleared, and 
+independent verification results must be summarized in the Annual Site 
+Environmental Report. 
+(11) Final Clearance Documentation. Clearance of property must be 
+documented. The contents of the documentation or the mechanism for 
+documenting information may be tailored to the need, situation, and type 
+of property being cleared. For ongoing, routine clearances, e.g., clearance 
+of personal property from controlled areas, such documentation may be 
+based on the general process(es) rather than each specific clearance. In 
+general, the documentation must describe the clearance process(es) and 
+the property being cleared. The documentation must serve to demonstrate 
+requirements have been met, show criteria used for clearance, identify the 
+property’s destination or disposition, as appropriate, and provide 
+additional confidence to DOE and assurance to other interested parties that 
+the public and the environment are being protected. The documentation 
+must indicate any Authorized Limits, including any revised or 
+pre-approved Authorized Limits, used for the clearance, and include 
+information and data supporting the clearance of property such as 
+radiological certification and independent verification results. An annual 
+summary of cleared property must be prepared and submitted to the Field 
+Element Manager. 
+l. Records, Retention and Reporting Requirements. The contractor must establish 
+and implement recordkeeping, retention and reporting procedures and practices to 
+ensure that the following elements are addressed:
+
+--- page 59 ---
+Attachment 1 DOE O 458.1 
+Page 1-22 2-11-2011 
+ 
+ 
+(1) Records must be maintained to document compliance with the Specific 
+Requirements in this CRD. 
+(2) Required records include the following: 
+(a) Information and data necessary to identify and characterize 
+releases of radioactive material to the environment, their fate in the 
+environment, and their probable impact on radiation dose to 
+members of the public, and any impacts on ecological systems. 
+(b) Documentation of individual and collective dose to members of the 
+public due to radiological activities. This includes documentation 
+of site-specific information on radiation source dispersion patterns, 
+location and demography of members of the public in the vicinity 
+of the radiological activity and assumed default values or 
+site-specific parameters used in calculations. 
+(c) Requests for specific authorization for temporary public dose 
+limits, and subsequent approvals and other related actions.  
+(d) Identification of radiological activities subject to environmental 
+radiological protection program requirements, and descriptions of 
+the measures to be used in implementing these requirements. 
+(e) Documentation of actions taken to implement the ALARA process 
+identified in paragraph 2.d. of the Specific Requirements in this 
+CRD. 
+(f) Documentation of actions taken to demonstrate compliance with 
+the public dose limit (See paragraph 2.e.(1) of the Specific 
+Requirements in this CRD). 
+(g) Documentation of actions taken to implement the BAT selection 
+process in regulating liquid discharges, including documentation of 
+analyses and factors considered to be important, including 
+alternative processes, for the BAT selection process. 
+(h) Effluent monitoring and environmental surveillance information 
+and data, including: 
+1 Results of effluent monitoring for determining sources of 
+radiation and radioactive material that provide direct 
+exposure to members of the public and releases of 
+radioactive material in liquid or airborne effluent; 
+2 Results of surveys for radiation and radioactive material in 
+the environment;
+
+--- page 60 ---
+DOE O 458.1 Attachment 1 
+2-11-2011 Page 1-23 
+ 
+ 
+3 Results of surveys, measurements, and calculations used to 
+determine the dose to members of the public and ecological 
+receptors from external and internal radiation sources; 
+4 Meteorological data used in assessing dose; and 
+5 Results of pre-operational monitoring. 
+(i) Documentation related to the long-term management of radioactive 
+waste and residual radioactive material.  
+(j) Final documentation for clearance of property containing residual 
+radioactive material. 
+(k) Documentation of:  
+1 Approved Authorized Limits for routine clearance of 
+property for unrestricted or restricted use and the scenarios 
+evaluated in selecting the limits; and 
+2 Approved revised Authorized Limits for clearance of 
+property. 
+(l) Annual summaries related to clearance of property. 
+(3) Records required by the Specific Requirements in this CRD must be 
+maintained by, or transferred to, DOE upon cessation of a DOE 
+radiological activity at a site. 
+(4) Records must be retained until final disposition is authorized by DOE. 
+(5) Reporting. 
+(a) Reporting requirements are contained in the CRDs to DOE O 
+232.2, Occurrence Reporting and Processing of Operations 
+Information, current version, and DOE O 231.1, Environment, 
+Safety and Health Reporting, current version. 
+(b) The contractor must notify the Field Element Manager within 30 
+calendar days when it has been identified that any Specific 
+Requirement in this CRD that is not required to be reported under 
+paragraph 2.l.(5)(a) has not been met. 
+(6) Units. Unless otherwise specified, the quantities used in the reports and 
+records required by the Specific Requirements of this CRD must be 
+clearly indicated in special units of curie, rad, roentgen, or rem, including 
+multiples and subdivisions of these units, or other conventional units, such 
+as dpm, dpm/100 cm2, or mass units. The SI units, becquerel (Bq), gray
+
+--- page 61 ---
+Attachment 1 DOE O 458.1 
+Page 1-24 2-11-2011 
+ 
+ 
+(Gy), and sievert (Sv) may be provided parenthetically for reference with 
+scientific standards. 
+3. DEFINITIONS.  See Attachment 2.
+
+--- page 62 ---
+DOE O 458.1 Attachment 2 
+2-11-2011      Page 2-1 
+ 
+ 
+ATTACHMENT 2 
+DEFINITIONS 
+1. Absorbed Dose (D) — The average energy imparted by ionizing radiation to the matter 
+in a volume element per unit mass of irradiated material. The absorbed dose is 
+expressed in units of rad (or gray) (1 rad = 0.01 gray). 
+2. Actual or Likely Use Scenarios — The current uses and reasonably anticipated uses in 
+the foreseeable future of real and personal property considering the history of use; use 
+restrictions, designations or controls; affected populations, ecosystems, or natural 
+resources; and the property’s historic or cultural significance. For real property 
+considerations also include Federal and State use designations; local zoning and future 
+land use plans; and proximity to residences, commercial or industrial areas, or areas of 
+cultural or historic significance. 
+3. Airborne Discharges — Material released to the atmosphere in the form of dusts, 
+fumes, particulates, mists, vapors, or gases. 
+4. ALARA (As Low As Reasonably Achievable) — An approach to radiation protection 
+to manage and control releases of radioactive material to the environment, and 
+exposure to the work force and to members of the public so that the levels are as low as 
+is reasonably achievable, taking into account societal, environmental, technical, 
+economic, and public policy considerations. As used in this Order, ALARA is not a 
+specific release or dose limit but a process which has the goal of optimizing control 
+and management of releases of radioactive material to the environment and doses so 
+that they are as far below the applicable limits of the Order as reasonably achievable. 
+5. ALARA Process — A graded process for evaluating alternative operations, processes, 
+and other measures, for optimizing releases of radioactive material to the environment, 
+and exposure to the work force and to members of the public taking into account 
+societal, environmental, technical, economic, and public policy considerations to make 
+a decision concerning the optimum level of public health and environmental 
+protection. A graded approach provides the flexibility to perform qualitative or 
+quantitative ALARA analyses. For low doses, qualitative evaluations normally will 
+suffice.  
+6. Authorized Limit — A limit on the concentration or quantity of residual radioactive 
+material on the surfaces or within property that has been derived consistent with DOE 
+directives including the ALARA process requirements. An authorized limit may also 
+include conditions or measures that limit or control the disposition of property. 
+7. Background Radiation — Radiation from: (1) naturally occurring radioactive materials 
+which have not been technologically enhanced (i.e., background radiation does not 
+include TENORM); (2) cosmic sources; (3) global fallout as it exists in the 
+environment (such as from the testing of nuclear explosive devices); (4) radon and its 
+decay products in concentrations or levels existing in buildings or the environment 
+which have not been elevated as a result of current or prior activities; and (5) consumer
+
+--- page 63 ---
+Attachment 2 DOE O 458.1 
+Page 2-2      2-11-2011 
+ 
+ 
+products containing nominal amounts of radioactive material or producing nominal 
+amounts of radiation.  
+8. Best Available Technology (BAT) — The preferred technology for a particular 
+activity, selected from among others after taking into account factors related to 
+technology, economics, public policy, and other parameters. As used in this Order, the 
+BAT is not a specific level of treatment, but is the conclusion of a selection process in 
+which several alternatives are evaluated. 
+9. BAT Selection Process — The evaluation of candidate alternative technologies in 
+order to select the BAT after considering: technology; economics; the age of 
+equipment and facilities involved; the process employed; the engineering aspects of the 
+application of various types of control techniques; process changes; other 
+environmental impacts (including energy requirements); safety considerations; and 
+policy considerations. 
+10. Clearance of Property — The removal of property that contains or may contain 
+residual radioactive material from DOE radiological control under 10 CFR Part 835 
+and DOE O 458.1, current version. 
+11. Collective Dose — The sum of the total effective dose to all persons in a specified 
+population received in a specified period of time. For clearance of property the 
+collective dose refers to the population potentially exposed to the cleared property. 
+Collective dose is expressed in units of person-rem (or person-sievert). 
+12. Committed Effective Dose (E50) — The sum of the committed equivalent doses to 
+various tissues or organs in the body (HT,50), each multiplied by the appropriate tissue 
+weighting factor (wT)--that is, E50 = ΣwTHT,50 + wRemainderHRemainder,50, where wRemainder 
+is the tissue weighting factor assigned to the remainder organs and tissues and 
+HRemainder,50 is the committed equivalent dose to the remainder organs and tissues. 
+Committed effective dose is expressed in units of rems (or sieverts). 
+13. Committed Equivalent Dose (HT,50) — The equivalent dose calculated to be received 
+by a tissue or organ over a 50-year period after the intake of a radionuclide into the 
+body. It does not include contributions from radiation sources external to the body. 
+Committed equivalent dose is expressed in units of rems (or sieverts). 
+14. Controlled Area — Any area to which access is managed by or for DOE to protect 
+individuals from exposure to radiation and/or radioactive material as defined by 
+10 CFR Part 835. 
+15. Derived Concentration Standard (DCS) — A derived concentration value for a 
+radionuclide in water that would result in a dose of 100 mrem in a year to a sex- and 
+age- weighted reference person using DOE approved dose coefficients and assuming 
+continuous exposure.
+
+--- page 64 ---
+DOE O 458.1 Attachment 2 
+2-11-2011      Page 2-3 
+ 
+ 
+16. Dose — A general term for absorbed dose, equivalent dose, effective dose, committed 
+equivalent dose, committed effective dose, or TED as defined in this Order. 
+17. Effective Dose (E) — The summation of the products of the equivalent dose received 
+by specified tissues or organs of the body (HT) and the appropriate tissue weighting 
+factor (wT)--that is, E = ΣwTHT. It includes the dose from radiation sources internal 
+and/or external to the body. For purposes of compliance with this Order, equivalent 
+dose to the whole body may be used as effective dose for external exposures. The 
+effective dose is expressed in units of rems (or sieverts). 
+18. Effluent Monitoring — The collection and analysis of samples of liquid and gaseous 
+effluents or measurements of liquid and gaseous effluents performed to characterize 
+and quantify radiological contaminants and process stream characteristics, assess 
+radiation exposures of members of the public, and demonstrate compliance with 
+applicable standards. 
+19. Environmental Surveillance — The collection and analysis of samples of air, water, 
+soil, foodstuffs, biota, and other media at the DOE site and surrounding environs and 
+the measurement of external radiation to demonstrate compliance with applicable 
+standards, assess radiation exposure of members of the public, and assess effects, if 
+any, on the environment. 
+20. Equivalent Dose (HT) — The product of average absorbed dose (DT,R) in rad (or gray) 
+in a tissue or organ (T) and a radiation (R) weighting factor (wR). For external dose, the 
+equivalent dose to the whole body is assessed at a depth of 1 cm in tissue; the 
+equivalent dose to the lens of the eye is assessed at a depth of 0.3 cm in tissue, and the 
+equivalent dose to the extremity and skin is assessed at a depth of 0.007 cm in tissue. 
+Equivalent dose is expressed in units of rems (or sieverts). 
+21. External Dose or Exposure — That portion of the dose received from radiation sources 
+outside the body (i.e., external sources). 
+22. Facility — Something that is built, installed, or established to serve a particular DOE 
+radiological activity. 
+23. General Employee — An individual who is either a DOE or DOE contractor 
+employee; an employee of a subcontractor; or an individual who performs work for or 
+in conjunction with DOE or utilizes DOE facilities. 
+24. Internal Dose or Exposure — That portion of the dose received from radioactive 
+material taken into the body (i.e., internal sources). 
+25. Liquid Discharge — The release to the environment of radioactive material in a liquid 
+medium. The discharge generally occurs at a point, such as the end of a pipe, where it 
+is released to any of several receptors in the environment, such as a waterway, land, 
+sewer system, etc.
+
+--- page 65 ---
+Attachment 2 DOE O 458.1 
+Page 2-4      2-11-2011 
+ 
+ 
+26. Maximally Exposed Individual — A hypothetical individual who – because of 
+realistically assumed proximity, activities, and living habits – would receive the 
+highest radiation dose, taking into account all pathways, from a given event, process, 
+or facility. 
+27. Measurement Quality Objectives — A statement of a performance objective or 
+requirement for a particular method performance characteristic. 
+28. Member of the Public — An individual who is not a general employee. An individual 
+is not a member of the public during any period in which the individual receives an 
+occupational dose. 
+29. Monitoring — The measurement of radiation levels, discharges or environmental 
+releases, residual radioactive levels, quantities of radioactive material, or exposure to 
+members of the public and the use of the results of these measurements to evaluate 
+radiological discharges or releases or potential and actual dose resulting from 
+exposures to radioactive material or radiation. 
+30. Personal Property — Property of any kind, except for real property. 
+31. Potential Dose — A calculated dose based on a postulated set of exposure conditions 
+that have a reasonable probability of occurrence. 
+32. Public Dose — The dose received by members of the public from exposure to radiation 
+and to radioactive material released by a DOE radiological activity whether the 
+exposure is within a DOE site boundary or offsite. 
+33. Radiation — Ionizing radiation: alpha particles, beta particles, gamma rays, X-rays, 
+neutrons, high-speed electrons, high-speed protons, and other particles capable of 
+producing ions. Radiation, as used in this Order, does not include non-ionizing 
+radiation, such as radio waves or microwaves, or visible, infrared, or ultraviolet light. 
+34. Radiation Weighting Factor (wR) — The modifying factor used to calculate the 
+equivalent dose from the average tissue or organ absorbed dose; the absorbed dose 
+(expressed in rad or gray) is multiplied by the appropriate radiation weighting factor. 
+35. Radioactivity — The property or characteristic of radioactive material to undergo 
+spontaneous transformations (disintegrations or decay) with the emission of energy in 
+the form of radiation. It is measured by the rate of spontaneous transformations of a 
+radionuclide. The unit of radioactivity is the curie, Ci (or becquerel, Bq).  
+(1 Ci = 3.7 x 1010 Bq). 
+36. Radiological Activity — Any activity taken for, or by, DOE that has the potential to 
+result in releases of radioactive material to the environment or exposures of members 
+of the public to include all doses both present and future, from clearance activities and 
+radiation generating devices. The activity may involve a single DOE facility, or
+
+--- page 66 ---
+DOE O 458.1 Attachment 2 
+2-11-2011      Page 2-5 
+ 
+ 
+combination of facilities and operations, possibly including an entire site or no fixed 
+site at all. 
+37. Real Property — Land and anything permanently affixed to the land such as buildings, 
+fences and those things attached to the buildings, such as light fixtures, plumbing and 
+heating fixtures, or other such items, that would be personal property if not attached. 
+38. Reference Person — A hypothetical aggregation of human (male and female) physical 
+and physiological characteristics arrived at by international consensus for the purpose of 
+standardizing radiation dose calculations. 
+39. Remedial Actions — Those actions, consistent with permanent remedy, taken to control 
+or remove radiological contaminants to prevent or to minimize doses to members of the 
+public. 
+40. Representative Person — An individual receiving a dose that is representative of the more 
+highly exposed individuals in the population. This term is the equivalent of, and replaces, 
+‘average member of the critical group’. (Source: ICRP Publication 103, page 32). 
+41. Residual Radioactive Material — Any radioactive material which is in or on soil, air, 
+water, equipment, or structures as a consequence of past operations or activities of the 
+Department or its predecessors. 
+42. Sanitary Sewerage — A system of public sewers for carrying off waste water and refuse, 
+but excluding sewage treatment facilities, septic tanks, and leach fields owned or 
+operated by, or for, the Department. 
+43. Settleable Solids — (i) that matter in waste water which will not stay in suspension 
+during a preselected settling period, such as one hour, but settles to the bottom; (ii) in the 
+Imhoff cone test, the volume of matter that settles to the bottom of the cone in one hour; 
+or (iii) suspended solids that can be removed by conventional sedimentation processes. 
+44. Sewer — An artificial conduit, usually underground, for carrying off waste water and 
+refuse. 
+45. Site — Land or property upon which DOE facilities or activities are located and access to 
+which is subject to DOE or DOE contractor control. 
+46. Site Boundary — The perimeter of a DOE site, within which DOE or a DOE contractor 
+normally can control access or restrict activities. 
+47. Soil Column —An in-situ volume of soil through which liquid waste streams percolate 
+from ponds, cribs, trenches, drain fields, or other areas or facilities used for the primary 
+purpose of removing or retaining the suspended or dissolved radionuclides contained 
+within the liquid process waste stream. 
+48. Technologically Enhanced Naturally Occurring Radioactive Material (TENORM) — 
+Any naturally occurring radioactive materials whose radionuclide concentrations or
+
+--- page 67 ---
+Attachment 2 DOE O 458.1 
+Page 2-6      2-11-2011 
+ 
+ 
+potential for human exposure have been increased above levels encountered in the natural 
+state by human activities. 
+49. Tissue Weighting Factor (wT) — The fraction of the overall health risk, resulting from 
+uniform, whole body irradiation, attributable to specific tissue (T). The equivalent dose to 
+tissue, (HT), is multiplied by the appropriate tissue weighting factor to obtain the effective 
+dose (E) contribution from that tissue. 
+50. Total Effective Dose (TED) — Sum of the effective dose (for external exposures) and the 
+committed effective dose. 
+51. Whole Body — For the purposes of external exposure, head, trunk (including male 
+gonads), arms above and including the elbow, or legs above and including the knee. 
+52. Working Level (WL) — The potential alpha energy concentration of radon decay 
+products in 1 liter of air, without regard to the degree of equilibrium, that will result in 
+the emission of 1.3 x 105 MeV of alpha particle energy.

@@ -1,0 +1,922 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov Office of Environment, Health, Safety and Security 
+U.S. Department of Energy ORDER 
+Washington, D.C. 
+Approved: 1-31-2019 
+SUBJECT: DEPARTMENT OF ENERGY EMPLOYEE CONCERNS PROGRAM 
+1. PURPOSE.  The purpose of this Order is to establish the criteria and processes to maintain
+a consistent Employee Concerns Program (ECP) across the Department of Energy
+(DOE), including the National Nuclear Security Administration (NNSA), that:
+a. Encourages the free and open expression of Employee Concerns, as defined in
+this Order;1
+b. Provides DOE/NNSA federal, contractor, and subcontractor employees with an
+independent and formal avenue to raise Employee Concerns; and
+c. Supports a Safety Culture where Employee Concerns can be promptly identified
+and resolved without fear of Retaliation/Reprisal.
+This Order provides direction to federal employees with respect to implementation of the 
+ECP administered by federal ECP Managers (DOE ECP Managers) at DOE headquarters 
+and at DOE/NNSA Field Offices (DOE ECP).  DOE ECPs are available to receive 
+Employee Concerns brought by DOE federal, contractor, and subcontractor employees. 
+The Contractor Requirements Document (CRD) (Attachment 1) sets forth the 
+requirements applicable to any contractor that has the CRD incorporated into its contract. 
+Appendix A sets forth further requirements for the DOE ECPs, but does not impose 
+requirements on contractor-established ECPs (Contractor ECPs). 
+This Order does not discharge the obligation of employees to meet the filing 
+requirements or established timeframes, or constitute notice to DOE/NNSA, for other 
+established processes. 
+2. CANCELS/SUPERSEDES. DOE O 442.1A, Department of Energy Employee Concerns
+Program, dated 6-6-01 and DOE Guide 442.1-1, Department of Energy Employee
+Concerns Program Guide, dated 2-01-99.
+Cancellation of a DOE directive does not, by itself, modify or otherwise affect any
+contractual obligation to comply with the Order. CRDs that have been incorporated into a
+contract remain in effect throughout the term of the contract unless and until the contract
+commitment or regulatory obligation is modified to eliminate requirements that are no
+longer applicable or substitute a new set of requirements.
+1 Capitalized terms used but not defined in the text of this Order are defined in paragraph 7 of this Order. 
+DOE O 442.1B
+
+--- page 2 ---
+2 DOE O 442.1B 
+1-31-2019
+3. DEPARTMENTAL APPLICABILITY.
+a. Departmental Elements.
+(1) Except for the equivalency in paragraph 3.c., this Order applies to
+all DOE/NNSA elements, including those elements created after
+the Order is issued.
+(2) The Administrator of the NNSA must ensure that NNSA employees
+comply with their responsibilities under this directive. Nothing in this
+directive will be construed to interfere with the NNSA Administrator’s
+authority under Section 3212(d) of Public Law (P.L.) 106-65 to establish
+Administration-specific policies, unless disapproved by the Secretary.
+b. DOE Contractors.  Except for the equivalency in paragraph 3.c., the CRD
+(Attachment 1) establishes the requirements of this Order that will apply to
+contracts that include the CRD. The CRD (Attachment 1) must be included in all
+contracts and subcontracts that contain Department of Energy Acquisition
+Regulation (DEAR) clause 970.5204-2, Laws, Regulations, and DOE Directives.
+c. Equivalencies/Exemptions. In accordance with the responsibilities and
+authorities assigned by Executive Order 12344, Naval Nuclear Propulsion
+Program, codified at 50 U.S. Code (U.S.C.) Sections 2406 and 2511, and to
+ensure consistency through the joint Navy/DOE Naval Nuclear Propulsion
+Program, the Deputy Administrator for Naval Reactors will implement and
+oversee requirements and practices pertaining to this Order for activities under
+his/her cognizance, as deemed appropriate.
+4. REQUIREMENTS.
+a. Establishment of the DOE ECP.
+(1) The ECP Director must establish a DOE ECP in accordance with this
+Order.
+(2) Field Offices must establish a DOE ECP in accordance with this Order.
+Field Offices may share a DOE ECP, provided that it is in reasonable
+geographic proximity, and reasonably accessible, to their federal and
+contractor employees.
+(3) Heads of Departmental Elements may choose to establish their own DOE
+ECPs for their headquarters federal and contractor employees per
+paragraph 5.e.(1)(b), in accordance with this Order.
+(4) DOE ECP Managers must have direct access to the Field Office Manager
+or Head of Departmental Element (or their designees), as applicable, with
+respect to matters relating to the DOE ECP.
+
+--- page 3 ---
+DOE O 442.1B 3 
+1-31-2019
+(5) The ECP Director and DOE ECP Managers must be federal employees.
+b. Communications to Employees. DOE federal and contractor employees must be
+informed of the following on at least an annual basis:
+(1) The availability of the ECP as an avenue for filing an Employee Concern;
+(2) Information as to where an employee may submit an Employee Concern,
+and that the employee may do so confidentially or anonymously; and
+(3) That employees are encouraged to seek resolution through local complaint
+or dispute resolution systems, or with first line supervisors, but that
+alternatively, they have the right to report Employee Concerns through the
+ECP.
+c. DOE ECP Implementation. DOE ECPs must be implemented in accordance with
+approved implementing documentation (as described in Appendix A) and this
+Order.
+5. RESPONSIBILITIES.
+a. Deputy Secretary.
+(1) Fosters a strong Safety Culture where Employee Concerns can be promptly 
+identified and resolved without fear of
+Retaliation/Reprisal.
+(2) Provides an annual notice to federal and contractor employees
+regarding the ECP, which includes:
+(a) A statement regarding the availability of the ECP as an avenue for 
+filing an Employee Concern;
+(b) Federal ECP contact information, and a statement that an employee 
+may submit an Employee Concern confidentially or anonymously; 
+and
+(c) A statement encouraging employees to seek resolution through 
+local complaint or dispute resolution systems, or with first line 
+supervisors, but that alternatively, they have the right to report 
+Employee Concerns through the ECP.
+b. Under Secretary (of  Energy).
+(1) Establishes and maintains the ECP Director’s position within the
+Office of the Associate Under Secretary for Environment, Health,
+Safety and Security.
+
+--- page 4 ---
+4   DOE O 442.1B 
+  1-31-2019 
+ 
+ 
+(2) Supports implementation of the ECP Director’s responsibilities as 
+described in paragraph 5.d. 
+c. Associate Under Secretary for Environment, Health, Safety and Security (or 
+designee). 
+(1) Maintains, manages and provides resources for the implementation 
+of the ECP Director’s responsibilities as described in paragraph 
+5.d. 
+(2) Reviews and, if acceptable, approves the implementing 
+documentation for the ECP Director’s ECP. 
+d. ECP Director.2 
+(1) Develops, promulgates, and implements ECP requirements. 
+(2) Provides guidance and assistance to DOE organizations in 
+effectively implementing ECP directives and policies. 
+(3) Provides support to the Deputy Secretary in preparing the annual 
+notice to federal and contractor employees regarding the ECP, 
+which is described in paragraph 5.a.(2). 
+(4) Information; Site Visits; Training. 
+(a) Develops and maintains the DOE agency-wide system for tracking 
+and trending Employee Concerns. 
+(b) Provides to the Deputy Secretary; the Under Secretary of Energy; 
+the Associate Under Secretary for Environment, Health, Safety and 
+Security; Heads of Departmental Elements; Field Office Managers; 
+the Office of Enterprise Assessments; and DOE federal and 
+contractor employees information on program trends, lessons 
+learned, and the effectiveness of DOE and Contractor ECP 
+implementation. 
+(c) Serves as a resource for other ECPs, and conducts site assistance 
+visits to DOE and contractor organizations to help DOE ECP 
+Managers and Contractor ECP Managers share best practices and 
+implement ECPs in accordance with this Order or the CRD, as 
+applicable. 
+                                                 
+2 The ECP Director also receives and processes certain complaints filed pursuant to 10 Code of Federal Regulations 
+(C.F.R.) part 708, DOE Contractor Employee Protection Program. Information regarding the types of complaints 
+accepted under 10 C.F.R. part 708 and the procedure for processing those complaints is set forth in that regulation.
+
+--- page 5 ---
+DOE O 442.1B  5 
+1-31-2019 
+ 
+ 
+(d) Establishes training curricula for DOE ECP Managers and DOE 
+ECP staff, as well as for subject matter experts who support the 
+ECP. 
+(1) Coordinates Departmental correspondence prepared in response to 
+external inquiries (e.g., Congressional, Government Accountability 
+Office) regarding the DOE ECP. 
+(2) Serves as DOE ECP Manager for those DOE headquarters 
+contractor and federal employees not covered by another 
+headquarters DOE ECP. 
+(a) Develops ECP implementing documentation (as specified in 
+Appendix A) for the ECP Director’s ECP. Submits the 
+implementing documentation to the Associate Under Secretary for 
+Environment, Health, Safety and Security or his designee for 
+approval. 
+(b) Decides, based on the approved implementing documentation and 
+the procedures described in Appendix A, how to process concerns 
+for which the ECP Director serves as the DOE ECP Manager. 
+(c) When an Employee Concern must be transferred from another 
+DOE ECP (for example, due to a Conflict-of-Interest), the ECP 
+Director may counsel the transferring office as to a more 
+appropriate venue for the concern, or accept the transfer, and serve 
+as the DOE ECP Manager for the concern, as the ECP Director 
+determines is appropriate. 
+e. Heads of Departmental Elements. 
+(1) General. 
+(a) Support DOE federal and contractor employees’ rights to raise 
+Employee Concerns to the DOE ECP Manager or ECP Director 
+without fear of Retaliation/Reprisal. 
+(b) For the Departmental Element’s federal employees at headquarters, 
+and employees of contractors at headquarters for whom the 
+Departmental Element has oversight authority: 
+1 Establish and designate a DOE ECP Manager, or 
+2 Direct such employees with Employee Concerns to the 
+ECP Director.
+
+--- page 6 ---
+6   DOE O 442.1B 
+  1-31-2019 
+ 
+ 
+(c) Establish, where appropriate, an ECP point-of-contact to facilitate 
+communications between the ECP Director and DOE ECP 
+Managers for which the Departmental Element has responsibility. 
+(d) Provide resources for headquarters DOE ECP Managers within 
+their organizations, including appropriate training for DOE ECP 
+Managers and other ECP personnel in ECP policies, procedures, 
+processes, and practices. 
+(e) Approve and implement Corrective Actions, as appropriate, in 
+response to the issues identified as part of the closure of a federal 
+employee’s Employee Concern that has been Substantiated or 
+Partially Substantiated by the DOE ECP Manager or ECP Director. 
+(2) With respect to DOE ECP Managers and DOE ECPs at headquarters for 
+whom the Departmental Element has responsibility: 
+(a) Review and, if acceptable, approve, the implementing 
+documentation for the DOE ECP. 
+(b) Use Assessment results to evaluate the effectiveness of the DOE 
+ECP and the processes used to implement this Order. Implement 
+improvement actions, when appropriate, to address issues 
+impacting the effectiveness of the DOE ECP. 
+(3) With respect to contractors at headquarters for whom the Head of 
+Departmental Element has oversight responsibility: 
+(a) Identify contracts to which the CRD applies and notify Contracting 
+Officers when contracts are affected by this Order. 
+(b) Approve, as appropriate, any Corrective Actions to be transmitted 
+to the contractor by the Contracting Officer with respect to a 
+contractor employee’s Employee Concern that has been 
+Substantiated or Partially Substantiated by the DOE ECP Manager. 
+(c) Ensure any direction to contractors is issued through the 
+appropriate Contracting Officer. 
+(d) Provide oversight of Contractor ECPs through the appropriate 
+Contracting Officer. 
+f. Field Office Managers. 
+(1) General; Notifications.
+
+--- page 7 ---
+DOE O 442.1B  7 
+1-31-2019 
+ 
+ 
+(a) Support DOE federal and contractor employees’ right to raise 
+Employee Concerns to the DOE ECP Manager without fear of 
+Retaliation/Reprisal. 
+(b) Issue, with the support of the Field Office DOE ECP Manager, at 
+least an annual basis, a notice that provides: 
+1 A statement regarding the availability of the ECP as an 
+avenue for filing an Employee Concern; 
+2 Local ECP contact information and a statement that an 
+employee may submit an Employee Concern confidentially 
+or anonymously; and 
+3 A statement encouraging employees to seek resolution 
+through local complaint or dispute resolution systems, or 
+with first line supervisors, but that alternatively, they have 
+the right to report Employee Concerns through the ECP. 
+(2) Administration of Field Office DOE ECPs. 
+(a) Designate the Field Office DOE ECP Manager, and, as needed, 
+other management position(s) responsible for developing and 
+implementing the Field Office DOE ECP. 
+(b) Review and, if acceptable, approve, the implementing 
+documentation for the Field Office DOE ECP. 
+(c) Consistent with direction from the cognizant Head of the 
+Departmental Element, provide adequate support and resources to 
+DOE ECP Managers for effective implementation of the Field 
+Office DOE ECP, including appropriate training for DOE ECP 
+Managers and other ECP personnel in ECP policies, procedures, 
+processes, and practices. 
+(d) Use Assessment results to evaluate the effectiveness of the Field 
+Office DOE ECP and the processes used to implement this Order. 
+Implement improvement actions, when appropriate, to address 
+issues impacting the effectiveness of the Field Office DOE ECP. 
+(e) Approve and implement, as appropriate, Corrective Actions 
+responsive to the issues identified as part of the closure of a federal 
+employee’s Employee Concern that has been Substantiated or 
+Partially Substantiated by the DOE ECP Manager. 
+(3) Administration of Field Office Contractor ECPs:
+
+--- page 8 ---
+8   DOE O 442.1B 
+  1-31-2019 
+ 
+ 
+(a) Identify contracts to which the CRD applies and notify Contracting 
+Officers when contracts are affected by this Order. 
+(b) Approve, as appropriate, any Corrective Actions to be transmitted 
+to the contractor by the Contracting Officer with respect to a 
+contractor employee’s Employee Concern that has been 
+Substantiated or Partially Substantiated by the DOE ECP Manager. 
+(c) Ensure any direction to contractors is issued through the 
+appropriate Contracting Officer. 
+(d) Provide oversight of Contractor ECPs through the appropriate 
+Contracting Officer. 
+g. DOE Headquarters and Field Office ECP Managers. DOE ECP Managers must: 
+(1) Develop ECP implementing documentation as specified in Appendix A, 
+and submit the implementing documentation to the appropriate Head of 
+Departmental Element or Field Office Manager for approval. 
+(2) Implement the ECP, and disposition Employee Concerns, in accordance 
+with this Order and the approved implementing documentation. 
+(3) Review the Contractor’s proposed ECP implementing documentation and 
+provide a recommendation to the Contracting Officer as to whether to 
+approve the proposed ECP.  
+h. Office of Enterprise Assessments (EA). 
+(1) Provides technical assistance, as requested, to DOE organizations in 
+investigations of health, safety, and security concerns. 
+(2) Independently assesses the overall effectiveness of DOE and Contractor 
+ECPs and the processes used to implement this Order, as appropriate. 
+(3) When an Employee Concern is raised to EA management or staff, advises 
+the employee on alternate avenues for raising Employee Concerns, 
+including the DOE ECP or Contractor ECP, as appropriate. 
+(4) Interfaces with the ECP Director and DOE ECP Managers regarding DOE 
+ECP implementation, as well as programmatic implementation impacts. 
+(5) Tracks complaints of Retaliation/Reprisal relating to Employee Concerns 
+to determine if enforcement actions pursuant to 10 C.F.R. part 820 or 10 
+C.F.R. part 851 are warranted. 
+i. Contracting Officers.
+
+--- page 9 ---
+DOE O 442.1B  9 
+1-31-2019 
+ 
+ 
+(1) Incorporate the CRD to this Order (Attachment 1) into all contracts for the 
+management and operation of DOE-owned or DOE-leased facilities (i.e., 
+those contracts that contain DEAR clause 970.5204-2, Laws, Regulations, 
+and DOE Directives). 
+(2) Review initial and/or revised Contractor ECP implementing 
+documentation. The Contracting Officer has 60 calendar days in which to 
+provide DOE comments or approval of implementing documentation or 
+revisions. 
+(3) With respect to an Employee Concern raised by a contractor employee 
+through the DOE ECP that has been Substantiated or Partially 
+Substantiated by the DOE ECP Manager, Contracting Officers must: 
+(a) Receive the report from the DOE ECP Manager describing the 
+DOE ECP’s findings and making recommendations for resolution 
+of the Employee Concern. 
+(b) Direct the contractor to provide information explaining how the 
+contractor will address the findings, and share that information 
+with the DOE ECP Manager and the Field Office Manager (or, for 
+headquarters matters, the appropriate Head of Departmental 
+Element). 
+(c) Transmit any Corrective Actions to the contractor that are 
+approved by the Field Office Manager (or, for headquarters 
+matters, the appropriate Head of Departmental Element). 
+(4) Oversee contractor compliance with the CRD and any Corrective Actions 
+issued to the contractors. 
+(5) Notify the Office of Enterprise Assessments’ Office of Enforcement when 
+a contractor employee files a complaint of Retaliation/Reprisal with an 
+external entity, as soon as practicable after the Contracting Officer 
+becomes aware of such filing. 
+j. DOE Managers and Supervisors. 
+(1) Support the right of federal and contractor employees to raise Employee 
+Concerns without fear of Retaliation/Reprisal. 
+(2) Cooperate with and support ECP investigations. 
+(3) Process Employee Concerns that are referred or transferred to their 
+respective organizations consistent with this Order in a prompt, effective, 
+and respectful manner to provide for the safe and efficient operation of 
+programs under their authority.
+
+--- page 10 ---
+10   DOE O 442.1B 
+  1-31-2019 
+ 
+ 
+(4) Implement Corrective Actions approved by the appropriate Head of 
+Departmental Element or Field Office Manager; evaluate whether 
+additional actions are needed to prevent recurrence of similar issues within 
+their respective organization(s); and consult with the appropriate DOE 
+ECP Manager, ECP Director, or subject matter experts, as needed. 
+k. Employees. 
+(1) Are encouraged to seek resolution through local complaint or dispute 
+resolution systems, or with first line supervisors, but alternatively, have 
+the right to report Employee Concerns through the ECP. 
+(2) Have the right, without fear of Retaliation/Reprisal, to report Employee 
+Concerns at any time. 
+(3) Must inform the appropriate DOE ECP Manager if a remedy for the 
+Employee Concern he or she has reported is being or has been pursued 
+under other venues or other regulations. 
+(4) Must cooperate with and support ECP investigations. 
+6. REFERENCES.  
+a. DOE O 221.1B, Reporting Fraud, Waste and Abuse to the Office of Inspector 
+General, current version. 
+b. DOE O 226.1B, Implementation of Department of Energy Oversight Policy, 
+current version. 
+c. DOE O 243.1B, Records Management Program, current version. 
+d. DOE O 442.2, Differing Professional Opinions for Technical Issues Involving 
+Environmental, Safety, and Health Technical Concerns, current version. 
+e. DOE O 470.4B, Safeguards and Security Program, current version. 
+f. Title 10 C.F.R. part 708, DOE Contractor Employee Protection Program. 
+g. Title 10 C.F.R. part 820, Procedural Rules for DOE Nuclear Activities. 
+h. Title 10 C.F.R. part 851, Worker Safety and Health Program. 
+i. Title 29 C.F.R. part 24, Procedures for the Handling of Retaliation Complaints 
+Under the Employee Protection Provisions of Six Environmental Statutes and 
+Section 211 of the Energy Reorganization Act of 1974, as amended. 
+j. Executive Order 12344, Naval Nuclear Propulsion Program, codified at 50 U.S.C. 
+Section 2406(c).
+
+--- page 11 ---
+DOE O 442.1B  11 
+1-31-2019 
+ 
+ 
+k. The Freedom of Information Act (FOIA), as amended, 5 U.S.C. Section 552. 
+l. Privacy Act of 1974 (Privacy Act), as amended, 5 U.S.C. Section 552a. 
+7. DEFINITIONS. Capitalized terms not otherwise defined above have the meanings given 
+to them in this Definitions section. 
+a. Alternative Dispute Resolution (ADR). A process for resolving a dispute through 
+a neutral third party. ADR may take the form of mediation or other techniques. To 
+attempt resolution of an Employee Concern through ADR, all parties must 
+voluntarily agree to utilize an ADR process. 
+b. Anonymous Concern. An Employee Concern submitted by a Concerned 
+Individual who does not reveal his/her identity. 
+c. Assessment. A planned and documented activity performed to determine the 
+adequacy of, and compliance with, established policies, procedures, and  other 
+applicable documents and the effectiveness of their implementation. 
+d. Concerned Individual. A current DOE/NNSA federal, contractor or subcontractor 
+employee who expresses an Employee Concern through the ECP. 
+e. Confidentiality. A request by an individual associated with an Employee Concern 
+to have his or her identity protected, to the extent allowable by law, from all 
+persons except ECP staff and those other individuals supporting the ECP that may 
+have a need-to-know. 
+f. Conflict-of-Interest. A situation in which the individual responsible for 
+investigating an Employee Concern has either a direct or indirect association with 
+the Employee Concern, including situations where the individual with processing 
+or investigatory responsibility has or had a personal relationship related to the 
+parties to the Employee Concern, or the Employee Concern itself, that may place 
+his or her objectivity in question to an outside observer. 
+g. Contracting Officer. A person with the authority to enter, administer, and/or 
+terminate federal contracts on behalf of DOE and make related determinations 
+and findings. The term includes authorized representatives of the Contracting 
+Officer acting within the limits of their authority as delegated by the 
+Contracting Officer. 
+h. Corrective Action. An action taken to effectively address a Substantiated or 
+Partially Substantiated Employee Concern and to prevent the recurrence of the 
+issue(s) that led to the Employee Concern. 
+i. Discrimination. Adverse treatment of a Concerned Individual because he/she 
+raised an Employee Concern.
+
+--- page 12 ---
+12   DOE O 442.1B 
+  1-31-2019 
+ 
+ 
+j. DOE ECP Manager. The individual selected by a Head of a Departmental 
+Element or Field Office Manager to lead the DOE ECP at headquarters or one or 
+more Field Offices, or the person(s) the DOE ECP Manager designates to carry 
+out his or her responsibilities under this Order. The ECP Director may also serve 
+as the DOE ECP Manager for specified DOE headquarters employees. 
+k. Duty-to-Act. The responsibility to immediately report to the cognizant federal 
+manager responsible for the activity, and/or the applicable federal support office 
+(e.g., safety or security) for the Field Office or facility, any Employee Concern 
+that is associated with a potential imminent threat to national security, or 
+imminent danger to an individual’s safety, public health or safety, and/or the 
+environment, or that could otherwise compromise the safety and/or security of 
+DOE operations and/or facilities. 
+l. ECP Director. The individual in the Office of Environment, Health, Safety and 
+Security who serves as point of contact for this Order, serves as the DOE ECP 
+Manager for those DOE headquarters federal and contractor employees whose 
+office does not otherwise have a DOE ECP Manager, and performs the other 
+functions described in this Order. 
+m. Employee. Any current DOE/NNSA federal or contractor employee working for or 
+supporting a DOE or NNSA project. For purposes of this  Order, references to 
+“contractor employees” includes contractor and subcontractor employees. 
+n. Employee Concern. A good faith expression by a Concerned Individual that: 
+(1) An activity, policy, or practice of DOE or one of its contractors or 
+subcontractors—including but not limited to, that which is related to the 
+environment, safety, health, security, quality, and management of DOE 
+facilities and/or operations—should be improved, modified, or terminated; 
+or 
+(2) He or she has been subjected to HIRD (as defined in this Order) by DOE, 
+or one or more of its contractors or subcontractors, for raising an 
+Employee Concern. 
+o. Field Office. Any of DOE’s officially established organizations and components, 
+including project offices or operations offices, located outside the Washington, 
+D.C. metropolitan area. 
+p. Field Office Manager. An individual who is the manager or head of a Field 
+Office, including a project office or operations office manager, or the person(s) 
+the Field Office Manager designates to carry out his or her responsibilities under 
+this Order. 
+q. Harassment. A behavior or an action taken by one or more supervisors or co- 
+workers against or toward a Concerned Individual to belittle, humiliate, or impede 
+that Concerned Individual in his or her work environment or job performance
+
+--- page 13 ---
+DOE O 442.1B  13 
+1-31-2019 
+ 
+ 
+because the Concerned Individual raised an Employee Concern. Harassment may 
+include, but is not limited to, threatening, restraining, coercing, blacklisting, 
+mocking, humiliating, and/or isolating a Concerned Individual. 
+r. Harassment, Intimidation, Retaliation/Reprisal, or Discrimination (HIRD). A type 
+of Employee Concern that includes allegations of Harassment, Intimidation, 
+Retaliation/Reprisal, or Discrimination for raising an Employee Concern. 
+s. Heads of Departmental Elements. Heads of Departmental Elements include 
+DOE’s Under Secretaries, Assistant Secretaries, the NNSA Administrator, 
+Program Office Directors, Power Marketing Administrators, or equivalent DOE 
+officials, or any other official(s) the Head of Departmental Element designates to 
+carry out his or her responsibilities under this Order. 
+t. Intimidation. A behavior or an action taken by a supervisor or co-worker against 
+or toward any employee to cause the employee to be fearful of filing an Employee 
+Concern; cease from pursuing an Employee Concern; or otherwise be afraid for 
+his/her safety or job security as a result of filing an Employee Concern. 
+u. Partially Substantiated. A type of finding with respect to an Employee Concern in 
+which the DOE ECP Manager has corroborated only part of an Employee 
+Concern, based on supporting evidence. 
+v. Referral of an Employee Concern. The forwarding of an Employee Concern from 
+the DOE ECP Manager or Contractor ECP Manager to another office or program 
+or subject matter expert for evaluation. Such referral does not transfer ultimate 
+decision making authority over the Employee Concern to the office or program 
+providing such evaluation. 
+w. Retaliation/Reprisal. An adverse action taken against or toward a Concerned 
+Individual with respect to employment (e.g., discharge, demotion, or other 
+negative action with respect to the Concerned Individual’s compensation, terms, 
+conditions or privileges of employment) because the employee raised an 
+Employee Concern. 
+x. Safety Conscious Work Environment . A work environment i n which employees 
+feel free to raise safety concerns to management (and/or a regulator) without  fear 
+of Retaliation/Reprisal. 
+y. Safety Culture. An organization’s values and behaviors modeled by its leaders 
+and internalized by its members, which serve to make safe performance of work 
+the overriding priority to protect the workers, the public, and the environment. 
+aa. Self-Assessment. The compliance and performance-based Assessment conducted 
+by the DOE ECP Manager of its program.
+
+--- page 14 ---
+14   DOE O 442.1B 
+  1-31-2019 
+ 
+ 
+bb. Substantiated. A type of finding with respect to an Employee Concern in which 
+the DOE ECP Manager has corroborated the Employee Concern based on 
+supporting evidence. 
+cc. Transfer of an Employee Concern. The relocation of an Employee Concern from 
+the DOE ECP Manager or Contractor ECP Manager to another organization, 
+when another resolution process exists to address the underlying issue(s) 
+identified in the Employee Concern. Once transferred, the DOE ECP has no 
+further responsibility to the Concerned Individual regarding the Employee 
+Concern. 
+dd. Unsubstantiated. A type of finding with respect to an Employee Concern in which 
+the DOE ECP Manager has not been able to corroborate the Employee Concern 
+based on supporting evidence. 
+8. CONTACT. Questions surrounding this Order should be addressed to the ECP Director, 
+Office of Environment, Health, Safety and Security, at 202-586-6642. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ 
+ DAN BROUILLETTE  
+ Deputy Secretary
+
+--- page 15 ---
+DOE O 442.1B  Attachment 1 
+1-31-2019  Page 1 
+ 
+ 
+ATTACHMENT 1 
+CONTRACTOR REQUIREMENTS DOCUMENT 
+DOE O 442.1B, DEPARTMENT OF ENERGY EMPLOYEE CONCERNS PROGRAM 
+ 
+Department of Energy (DOE) and National Nuclear Security Administration contractors that 
+have this Contractor Requirements Document (CRD) incorporated into their contracts are 
+required to maintain an Employee Concerns Program (ECP) in accordance with this CRD. 
+Regardless of the performer of the work, the contractor is responsible for compliance with the 
+requirements of this CRD and for flowing down the requirements to subcontractors at all tiers to 
+the extent necessary to ensure the contractor’s compliance with the CRD’s requirements. 
+Pursuant to this CRD, the contractor must: 
+1. Establish and maintain an ECP suitable for the organization to accept, process and resolve 
+employee concerns in a timely manner. 
+2. Provide means to inform contractor and subcontractor employees regarding their rights 
+and responsibilities to raise any employee concern related, but not limited to, the 
+environment, safety, health, security, quality, and management of DOE facilities and 
+operations, as well as harassment, intimidation, retaliation/reprisal, or discrimination, to 
+the contractor’s ECP or the DOE ECP. 
+3. Cooperate with and assist the DOE ECP Manager and his/her representatives in (i) 
+assessments of the contractor’s ECP program by the DOE ECP Manager, and (ii) the 
+processing of contractor employee concerns that are submitted to the DOE ECP. This 
+includes, but is not limited to, responding to the allegations in the employee concern, and 
+making pertinent information, including relevant documentation, available to the DOE 
+ECP Manager and his/her representatives, as necessary for DOE to address the submitted 
+concern. 
+4. Implement corrective actions as directed by the contracting officer or his/her 
+representatives. 
+5. Notify the contracting officer when the contractor becomes aware that a contractor 
+employee has filed a formal complaint of retaliation/reprisal, including a complaint 
+submitted pursuant to 10 CFR part 708, DOE Contractor Employee Protection Program; 
+41 U.S.C. § 4712, Enhancement of Contractor Protection from Reprisal for Disclosure of 
+Certain Information, or a complaint filed with the U.S. Department of Labor under 
+29 C.F.R. part 24, Procedures for Handling Retaliation Complaints. 
+6. At least every six months, or more frequently if requested by the DOE ECP director, 
+provide a summary of employee concerns activity data with respect to the contractor’s 
+ECP to the DOE ECP director and the appropriate DOE ECP Manager, through the Field 
+Office Manager (or Head of Departmental Element, as applicable), or their respective 
+designees.
+
+--- page 16 ---
+Attachment 1  DOE O 442.1B 
+Page 2  1-31-2019 
+ 
+ 
+7. As a means of establishing an effective program, the contractor’s ECP should utilize ECP 
+best practices, which may include, but are not limited to: 
+a. Ensuring that there is an ECP Manager who reports to a designated executive in 
+the contractor management chain; 
+b. Establishing a case-file system of documentation and records for concerns raised; 
+c. Establishing a process that provides anonymity and confidentiality for employees 
+who raise concerns unless the contractor is legally compelled to disclose such 
+information; 
+d. Providing avenues for informal resolution of concerns; 
+e. Allowing for the use of alternate dispute resolution; 
+f. Referring concerns to other appropriate organizations to investigate a concern; 
+and 
+g. Documenting acceptance or dismissal of a concern, including “closure” of a 
+concern after an investigation into its merits. 
+The complete implementing documentation for the contractor’s ECP must be provided to the 
+contracting officer no later than 90 calendar days after date that this CRD becomes incorporated 
+into an existing contract or by the effective date of a new contract that incorporates this CRD. 
+The contracting officer has 60 calendar days in which to provide DOE comments or approval.
+
+--- page 17 ---
+DOE O 442.1B  Appendix A 
+1-31-2019  Page 1 
+ 
+ 
+APPENDIX A 
+ADDITIONAL REQUIREMENTS APPLICABLE TO DOE ECPs 
+ 
+DOE ECP Managers are responsible for (i) developing ECP implementing documentation that 
+sets forth the policies and procedures to be followed by the DOE ECP, (ii) obtaining approval 
+of the ECP implementing documentation from the appropriate Head of Departmental Element 
+or Field Office Manager, and (iii) implementing the DOE ECP in accordance with the approved 
+implementing documentation. The implementing documentation must address the following: 
+1. Intake, Processing of Employee Concerns, and Confidentiality. 
+a. Intake of Employee Concerns. When a Concerned Individual initiates an 
+Employee Concern, the DOE ECP Manager must perform an intake with the 
+Concerned Individual, if the identity of the Concerned Individual is known, to 
+clearly understand and document the Employee Concern. 
+b. Processing of Employee Concerns. The DOE ECP Manager must inform the 
+Concerned Individual about the ECP process and may inform the Concerned 
+Individual of other formal and informal avenues of redress available to the 
+Concerned Individual to attempt to resolve an Employee Concern. 
+c. Confidentiality.1 Records created or maintained as part of the ECP are federal 
+records and, where applicable, are subject to the Privacy Act and/or the Freedom 
+of Information Act (FOIA). To the extent possible, the DOE ECP Manager must 
+protect the identities of the individual(s) who identify concerns, any individual(s) 
+who are subject(s) of the concern, and/or information that may compromise the 
+identity of individuals interviewed or named by interviewees in connection with 
+the investigation. 
+(1) A Concerned Individual may submit an Employee Concern without 
+revealing his/her identity, in which case the Employee Concern is referred 
+to as an Anonymous Concern. 
+(2) If a Concerned Individual or a witness requests Confidentiality, the DOE 
+ECP Manager must maintain Confidentiality to the greatest extent 
+possible. The DOE ECP Manager must inform the Concerned Individual 
+of the limitations on protection of Confidentiality under circumstances 
+such as: 
+                                                 
+1 Confidentiality is the cornerstone of an effective ECP. Situations exist in which Concerned Individuals may fear 
+Retaliation/Reprisal or Intimidation by supervisors or co-workers if they provide information to the ECP. 
+Recognizing that some individuals will raise Employee Concerns only if they believe their identiti es will not be 
+disclosed, the protection of the identity of these individuals is a significant factor in ensuring cooperation of 
+Concerned Individuals.
+
+--- page 18 ---
+Appendix A  DOE O 442.1B 
+Page 2  1-31-2019 
+ 
+ 
+(a) The existence of a Duty-to-Act (additional information regarding 
+the Duty-to-Act is provided in paragraph 3.a. of this Attachment); 
+(b) Disclosure or reporting required by law, rule, regulation, court 
+order or DOE Order; 
+(c) The extent to which an employee may be identified with the 
+Employee Concern (e.g., the employee has previously voiced the 
+Employee Concern, in whole or part, to a supervisor or co- 
+workers; the uniqueness of the Employee Concern); and 
+(d) The extent to which Confidentiality may impact the DOE ECP’s 
+ability to thoroughly investigate an Employee Concern. 
+2. Documentation; Records. The DOE ECP Manager must document an Employee Concern 
+in an ECP case file (hard copy and/or electronic) in sufficient detail to permit processing. 
+a. The DOE ECP Manager must maintain any supporting documentation and/or 
+evidence provided by the Concerned Individual, or obtained or prepared by the 
+DOE ECP Manager, in the Concerned Individual’s ECP case file. 
+b. DOE ECP case files and other relevant records must be maintained in accordance 
+with DOE O 243.1B, Records Management Program, and other applicable laws, 
+regulations, Departmental directives and direction. 
+c. The DOE ECP Manager must also maintain necessary records to track the 
+following information: 
+(1) Number of Employee Concerns, 
+(2) Categories of Employee Concerns, 
+(3) Disposition of Employee Concerns, 
+(4) Timeframes for resolving Employee Concerns, and 
+(5) Other measures that may be requested by the ECP Director. 
+d. As directed by the ECP Director, the DOE ECP Manager must enter information 
+described above in paragraph 2.c. of this Attachment into the ECP agency-wide 
+system for tracking and trending the types and numbers of Employee Concerns. 
+3. Screening of Employee Concerns. 
+a. Duty to Act. When an Employee Concern is received, the DOE ECP Manager 
+must perform an initial screening of the Employee Concern to evaluate whether 
+there is a Duty-to-Act. If the DOE ECP Manager determines there is a Duty-to- 
+Act, required notifications and any other appropriate action must be taken
+
+--- page 19 ---
+DOE O 442.1B  Appendix A 
+1-31-2019  Page 3 
+ 
+ 
+immediately. The DOE ECP Manager must notify the Concerned Individual, if 
+the identity of the Concerned Individual is known, of a Duty-to-Act situation. The 
+DOE ECP Manager may suspend the processing of an Employee Concern until 
+after a Duty-to-Act notification or other related action, and must resume the 
+processing of the Employee Concern in a timely manner. 
+b. The intent of the ECP screening process is to provide a consistent method by 
+which each Employee Concern is reviewed and evaluated, and a path for 
+resolution is identified. The screening must be performed in a time period 
+consistent with the nature and severity of the Employee Concern. 
+c. During the screening process, the DOE ECP Manager must: 
+(1) Identify any required notifications to other organizations. 
+(2) Identify any potential or perceived Conflict-of-Interest in the processing of 
+the Employee Concern. In the event such conflicts are identified, 
+mitigation measures must be documented. 
+(3) Consider appropriate methods by which to process the Employee Concern, 
+consistent with paragraph 4 of this Attachment. 
+4. Methods for Processing Employee Concerns. In processing an Employee Concern, the 
+DOE ECP Manager must use one or more of the following methods as appropriate: 
+a. Dismissal. The DOE ECP Manager may dismiss an Employee Concern when 
+appropriate (e.g., when the Employee Concern is outside the scope of the ECP, 
+and transfer of the Employee Concern to another organization is not appropriate; 
+or when the DOE ECP Manager determines that the Employee Concern is too 
+general to investigate or has not been made in good faith). 
+b. Informal Resolution. In those instances when a Concerned Individual has raised 
+an issue that does not meet the definition of “Employee Concern,” the DOE ECP 
+Manager may determine if there are informal means to close the issue, and the 
+DOE ECP Manager may decide to pursue such informal means. 
+c. Withdrawal. Upon written or verbal request, the Concerned Individual may 
+withdraw an Employee Concern at any time. 
+d. ADR. ADR may be used as a mechanism for resolving an Employee Concern. 
+ADR involves the use of a neutral third party and may take the form of mediation 
+or other techniques. To resolve an Employee Concern through ADR, all parties 
+must voluntarily agree to utilize the ADR process. 
+e. Transfer of an Employee Concern to Another Organization. The DOE ECP 
+Manager may transfer an Employee Concern in writing to another organization 
+with subject matter expertise, or when another established resolution process 
+exists to address the Employee Concern raised (e.g., the Differing Professional
+
+--- page 20 ---
+Appendix A  DOE O 442.1B 
+Page 4  1-31-2019 
+ 
+ 
+Opinions process under DOE O 442.2, Differing Professional Opinions for 
+Technical Issues Involving Environment, Safety and Health Technical Concerns).  
+If an Employee Concern is transferred to another organization: 
+(1) The DOE ECP Manager must inform the Concerned Individual of the 
+transfer of the Employee Concern if the identity of the Concerned 
+Individual is known. 
+(2) The office that accepts the transfer will have responsibility and jurisdiction 
+to address the Employee Concern and is responsible for communicating 
+the results to the Concerned Individual if the identity of the Concerned 
+Individual is known. 
+(3) Once transferred, the DOE ECP has no further responsibility to the 
+Concerned Individual regarding the Employee Concern. 
+(4) Note:  The DOE ECP Manager may transfer an Employee Concern raised 
+by a contractor employee to the Contractor ECP for action only in cases 
+where, after consultation, the contractor employee and the DOE ECP 
+Manager agree that such transfer is appropriate.   
+f. Referral of an Employee Concern to Another Organization. The DOE ECP 
+Manager may refer an Employee Concern in writing to another office or program 
+for evaluation. Such referral does not transfer ultimate decision making authority 
+over the Employee Concern to the office or program providing such evaluation. 
+(1) If an Employee Concern is referred to another organization, the DOE ECP 
+Manager must inform the Concerned Individual of the referral if the 
+identity of the Concerned Individual is known. 
+(2) Upon accepting the concern, the receiving office is responsible for 
+investigating the Employee Concern and documenting its findings to the 
+DOE ECP Manager. 
+(3) The DOE ECP Manager must evaluate the response to verify it addresses 
+the Employee Concern. The DOE ECP Manager may investigate further if 
+the response does not fully address the Employee Concern. 
+(4) Note: The DOE ECP Manager may refer an Employee Concern raised by 
+a contractor employee to the Contractor ECP for action in cases where, 
+after consultation, the contractor employee and the DOE ECP Manager 
+agree that such referral is appropriate. As in the case of other referrals, the 
+DOE ECP Manager must evaluate the response from the Contractor ECP 
+to verify it addresses the Employee Concern.  The DOE ECP Manager 
+may investigate further if the response does not fully address the 
+Employee Concern.
+
+--- page 21 ---
+DOE O 442.1B  Appendix A 
+1-31-2019  Page 5 
+ 
+ 
+g. Investigation. The DOE ECP Manager may initiate an investigation to examine an 
+Employee Concern. The investigation may involve interviews, inspection of 
+relevant documents, sites, or equipment, and an evaluation of practices being 
+followed. The DOE ECP Manager may bring in outside subject matter experts to 
+help conduct investigations. ECP investigations should provide sufficient 
+evidence to allow the DOE ECP Manager to determine if the Employee Concern 
+is Substantiated, Partially Substantiated or Unsubstantiated. 
+5. Closure of Employee Concerns. An Employee Concern must be tracked until closure. 
+The goal of the ECP is to close Employee Concerns within 90 calendar days from date of 
+receipt of the Employee Concern. However, closure of the Employee Concern will 
+depend on the supporting information and circumstances of the Employee Concern. An 
+Employee Concern is considered closed when one of the following has occurred and been 
+documented by the DOE ECP Manager in the ECP case file: 
+a. The Employee Concern has been dismissed by the DOE ECP Manager or resolved 
+informally. 
+b. The Concerned Individual has withdrawn the Employee Concern and the nature of 
+the Employee Concern does not require further evaluation or action. 
+c. The Employee Concern has been resolved through ADR. 
+d. The Employee Concern has been transferred to another organization. 
+e. The Employee Concern has been investigated and/or otherwise addressed by the 
+organization to whom the concern was referred, and the following steps have been 
+taken: 
+(1) The organization to whom the concern was referred has documented its 
+findings to the DOE ECP Manager, and the DOE ECP Manager has 
+evaluated the response to verify it addresses the Employee Concern. 
+(2) The DOE ECP Manager has communicated the results to the Concerned 
+Individual if the identity of the Concerned Individual is known. 
+(3) The DOE ECP Manager has briefed management on any issues for 
+management attention. 
+f. The Employee Concern has been investigated by the DOE ECP Manager to 
+determine if the Employee Concern is Substantiated, Partially Substantiated or 
+Unsubstantiated, and the following steps have been taken: 
+(1) The DOE ECP Manager has prepared a written report describing the DOE 
+ECP Manager’s findings. 
+(2) If the Employee Concern has been Substantiated or Partially Substantiated 
+by the DOE ECP Manager:
+
+--- page 22 ---
+Appendix A  DOE O 442.1B 
+Page 6  1-31-2019 
+ 
+ 
+(a) If the Concerned Individual is a federal employee, the report must 
+include the DOE ECP Manager’s recommendations for resolution 
+of the Employee Concern, and the DOE ECP Manager must 
+provide a copy of such report to the Field Office Manager (or, for 
+headquarters matters, the appropriate Head of Departmental 
+Element). 
+(b) If a Concerned Individual is a contractor employee, the report must 
+include the DOE ECP Manager’s recommendations for resolution 
+of the Employee Concern, and the DOE ECP Manager must 
+provide a copies of such report to the appropriate Contracting 
+Officer and Field Office Manager (or, for headquarters matters, the 
+appropriate Head of Departmental Element). 
+(c) The DOE ECP Manager must document the response of DOE 
+management and/or the contractor (as applicable) to the Employee 
+Concern in the ECP file. 
+(d) Any Corrective Actions approved by the Field Office Manager (or, 
+for headquarters matters, the appropriate Head of Departmental 
+Element) must be identified and captured in a tracking system, and 
+their completion documented. The DOE ECP Manager must 
+inform appropriate levels of DOE management when actions are 
+either ineffective or not timely in resolving Employee Concerns or 
+correcting identified issues. 
+(3) The Concerned Individual, if the Concerned Individual’s identity is 
+known, has been notified regarding the disposition of the Employee 
+Concern (e.g., whether the Employee Concern was Substantiated, Partially 
+Substantiated, or Unsubstantiated, and any Corrective Actions taken). 
+Note: to protect the Confidentiality of those who provided information or 
+other input to an investigation, the specifics of the investigation must not 
+be provided in the closure summary provided to the Concerned Individual. 
+6. Reports; Assessments. 
+a. Reports. DOE ECP Managers must prepare reports at least every six months for 
+their respective DOE ECPs, including the information in paragraph 2.c. of this 
+Appendix, and provide a copy of such reports to the ECP Director. The DOE ECP 
+Manager must review the reports with the Head of Departmental Element, or Field 
+Office Manager, as appropriate, for lessons learned and possible trends. 
+b. Assessments. 
+(1) The DOE ECP Manager must conduct a compliance and performance- 
+based Self-Assessment of its ECP program within one year of program 
+approval, and then at least once every two years afterwards. The DOE 
+ECP Manager must document the results in a Self-Assessment report, and
+
+--- page 23 ---
+DOE O 442.1B  Appendix A 
+1-31-2019  Page 7 
+ 
+ 
+provide a copy of the report to the ECP Director. The DOE ECP Manager 
+must review the Self-Assessment reports with the Head of Departmental 
+Element, or Field Office Manager, as appropriate, for lessons learned and 
+possible trends. Problems that hinder the ECP from achieving its 
+objectives must be identified and corrected. 
+(2) The DOE ECP Manager must perform Assessments of each new 
+Contractor ECP within one year of program plan approval, and at least 
+once every two years thereafter. 
+(3) The DOE ECP Manager may conduct additional Assessments of federal 
+Field Office and contractor organizations, as appropriate, in support of a 
+positive Safety Culture and a Safety Conscious Work Environment.  
+7. Promoting Awareness of the ECP. The process and methods (e.g., website, brochures, 
+posters, emails, and continuing training) by which the DOE ECP Manager will publicize 
+the role and availability of both the Contractor’s ECP and the DOE ECP, including how 
+and where Employee Concerns can be raised and information on employee rights and 
+responsibilities to report Employee Concerns. 
+a. New Employees. Employees must be notified of the ECP upon being hired (e.g., 
+new employee orientation, brochures, emails). 
+b. Existing Employees. On at least an annual basis, existing employees must be 
+notified of the availability of the ECP.  For Field Offices, the DOE ECP Manager 
+shall coordinate with the Field Office Manager to provide the content of the 
+annual notice regarding the DOE ECP. The ECP Director provides support to the 
+Deputy Secretary in preparing the annual notice to federal and contractor 
+employees regarding the ECP.   
+8. Organization/Structure/Interface. The process that the DOE ECP Manager will use to 
+disposition Employee Concerns in an independent and objective manner, and how the 
+DOE ECP Manager will coordinate with appropriate organizations in the resolution of 
+Employee Concerns. This includes a description of the way in which: 
+a. The DOE ECP Manager can operate independently from line management and 
+actions which require line management involvement; 
+b. The DOE ECP Manager will have direct access to the head of the organization or 
+his or her designee; and 
+c. The DOE ECP Manager will interface with other organizations (e.g., legal 
+counsel; human resources; health, safety, security, environment and quality 
+assurance) to evaluate Employee Concerns in an independent and objective 
+manner.
+
+--- page 24 ---
+Appendix A  DOE O 442.1B 
+Page 8  1-31-2019 
+ 
+ 
+9. Training and Qualification. The process by which personnel responsible for 
+implementing the ECP or investigating Employee Concerns must be sufficiently trained 
+to properly carry out their responsibilities.

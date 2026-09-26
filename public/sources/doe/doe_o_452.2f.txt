@@ -1,0 +1,1224 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov National Nuclear Security Administration 
+U.S. Department of Energy ORDER 
+ Washington, D.C.  
+Approved: 08-05-2026 
+ 
+SUBJECT:  NUCLEAR EXPLOSIVE SAFETY 
+1. PURPOSE.  This Order establishes enforceable requirements to implement Nuclear 
+Explosive Safety (NES) elements of United State (U.S.) Department of Energy 
+(DOE) Order (O) 452.1, Nuclear Explosive and Weapon Surety Program, for Nuclear 
+Explosive Operations (NEOs) and Nuclear Explosive-Like Assemblies (NELAs).  NEOs 
+shall be designed, evaluated, authorized, and conducted to ensure nuclear explosive 
+safety under all authorized conditions. 
+2. CANCELS/SUPERSEDES.  DOE O 452.2F, Nuclear Explosive Safety, dated 
+July 27, 2020.  Cancellation of a directive does not, by itself, modify or otherwise affect 
+any contractual obligation to comply with the directive. 
+3. APPLICABILITY. 
+a. Departmental Elements and DOE Contractors. 
+(1) This Order applies to National Nuclear Security Administration (NNSA) 
+and DOE contractors performing, managing, overseeing, or supporting 
+NEOs, NELAs, or associated activities. 
+(2) The NNSA Administrator will ensure that NNSA employees comply with 
+their respective responsibilities under this Directive.  Nothing in this Order 
+will be construed to interfere with the NNSA Administrator’s authority 
+under section 3212(d) of Public Law (P.L.) 106-65, National Defense 
+Authorization Act for Fiscal Year 2000, to establish Administration-
+specific policies, unless disapproved by the Secretary. 
+(3) NEOs require special consideration because of the extreme consequences 
+of an accident or unauthorized act.  The NES Program outlined in this 
+Order and in Attachments 1–4 supports the requirement that NEOs must 
+be designed and conducted in a manner that meets the NES Standards of 
+DOE O 452.1, current version.  Except for the exclusions in paragraph 3.b. 
+(below), contractors shall comply with the requirements in this Order and 
+guidance in DOE O 452.1F, paragraphs 4.a–4.c and Attachment 1, 
+Contractor Requirements Document (CRD). 
+DOE O 452.2G
+
+--- page 2 ---
+2 DOE O 452.2 
+ 08-05-2026 
+b. DOE Contractors.  The requirements of this Order shall be incorporated into 
+applicable contracts, including Management and Operating (M&O) contracts.  
+The contractor is responsible for flowing down the requirements of this CRD, if 
+applicable.  Contractors shall comply with the requirements of applicable federal, 
+state, and local laws and regulations in carrying out the requirements of this Order 
+unless relief has been granted in writing.  Omission of any applicable law or 
+regulation from the Order does not affect the obligation of the contractor to 
+comply with such law or regulation.  Contractors must comply with the 
+requirements of this Order, except to the extent modified by the equivalencies or 
+exemptions identified herein or issued to the contractor in writing by DOE 
+utilizing the process outlined in DOE O 251.1E, Departmental Directives 
+Program, including as amended or updated. 
+c. Equivalencies/Exemptions for DOE O 452.2G.  Exemptions must be requested 
+when release is sought from a requirement in this Directive or successor 
+directives.  The exemption process is outlined in DOE O 251.1, current version.  
+The approval authority is the Deputy Administrator for Defense Programs with 
+concurrence from the Central Technical Authority. 
+(1) Equivalency.  In accordance with the responsibilities and authorities 
+assigned by Executive Order 12344, “Naval Nuclear Propulsion Program,” 
+codified at 50 U.S.C. §§ 2406, Deputy Administrator for Naval Reactors, 
+and 2511, Naval Nuclear Propulsion Program, and to ensure consistency 
+throughout the joint Navy/DOE Naval Nuclear Propulsion Program, the 
+Deputy Administrator for Naval Reactors (Director) will implement and 
+oversee requirements and practices pertaining to this Directive for 
+activities under the Director's cognizance, as deemed appropriate. 
+(2) Exemption.  This Order does not apply to emergencies requiring Accident 
+Response Group action.  DOE O 151.1, Comprehensive Emergency 
+Management System, current version, addresses emergencies involving 
+nuclear explosives (NEs).  The Deputy Administrator for Defense 
+Programs is authorized to ensure transition from emergency management 
+directives to this Order once the emergency is terminated. 
+(3) Exemption.  Subcritical experiments performed at the Nevada National 
+Security Site and conducted under the authority of the Nevada Field 
+Office are exempt from this Order based on their inherently subcritical 
+design features, as defined by Nevada Field Office (NFO) O 450.X5, 
+Subcritical Experiment Program.  NFO O 450.X5, or successor document, 
+addresses performing, managing, overseeing, and directly supporting 
+subcritical experiments and associated activities.
+
+--- page 3 ---
+DOE O 452.2 3 
+08-05-2026 
+4. REQUIREMENTS. 
+a. Nuclear Explosive Safety Program.  NEOs require special consideration because 
+of the extreme consequences of an accident or unauthorized act.  When the 
+defined safety theme of the nuclear explosive (NE) is not intact, then facility 
+and/or process controls are necessary to ensure NES.  If the safety theme of the 
+NE is intact, NES evaluations may still be necessary to evaluate the adequacy and 
+efficacy placed upon the process.  The NES Program outlined in this section 
+supports the requirement that NEOs must be designed and conducted in a manner 
+that meets the NES Standards of DOE O 452.1, current version.  It includes the 
+following: Nuclear Explosive Safety Rules (NESRs), general and supplemental; 
+formal NES evaluations; fundamental NEO process requirements (procedures, 
+facilities, equipment, and people); requirements for onsite and offsite 
+transportation (mobile NEOs); sustaining requirements (positive verification, 
+change control, and configuration management); requirements for NELAs; and 
+permanent marking of NEs and NELAs. 
+(1) General NESRs.  The general NESRs set forth in this paragraph are 
+mandatory for all NEOs. 
+(a) Nuclear Explosive Safety Evaluation.  NEOs must not be 
+performed until an NES evaluation has been completed and 
+findings indicating that an NES standard has not been met have 
+been closed. 
+(b) Nuclear Explosive Operating Procedures.  NEOs must be 
+performed in accordance with approved written procedures. 
+(c) One-Point Safety. 
+1 Tooling and equipment must be evaluated to ensure that 
+their intended use on an NE certified to be one-point safe 
+does not cause an NE or equipment configuration that is not 
+one-point safe. 
+2 If it is determined that an NE no longer meets the one-point 
+safety criteria, all production plant operations (including 
+assembly, disassembly, and onsite transportation) and 
+offsite transportation with that NE must be discontinued in 
+a safe manner.  Before operations with that nuclear 
+explosive can be resumed, a path forward must be 
+developed, an NES evaluation must be completed, and 
+findings indicating an NES standard has not been met must 
+be closed.
+
+--- page 4 ---
+4 DOE O 452.2 
+ 08-05-2026 
+(d) Nuclear Explosive Areas (NEAs). 
+1 Energy sources in NEAs must be identified and 
+documented.  Unauthorized energy sources must not be 
+available during NEOs. 
+2 Ignition sources in NEAs must be identified and either 
+(1) eliminated or (2) minimized and controlled to prevent 
+adverse interaction with combustible or flammable 
+materials and the nuclear explosive. 
+3 Combustible and flammable materials in NEAs must be 
+identified and either (1) eliminated or (2) minimized and 
+controlled to prevent adverse interaction with the 
+nuclear explosive. 
+(e) Electrical Testing.  Unless directed by a design agency (DA) 
+special instruction engineering release (SIER) that was reviewed 
+for NES impact by certified DA NES personnel, nuclear explosives 
+must not be subjected to: 
+1 Redundant electrical tests, or 
+2 Electrical troubleshooting (i.e., to confirm the existence of 
+a fault, or aid in fault isolation) except with authorized test 
+equipment and procedures that have been subjected to an 
+NES evaluation and found to be acceptable for the 
+specific application. 
+Note:  Repeat electrical tests performed in conformance 
+with approved NE operating procedures and separated by 
+other actions that might alter test results are not 
+considered redundant. 
+(f) Safe and Stable. 
+1 If it is determined that an NE is no longer in a condition 
+covered by an approved written procedure, all operations 
+with that NE and in the associated facility must be 
+discontinued in a safe manner, resulting in a safe and stable 
+NE configuration. 
+2 Before operations on the affected unit can be resumed, a 
+DA SIER must be developed, and the NEO change control 
+process must be completed in accordance with change 
+control requirements in paragraph 4.a.(13). 
+a A DA NES-certified personnel must specifically 
+review the SIER for impact on NES.
+
+--- page 5 ---
+DOE O 452.2 5 
+08-05-2026 
+b Transportation operations, if applicable, must be 
+specifically addressed in the SIER. 
+3 A decision to resume other activities in the facility must 
+include consideration of possible interactions with that unit. 
+4 If achieving a safe and stable nuclear configuration was due 
+to a process, tooling, or facility issue, and not the result of a 
+condition with the NE, and if the NE remains in an 
+as-expected configuration, then no SIER is required for 
+resumption of operations. 
+(2) Nuclear Explosive Safety Evaluations.  NES evaluations are required 
+before an NEO is authorized periodically for ongoing NEOs and when 
+proposed changes or emerging information affect an approved NEO.  NES 
+evaluations must be performed in accordance with NNSA Supplemental 
+Directive (SD) 452.2, Nuclear Explosive Safety Evaluation Processes, 
+current version. 
+(3) Human Factors. 
+(a) Elements of NEOs, such as new procedures, processes, facilities or 
+facility layouts, new tooling and equipment, must incorporate 
+human factors principles during the NEO design and development 
+phase and be maintained throughout the life cycle of the NEO.  
+Existing NEOs should strive to meet human factors principles to 
+the extent reasonably achievable. 
+(b) Organizations developing NEOs must consider the application of 
+established research in human factors and ergonomics, including 
+human-system interface design, human cognition and perception, 
+stress and workload, anthropometry and workspace design, 
+environmental factors, training, and human error. 
+(4) Procedures.  Written procedures (paper or electronic) that control the 
+interactions between the NE, the operating facility, equipment, and 
+personnel must meet the following requirements: 
+(a) Design agencies must review and concur with original issues of 
+procedures for NEOs and NEO-associated activities. 
+(b) All written procedures for NEOs must place proper emphasis on 
+preventing accidents and detecting abnormal conditions by 
+accomplishing the following: 
+1 Comply with design specifications and 
+technical requirements. 
+2 Clearly state cautions and warnings.
+
+--- page 6 ---
+6 DOE O 452.2 
+ 08-05-2026 
+3 Identify appropriate points to interrupt work safely. 
+4 Include generic contingency procedures that are directed 
+toward quickly achieving a safe and stable NE 
+configuration to be applied in response to all unexpected 
+situations not covered by other written procedures. 
+(5) Two-Person Concept.  Organizations responsible for NEOs and 
+NEO-associated activities and facilities (to include NELA verifications as 
+specified in Attachment 3 of this Order) must establish and implement the 
+two-person concept as specified in Attachment 1 of this Order. 
+(6) Facilities.  Facilities used for NEOs with NEs that do not have an intact 
+defined safety theme must be characterized, evaluated, and specifically 
+approved for that use, based (in part) on an independent NES evaluation in 
+accordance with NNSA SD 452.2, current version. 
+During NES evaluations of facilities, safety structures, systems, and 
+components (SSCs) can be considered to credibly control natural 
+phenomenon hazards (NPH) if they meet the appropriate NPH design 
+categories found in DOE-Standard (STD)-1020, Natural Phenomena 
+Hazards Analysis and Design Criteria for DOE Facilities (Invoked), 
+current version, as invoked by DOE O 420.1, Facility Safety, current 
+version.  DOE mobile conveyances used for transportation of NEs do not 
+need to meet DOE-STD-1020. 
+(7) Equipment.  Organizations responsible for NEOs and NEO-associated 
+activities and facilities must verify that all equipment used in NEAs 
+(including tooling, testers, and other mechanical and electrical equipment) 
+meet the following requirements. 
+(a) Design specifications and technical requirements must 
+be documented. 
+(b) Designs must ensure NEs will remain in a safe condition should a 
+system or component of the tool or equipment fail. 
+(c) Each item used in an NEO must be specifically approved for that 
+operation.  Unapproved, moveable items must be excluded from 
+the NEA.  Positive measures must be used to prevent the use of 
+facility equipment that is not approved for the NEO, but is 
+impracticable to remove. 
+(d) Equipment intended to apply energy to an NE must incorporate 
+features that limit application of energy to a known, safe level.
+
+--- page 7 ---
+DOE O 452.2 7 
+08-05-2026 
+(e) Energy sources associated with equipment used in NEAs must be 
+identified, analyzed, characterized, and documented.  Engineered 
+controls relied upon to protect NEs from these energy sources must 
+be validated through analysis and testing. 
+(f) Energetic equipment intended for use in NEAs by emergency 
+responders (e.g., fire department personnel, security force, and 
+radiological protection) must be evaluated and characterized with 
+respect to potential hazards.  Training of expected responders and 
+NEA workers must address emergency situations to help ensure 
+safety of responders and associated equipment. 
+(g) Attachment 3 of this Order specifies additional requirements for 
+electrical equipment used in NEAs. 
+(8) Maintenance of Facilities, Tooling, and Other Equipment.  Organizations 
+responsible for NEOs and NEO-associated activities and facilities must 
+review maintenance programs and activities for impact on NES.  
+Maintenance implementation plans must include a detailed description of 
+maintenance activity control and approval, including limitations on 
+equipment and materials that are allowed in NEAs. 
+(9) Personnel.  Each organization responsible for or involved in NEOs and 
+NEO-associated activities must implement training, qualification, and 
+certification programs for personnel that manage, oversee, perform, or 
+directly support these operations and activities. 
+In addition to the applicable requirements in 10 Code of Federal 
+Regulations (CFR) § 712, Human Reliability Program, and DOE O 426.2, 
+Personnel Selection, Training, Qualification, and Certification 
+Requirements for DOE Nuclear Facilities, current version, annual training 
+will be conducted for personnel assigned to nuclear explosive duty that 
+includes the following NES-specific topics: 
+(a) Responsibilities associated with custody of NEs. 
+(b) Use of general NESRs and immediate action procedures. 
+(c) Site-, facility-, program-, and operation-specific safety 
+requirements. 
+(d) The purpose, objective, and responsibilities of the two-person 
+concept for operations. 
+(e) Explosive safety appropriate for assigned responsibilities.
+
+--- page 8 ---
+8 DOE O 452.2 
+ 08-05-2026 
+For site-, facility-, program-, and operation-specific safety requirements, 
+the annual training requirements under paragraph 4.a.(10)(c) above may 
+be met with training provided during an initial certification or qualification 
+program and through a continued recertification or requalification process, 
+provided that the process requires no less than an annual review or 
+demonstration of knowledge of the safety requirements. 
+(10) Transportation of Nuclear Explosives.  Nuclear explosive transportation is 
+a mobile NEO and involves a mobile NEA.  Because the application of 
+controls to NE transportation is significantly different from applying 
+controls to a fixed facility, requirements specified for NEOs and NEAs 
+elsewhere in this Directive apply, except as noted below in (b). 
+(a) Organizations responsible for NEOs and NEO-associated activities 
+and facilities must establish requirements and procedures to ensure 
+safe onsite transportation of nuclear explosives. 
+(b) Transportation operations and shipping configurations of NEs with 
+intact defined safety themes certified to Standard Technical 
+Specifications environments determined to bound the 
+transportation environments, including all items in the conveyance, 
+are not subject to the NES evaluation requirements of 
+Paragraphs 4.a.(1)(a) and 4.a.(2).  An NES evaluation may still be 
+necessary to evaluate the adequacy and efficacy of controls placed 
+upon the process. 
+1 Nuclear explosives without an intact defined safety theme 
+must be transported in conveyances specifically reviewed 
+through the NES evaluation process. 
+2 Criteria must be established for protecting NEs during 
+transportation.  The criteria and restraint designs for 
+specific nuclear explosive configurations must be reviewed 
+through the NES evaluation process. 
+(11) Mixed Venues.  NEs must not be transported or staged with any other 
+assembly that could be mistaken for an NE. 
+If operational constraints require nuclear explosives and NELAs to be 
+collocated, the operations must comply with the NELA standards in 
+paragraph 4.a.(15) of this Directive and must be evaluated by a Nuclear 
+Explosive Safety Study Group (NESSG).  The operational justification for 
+collocation of the nuclear explosives and NELAs will be provided to the 
+NESSG during the evaluation.
+
+--- page 9 ---
+DOE O 452.2 9 
+08-05-2026 
+(12) Positive Verification. 
+(a) Organizations responsible for NEOs and NEO-associated activities 
+and facilities must develop and implement a verification process to 
+ensure use of qualified personnel who are fit for duty, 
+operationally ready facilities, correct equipment that is current in 
+any required calibration and preventive maintenance, and current 
+approved procedures. 
+(b) The configuration and condition of a nuclear explosive and its 
+safety features must be determined as early as practicable during 
+any planned NEO.  For operations occurring prior to this 
+determination, or in the event a determination cannot be made, 
+incompatibility with or isolation from external energy that may 
+lead to credible NES consequences must be demonstrated. 
+(13) Change Control.  Organizations responsible for NEOs and NEO-
+associated activities and facilities must establish and implement an NES 
+change evaluation process in accordance with NNSA SD 452.2, current 
+version.  This NES evaluation is separate and independent from the 
+unreviewed safety question process required by 10 CFR § 830, Nuclear 
+Safety Management, and must be completed before approval and 
+implementation of the change. 
+All proposed changes to authorized NEOs, including the following, are 
+subject to the NEO change control process. 
+(a) Proposals that may have direct NES implications (e.g., procedural, 
+equipment, or facility changes to an approved NEO). 
+(b) Proposals that may have indirect NES implications (i.e., changes or 
+new activities that could impact the foundation established by 
+previous NES master studies). 
+(c) Changes in knowledge affecting an approved NEO (i.e., new 
+understanding of a potential threat to NES or new data regarding 
+the response of a nuclear explosive to a stimulus). 
+(14) Configuration Management. 
+(a) Organizations responsible for NEOs and NEO-associated activities 
+and facilities must develop and implement a configuration 
+management program incorporating elements applicable to NEOs 
+and NEO-associated activities and facilities. 
+(b) To ensure consistency with design requirements and the safety 
+basis, the configuration management program must include the 
+following:
+
+--- page 10 ---
+10 DOE O 452.2 
+ 08-05-2026 
+1 The physical configuration of a nuclear explosive and its 
+components; the tooling, equipment, and procedures used 
+in NEOs and NEO-associated activities; and the interface 
+with the facilities in which these operations and activities 
+are conducted; 
+2 Unique identification of special tooling and equipment used 
+in NEOs; 
+3 Positive identification of tooling and equipment requiring 
+calibration or testing within a calibration or testing control 
+program; and 
+4 Incorporation of approved changes into all affected 
+documents (including design documents, drawings, 
+procedures, and safety basis documents) and programs 
+(including maintenance and training). 
+(15) Nuclear Explosive-Like Assemblies. 
+(a) Nuclear Explosive-Like Assembly Standards.  All NELA 
+operations must meet the following qualitative NELA standards. 
+1 There must be positive measures to prevent inadvertent or 
+unauthorized assembly of a nuclear explosive in place of an 
+NELA configuration. 
+2 There must be positive measures to prevent inadvertent or 
+unauthorized transfer of a nuclear explosive in place of an 
+NELA configuration. 
+In the context of these NELA standards, the term prevent is 
+applied as described for the Nuclear Explosive Surety 
+Standards in DOE O 452.1, current version. 
+(b) Nuclear Explosive-Like Assembly Requirements.  Attachment 4 
+provides the criteria that must be used to make NELA 
+determinations.  If an NELA has been determined to exist, this 
+determination must be documented and retained by the 
+determining authority.  Organizations with or without an NEO 
+mission that are responsible for NELA operations must implement 
+the NELA requirements in Attachment 3 of this Directive. 
+(16) Marking Instructions.  Nuclear explosives and NELAs must be marked to 
+distinguish configurations capable of a nuclear explosive detonation from 
+those that are not.  Organizations responsible for NEOs or NELA 
+operations must implement the marking requirements in Attachment 4 of 
+this Directive.
+
+--- page 11 ---
+DOE O 452.2 11 
+08-05-2026 
+b. Independent Oversight.  The Associate Administrator for Safety, Infrastructure 
+and Operations executes independent oversight through the Office of the Chief of 
+Defense Nuclear Safety of this Directive’s implementation and associated NNSA 
+SDs by NNSA personnel.  This oversight may be carried out through observation 
+of NNSA NES evaluations, independent assessments, shadowing of field element 
+assessments, or other appropriate mechanisms.  On an annual basis, the Office of 
+the Associate Administrator for Safety, Infrastructure and Operations will 
+summarize its oversight activities, along with any recommendations for changes 
+in the NES Program in a report to the NNSA Deputy Administrator for Defense 
+Programs, the Assistant Deputy Administrator for Stockpile Management, and the 
+Assistant Deputy Administrator for Secure Transportation.  The Assistant Deputy 
+Administrator for Stockpile Management and/or Assistant Deputy Administrator 
+for Secure Transportation will respond within 90 days to the recommendations 
+with a proposed corrective action plan, or justification for no action. 
+c. Records.  Records (documentation) must be maintained in accordance with 
+National Archives and Records Administration-approved DOE or site-specific 
+records retention and disposition schedules in accordance with DOE O 243.1, 
+Records Management Program, current version. 
+5. RESPONSIBILITIES. 
+a. Deputy Administrator for Defense Programs. 
+(1) Ensure implementation of NES Programs. 
+(2) Approve exemptions to this Order. 
+b. Assistant Deputy Administrator for Stockpile Management.  Respond within 
+90 days to Office of Environment, Safety, and Health independent oversight 
+recommendations with a proposed corrective action plan, or justification for 
+no action. 
+c. Assistant Deputy Administrator for Secure Transportation.  Support NA-12 by 
+providing a proposed corrective action plan or justification for no action for 
+oversight recommendations directed toward an NA-15 area of responsibility. 
+d. NNSA Field Element Managers Responsible for NES Program Implementation. 
+(1) Provide oversight of NNSA M&O contractors. 
+(2) Provide direction to the Contracting Officers to ensure that 
+Attachments 1–4 of this Directive are included in the 
+appropriate contracts. 
+e. Chief of Defense Nuclear Safety.  Provides independent oversight of the 
+implementation of this Order and associated Supplemental Directives by 
+NNSA personnel.
+
+--- page 12 ---
+12 DOE O 452.2 
+ 08-05-2026 
+f. Director, Office of Stockpile Operations. 
+(1) Provide federal leadership for project teams formed to develop NE 
+operations at NNSA production agencies. 
+(2) Ensure that NNSA NEOs are designed in a manner that satisfies the NES 
+Program requirements. 
+g. Director, Office of Stockpile Modernization. 
+(1) Provide federal leadership for project teams formed to develop NEOs at 
+NNSA production agencies. 
+(2) Ensure that NNSA NEOs are designed in a manner that satisfies the NES 
+Program requirements. 
+h. Director, Office of Stockpile Production Integration. 
+(1) Manage the NNSA NES evaluation processes. 
+(2) Provide support to NNSA field element offices as needed for NES 
+oversight of the NNSA M&O contractors. 
+i. Chair, Nuclear Explosive Safety Study Group. 
+(1) Implement the NNSA NES evaluation processes. 
+(2) Provide the official interpretation of the NES Standards and other NES 
+criteria for use by the NESSG during the performance of NES evaluations 
+per paragraph 4.a.(3). 
+j. Contracting Officer.  For all applicable contracts and upon notification that a 
+site/facility management contract is affected by this Order, the Contracting 
+Officer(s) shall incorporate the requirements into the affected contract(s) via the 
+“Laws, Regulations, and DOE Directives” clause of the contract, or through 
+negotiation and modification, as appropriate. 
+6. INVOKED STANDARDS.  This Order does not invoke any DOE technical standards or 
+industry standards as required methods.  Any technical standard or industry standard that 
+is mentioned in or referenced by this Order is not invoked by this Order.  Note: 
+DOE O 251.1D, Appendix J, provides a definition for “invoked technical standard.” 
+7. DEFINITIONS.  Definitions from DOE O 452.1, current version, are not repeated here. 
+a. Access.  The proximity to an NE that allows the opportunity to divert, steal, 
+tamper with, or damage the NE in spite of any controls that have been established 
+to prevent such unauthorized actions. 
+b. Custody of Nuclear Explosives.  Responsibility for access to and control of NEs.
+
+--- page 13 ---
+DOE O 452.2 13 
+08-05-2026 
+c. Dummy Pit.  A component or set of components designed to simulate a live pit, 
+but which does not contain fissile material and cannot create an NE if placed in 
+the central cavity of an implosion system.  A “high-fidelity” dummy pit is one 
+that also has dimensions representative of a live pit. 
+d. Electrical Equipment.  Includes items that contain or use an electrical energy 
+source and the interface (if any) with the NE.  For Category 1 electrical 
+equipment (as defined in Attachment 2 of this Order), this includes associated 
+adapters, test cables, switch boxes, etc.  For some Category 2 electrical equipment 
+(as defined in Attachment 2 of this Order), this includes a mechanical connection 
+to the NE and associated electrical isolation features.  Category 3 electrical 
+equipment does not interface with the NE. 
+e. Facility.  Any equipment, structure, system, process, or activity that fulfills a 
+specific purpose. 
+f. Human Factors.  A scientific discipline that applies knowledge about human 
+abilities, characteristics, and limitations to design of tasks, equipment, 
+and environments. 
+g. Human Reliability Program (HRP).  A program established by 10 CFR § 712, 
+Human Reliability Program, to ensure that individuals who occupy positions 
+affording access to certain materials, NE devices, facilities, and programs meet 
+the highest standards of reliability and physical and mental suitability. 
+h. Main Charge.  The high explosive that implodes the pit. 
+i. Mock High Explosive.  A material that is designed to simulate the main-charge 
+high explosive, but which is non-detonable and clear or colored pink. 
+j. Mock Primary.  A surrogate NE in its basic configuration (i.e., consisting of mock 
+high explosive and dummy pit designed to simulate the geometry of a primary). 
+k. Nuclear Explosive Assembly.  An assembly made up of an NE subassembly and a 
+higher level of assembly up to a fully assembled weapon configuration. 
+l. Nuclear Explosive Subassembly.  A subassembly made up of a main charge high 
+explosive and a pit. 
+m. Nuclear Explosive Duty.  Work assignments that allow custody of an NE or 
+access to an NE device or area. 
+n. Nuclear Explosive-Like Assembly.  An assembly that resembles an NE in the 
+U.S. nuclear weapons stockpile (past, present, or planned) and represents an NE 
+in its basic configuration (main-charge high explosive and pit) or any higher level 
+of assembly up to a fully assembled weapon configuration (mock primary, trainer, 
+Joint Test Assembly, etc.).  An NELA is not capable of producing a nuclear 
+explosive detonation and does not contain both main-charge high explosive and a 
+live pit.
+
+--- page 14 ---
+14 DOE O 452.2 
+ 08-05-2026 
+o. Nuclear Explosive Operation Associated Activities.  Activities directly associated 
+with a specific NEO, such as work on a bomb nose or tail subassembly, even 
+when physically separated from the bomb’s NE subassembly. 
+p. Nuclear Explosive Safety Rules.  Requirements that significantly contribute to 
+minimizing the possibility of NE detonation or aerosolized dispersal in NEOs. 
+q. One-Point Safe Nuclear Explosive.  An NE that, in the event a detonation, is 
+initiated at any one point in the high-explosive system, presents no greater 
+probability than one in a million of producing an NE yield of greater than 
+4 pounds of TNT equivalent. 
+r. Permanent Marking.  A durable method, normally by metal deformation or 
+engraving, indicating on an external area of an assembly, whether it is an NE or 
+an NELA. 
+s. Safe and Stable.  Stabilization of an NE intended to ensure it is placed in a 
+configuration that precludes potential hazards from affecting the unit, using the 
+minimum actions necessary. 
+t. Safety Basis.  The documented safety analysis and hazard controls that provide 
+reasonable assurance that a DOE nuclear facility can be operated safely in a 
+manner that adequately protects workers, the public, and the environment. 
+u. Two-Person Concept.  A concept of operations implemented to ensure no lone 
+individual has unrestricted access to an NE or other crucial asset as specified by 
+this Order. 
+8. REFERENCES.  The following list contains references that are relevant to this Order. 
+a. P.L. 106-65, Title 32, The National Nuclear Security Administration Act, dated 
+October 5, 1999, as amended, which established a separately organized agency 
+within the DOE. 
+b. 10 CFR § 712, Human Reliability Program, which establishes the policies 
+and procedures for the DOE, including NNSA, HRP.  The HRP is a security 
+and safety reliability program designed to ensure that individuals who occupy 
+positions affording access to certain materials, NE devices, facilities, and 
+programs meet the highest standards of reliability and physical and 
+mental suitability. 
+c. 10 CFR § 820, Procedural Rules for DOE Nuclear Activities, which sets forth 
+procedures to govern the conduct of persons involved in DOE nuclear activities 
+and, in particular, to achieve compliance with the DOE Nuclear Safety 
+Requirements by all persons subject to those requirements.
+
+--- page 15 ---
+DOE O 452.2 15 
+08-05-2026 
+d. 10 CFR § 830, Nuclear Safety Management, which governs the conduct of DOE 
+contractors, DOE personnel, and other persons conducting activities (including 
+providing items and services) that affect, or may affect, the safety of DOE 
+nuclear facilities. 
+e. Joint DOE/Department of Defense (DOE/DoD) Technical Publication 20-7, 
+Chg 6, Nuclear Safety Criteria, dated July 20, 2016. 
+f. Joint DOE/DoD Technical Publication 35-51, Chg. 4, General Instructions 
+Applicable to Nuclear Weapons, dated December 21, 2016. 
+g. Joint DOE/DoD Technical Publication 45-51, Chg. 8, Transportation of Nuclear 
+Weapons Materiel, General Shipping and Limited Life Component Data (LLC), 
+dated November 17, 2017. 
+h. Joint DOE/DoD Technical Publication 45-51A, Chg. 3, Transportation of Nuclear 
+Weapons Materiel (Supplement), Shipping and Identification Data for Stockpile 
+Major Assemblies, dated September 13, 2016. 
+i. DOE O 151.1, Comprehensive Emergency Management System, current version, 
+which addresses responses to unplanned events. 
+j. DOE O 226.1, Implementation of Department of Energy Oversight Policy, current 
+version, which provides direction for implementing DOE Policy (P) 226.2, Policy 
+for Federal Oversight and Contractor Assurance Systems, current version, which 
+establishes DOE policy for assurance systems and processes established by DOE 
+contractors and oversight programs performed by DOE line management and 
+independent oversight organizations. 
+k. DOE O 231.1, Environment, Safety, and Health Reporting, current version, 
+defines a minimum set of occurrence reporting requirements for DOE (including 
+NNSA) Elements and contractors and includes categorizing occurrences related to 
+safety, environment, health, or operations; notifying DOE; and developing 
+follow-up reports. 
+l. DOE O 232.2, Occurrence Reporting and Processing of Operations Information, 
+current version, which provides requirements for categorizing and reporting 
+non-emergency NES occurrences. 
+m. DOE O 243.1, Records Management Program, current version, which provides a 
+framework for managing information in accordance with Department policy and 
+National Archives and Records Administration-approved DOE record schedules. 
+n. DOE O 251.1, Departmental Directives Program, current version, which details 
+the process for requesting exemptions from directives requirements.
+
+--- page 16 ---
+16 DOE O 452.2 
+ 08-05-2026 
+o. DOE O 360.1, Federal Employee Training, current version, which establishes 
+requirements and assigns responsibilities for DOE federal employee training, 
+education, and development under the Government Employees Training Act of 
+1958, as amended. 
+p. DOE O 414.1, Quality Assurance, current version, which ensures that the quality 
+of DOE (including NNSA) products and services meets or exceeds the 
+customers’ expectations. 
+q. DOE O 420.1, Facility Safety, current version, which establishes the DOE 
+(including NNSA) facility safety for nuclear safety design, criticality safety, fire 
+protection, and natural phenomena hazards mitigation, and includes the 
+configuration management requirements for Safety SSCs. 
+r. DOE O 426.2, Personnel Selection, Training, Qualification, and Certification 
+Requirements for DOE Nuclear Facilities, current version, which establishes 
+selection, qualification, and training requirements for M&O contractor personnel 
+involved in the operation, maintenance, and technical support of DOE (including 
+NNSA) Category A and B reactors and nonreactor nuclear facilities. 
+s. DOE O 433.1, Maintenance Management Program for DOE Nuclear Facilities, 
+current version, which defines the safety management program required for 
+maintenance and the reliable performance of SSCs that are part of the safety basis. 
+t. DOE O 452.1, Nuclear Explosive and Weapon Surety Program, current version, 
+which establishes requirements and responsibilities for the DOE Nuclear 
+Explosive and Weapon Surety Program. 
+u. DOE O 461.1, Packaging and Transportation for Offsite Shipment of Materials of 
+National Security Interest, current version, which establishes requirements and 
+responsibilities for the packaging and transportation of all DOE offsite shipments 
+of materials of national security interest. 
+v. NNSA SD 452.2, Nuclear Explosive Safety Evaluation Processes, current version, 
+which provides requirements and guidance for NESSs, operational safety reviews, 
+and NE safety change evaluations. 
+w. DOE-STD-1020-2016, Natural Phenomena Hazards Analysis and Design 
+Criteria for DOE Facilities, dated December 4, 2016, provides criteria and 
+guidance for the analysis and design of facility SSCs that are necessary to 
+implement the requirements of DOE O 420.1C, Facility Safety, and to ensure that 
+the SSCs will be able to effectively perform their intended safety functions under 
+the effects of NPHs.  Note: DOE-STD-1020 is not applicable to DOE mobile 
+conveyances used for transportation of NEs. 
+x. DOE-STD-1073-2016, Configuration Management, dated December 23, 2016, 
+defines the objectives of a configuration management process for DOE nuclear 
+facilities (including activities and operations) and provides detailed examples and 
+supplementary guidance on methods to achieve those objectives.
+
+--- page 17 ---
+DOE O 452.2 17 
+08-05-2026 
+y. DOE-STD-1104-2016, Review and Approval of Nuclear Facility Safety Basis and 
+Safety Design Basis Documents, dated December 21, 2016, which describes DOE 
+review and approval of documented safety analyses and TSRs for existing Hazard 
+Category 1, 2, and 3 nuclear facilities that document their safety basis in 
+accordance with 10 CFR § 830. 
+z. DOE-STD-1212-2019, Explosives Safety, dated November 27, 2019, which 
+describes DOE’s explosives safety requirements applicable to operations 
+involving the development, testing, handling, and processing of explosives or 
+assemblies containing explosives. 
+aa. DOE-STD-3009-94, Chg. 3, Preparation Guide for U.S. Department of Energy 
+Nonreactor Nuclear Facility Documented Safety Analyses, dated March 2006, 
+which describes a safety analysis report preparation method that satisfies 
+10 CFR § 830 requirements. 
+bb. DOE-STD-3009-2014, Preparation of Nonreactor Nuclear Facility Documented 
+Safety Analyses (DSA), dated November 12, 2014, which provides an acceptable 
+methodology for meeting the 10 CFR § 830 requirements for the preparation of 
+DSAs for both new and existing nonreactor nuclear facilities. 
+cc. DOE-NA-STD-3016-2018, Hazard Analysis Reports for Nuclear Explosive 
+Operations, dated October 16, 2018, which clarifies the requirements and 
+provides guidance for conducting hazard analyses and preparing hazard analysis 
+reports for NEOs and associated activities. 
+9. CONTACT.  Questions concerning this Order should be addressed to the Chief of 
+Defense Nuclear Safety, (505) 845-4404. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ 
+JAMES P. DANLY 
+Deputy Secretary
+
+--- page 18 ---
+DOE O 452.2 Attachment 1 – Tw o-Person Concept Requirements 
+08-05-2026 Page 1-1 
+ 
+ATTACHMENT 1 
+TWO-PERSON CONCEPT REQUIREMENTS 
+Note:  This attachment applies to both federal and contractor organizations. 
+1. BASIC REQUIREMENTS.  The two-person concept (TPC) is implemented to ensure no 
+lone individual has unrestricted access to a nuclear explosive.  A TPC team must be in 
+the nuclear explosive area (NEA) when a nuclear explosive is not protected by a 
+dual-lock system or other Nuclear Explosive Safety Study Group (NESSG)-evaluated 
+security system.  The TPC is also required for Category 1 electrical equipment as 
+specified in Attachment 2, paragraph 2.c., of this Order and for certain nuclear 
+explosive-like assembly (NELA) verification and assembly steps as specified in 
+Attachment 3, paragraph 4., of this Order.  National Nuclear Security Administration 
+(NNSA) field element offices may also require TPC protection for other operations 
+or equipment. 
+Each person on a TPC team must: 
+a. Be certified in the Human Reliability Program, 
+b. Have authorized access to the NEA, 
+c. Have technical knowledge of the task being performed, 
+d. Be knowledgeable of pertinent safety and security requirements, and 
+e. Be in a position to detect incorrect or unauthorized acts and take 
+appropriate action. 
+2. IMPLEMENTATION OPTIONS.  The TPC may be implemented using either zone 
+coverage or person-to-person coverage. 
+a. Zone Coverage.  Zone coverage is a term used to identify TPC 
+implementation that meets the basic requirements of paragraph 1 without the 
+additional requirements specified to protect configurations that require 
+person-to-person coverage. 
+b. Person-to-Person Coverage.  Person-to-person coverage is the more stringent 
+form of the TPC.  Person-to-person coverage is designed to protect configurations 
+that are particularly vulnerable to inadvertent acts (errors of omission or 
+commission) or deliberate unauthorized acts. 
+(1) Configurations requiring person-to-person coverage include the following: 
+(a) Exposed conventional high-explosive (CHE) main charge in 
+an NEA.
+
+--- page 19 ---
+Attachment 1 – Two-Person Concept Requirements DOE O 452.2 
+Page 1-2 08-05-2026 
+(b) Main-charge high explosives (HEs), both CHE and insensitive 
+high explosive (IHE), with accessible detonator cable assemblies 
+in an NEA. 
+(c) Nuclear explosives connected to Category 1 electrical equipment 
+(Category 1 electrical equipment is described in Attachment 2, 
+paragraph 2., of this Order.) 
+(2) In addition, configurations requiring person-to-person coverage may be 
+determined based on specific system characteristics.  The application of 
+person-to-person coverage allows recognition of the protection provided 
+by design features (such as IHE, coded-signal-controlled detonators, and 
+unique-signal-operated strong-link devices) and physical protection (such 
+as closed shipping and storage containers and specially designed covers). 
+3. WHEN TO APPLY PERSON-TO-PERSON COVERAGE. 
+a. Assembly and Disassembly Operations Involving CHE Main Charge. 
+(1) For assembly operations involving CHE main charge, person-to-person 
+coverage of the CHE components must begin when the CHE container is 
+opened in an NEA. 
+(2) Coverage continues until the nuclear explosive is in a configuration in 
+which the application of design-specific environmental stimuli or unique 
+or coded signals is necessary for nuclear explosive detonation or 
+detonation of the main charge HE. 
+(3) For disassembly operations, this requirement applies in reverse. 
+b. Assembly and Disassembly Operations Involving IHE Main Charge. 
+(1) For assembly operations involving IHE main charge, person-to-person 
+coverage must be provided for main-charge components located in an 
+NEA and assemblies containing these components that have accessible 
+detonator cables attached. 
+(2) Coverage must continue until the nuclear explosive is in a configuration in 
+which the application of design-specified environmental stimuli or unique 
+or coded signals is necessary for nuclear explosive detonation or 
+detonation of the main-charge HE. 
+(3) For disassembly operations this requirement applies in reverse.
+
+--- page 20 ---
+DOE O 452.2 Attachment 1 – Tw o-Person Concept Requirements 
+08-05-2026 Page 1-3 
+c. For purposes of person-to-person coverage, systems with installed and unactuated 
+(safe or reset) mechanical safe and arm detonators are not considered to have 
+accessible detonator cables.  Configurations with physical protection that 
+precludes immediate and unrestricted access to the configuration by a lone 
+individual are not considered to be exposed.  When such physical protection is in 
+place, zone coverage provides adequate protection for configurations that would 
+otherwise require person-to-person coverage. 
+4. HOW TO APPLY PERSON-TO-PERSON COVERAGE.  When a configuration requires 
+person-to-person coverage, a qualified TPC team must be either working on or 
+controlling access to the configuration.  Specific person-to-person coverage requirements 
+are as follows. 
+a. Lone individuals must not be allowed within the immediate vicinity 
+(approximately 6 feet) of a configuration that requires person-to-person coverage. 
+b. The two people providing person-to-person coverage must each be responsible for 
+the safe conduct of the operations. 
+c. During the performance of operations on a configuration requiring person-to-
+person coverage: 
+(1) The TPC team must be in the immediate vicinity of the configuration; 
+(2) Each person on the TPC team must observe all operations, ensure that 
+only authorized operations are performed, and ensure that operations are 
+performed correctly; and 
+(3) A reader-worker process that includes the following must be incorporated. 
+(a) The procedure must be read aloud, the operation must be 
+performed, and the completion of the operation must be 
+documented in the stated sequence. 
+(b) One of the two people performing the operation may read the 
+procedure aloud provided that both people can move away from 
+the immediate vicinity of the configuration while the reading 
+is accomplished. 
+(c) If both people cannot move away from the immediate vicinity of 
+the configuration while the reading is accomplished, then a third 
+person must read the procedure aloud. 
+(4) Based on an approved NES evaluation, other means to achieve the person-
+to-person coverage objective may be authorized.
+
+--- page 21 ---
+Attachment 1 – Two-Person Concept Requirements DOE O 452.2 
+Page 1-4 08-05-2026 
+d. When operations are not being performed on a configuration requiring person-to-
+person coverage: 
+(1) The TPC team must be in the immediate vicinity of the configuration 
+when another individual is in the immediate vicinity of the configuration. 
+(2) The TPC team is not required to be in the immediate vicinity of the 
+configuration when other individuals are not in the immediate vicinity of 
+the configuration.  However, team members must remain in a position to 
+directly observe the approach of any individual to the configuration. 
+e. Only one configuration requiring person-to-person coverage is allowed in a 
+vacated bay or cell.  This requirement does not apply to emergency evacuations.
+
+--- page 22 ---
+DOE O 452.2 Attachment 2 – Elect rical Equipment Requirements 
+08-05-2026 Page 2-1 
+ATTACHMENT 2 
+ELECTRICAL EQUIPMENT REQUIREMENTS 
+Note:  This attachment applies to both federal and contractor organizations. 
+1. BASIC REQUIREMENTS.  For purposes of defining electrical equipment requirements, 
+this Order categorizes electrical equipment used in nuclear explosive areas (NEAs) as 
+Category 1, Category 2, or Category 3.  Electrical equipment categorization is intended to 
+ensure that controls are implemented commensurate with the various levels of potential 
+electrical threat. 
+As used in this attachment, a high-explosive (HE) subassembly is defined to be a main-
+charge HE component with at least one detonator attached. 
+2. CATEGORY 1 ELECTRICAL EQUIPMENT.  Electrical equipment intended for 
+connection to an electrical circuit of a nuclear explosive (NE) or main charge HE 
+subassembly is referred to as Category 1 electrical equipment.  Category 1 electrical 
+equipment must be clearly identified and meet the following minimum requirements. 
+a. General Requirements. 
+(1) Each item of Category 1 electrical equipment must have safety features 
+independent of the NE’s safety features. 
+(2) Category 1 electrical equipment must have a safety requirements 
+document that identifies the safety features. 
+(3) Category 1 electrical equipment must use the lowest values of internal and 
+output currents and voltages required to perform the function(s) and be 
+documented and justified. 
+(4) Category 1 electrical equipment must not apply unacceptable stimuli or 
+electrical energy in excess of its design limits as the result of a single-
+point failure. 
+(5) Each item of Category 1 electrical equipment and its interface with an NE 
+require the performance and documentation of a comprehensive safety 
+analysis, including consideration of relevant abnormal environments. 
+(6) Nuclear Explosive Safety (NES) evaluations. 
+(a) An NES evaluation of Category 1 electrical equipment and its 
+interface with an NE is required prior to its implementation in an 
+NE operation.  When this activity is performed on an NE with a 
+defined safety theme determined to be intact, using approved 
+Category 1 electrical equipment, the following requirements may 
+be rescinded based upon an evaluation of the challenge to the 
+safety theme.
+
+--- page 23 ---
+Attachment 2 – Electrical Equipment Requirements DOE O 452.2 
+Page 2-2 08-05-2026 
+(b) An NES evaluation is required prior to changing approved 
+Category 1 electrical equipment if the defined safety of the NE is 
+not intact. 
+Note:  Approved Category 1 electrical equipment is under formal 
+NES change control and authorized for use in a nuclear explosive 
+operation (NEO). 
+(7) Procedures must be established to operate, control, calibrate, maintain, and 
+store Category 1 electrical equipment. 
+(8) A record of approved Category 1 electrical equipment must be established 
+and maintained.  The record must identify each item of Category 1 
+electrical equipment by its unique designation or part number and 
+associate it with the nuclear explosives for which it is authorized and the 
+NES evaluations that examined its specific applications. 
+(9) Category 1 electrical equipment shall incorporate engineered tamper 
+indication features.  These features shall be inspected prior to each use, to 
+include calibration and maintenance. 
+b. Computer-Controlled Electrical Equipment. 
+(1) When software is used to achieve the safe state of the unit under test, a 
+separate (non-software) means of verification must also be employed to 
+verify the safe state of the unit.  Verification must be done before relying 
+on the safe state of tested components. 
+(2) If software is used to evaluate the safe state of a unit, a separate 
+independent means of verification must also be employed to verify the 
+safe state of the unit.  If a separate means of verification is not feasible, 
+other Nuclear Explosive Safety Study Group (NESSG)-evaluated positive 
+measures must be incorporated to ensure the electrical equipment is 
+performing as intended immediately before and after a test. 
+(3) Category 1 electrical equipment must be designed such that software is 
+incapable of causing bypass of any safety feature of the 
+electrical equipment. 
+(4) Software failure must not compromise the safety attributes of the 
+equipment or unit under test. 
+(5) A formal software safety analysis is required to document compliance 
+with the requirements in paragraphs 2.b.(3) and 2.b.(4).
+
+--- page 24 ---
+DOE O 452.2 Attachment 2 – Elect rical Equipment Requirements 
+08-05-2026 Page 2-3 
+(6) Software and firmware shall be developed, tested, installed, and updated 
+using secure processes to guarantee functionality and minimize the risk 
+of alteration. 
+(7) Software and firmware attributes shall be verified prior to each use. 
+c. Two-Person Concept.  Category 1 electrical equipment requires TPC protection.  
+(The TPC is delineated in Attachment 1 of this Order.) 
+(1) Person-to-person coverage is required during calibration and all operations 
+that afford internal access to Category 1 electrical equipment and 
+associated cables and adapters and while Category 1 electrical equipment 
+is connected to a nuclear explosive. 
+(2) Zone coverage is required for fully assembled Category 1 electrical 
+equipment and associated cables and adapters when that equipment is 
+not protected by a dual-lock system or other NESSG-evaluated 
+security system. 
+3. CATEGORY 2 ELECTRICAL EQUIPMENT.  Electrical equipment that is not intended 
+for connection to an electrical circuit of a nuclear explosive or HE subassembly, but 
+makes mechanical connection to, or could come in contact with, a nuclear explosive or 
+HE subassembly, is referred to as Category 2 electrical equipment.  Category 2 electrical 
+equipment must be clearly identified and meet the following minimum requirements. 
+a. General Requirements. 
+(1) Category 2 electrical equipment must not be intentionally connected to the 
+electrical circuitry of a nuclear explosive or HE subassembly. 
+(2) Category 2 electrical equipment must be positioned in a manner to 
+preclude contact with a nuclear explosive or HE subassembly except 
+when a mechanical connection is required to perform its intended and 
+authorized function. 
+(3) The potential for inadvertent connection between the Category 2 electrical 
+equipment and the NE circuitry must be minimized.  This is based upon 
+postulated scenarios that could cause unintended electrical contact. 
+b. Positive Electrical Isolation.  Positive electrical isolation, requiring at least two 
+independent features, must be established and demonstrated for Category 2 
+electrical equipment that makes a mechanical connection to a nuclear explosive or 
+main charge HE subassembly.  Electrical isolation must account for both normal 
+and credible abnormal conditions (such as equipment faults or lightning strikes).  
+The electrical isolation scheme used must be clearly identified and documented 
+(including the technical basis for the “defined safe value” used in 
+paragraphs 3.b.(1) and 3.b.(2) below) using one of the following subcategories, 
+listed in priority order.
+
+--- page 25 ---
+Attachment 2 – Electrical Equipment Requirements DOE O 452.2 
+Page 2-4 08-05-2026 
+(1) Path-on isolation reducing leakage or fault current from electrical energy 
+sources associated with the equipment to a defined safe value.  This must 
+be verified annually. 
+(2) Path-off isolation reducing leakage or fault current from electrical energy 
+sources associated with the equipment to a defined safe value.  This must 
+be verified annually. 
+(3) An electrical isolation scheme requiring at least two independent failures 
+before exposing the nuclear explosive to unacceptable leakage or fault 
+current from electrical energy sources associated with the equipment.  
+Each failure mechanism must be identified. 
+c. Records.  A record of approved Category 2 electrical equipment must be 
+established and maintained.  The record must identify each item of Category 2 
+electrical equipment by its unique designation or part number and associate it with 
+the nuclear explosive operations for which it is authorized. 
+4. CATEGORY 3 ELECTRICAL EQUIPMENT.  Moveable and facility electrical 
+equipment used in an NEA that is not intended for connection to an electrical circuit of a 
+nuclear explosive or HE subassembly and does not make mechanical connection to, and 
+cannot come in contact with, a nuclear explosive or HE subassembly is referred to as 
+Category 3 electrical equipment. 
+5. NES EVALUATIONS AND CHANGE CONTROL.  Electrical equipment used in NEAs 
+and proposed changes to electrical equipment, procedures, and interfaces with a nuclear 
+explosive are subject to the NES evaluation and NEO change control processes required 
+by this Order and detailed in National Nuclear Security Administration 
+(NNSA) Supplemental Directive 452.2, Nuclear Explosive Safety Evaluation Processes, 
+current version.  Per paragraph 2a.(6)(a), when electrical equipment operations are 
+performed on an NE with an intact defined safety theme, the following requirements may 
+be rescinded based upon an NES evaluation of the adequacy and efficacy of the 
+safety theme. 
+a. An NES evaluation of Category 1 electrical equipment and its interface with a 
+nuclear explosive is required prior to its implementation in a nuclear 
+explosive operation. 
+b. An NES evaluation is required prior to changing approved Category 1 electrical 
+equipment if the defined safety of the NE is not intact. 
+DA documents which specify general design and process requirements for Category 1 
+electrical equipment used on nuclear explosives (e.g., DG10001 and EP401075) are 
+subject to NES evaluation (i.e., during applicable evaluations such as the Approved 
+Equipment Program Master Study).  Changes to these documents must be concurred on 
+by each DA NES organization.  This concurrence must be documented in an engineering 
+authorization.  However, each change does not require formal NESSG review.
+
+--- page 26 ---
+DOE O 452.2 Attachment 3 -N uclear Explosive-Like Assembly (NELA) Requirements 
+08-05-2026 Page: 3-1 
+ATTACHMENT 3 
+NUCLEAR EXPLOSIVE-LIKE ASSEMBLY (NELA) REQUIREMENTS 
+For Sites With and Without a Nuclear Explosive Operation (NEO) Mission 
+1. NUCLEAR EXPLOSIVE-LIKE ASSEMBLY (NELA) DETERMINATIONS. 
+a. All new NELA determinations must be documented, justified, and auditable. 
+b. Where practicable, determinations should be made as early in the project planning 
+stages as possible (e.g., design). 
+Note for non-NEO sites: Section 1 applies. 
+2. NUCLEAR EXPLOSIVE-LIKE ASSEMBLY DESCRIPTION. 
+a. An NELA may exist at any level of assembly from one representing a basic 
+nuclear explosive configuration (HE and pit) up to and including one representing 
+a fully assembled weapon configuration (mock primary, trainer, Joint Test 
+Assembly, etc.). 
+b. All NELAs have the following two attributes: 
+(1) An NELA resembles a nuclear explosive in the U.S. nuclear weapons 
+stockpile (past, present, or planned) to the degree that it can be mistaken 
+for a nuclear explosive without any disassembly. 
+(2) An NELA lacks main charge high explosive (HE) (or propellant), primary 
+fissile material, or both. 
+Note for non-NEO sites: Section 2 applies. 
+3. NUCLEAR EXPLOSIVE-LIKE ASSEMBLY TYPES. 
+a. There are three types of NELAs: 
+(1) High-explosive (HE) NELA.  Contains live HE main charge and dummy 
+pit, void, or other non-nuclear items in place of the live pit. 
+(2) Inert-with-Live-Pit NELA.  Contains a live pit and mock HE, void, or 
+substitute non-explosive material in place of the main charge. 
+(3) Inert NELA.  Contains mock HE, void, or substitute non-explosive 
+material in place of the main charge and a dummy pit, void, or other non-
+nuclear items in place of the live pit. 
+Note for non-NEO sites:  Section 3 applies.
+
+--- page 27 ---
+Attachment 3 -Nuclear Explosive-Like Assembly (NELA) Requirements DOE O 452.2 
+Page: 3-2 08-05-2026 
+4. VERIFICATION OF NUCLEAR EXPLOSIVE-LIKE ASSEMBLY COMPONENTS 
+BEFORE ASSEMBLY. 
+Verification requirements are not necessary for NELA configurations for which physical 
+dimensions preclude substitution of live main charge and pit components. 
+When radiation detection or chemical verifications are performed, auditable records are 
+required. 
+a. High Explosive NELAs. 
+(1) Sites with NEO Mission. 
+(a) High-Fidelity Dummy Pit Verification Requirements. 
+1 Before assembly, the high-fidelity dummy pit must be 
+examined by radiation detection means to verify absence of 
+radioactive material.  If radiation is detected, gamma 
+spectrometry assay is required.  Verification must be 
+performed or observed by a TPC team. 
+2 After verification, the pit must be controlled by a TPC 
+team, dual-lock, or other NESSG-evaluated security system 
+until assembly. 
+3 An auditable record of verification must be available. 
+(b) Main Charge HE Introduction Sequence.  Verification must be 
+completed before introduction of main charge HE and dummy pit 
+into the same immediate assembly area. 
+(2) Sites without NEO Mission. 
+(a) Assembly in Facility NOT Authorized to Receive or Handle Live 
+Pits. 
+1 High-fidelity dummy pit must be examined by radiation 
+detection means before assembly.  Gamma spectrometry 
+assay if radiation is detected. 
+(b) Assembly in Facility Authorized to Receive or Handle Live Pits. 
+1 Paragraph 4.a.(1) applies. 
+2 If security system is not evaluated by NESSG, dual-lock or 
+other security system must be reviewed by HQ 
+NNSA/Nuclear Explosive Safety Division.
+
+--- page 28 ---
+DOE O 452.2 Attachment 3 -N uclear Explosive-Like Assembly (NELA) Requirements 
+08-05-2026 Page: 3-3 
+(c) Main Charge HE Introduction Sequence.  Section 4.a(2) applies. 
+(d) Inert-with-Live-Pit NELAs. 
+(3) Sites with NEO Mission. 
+(a) Mock High Explosive Verification Requirements. 
+1 TPC team required for all assembly/disassembly. 
+2 Mock HE must be non-detonable, clear or pink; pink mock 
+HE must be chemically verified before assembly. 
+3 TPC chemical verification required for pink mock HE 
+before assembly. 
+4 Control of mock HE after verification by TPC team, dual-
+lock, or NESSG-evaluated security system. 
+(b) Live Pit Introduction Sequence.  Verifications must be completed 
+before introduction of the mock HE and live pit into the same 
+immediate assembly area. 
+(4) Sites without NEO mission. 
+(a) Assembly in Facility NOT Authorized to Receive or Handle 
+Main-Charge HE. 
+1 Mock HE must be non-detonable, clear or pink; pink mock 
+HE chemically verified before assembly. 
+(b) Assembly in Facility Authorized to Receive or Handle Main-
+Charge HE. 
+1 Section 4.b.(1) applies. 
+2 If security system is not evaluated by NESSG, dual-lock or 
+other security system must be reviewed by HQ 
+NNSA/Nuclear Explosive Safety Division. 
+3 Live Pit Introduction Sequence: Section 4.b.(2) applies. 
+b. Inert NELAs. 
+(1) Sites with NEO Mission. 
+(a) Mock HE Verification Requirements.
+
+--- page 29 ---
+Attachment 3 -Nuclear Explosive-Like Assembly (NELA) Requirements DOE O 452.2 
+Page: 3-4 08-05-2026 
+1 Verification repetition NOT necessary for repeated training 
+if mock HE and dummy pit remain in training area where 
+live HE and pits are not authorized. 
+2 Mock HE must be non-detonable, clear or pink; pink mock 
+HE chemically verified before assembly. 
+(b) Dummy Pit Verification Requirements. 
+1 Dummy pit must be examined by radiation detection means 
+before assembly; gamma spectrometry assay if radiation is 
+detected. 
+2 Control of dummy pit after verification by TPC team, dual-
+lock, or NESSG-evaluated security system. 
+(2) Sites without NEO Mission. 
+(a) Assembly in Facility NOT Authorized to Receive or Handle Main 
+Charge HE AND/OR Live Pits. 
+1 Mock HE must be non-detonable, clear or pink; pink mock 
+HE chemically verified before assembly. 
+2 Dummy pit must be examined by radiation detection means 
+before assembly; gamma spectrometry assay if radiation is 
+detected. 
+(b) Assembly in Facility Authorized to Receive or Handle Main 
+Charge HE AND/OR Live Pits. 
+1 Sections 4.c.(1) and 4.c.(2) apply. 
+2 If security system is not evaluated by NESSG, dual-lock or 
+other security system must be reviewed by HQ 
+NNSA/Nuclear Explosive Safety Division. 
+5. ASSEMBLY AND DISASSEMBLY OF NELAs. 
+a. NELAs must not be assembled or disassembled in close proximity (same 
+immediate assembly/disassembly area) to other activities where components 
+could be interchanged.  This includes collocated assembly/disassembly of: 
+(1) Any NELA type and a nuclear explosive. 
+(2) Any NELA type and a different NELA type.
+
+--- page 30 ---
+DOE O 452.2 Attachment 3 -N uclear Explosive-Like Assembly (NELA) Requirements 
+08-05-2026 Page: 3-5 
+b. Sites without NEO Mission. 
+(1) For sites meeting protection requirements for Category III SNM, these 
+restrictions do not apply. 
+(2) If operational constraints require collocation of inert and live pit NELAs 
+during assembly/disassembly, operational justification must be reviewed 
+and approved by HQ NNSA/Nuclear Explosive Safety Division. 
+6. OFFSITE TRANSPORTATION OF NUCLEAR EXPLOSIVE-LIKE ASSEMBLIES. 
+a. NELAs considered materials of national security interest must follow packaging 
+and transportation requirements per DOE Order (O) 461.1C, Packaging and 
+Transfer of Materials of National Security Interest.  Additional requirements: 
+(1) Inert-with-Live-Pit NELA configurations must not be transferred to 
+Department of War custody. 
+(2) External identification of NELA contents (HE, inert-with-live-pit, or 
+inert), responsible persons at shipping and receiving locations. 
+(3) Permission to ship between NNSA sites must be obtained from receiving 
+agency. 
+(4) NELA must be surveyed by radiation detection means before offsite 
+transfer; anomalies resolved before shipment; auditable record required. 
+(5) NELA must be surveyed upon receipt; anomalies resolved before release; 
+auditable record required. 
+Note for non-NEO sites: Section 6 applies.
+
+--- page 31 ---
+DOE O 452.2 Attachment 4 -Marking Requirements 
+08-05-2026 Page: 4-1 
+ 
+ATTACHMENT 4 
+MARKING REQUIREMENTS 
+Note:  This attachment applies to both federal and contractor organizations.  Nuclear explosives 
+and nuclear explosive-like assemblies (NELAs) must be permanently marked in accordance with 
+the following requirements.  Additional markings such as serial numbers and configuration 
+identification may also be required by design agencies. 
+1. PERMANENT MARKING REQUIREMENTS FOR NELAs AT SITES WITHOUT A 
+NUCLEAR EXPLOSIVE OPERATION (NEO) MISSION.  NELAs at sites not 
+authorized to conduct nuclear explosive operations (NEOs) that are staged or stored in a 
+facility not authorized to introduce the missing component that would form a nuclear 
+explosive (live main-charge high explosive (HE), live pits, or both), and designated for 
+irreversible destruction within 6 months of assembly, are not required to be permanently 
+marked.  Where practicable, temporary markings or identification such as tagging or 
+stenciling should be applied to the configuration or container. 
+2. SITES ONLY REQUIRED TO MEET PROTECTION REQUIREMENTS FOR 
+CATEGORY III SPECIAL NUCLEAR MATERIAL (SNM).  NELAs at sites meeting 
+the protection requirements for Category III SNM are not required to be permanently 
+marked until the NELA is transferred offsite.  Where practicable, temporary markings or 
+identification such as tagging or stenciling should be applied to the configuration or 
+container.  Prior to offsite transfer, the permanent marking requirements of this 
+attachment, paragraphs 3, 4, 5, and 6 apply. 
+3. PERMANENT MARKING LEGENDS. 
+a. Nuclear Explosives.  A “NUCLEAR” permanent marking legend must be applied 
+to nuclear explosives (i.e., units containing a live pit and an HE main charge). 
+b. Nuclear Explosive-Like Assemblies. 
+(1) High Explosive NELAs.  The “HIGH EXPLOSIVE” permanent marking 
+is applied to an NELA containing live main charge HE and a dummy pit, 
+void, or other non-nuclear items in place of the live pit. 
+(2) Inert-with-Live-Pit NELAs.  The “INERT-WITH-LIVE-PIT” permanent 
+marking is applied to an NELA containing a live pit and mock HE, void, 
+or substitute non-explosive material in place of the live main charge HE. 
+(3) Inert NELAs.  The “INERT” permanent marking is applied to an NELA 
+containing mock HE, void, or substitute non-explosive material in place of 
+the live main charge HE and a dummy pit, void, or other non-nuclear 
+items in place of the live pit. 
+Note:  Using the permanent marking “INERT” or “INERT WITH LIVE 
+PIT” does not preclude the presence of materials that may present a hazard 
+to personnel.
+
+--- page 32 ---
+Attachment 4 -Marking Requirements DOE O 452.2 
+Page: 4-2 08-05-2026 
+4. PERMANENT MARKING LOCATION.  Nuclear explosives and NELAs must be 
+permanently marked on an external surface. 
+a. The permanent marking must be on a part that encloses the live main charge or 
+mock HE. 
+b. The marking location must be specified by the applicable design agency (DA). 
+5. PERMANENT MARKINGS.  Nuclear explosives and NELAs must be marked in 
+accordance with the following requirements.  The particular marking method must be 
+specified by the applicable DA. 
+a. The permanent marking method must produce the most durable mark possible, 
+consistent with acceptable deleterious effect on the material to which the marking 
+is applied. 
+(1) The preferred marking methods are mechanical engraving (with or without 
+fill) and impression-die stamping. 
+(2) Other acceptable methods are impression freehand, impression sandblast, 
+and surface conversion. 
+b. The preferred marking size is 1/4-inch characters with 1/4-inch spacing between 
+lines, if space permits. 
+6. PERMANENT MARKING OBLITERATION.  When a nuclear explosive or NELA is 
+altered or disassembled to the point that its permanent marking is no longer valid, the 
+permanent marking must be obliterated in accordance with the following requirements. 
+a. Methodology. 
+(1) The preferred method of obliteration is overprinting the letter “X” on each 
+letter of the permanent marking legend using the same permanent marking 
+method as that used to apply the original marking. 
+(2) If obliteration by overprinting is not feasible for technical reasons, the 
+permanent marking must be removed using a method specified by the 
+applicable DA. 
+b. Components That Will Be Reassembled.  Permanent marking need not be 
+obliterated on marked components that will be reassembled into the same 
+configuration in accordance with the following requirements. 
+(1) After the marked component is removed, the disassembled components 
+must be controlled until the disassembled components and marked 
+component are reassembled into the same configuration.
+
+--- page 33 ---
+DOE O 452.2 Attachment 4-Marking Requirements 
+08-05-2026 Page: 4-3 
+(2) Prior to final assembly of a nuclear explosive or NELA, verification of the 
+permanent marking(s) shall be performed and documented by two human 
+reliability program (HRP)-certified personnel.  Dual (or concurrent) 
+verification is acceptable. 
+Positive measures must be in place to ensure that NELA permanently 
+marked components are not inadvertently introduced into areas where 
+nuclear explosive assembly or disassembly operations are ongoing.

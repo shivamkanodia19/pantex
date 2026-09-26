@@ -1,0 +1,177 @@
+--- page 1 ---
+AVAILABLE ONLINE AT:  INITIATED BY: 
+www.directives.doe.gov  Office of Environmental Management 
+U.S. Department of Energy ORDER 
+Washington, D.C. 
+ 
+ 
+Approved: 7-9-99 
+Review: 7-9-01 
+Change 1: 8-28-01 
+Certified: 1-9-07 
+Chg 2 (AdminChg): 1-11-2021 
+ 
+SUBJECT: RADIOACTIVE WASTE MANAGEMENT 
+1. OBJECTIVE.  The objective of this Order is to ensure that all Department of Energy 
+(DOE) radioactive waste is managed in a manner that is protective of worker and public 
+health and safety, and the environment. 
+2. CANCELLATION.  This Order cancels DOE 5820.2A, RADIOACTIVE WASTE 
+MANAGEMENT, dated 9-26-88.  Cancellation of that Order does not, by itself, modify 
+or otherwise affect any contractual obligation to comply with the Order.  The provisions 
+of this canceled Order which have been incorporated by reference in a contract shall 
+remain in effect until the contract is modified. 
+3. APPLICABILITY. 
+a. DOE Elements. This Order applies to all DOE elements including the National 
+Nuclear Security Administration (NNSA), except as stated in section 3.d. 
+b. Radioactive Waste. Except as stated in section 3.d., this Order applies to the 
+management of: 
+(1) All high-level waste, transuranic waste, and low-level waste, including the 
+radioactive component of mixed waste, for which DOE is responsible; 
+(2) DOE accelerator-produced radioactive waste; and 
+(3) If managed at DOE low-level waste facilities, byproduct materials as 
+defined by section 11e.(2) of the Atomic Energy Act of 1954, as amended, 
+or naturally occurring radioactive materials. 
+c. Contractors. The Contractor Requirements Document, Attachment 1, sets forth 
+requirements to be applied to contractors performing work that involves 
+management of DOE radioactive waste at DOE-owned or leased facilities.  
+Contractor compliance with the Contractor Requirements Document will be 
+required to the extent set forth in a contract. 
+d. Exemptions. This Order does not apply to certain DOE programs, facilities, or 
+activities as described below. 
+(1) This Order does not apply to activities conducted under the authority of 
+the Director, Naval Nuclear Propulsion Program, as described in 
+DOE O 435.1
+
+--- page 2 ---
+2 DOE O 435.1 
+7-9-99 
+ 
+ 
+Department of Energy National Security and Military Applications of 
+Nuclear Energy Authorization Act of 1985, Public Law 98-525. 
+(2) Requirements in this Order that overlap or duplicate requirements of the 
+Nuclear Regulatory Commission (NRC) related to radiation protection, 
+nuclear safety (including quality assurance), and safeguards and security 
+of nuclear material, do not apply to the design, construction, operation, 
+and decommissioning of Office of Civilian Radioactive Waste 
+Management facilities as defined in DOE O 250.1, Civilian Radioactive 
+Waste Management Facilities Exemptions from Departmental Orders. 
+(3) Requirements in this Order that duplicate or conflict with requirements of 
+NRC or an Agreement State do not apply to facilities and activities 
+licensed by the NRC or an Agreement State. 
+(4) Requirements in this Order that duplicate or conflict with the Waste 
+Isolation Pilot Plant Land Withdrawal Act of 1992, as amended, Public 
+Law 102-579, including the U.S. EPA's Possessive Certification of the 
+WIPP pursuant to this Act, do not apply to the operation of the Waste 
+Isolation Pilot Plant or the disposal of waste therein. 
+(5) Unless managed in a low-level waste facility, requirements in this Order 
+do not apply to byproduct material as defined in section 11e.(2) of the 
+Atomic Energy Act of 1954, as amended, or naturally occurring radioactive 
+material. 
+(6) This Order does not apply to either spent nuclear fuel or non-waste 
+materials. 
+(7) Upon request or on its own initiative, DOE may grant exemptions from 
+the requirements of this Order in accordance with the process provided by 
+DOE M 251.1-1A, Directives System Manual, as applicable. 
+4. REQUIREMENTS. 
+a. DOE radioactive waste management activities shall be systematically planned, 
+documented, executed, and evaluated. 
+b. Radioactive waste shall be managed to: 
+(1) Protect the public from exposure to radiation from radioactive materials.  
+Requirements for public radiation protection are in DOE 5400.5, 
+Radiation Protection of the Public and the Environment.  
+(2) Protect the environment.  Requirements for environmental protection are 
+in DOE 5400.1, General Environmental Protection Program, and DOE 
+5400.5, Radiation Protection of the Public and the Environment.
+
+--- page 3 ---
+DOE O 435.1 3 (and 4) 
+7-9-99 
+ 
+ 
+(3) Protect workers.  Requirements for radiation protection of workers are in 
+10 CFR Part 835, Occupational Radiation Protection; requirements for 
+industrial safety are in DOE O 440.1A, Worker Protection Management 
+for DOE Federal and Contractor Employees. 
+(4) Comply with applicable Federal, State, and local laws and regulations.  
+These activities shall also comply with applicable Executive Orders and 
+other DOE directives. 
+c. All radioactive waste shall be managed in accordance with the requirements in 
+DOE M 435.1-1, Radioactive Waste Management Manual. 
+d. DOE, within its authority, may impose such requirements, in addition to those 
+established in this Order, as it deems appropriate and necessary to protect the 
+public, workers, and the environment, or to minimize threats to property. 
+5. RESPONSIBILITIES. All DOE elements as specified in 3.a. are responsible for 
+implementing the requirements of this Order.  See DOE M 435.1-1, Radioactive Waste 
+Management Manual, for specific responsibilities. 
+6. REFERENCES. DOE M 435.1-1, Radioactive Waste Management Manual, current 
+version. 
+7. CONTACT. Questions concerning this Order should be addressed to the Office of 
+Regulatory and Policy Affairs at (202) 586-0370.  
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ 
+ 
+ THOMAS T. TAMURA 
+ Acting Director of 
+ Management and Administration
+
+--- page 4 ---
+
+
+--- page 5 ---
+DOE O 435.1 Attachment 1 
+7-9-99 Page 1 
+ 
+ 
+CONTRACTOR REQUIREMENTS DOCUMENT 
+1. In the performance of this contract, the contractor is required to: 
+A. Systematically plan, document, execute, and evaluate the management of DOE 
+radioactive waste and assist the government in planning, executing and evaluating 
+the management of DOE radioactive waste in accordance with the requirements 
+of DOE O 435.1, Radioactive Waste Management. 
+B. Assist the government in managing DOE radioactive waste so as to: 
+(1) Protect the public from exposure to radiation from radioactive materials.  
+(2) Protect the environment.  
+(3) Protect workers including following requirements for radiation protection.  
+C. Assist DOE in meeting its obligations and responsibilities under Executive Order 
+12856, Federal Compliance with Right-to-Know Laws and Pollution Prevention 
+Requirements, and Executive Order 13101, Greening the Government through 
+Waste Prevention, Recycling, and Federal Acquisition, and The Pollution 
+Prevention Act of 1990. 
+D. Comply with the requirements in DOE M 435.1-1, Radioactive Waste 
+Management Manual, unless such activities are specifically exempted by DOE O 
+435.1, Section 3.d., as described below. 
+(1) Activities conducted under the authority of the Director, Naval Nuclear 
+Propulsion Program, as described in Department of Energy National 
+Security and Military Applications of Nuclear Energy Authorization Act of 
+1985, Public Law 98-525. 
+(2) Requirements that overlap or duplicate requirements of the Nuclear 
+Regulatory Commission (NRC) related to radiation protection, nuclear 
+safety (including quality assurance), and safeguards and security of 
+nuclear material, do not apply to the design, construction, operation, and 
+decommissioning of Office of Civilian Radioactive Waste Management 
+facilities as defined in DOE O 250.1, Civilian Radioactive Waste 
+Management Facilities Exemptions from Departmental Orders.   
+(3) Requirements that duplicate or conflict with requirements of NRC or an 
+Agreement State do not apply to facilities and activities licensed by the 
+NRC or an Agreement State. 
+(4) Requirements that duplicate or conflict with the Waste Isolation Pilot 
+Plant Land Withdrawal Act of 1992, as amended, Public Law 102-579, do 
+not apply to the operation of the Waste Isolation Pilot Plant or the disposal 
+of waste therein.
+
+--- page 6 ---
+Attachment 1 DOE O 435.1 
+Page 2 7-9-99 
+ 
+ 
+(5) Unless managed in a low-level waste facility, requirements in 
+DOE O 435.1 do not apply to byproduct material as defined in section 
+11e.(2) of the Atomic Energy Act of 1954, as amended, or naturally 
+occurring radioactive material. 
+(6) Spent nuclear fuel or non-waste materials. 
+(7) Upon request or on its own initiative, DOE may grant exemptions from 
+the requirements of DOE O 435.1 in accordance with the process provided 
+by DOE M 251.1-1A, Directives System Manual. 
+E. Incorporate these requirements into the contracts of all sub-contractors which 
+are involved in the management of DOE radioactive waste.

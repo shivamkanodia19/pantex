@@ -1,0 +1,722 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov  Office of Environment, Health, Safety and Security 
+U.S. Department of Energy ORDER 
+Washington, D.C. 
+ 
+Approved: 5-17-07 
+Certified: 6-17-11 
+Chg 1 (PgChg): 8-21-12 
+Chg 2 (AdminChg): 3-14-13 
+Chg 3 (LtdChg): 09-15-20 
+Chg 4 (AdminChg): 05-02-22 
+SUBJECT: WORKER PROTECTION PROGRAM FOR DOE (INCLUDING THE 
+NATIONAL NUCLEAR SECURITY ADMINISTRATION) FEDERAL 
+EMPLOYEES 
+1. OBJECTIVE. To establish the framework for an effective worker protection program that 
+will reduce or prevent injuries, illnesses, and accidental losses by providing Department 
+of Energy (DOE), including National Nuclear Security Administration (NNSA), Federal 
+workers with a safe and healthful workplace. 
+2. CA NCELLATION. DOE O 440.1B, Worker Protection Program for DOE (Including the 
+National Nuclear Security Administration) Federal Employees, dated 09-15-20. 
+Cancellation of a directive does not, by itself, modify or otherwise affect any contractual 
+obligation to comply with the directive. Contractor requirements documents (CRDs) that 
+have been incorporated into or attached to a contract remain in effect until the contract is 
+modified to either eliminate requirements that are no longer applicable or substitute a new 
+set of requirements. 
+3. APPLICABILITY.  
+a. Departmental Elements. Except for the exclusions in paragraph 3c, this Order 
+(including Attachment 1) applies to Departmental elements. (Go to 
+http://www.directives.doe.gov/references). This list automatically includes all 
+Departmental elements created after the Order is issued. 
+The Administrator of the National Nuclear Security Administration (NNSA) will 
+assure that NNSA employees comply with their respective responsibilities under 
+this Order. Nothing in this Order will be construed to interfere with the NNSA 
+Administrator’s authority under section 3212(d) of Public Law (P.L.) 106-65 to 
+establish Administration-specific policies, unless disapproved by the Secretary 
+b. Contractors. None.  
+c. Exclusions. 
+(1) Activities conducted under the authority of the Director, Naval Nuclear 
+Propulsion Program, as described in P.L. 98-525. 
+(2) Activities conducted under the Nuclear Explosives and Weapons Safety 
+Program relating to the prevention of accidental or unauthorized nuclear 
+detonations to the extent a requirement under this Order cannot be  
+DOE O 440.1B
+
+--- page 2 ---
+2 DOE O 440.1B 
+ 5-17-07 
+ 
+ 
+implemented for a particular facility in a manner that does not compromise 
+the effectiveness of such activities. 
+(3) Activities conducted by Bonneville Power Administration as authorized by 
+Delegation Order No. 00–033.00A.  
+4. REQUIREMENTS. DOE elements must: 
+a. Establish and implement a written worker protection program appropriate for the 
+facility hazards that: 
+(1) Provides a place of employment free from recognized hazards that are causing 
+or are likely to cause death or serious physical harm to their employees; and, 
+(2) Integrates all requirements contained in paragraphs 4a through 4m of this 
+Order; program requirements contained in Title 29 Code of Federal 
+Regulations (CFR) Part 1960, Basic Program Elements for Federal Employee 
+Occupational Safety and Health Programs and Related Matters; applicable 
+functional area requirements contained in Attachment 1; and other related site-
+specific worker protection activities. 
+b. Establish written policy, goals, and objectives for the worker protection program. 
+c. Use qualified worker protection staff to direct and manage the worker protection 
+program. 
+d. Assign worker protection responsibilities, evaluate personnel performance, and 
+hold personnel accountable for worker protection performance. 
+e. Encourage the involvement of employees in the development of program goals, 
+objectives, and performance measures and in the identification and control of 
+hazards in the workplace. 
+f. Provide workers the right, without reprisal, to: 
+(1) Accompany DOE worker protection personnel during workplace 
+inspections; 
+(2) Participate in activities provided for in this Order on official time;  
+(3) Express concerns related to worker protection; 
+(4) Decline to perform an assigned task because of a reasonable belief that, 
+under the circumstances, the task poses an imminent risk of death or 
+serious bodily harm to that individual, coupled with a reasonable belief 
+that there is insufficient time to seek effective redress through the normal 
+hazard reporting and abatement procedures established in accordance with 
+this Order;
+
+--- page 3 ---
+DOE O 440.1B 3 
+5-17-07 
+ 
+ 
+(5) Have access to DOE worker protection publications, DOE-prescribed 
+standards, and the organization's own worker protection standards or 
+procedures applicable to the workplace; 
+(6) Observe monitoring or measuring of hazardous agents and have access to the 
+results of exposure monitoring; 
+(7) Be notified when monitoring results indicate they were overexposed to 
+hazardous materials; 
+(8) Receive results of inspections and accident investigations upon request; 
+(9) Have limited information on any recordkeeping log (OSHA Form 300). 
+Access is subject to Freedom of Information Act requirements and 
+restrictions; and 
+(10) Review the DOE Form 5484.3 (the DOE equivalent to OSHA Form 301) that 
+contains the employee’s name as the injured or ill worker. 
+g. Implement procedures to allow workers to stop work when they discover 
+employee exposures to imminent danger conditions or other serious hazards. The 
+procedure must ensure that any stop work authority is exercised in a justifiable 
+and responsible manner. 
+h. Inform workers of their rights and responsibilities by appropriate means, 
+including posting the Occupational Safety and Health Protection for DOE 
+Employees Poster in the workplace where it is accessible to all workers. 
+i. Identify existing and potential workplace hazards and evaluate the risk of 
+associated worker injury or illness. 
+(1) Analyze or review: 
+(a) Designs for new facilities and modifications to existing facilities 
+and equipment; 
+(b) Operations and procedures; and 
+(c) Equipment, product, and service needs. 
+(2) Perform routine job activity-level hazard analyses, if appropriate for the 
+particular work environment or task. 
+(3) Assess worker exposure to chemical, physical, biological, or ergonomic 
+hazards through appropriate workplace monitoring (including personal, area, 
+wipe, and bulk sampling), biological monitoring, and observation. Monitoring 
+results must be recorded. Documentation must describe the tasks and locations 
+where monitoring occurred, identify workers monitored or represented by the
+
+--- page 4 ---
+4 DOE O 440.1B 
+ 5-17-07 
+ 
+ 
+monitoring, and identify the sampling methods and durations, control 
+measures in place during monitoring (including the use of personal protective 
+equipment), and any other factors that may have affected sampling results. 
+(4) Evaluate workplaces and activities accomplished routinely by workers, 
+supervisors, and managers and periodically by qualified worker protection 
+professionals. 
+(5) Report and investigate accidents, incidents, injuries, illnesses and analyze 
+related data for trends and lessons learned. Requirements for accident, injury, 
+and illness reporting and investigation and trending and lessons-learned are 
+contained in DOE O 231.1, current version, and DOE O 225.1, current 
+version. 
+(6) Review site safety and health experience information. 
+(7) Consider interactions between workplace hazards and other hazards such as 
+radiological hazards, as appropriate. 
+j. Implement a hazard prevention/abatement process to ensure that all identified 
+hazards are managed through final abatement or control. 
+(1) For hazards identified either in the facility design or during the development 
+of procedures, controls must be incorporated in the appropriate facility design 
+or procedure. 
+(2) For existing hazards identified in the workplace, abatement actions prioritized 
+according to risk to the worker must be promptly implemented, interim 
+protective measures must be implemented pending final abatement, and 
+workers must be protected immediately from imminent danger conditions. 
+(3) Hazards must be addressed when selecting or purchasing equipment, 
+products, and services. 
+(4) Hazard control methods must be selected based on the following hierarchy: 
+(a) Substitution and/or elimination.  
+(b) Engineering controls. 
+(c) Work practices and administrative controls that limit worker 
+exposures. 
+(d) Personal protective equipment. 
+k. Provide workers, supervisors, managers, visitors, and worker protection 
+professionals with worker protection training. (Also see Attachment 1, 
+paragraph 10)
+
+--- page 5 ---
+DOE O 440.1B 5 
+5-17-07 
+ 
+ 
+l. Develop and implement occupant emergency plans and procedures, conduct 
+training, and emergency drills according to directives and guidance issued by 
+DOE. 
+m. Comply with the following worker protection requirements that are applicable to 
+the hazards at the facility: 
+(1) Title 29 Code of Federal Regulations (CFR), Part 1910, Occupational Safety 
+and Health Standards; 
+(2) Title 29 CFR 1915, Occupational Safety and Health Standards for Shipyard 
+Employment; 
+(3) Title 29 CFR 1917, Marine Terminals; 
+(4) Title 29 CFR Part 1918, Safety and Health Regulations for Longshoring;  
+(5) Title 29 CFR Part 1926 Safety and Health Regulations for Construction;  
+(6) Title 29 CFR Part 1928, Occupational Safety and Health Standards for 
+Agriculture; 
+(7) Title 29 CFR Sections 1904.4 through 1904.11, 1904.29 through 1904.33, 
+1904.44 and 1904.46, Recording and Reporting Occupational Injuries and 
+Illnesses; 
+(8) Title 10 CFR Part 850, Chronic Beryllium Disease Prevention Program; 
+(9) American Conference of Governmental Industrial Hygienist (ACGIH), 
+Threshold Limit Values for Chemical Substances and Physical Agents and 
+Biological Exposure Indices, when the ACGIH Threshold Limit Values 
+(TLVs) are lower (more protective) than permissible exposure limits in 
+29 CFR Part 1910. When the ACGIH TLVs are used as exposure limits, 
+federal employees must nonetheless comply with the other provisions of any 
+applicable expanded health standard found in 29 CFR Part 1910. DOE 
+Elements must use ACGIH limits for physical hazards not covered by the 
+Occupational Safety and Health Administration (OSHA); 
+(10) American National Standards Institute (ANSI) Z88.2, American National 
+Standard Practices for Respiratory Protection, (for respiratory protection 
+issues not covered by 29 CFR 1910.134); 
+(11) ANSI Z136.1, Safe Use of Lasers, (for laser hazards not covered by OSHA 
+standards); 
+(12) ANSI Z49.1, Safety in Welding, Cutting and Allied Processes, Sections 4.3 
+and E4.3 of the 1999 edition or equivalent sections of subsequent editions, (for 
+welding hazards not covered by OSHA standards);
+
+--- page 6 ---
+6 DOE O 440.1B 
+ 5-17-07 
+ 
+ 
+(13) National Fire Protection Association (NFPA) 70, National Electrical 
+Code; 
+(14) NFPA 70E, Standards for Electrical Safety in the Workplace; 
+(15) 42 CFR Part 73, Select Agents and Toxins; 
+(16) 9 CFR Part 121, Possession, Use and Transfer of Select Agents and Toxins; 
+and 
+(17) 7 CFR Part 331, Possession, Use and Transfer of Select Agents and 
+Toxins. 
+n. Nothing in this document must be construed as relieving a federal facility from 
+complying with any additional specific safety and health requirement that it 
+determines to be necessary to protect the safety and health of workers. 
+o. Additional requirements for applicable functional areas are contained in 
+Attachment 1, Functional Area Requirements. 
+5. RESPONSIBILITIES. 
+a. Assistant Secretaries (and NNSA Deputy Administrators where applicable). 
+(1) Ensure that program-specific worker protection goals and objectives are 
+developed and resources are provided. 
+(2) Ensure that worker protection policies and requirements are effectively 
+implemented. 
+(3) Develop or participate in recognition programs that encourage the 
+improvement of worker protection programs. 
+(4) When contractors report directly to the Cognizant Secretarial Officer or an 
+Assistant Secretary, ensure that the requirements of paragraph 5b (and 
+applicable responsibilities in the specific functional areas contained in 
+Attachment 1) and the requirements of 10 CFR 851 are implemented. 
+(5) Assist in the resolution of significant worker protection issues and the 
+improvement in cost effectiveness and efficiency of worker protection 
+programs. 
+(6) Review and be the approving authority for exemptions to requirements 
+contained in this Order. Approval authority for exemptions to the 
+requirements in this Order may be delegated (except for those exemptions 
+related to OSHA standards.)
+
+--- page 7 ---
+DOE O 440.1B 7 
+5-17-07 
+ 
+ 
+(7) Incorporate performance elements for Federal Employee Occupational 
+Safety and Health (FEOSH) Program into management performance 
+elements. 
+b. Heads of Departmental Elements and Heads of Field Elements. 
+(1) Ensure through the Contracting Officer that contractors implement the 
+requirements of 10 CFR 851. 
+(2) Review contractor worker protection program budgets and provide 
+recommendations to the funding official on the appropriateness of the budget 
+request. 
+(3) Provide contractors with technical direction on and criteria for the 
+development of contractor goals, objectives, and performance measures. 
+(4) Hold DOE line personnel accountable for providing technical direction to 
+contractors that is consistent with the requirements contained in 10 CFR 851. 
+(5) Evaluate the need for and direct the development of formal written 
+agreements between Departmental elements on their sites. These agreements 
+must outline the respective roles, responsibilities, and authorities of each 
+Departmental element as they relate to compliance with DOE worker 
+protection requirements and the resolution of cross-cutting worker protection-
+related issues. 
+(6) Revi ew  and forward, to the Director, Office of Environment, Health, Safety 
+and Security all exemptions, exceptions, and variances to mandatory worker 
+protection requirements contained in this Order. Conduct an annual review of 
+the status of all exemptions to the requirements contained in this Order to 
+ensure that circumstances requiring the need for relief have not changed and 
+that instituted controls are still implemented and appropriate. 
+(7) Provide annually to the Office of Environment, Health, Safety and Security 
+input for the Department of Labor’s FEOSH report, including status of 
+progress in meeting established goals, new initiatives, and other requested 
+information. 
+(8) Establish annually FEOSH Program goals and objectives for both promoting 
+the program and for reducing accidents, injuries, and lost-time cases. 
+c. Operations Office Managers (and Heads of Field Elements, where applicable). 
+(1) Ensure that unannounced worker protection inspections of federal workplaces 
+are conducted at least annually. 
+(2) Ensure immediate and effective remedial actions are taken for imminent 
+danger situations discovered during worker protection inspections to ensure
+
+--- page 8 ---
+8 DOE O 440.1B 
+ 5-17-07 
+ 
+ 
+employees are removed from the hazard or the hazard is eliminated; conduct 
+an inspection as soon as possible after an imminent danger situation has been 
+corrected to ascertain that appropriate actions have been taken to preclude 
+recurrence. 
+(3) Ensure that initiators of procurement requests specify therein whether 
+requirements in 10 CFR 851 are to be applied to the resulting awards or 
+subawards. 
+(4) Ensure that a FEOSH Program Manager/Coordinator is assigned the 
+responsibility for administration of the FEOSH Program and is provided 
+adequate training commensurate with that responsibility. 
+d.  Director, Office of Environment, Health, Safety and Security . 
+(1) Establish committees as necessary to assist in the development of 
+Departmental requirements and guidance. 
+(2) Review and recommend for approval any exemptions contained in this Order 
+in accordance with DOE O 251.1, current version. 
+e. Contracting Officers. Require contractors to comply with the requirements of 
+10 CFR 851. 
+6. I NVOKED TECHNICAL STANDARDS . The following DOE technical standards and 
+industry standards are invoked as required methods in this Order in accordance with the 
+applicability and conditions described within this Order. Any technical standard or 
+industry standard that is mentioned in or referenced by this Order, but is not included in 
+the list below, is not invoked by this Order. Note: DOE O 251.1D, Appendix J provides a 
+definition for “invoked technical standard.” 
+a. DOE-STD-1167-2003, The Department of Energy Respiratory Acceptance 
+Program for Supplied-Air Suits, is required to be used for testing of respiratory 
+equipment when National Institute for Occupational Safety and Health-
+approved respiratory protection does not exist for DOE tasks that require such 
+equipment. See Attachment 1, Section 5.b.(11) for specific requirements. 
+b. DOE-STD-1212-2012, Explosive Safety, is required to be met for applicable 
+explosive safety operations. See Attachment 1, Section 4 for specific 
+requirements. 
+c. American National Standards Institute (ANSI) Z49.1, Safety in Welding, 
+Cutting and Allied Processes, Sections 4.3 and E4.3 of the 2012 edition, is 
+required to be used for worker protection requirements that are applicable to the 
+hazards at the facility (for welding hazards not covered by OSHA standards). 
+See Section 4.m. for specific requirements. Heads of Departmental Elements 
+may authorize the use of equivalent sections of a later edition of this Standard 
+to fulfill the requirements in this Order.
+
+--- page 9 ---
+DOE O 440.1B 9 (and 10) 
+5-17-07 
+ 
+ 
+d. ANSI Z88.2, American National Standard Practices for Respiratory 
+Protection, is required to be used for worker protection requirements that are 
+applicable to the hazards at the facility. See Section 4.m. for specific 
+requirements.  
+e. ANSI Z136.1, Safe Use of Lasers, is required to be used for worker protection 
+requirements that are applicable to the hazards at the facility (for laser hazards 
+not covered by OSHA standards). See Section 4.m for specific requirements.  
+f. ANSI/American Society of Mechanical Engineers (ASME) B.31, Piping Code, 
+is required to be used for pressure vessels, boilers, air receivers, and supporting 
+piping systems. See Attachment 1, Section 7.b. for specific requirements.  
+g. National Board of Boiler and Pressure Vessel Inspectors (NBBI) NB23, 
+National Board Inspection Code, is required to be used for pressure vessels, 
+boilers, air receivers, and supporting piping systems. See Attachment 1, Section 
+7.b. for specific requirements.  
+h. National Fire Protection Association (NFPA) 70, National Electrical Code, and 
+NFPA 70E, Standards for Electrical Safety in the Workplace, are required to be 
+used for worker protection requirements that are applicable to the hazards at the 
+facility. See Section 4.m. for specific requirements.  
+7. CONTACT. For technical interpretations of DOE-prescribed worker protection 
+standards, consult the DOE Technical Information Services database, or submit a question 
+to the DOE Policy Clarification (PC) Portal at https://www.energy.gov/ehss/safety-a nd-
+health-policy-clarification-portal. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ MARK W. MENEZES  
+ Deputy Secretary
+
+--- page 10 ---
+
+
+--- page 11 ---
+DOE O 440.1B Attachment 1 
+5-17-07 Page 1 
+ 
+ 
+FUNCTIONAL AREA REQUIREMENTS 
+This attachment establishes the mandatory requirements for implementing the applicable 
+functional areas required by paragraph 4.o. of this Order. 
+1. CONSTRUCTION SAFETY. The following requirements and responsibilities apply for 
+construction projects above the monetary threshold established by the Davis-Bacon Act 
+(40 U.S.C. 276a) at Government-owned or -leased facilities where the contract clause 
+"Safety and Health (Government-Owned or -Leased Facility)" applies: 
+a. Hea ds of Departmental Elements, and Heads of Field Elements.  
+(1) Designate a project manager for each construction project. 
+(2) Ensure that project managers are provided with the training, resources, and 
+technical support necessary to perform the duties prescribed by this Order. 
+(3) Develop formal written agreements/implementing instructions as needed to 
+delineate the respective construction safety responsibilities/duties of DOE 
+project management and technical support staffs. 
+(4) Review safety and health programs developed for site maintenance and 
+operational activities to determine their applicability and cost effectiveness on 
+construction projects. 
+(5) Direct the development and implementation of a system for evaluating the 
+effectiveness of construction contractor safety and health programs on fixed-
+price construction projects and apply this system to the determination of 
+bidder responsibility on future construction projects. (Refer to Federal 
+Acquisition Regulation (FAR) 36.201.) 
+(6) En su re that applicable requirements of this Order are specified within 
+construction project acquisition documents. 
+b. Construction Project Managers. 
+(1) Determine the necessity for requiring dedicated construction contractor safety 
+and health personnel on project workplaces. 
+(2) Ensure that construction project acquisition documents provide information or 
+reference to existing documentation that describes known hazards to which 
+project workers may be exposed. 
+(3) Ensure that a pre-work safety meeting is conducted with the construction 
+contractor to review project safety and health requirements.
+
+--- page 12 ---
+Attachment 1 DOE O 440.1B 
+Page 2 5-17-07 
+ 
+ 
+(4) Ensure that the project safety and health plan is approved prior to any on- site 
+project work and that required hazard analyses are completed and approved 
+prior to start of work on affected construction operations. 
+(5) Ensure that project safety and health plans and hazard analyses are revised, as 
+necessary, to address identified deficiencies in project safety and health 
+performance or changes in project operations, contractors, or personnel. 
+(6) Through personal on-site involvement and/or formal delegation to support 
+staff and/or the construction manager, perform frequent and regular 
+documented on-site reviews of construction contractor safety and health 
+program effectiveness. 
+(7) Ensure documentation exists for all formal contract actions taken to enforce 
+construction contractor compliance with project safety and health 
+requirements. 
+2. FIRE PROTECTION. Establish and implement a comprehensive fire protection program 
+with the objective of providing an acceptable level of safety from fire and related hazards 
+for DOE and NNSA Federal personnel and for the public. This includes appropriate 
+facility and site-wide protection (refer to DOE O 420.1, Facility Safety, current version), 
+fire alarm notification and egress features, and access to a fully staffed, trained, and 
+equipped fire department that is capable of responding in a timely and effective manner to 
+site occurrences. 
+a. An acceptable fire protection program includes those fire protection criteria and 
+procedures, analyses, hardware and systems, apparatus and equipment, and 
+personnel that comprehensively ensure that the above objective is met. This 
+includes meeting applicable building codes and National Fire Protection 
+Association (NFPA) Codes and Standards or exceeding them (when necessary to 
+meet safety objectives), unless explicit written relief has been granted. 
+b. Life Safety Code. NFPA Standard 101, Life Safety Code, is applicable to most 
+DOE facilities. DOE Elements with Federal worker responsibility may determine 
+that NFPA 101A, Alternate Approaches to Life Safety, can be applied to DOE 
+facilities where an equivalent level of life safety to NFPA 101 is needed provided 
+that such an alternative approach is determined by a qualified individual. DOE 
+Elements with Federal worker responsibility also should determine the additional 
+or modified exit requirements needed for toxic and explosive environments if 
+appropriate. The exit requirements for explosives environments should reflect the 
+criteria contained in the DOE–STD-1212, Explosives Safety (available by 
+searching at http://www.hss.doe.gov/nuclearsafety/ns/techstds/standard.html). 
+Additional fire protection features and personnel limits should be maintained 
+where noncompliance with some NFPA Standard 101 provisions are necessary to 
+prevent creating serious hazards, e.g. as could occur in some containment 
+structures.
+
+--- page 13 ---
+DOE O 440.1B Attachment 1 
+5-17-07 Page 3 
+ 
+ 
+c. Fire Watches. When applicable, fire watcher requirements in NFPA 51B should 
+be expanded to include responsibility for the safety of the welder(s) in addition to 
+that of the facility. 
+3. FIRE ARMS SAFETY. 
+a. Establish firearms safety policies and procedures for security operations and 
+training to ensure proper accident prevention controls are in place. Written 
+procedures must address firearms safety, engineering and administrative controls, 
+as well as personal protective equipment requirements. At a minimum, procedures 
+must be established for: 
+(1) Storage, handling, cleaning, inventory and maintenance of firearms and 
+associated ammunition; 
+(2) Activities such as loading, unloading, and exchanging firearms. These 
+procedures must address use of bullet containment devices and those 
+techniques to be used when no bullet containment device is available; 
+(3) Use and storage of pyrotechnics, explosives, and/or explosive projectiles; 
+(4) Handling misfires, duds, and unauthorized discharges; 
+(5) Live fire training, qualification, and evaluation activities; 
+(6) Training  and exercises using engagement simulation systems;  
+(7) Training and exercises using obscurant-generating devices; 
+(8) Emergency responses at firearms training facilities; and, 
+(9) Use of firing ranges by personnel other than DOE or DOE contractor 
+protective forces personnel. 
+b. Ensure that personnel responsible for the direction and operation of the firearms 
+safety program are professionally qualified and have sufficient time and authority 
+to implement the established program. 
+c. Ensure that firearms instructors and armorers have been certified by the 
+Safeguards and Security National Training Center. Personnel must be 
+professionally qualified through DOE National Training Center, military, or 
+factory training to conduct the level of activity they provide. 
+d. C onduc t formal appraisals assessing implementation of procedures, personnel 
+responsibilities, and duty assignments to ensure overall policy objectives. 
+e. Implement provisions related to firearms training, live fire range safety, 
+qualification, and evaluation activities.
+
+--- page 14 ---
+Attachment 1 DOE O 440.1B 
+Page 4 5-17-07 
+ 
+ 
+f. Personnel must successfully complete and demonstrate understanding of initial 
+firearms safety training before being issued any firearms. Authorization to remain 
+in armed status will continue only if the employee demonstrates the technical and 
+practical knowledge of firearms safety semi-annually. 
+g. Personnel authorized to carry firearms must have access to instruction manuals or 
+materials for each type of firearm with which they are armed while on duty. 
+h. Authorized armed personnel must demonstrate both technical and practical 
+knowledge of firearms handling and safety on a semi-annual basis. This 
+demonstration must be supported by limited scope performance tests, and the 
+results of such testing must be documented. 
+i. All firearms training lesson plans must incorporate safety for all aspects of 
+firearms training task performance standards. Lesson plans must follow the 
+standards and criteria set forth by the Safeguards and Security Central Training 
+Academy's standard training program. 
+j. Firearms safety briefings must immediately precede training, qualifications, and 
+evaluation activities involving live fire and/or engagement simulation systems. 
+k. A safety an alysis approved by DOE line management must be developed for the 
+facilities and operation of each live fire range. A safety analysis must be 
+completed and approved prior to implementation of any new training, 
+qualification, or evaluation activity. Results of these analyses must be 
+incorporated into procedures, lesson plans, exercise plans, and limited scope 
+performance tests. 
+l. Firing range safety procedures must be conspicuously posted at all primary range 
+facilities. 
+m. Live fire ranges must be properly sited to protect personnel on the range, as well 
+as personnel and property not associated with the range. Approval for the location 
+and use of live fire range must be obtained from the DOE field element manager. 
+n. Develop a safety or risk analysis for all facilities or areas in which firearms will be 
+introduced in accordance with the local protection strategy. Such analyses must be 
+approved by DOE line management. 
+o. En su re that the transportation, handling, placarding, and storage of munitions 
+conform to the applicable requirements of DOE-STD-1212, DOE Explosives 
+Safety. 
+4. EXPLOSIVES SAFETY. Ensure that applicable explosives operations comply with 
+DOE-STD-1212, DOE Explosives Safety. Facility management must determine the 
+applicability of the requirements to research and development laboratory type operations 
+consistent with the DOE level of protection criteria in the technical standard. The
+
+--- page 15 ---
+DOE O 440.1B Attachment 1 
+5-17-07 Page 5 
+ 
+ 
+administration and management of DOE-STD-1212, DOE Explosives Safety and any 
+deviations from it, must follow the process specified in Chapter I of the technical 
+standard. Revisions to the technical standard are made through established Technical 
+Standards revision process. 
+5. INDUSTRIAL HYGIENE. 
+a. Implement a comprehensive and effective industrial hygiene program to reduce 
+the risk of work-related disease or illness. 
+b. Include the following elements in industrial hygiene programs: 
+(1) Initial or baseline surveys of all work areas or operations to identify and 
+evaluate potential worker health risks. 
+(2) Coordination with planning and design personnel to anticipate and control 
+health hazards that proposed facilities and operations would introduce. 
+(3) Coordination with cognizant occupational medical, environmental, health 
+physics, and work planning professionals. 
+(4) Policies and procedures to mitigate the risk from identified and potential 
+occupational carcinogens. 
+(5) Professionally and technically qualified industrial hygienists to manage and 
+implement the industrial hygiene program. 
+(6) Periodic resurveys and/or exposure monitoring as appropriate. 
+(7) Docum ented exposure assessment for chemical, physical and biological 
+agents and ergonomic stressors using recognized exposure assessment 
+methodologies and use of accredited industrial hygiene laboratories. 
+(8) Specification of appropriate engineering, administrative, work practice, and/or 
+personal protective control methods to limit hazardous exposures to 
+acceptable levels. 
+(9) Worker education, training, and involvement.  
+(10) Use of appropriate industrial hygiene standards. 
+(11) Use of respiratory protection equipment tested under the DOE Respiratory 
+Acceptance Program for Supplied-air Suits (DOE Technical Standard 
+1167-2003) when National Institute for Occupational Safety and Health- 
+approved respiratory protection does not exist for DOE tasks that require such 
+equipment. For security operations conducted in accordance with Presidential 
+Decision Directive 39, U. S. Policy on Counter Terrorism, use of Department
+
+--- page 16 ---
+Attachment 1 DOE O 440.1B 
+Page 6 5-17-07 
+ 
+ 
+of Defense military type masks for respiratory protection by security is 
+acceptable. 
+6. BIOLOGICAL SAFETY. 
+a. Implement and manage a program that confirms handling, transfer, use, and 
+receipt of etiologic agents are conducted by professionally and technically 
+qualified individuals in a manner consistent with the potential hazard. 
+b. C onfir m that each DOE contractor performing work with etiologic agents 
+establishes an Institutional Biosafety Committee (IBC) or equivalent, which will 
+be responsible for recommending approval and reviewing proposals and programs 
+for compliance with the Centers for Disease Control (CDC), Department of 
+Agriculture, National Institutes of Health (NIH), World Health Organization 
+(WHO), and other international, Federal, State, and local regulations or guidelines 
+for work with etiologic agents. This review should include assessment of 
+containment level, facilities, procedures, practices, and training and expertise of 
+personnel. In addition, this committee should review the site's security, 
+safeguards, and emergency management plans and procedures to ensure that they 
+adequately address work with etiologic agents. DOE staff, with the requisite 
+technical expertise and training, should be in cluded as a member of the facility 
+IBC (or equivalent). 
+c. Be aware of  each CDC registration certificate issued to a DOE facility registered 
+and approved to transfer, receive, and handle select agents at Biosafety Level 
+(BSL) 2, 3, or 4 under their cognizance. The field elements must also be aware of 
+each CDC Form EA-101, Transfer of Select Agents, for each select agent received 
+or transferred by a registered facility under their cognizance. 
+d. Maintain a record of the status of etiologic agents at facilities under their 
+authority, based on annual reports from contractors. 
+7. PRESSURE SAFETY. DOE Elements must implement a comprehensive pressure vessel 
+and pressure system safety program. This program must meet, at a minimum, the 
+following criteria: 
+a. Establish written and documented safety policies and procedures to ensure that all 
+pressure vessels and systems are designed, fabricated, tested, procured, inspected, 
+maintained, repaired, and operated by trained and qualified personnel in 
+accordance with applicable and sound engineering principles. 
+b. All pressure vessels, boilers, air receivers, and supporting piping systems must 
+conform to the following applicable code or standard in place at time of 
+installation or significant modification: 
+(1) American Society of Mechanical Engineers (ASME) Design and Construction 
+of Boiler, Air Receivers, and Pressure Vessels;
+
+--- page 17 ---
+DOE O 440.1B Attachment 1 
+5-17-07 Page 7 
+ 
+ 
+(2) American National Standards Institute/ASME B.31 Piping Code;  
+(3) National Board Inspection Code NB-23; 
+(4) Department of Transportation, 49 CFR Parts 100-199; and/or 
+(5) Strictest applicable state and local codes. 
+c. If national consensus codes are not applicable (because of pressure range, vessel 
+geometry, use of special materials, etc.), implementing measures must be 
+established to provide equivalent protection and ensure safety equal to or superior 
+to the intent of the ASME code. Measures must meet the following criteria: 
+(1) Design drawings, sketches, and calculations must be reviewed and approved 
+by an independent design professional. Documented organizational peer 
+review is acceptable. 
+(2) Qualified personnel must be used to perform examinations and inspections 
+of materials, in-process fabrications, non-destructive tests, and acceptance 
+tests. 
+(3) Documentation, traceability, and accountability must be maintained for each 
+pressure vessel or system, including descriptions of design, pressure, testing, 
+operation, repair, and maintenance. 
+d. Each pressure vessel or system, including the design, pressure ratings, traceability, 
+inspection, testing, operations, repair, and maintenance requirements must be 
+described and documented. 
+e. All components in the pressure system, especially components of pressure relief 
+devices and control valves, must be inspected, tested, and maintained as required 
+by the above applicable standards. Inspections, testing, and maintenance may be 
+done according to competently developed and peer-reviewed engineering and 
+maintenance specifications, provided that they ensure safety equal to or superior 
+to the intent of any applicable standard. This process must be documented. 
+f. Qualified personnel must control the selection and use of the pressure hardware, 
+including quality control requirements, procurement specifications, and assembly 
+of pressure components. 
+g. Personnel who design, build, and operate pressure systems must be trained and 
+qualified through documented formal classroom attendance, testing, on-the-job 
+experience and/or training. 
+h. Worker Involvement/Safety Committee(s) must recommend and/or review safety 
+policies; address unusual problems and occurrences; and provide advice and 
+assistance in pressure safety.
+
+--- page 18 ---
+Attachment 1 DOE O 440.1B 
+Page 8 5-17-07 
+ 
+ 
+8. MOTOR VEHICLE SAFETY. 
+a. Implement a Motor Vehicle Safety Program to protect the safety and health of all 
+drivers and passengers in Government-owned or -leased motor vehicles and 
+powered industrial equipment (i.e., fork, trucks, tractors, platform lift trucks, and 
+other similar specialized equipment powered by an electric motor or an internal 
+combustion engine).  
+b. Tailor the program for the individual DOE site or facility, based on an analysis of 
+the needs of that particular site or facility, and it must address the following areas: 
+(1) Minimum licensing requirements (including appropriate testing and medical 
+qualification) for personnel operating motor vehicles and powered industrial 
+equipment. 
+(2) Requirements for the use of seat belts and provision of other safety devices. 
+(3) Training for specialty vehicle operators. 
+(4) Requirements for motor vehicle maintenance and inspection.  
+(5) Uniform traffic and pedestrian control devices and road signs.  
+(6) On-site speed limits and other traffic rules. 
+(7) Awareness campaigns and incentive programs to encourage safe driving.  
+(8) Enforcement provisions. 
+9. ELECTRICAL SAFETY. DOE Elements must implement a comprehensive electrical 
+safety program appropriate for the activities at the facility. The program must meet the 
+applicable electrical safety codes and standards referenced in paragraph 4m of this Order. 
+10. T RAINI NG AND INFORMATION. 
+a. Develop and implement a worker safety and health training and information 
+program to ensure that all federal workers exposed or potentially exposed to 
+hazards are provided with the training and information on that hazard in order to 
+perform their duties in a safe and healthful manner. 
+b. Provide the following: 
+(1) Training and information for new federal workers, before or at the time of 
+initial assignment to a job involving exposure to a hazard;  
+(2) Periodic training as often as necessary to ensure that federal workers are 
+adequately trained and informed; and
+
+--- page 19 ---
+DOE O 440.1B Attachment 1 
+5-17-07 Page 9 (and Page 10) 
+ 
+ 
+(3) Additional training when safety and health information or a change in 
+workplace conditions indicates that a new or increased hazard exists.  
+c. DOE must provide training and information to federal workers who have worker 
+safety and health program responsibilities that is necessary for them to carry out 
+those responsibilities. safety and health program responsibilities that is necessary  
+11. RECORDKEEPING AND REPORTING. 
+a. Recordkeeping. 
+(1) Establish and maintain complete and accurate records of all hazard inventory 
+information, hazard assessments, exposure measurements, and exposure 
+controls. 
+(2) Ensure that the work-related injuries and illnesses of federal workers and 
+contractor/subcontractor workers are recorded and reported accurately and 
+consistent with DOE O 231.1, Environment, Safety and Health Reporting, 
+current version. 
+(3) Comply with the applicable occupational injury and illness recordkeeping and 
+reporting workplace safety and health standards referenced in paragraph 4m 
+of this Order unless otherwise directed in DOE O 231.1, current version. 
+(4) Ensure that any information concerning non-compliance or potential 
+noncompliance with the requirements in this document is not concealed nor 
+destroyed. 
+b. Reporting and investigation. 
+(1) Report and investigate accidents, injuries and illness (reference DOE O 225.1, 
+Accident Investigations, current version; DOE O 231.1, Environment, Safety 
+and Health Reporting, current version: and 29 CFR 1960 Subpart I. 
+(2) Analyze related data for trends and lessons learned (reference DOE O 225.1, 
+Accident Investigations, current version.

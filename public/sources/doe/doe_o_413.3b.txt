@@ -1,0 +1,919 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov Office of the Chief Information Officer 
+U.S. Department of Energy ORDER 
+ Washington, DC  
+ 
+Approved: 12-3-2012 
+Chg 1(Admin Chg): 1-16-2013 
+Chg 2 (MinChg): 1-13-2017 
+ 
+SUBJECT: INFORMATION TECHNOLOGY PROJECT MANAGEMENT 
+1. PURPOSE. To provide the Department of Energy (DOE) Elements, including the 
+National Nuclear Security Administration (NNSA), with Information Technology (IT) 
+Project Management guidance for the acquisition and management of IT projects and 
+initiatives. Common IT Project Management requirements will ensure that IT projects are 
+delivered within the original performance baseline, cost, and schedule and fully meet 
+Mission performance, safety, safeguards, and security standards in alignment with section 
+5123 of Public Law (P.L.) 104-106, Performance and Results Based Management and the 
+Federal Information Technology Acquisition Reform Act (FITARA). 
+a. To responsibly manage IT projects that will improve the efficiency and 
+effectiveness of DOE operations and, as appropriate, the delivery of services to 
+the public; 
+b. To establish communications within the Office of the Chief Information Officer 
+(OCIO) and across all DOE Elements for DOE Enterprise-wide IT projects; 
+c. To align decision making within the OCIO and across all DOE Elements for 
+Department–wide IT projects; and 
+d. To reduce duplication of effort and the Total Cost of Ownership (TCO) for DOE 
+IT projects. 
+2. CANCELLATION. DOE Guide (G) 200.1-1 to 200.1-1 Chapter 10, Software Engineering 
+Methodology Guide. 
+3. DEPARTMENTAL APPLICABILITY. 
+a. Scope. Except for the exclusions in section 3b and equivalencies and exemptions 
+in section 3d, the scope of IT projects covered by this Order (O) includes projects:  
+(1) With a Total Project Cost (TPC) equal to or more than $25 Million (M); 
+(2) With an impact on more than one DOE Element; or 
+(3) As determined by the Undersecretary or Head of Element, based on risk 
+management, mission, priorities, or national interest. 
+b. Exclusion. IT projects that are covered by or are a component under a Capital Asset 
+Project covered by DOE O 413.3B, Program and Project Management for the 
+Acquisition of Capital Assets, are excluded from this O 415.1.
+DOE O 415.1
+
+--- page 2 ---
+2 DOE O 415.1 
+ 12-3-2012 
+ 
+c. IT Project Management. All IT projects require formal IT Project Management. IT 
+projects that do not meet the scope of this Order are required to be managed using a 
+standardized approach as specified and approved by the sponsoring/funding 
+organization. 
+d. Equivalencies/Exemptions for DOE O 415.1. Equivalencies and exemptions to 
+this Order are processed in accordance with DOE O 251.1C, Departmental 
+Directives Program. The following equivalencies and exemptions are included in 
+this Order. 
+(1) Exemption. Consistent with Secretarial Delegation DOE O 00-033.00B, To 
+the Administrator and Chief Executive Office (CEO) of Bonneville Power 
+Administration (BPA), this Order does not apply to BPA. 
+(2) Exemption. This Order does not apply to Financial Assistance Awards 
+(FAA), grants, and cooperative agreements covered under 10 Code of 
+Federal Regulations (CFR) Part 600, Financial Assistance Rules. 
+(3) Exemption. An Office of Science User Facility, which is a Federally 
+sponsored research facility available for external use to advance scientific or 
+technical knowledge under the conditions defined in the Office of Science, 
+Definition of a User Facility, dated, January 6, 2012. 
+(4) Equivalency. In accordance with the responsibilities and authorities 
+assigned by Executive Order (E.O.) 12344, Naval Nuclear Propulsion 
+Program, codified at 50 United States Code (USC) sections 2406 and 2511 
+and to ensure consistency through the joint Navy/DOE Naval Nuclear 
+Propulsion Program (NNPP), the Deputy Administrator for Naval Reactors 
+will implement and oversee requirements and practices pertaining to this 
+Order for activities under the Director's cognizance, as deemed appropriate. 
+(5) Equivalency. DOE Elements that meet all of the following criteria may 
+demonstrate alignment with specific requirements of this Order. The intent 
+of this equivalency is to delegate authority to the DOE Elements with the 
+following: 
+(a) Established IT Project Management Offices (IT PMO) with 
+documented and approved Project Management requirements, 
+processes, and procedures. 
+(b) Established IT governance policies and procedures that are 
+consistently used throughout the DOE Element with demonstrated 
+success. 
+(c) Demonstrated record of completing IT projects where completed 
+projects:
+
+--- page 3 ---
+DOE O 415.1  3 
+12-3-2012 
+ 
+ 
+1 Do not exceed a cost variance of more than +/- 10% of the 
+stated cost baseline established for the original, approved 
+scope of work approved as part of the Detailed Design 
+Review (DDR); 
+2 Do not exceed a project schedule variance of more than 
++/- 10% of the stated schedule baseline established for the 
+original approved scope of work as part of the DDR; and 
+3 Meet the functionality requirements documented in the 
+stated approved scope of work as part of the DDR. 
+(d) Requirement that DOE Elements having this equivalency are still 
+responsible for reporting and coordinating projects that impact 
+multiple DOE Elements. 
+(6) DOE Elements that are eligible for the equivalency must take affirmative 
+action and obtain confirmation of the equivalency with an action 
+memorandum from the OCIO or designated authority. 
+(7) The Administrator, NNSA, will ensure that NNSA employees and 
+contractors comply with their respective responsibilities under this Order. 
+Nothing in this Order will be construed to interfere with the NNSA 
+Administrator’s authority under section 3212(d) of P.L. 106-65, National 
+Defense Authorization Act for Fiscal Year 2000, to establish 
+Administration-specific policies, unless disapproved by the Secretary. 
+(8) For DOE contractors, except for the equivalencies and exemptions in 
+section 3d and as stated above, the Contractor Requirements Document 
+(CRD), see Attachment 1, sets forth requirements of this Order that will 
+apply to contracts that include the CRD. The CRD must be included in IT 
+Program/Project Management and services contracts. As the laws, 
+regulations, and the DOE Directive clause 970.5204-2 of IT Project 
+Management and services contracts state, regardless of the performer of the 
+work, Site/Facility management contractors with the CRD in Attachment 1 
+incorporated into their contracts are responsible for compliance with the 
+requirements of the CRD. 
+4. REQUIREMENTS. 
+a. Successful management of IT projects requires the application of knowledge, 
+skills, tools, techniques, and resources to ensure that the IT system or asset meets 
+or exceeds the stakeholders’ needs and expectations. To deliver IT investments, 
+assets, and projects on the stated performance baseline (including within budget, 
+on schedule, and fully capable of meeting mission performance, safety, 
+safeguards, and security standards) and to ensure the implementation of this 
+Order, the following project artifacts must be developed and maintained by each
+
+--- page 4 ---
+4 DOE O 415.1 
+ 12-3-2012 
+ 
+DOE Element responsible for IT projects. 
+(1) A Project Management Plan (PMP) that includes: 
+(a) Budget and resources; 
+(b) Key decision points; and 
+(c) Description of the Project Management tools and reports that will 
+be used during the project. 
+(2) Alternative Analysis. 
+(3) Requirements Document approved by the Project Manager (PM) and the 
+customer that outlines functional, operational, and acceptance criteria. 
+(4) Project Schedule documenting the entire lifecycle of the project. 
+(5) Configuration Management and Change Control Plan. 
+(6) Risk Management Plan. 
+(7) Cyber Security Plan. 
+b. Implementation of IT Project Management methodologies, tools, and techniques 
+that: 
+(1) Establish the project scope, schedule, and budget; 
+(2) Hold the PM accountable for delivering the project within cost, scope, and 
+schedule; 
+(3) Align the IT investment to the Departmental and/or Organizational Strategic 
+Plan and objectives; 
+(4) Establish clearly defined metrics and business value based objectives; 
+(5) Are consistent with the appropriate statutory, regulatory, Office of 
+Management and Budget (OMB), and Departmental requirements; 
+(6) Ensure the products or services are produced according to requirements and 
+specifications, on time, and within budget; 
+(7) Ensure reporting to the Acquisition Executive (AE), IT Project Manager (IT 
+PM), and DOE Element’s leadership, as appropriate, on project 
+performance and status; 
+(8) Strengthen line management accountability for successful IT Project 
+Management results;
+
+--- page 5 ---
+DOE O 415.1  5 (and 6) 
+12-3-2012 
+ 
+ 
+(9) Implement formal Stage Gates or transition points during the project’s life 
+cycle to validate that the project is proceeding as planned and a go, no-go, 
+or hold decision is made; 
+(10) Establish a DOE Enterprise culture that recognizes the need to manage risk, 
+control cost and schedules, and invest in DOE Enterprise-wide projects with 
+the goal of meeting DOE Mission schedules. Invest in DOE Enterprise-wide 
+IT projects with the goal of meeting DOE Mission objectives on budget, on 
+schedule, and with the functionality required; and 
+(11) Tailor projects and apply Value Measuring Methodology and Modular 
+Development, as appropriate. 
+c. Establishment of an IT asset/project inventory. 
+d. Requirements for Implementation. Implementation of the requirements contained 
+in this Order must be documented in an Implementation Plan within 6 months of the 
+issuance of this Order. The Implementation Plan must ensure that this Order is fully 
+implemented within 1 year. IT projects initiated prior to the issuance of this Order 
+may continue to adhere to the management and reporting requirements established 
+for the project, and the IT PMs of these projects must coordinate with the DOE 
+Corporate IT PMO on reporting and monitoring. 
+5. RESPONSIBILITIES. See Responsibilities, Appendix A. 
+6. REFERENCES. See References, Attachment 3. 
+Additional References: 
+a. Acronyms, Attachment 2 
+b. Glossary of Terms, Attachment 4 
+7. CONTACT. For assistance, contact the Office of the Chief Information Officer, 
+202-586-0166. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ ELIZABETH SHERWOOD-RANDALL 
+ Deputy Secretary
+
+--- page 6 ---
+
+
+--- page 7 ---
+DOE O 415.1 i (and ii) 
+12-3-2012 
+ 
+ 
+TABLE OF CONTENTS  
+APPENDIX A: RESPONSIBILITIES  
+1. NATIONAL NUCLEAR SECURITY ADMINISTRATION (NNSA).
+................................................................................................................................................
+1 
+2. DOE CHIEF INFORMATION OFFICER (CIO). ................................................................. 
+1 
+3. DOE CORPORATE IT PROJECT MANAGEMENT OFFICE (PMO)
+................................................................................................................................................
+2 
+4. DOE UNDER SECRETARIES, NNSA ADMINISTRATOR/HEADS OF FIELD 
+ELEMENTS.
+................................................................................................................................................
+2 
+5. PROGRAM MANAGERS AND HEADS OF FIELD ORGANIZATIONS.
+................................................................................................................................................
+3 
+6. CONTRACTING OFFICER (CO).
+................................................................................................................................................
+4 
+7. DOE CHIEF ARCHITECT (SEE DOE O 200.1A).
+................................................................................................................................................
+4 
+8. CHIEF HEALTH, SAFETY AND SECURITY OFFICER.
+................................................................................................................................................
+4 
+9. ACQUISITION EXECUTIVE (AE).
+................................................................................................................................................
+4 
+DOE ORDER 415.1 -  LIST OF ATTACHMENTS:  
+Attachment 1: CONTRACTOR REQUIREMENTS DOCUMENT
+
+--- page 8 ---
+Appendix A  DOE O XXX.X 
+Page A-2  DRAFT XX-XX-XX 
+ 
+Attachment 2: ACRONYMS  
+Attachment 3: REFERENCES 
+Attachment 4: GLOSSARY OF TERMS
+
+--- page 9 ---
+DOE O 415.1 Appendix A 
+12-3-2012 A-1 
+ 
+ 
+APPENDIX A  
+RESPONSIBILITIES  
+1. NATIONAL NUCLEAR SECURITY ADMINISTRATION (NNSA).  
+For all actions on NNSA Information Technology (IT) Programs, projects, and 
+investments, the Administrator, NNSA, maintains responsibility and has the authority 
+to delegate responsibilities and authority for implementing the relevant requirements 
+and responsibilities of this Order (O). This includes, but is not limited to, designating 
+Project Managers (PMs), establishing Nuclear Security Enterprise-wide IT-related 
+metrics, delegating decision-making authority relating to NNSA IT project execution, 
+providing oversight on NNSA IT projects, and implementing corrective actions. 
+2. DOE CHIEF INFORMATION OFFICER (CIO). 
+a. Serves as the Department of Energy (DOE) Senior Manager responsible and 
+accountable for implementing the provisions of the DOE Secretary Delegation O 
+No. 00-031.00A, To the Chief Information Officer, which delegates to the CIO the 
+responsibility of oversight and reporting on IT projects across the DOE Enterprise 
+in a collaborative manner that: 
+(1) Reinforces and enhances guidance on formalized IT Project Management to 
+meet the DOE expectation that IT projects are effectively managed, meeting 
+business needs and providing transparency through reporting in a timely 
+manner; and 
+(2) Acknowledges the mission focus or line management responsibilities of 
+DOE Elements and fosters a core competency for supporting DOE 
+Enterprise-wide IT initiatives. 
+b. Matures DOE IT project planning, coordination, and cooperation in an effort to 
+improve the efficiency and effectiveness of IT across all DOE Elements. 
+c. Oversees the development and implementation of IT project policies, standards, 
+and guidelines that align with the DOE Mission, as well as legislative and 
+regulatory policies and procedures. 
+d. Identifies special interest projects and ensure that appropriate Senior Executive 
+Level reviews are provided for those projects. 
+e. Establishes and maintains a DOE-wide process for certifying IT PMs. 
+f. Affirms equivalencies as defined in DOE O 415.1. 
+g. Promotes Enterprise Architecture (EA) as defined in DOE O 200.1A, Information 
+Technology Management.
+
+--- page 10 ---
+Appendix A DOE O 415.1 
+Page A-2 12-3-2012 
+ 
+h. Promotes Information Technology Strategic Planning. 
+i. Identifies critical DOE IT investments and ensure that they are tracked in the 
+Strategic Plan. 
+(1) Review the results of internal and external compliance assessments and 
+provide transparency across the Agency; 
+(2) Ensure that IT assets are acquired and information resources are managed 
+consistent with statutory, Office of Management and Budget (OMB), and 
+Departmental requirements and priorities; and 
+(3) Ensure the development and management of an optimal IT portfolio that 
+best supports Programmatic needs. 
+j. Promotes Capital Planning and Investment Control (CPIC) as defined in 
+DOE O 200.1A. 
+(1) Ensures the integration and alignment of the CPIC process and tools with IT 
+Project Management, EA, and other management processes; and 
+(2) Provides a means for Senior Management to monitor IT investments in 
+terms of cost, schedule, and requirements. 
+3. DOE CORPORATE IT PROJECT MANAGEMENT OFFICE (PMO). 
+a. Supports the development, implementation, and maintenance of policies, 
+templates, and procedures necessary to implement this Order. 
+(1) Collects, analyzes, and disseminates lessons learned and best practices; 
+(2) Provides assistance and guidance to DOE line Project Management 
+Organizations managing IT projects covered by this Order; 
+(3) Ensures coordination and collaboration within the Office of the Chief 
+Information Officer (OCIO) Organization, including Capital Planning, EA, 
+Cybersecurity, and Energy IT Services; and 
+(4) Implements processes to consolidate and report on IT project status. 
+b. Ensures coordination and collaboration with DOE Elements on IT Project 
+Management. 
+4. DOE UNDER SECRETARIES, NNSA ADMINISTRATOR/HEADS OF FIELD 
+ELEMENTS. 
+a. Maintain stewardship of Federal IT resources and ensure they are used efficiently 
+and effectively to achieve intended program results.
+
+--- page 11 ---
+DOE O 415.1 Appendix A 
+12-3-2012 A-3 
+ 
+ 
+(1) Ensure sound application of IT Project Management practices for planning, 
+management, budgeting, execution review, and reporting that demonstrates 
+projects are effectively managed; 
+(2) Ensure that all IT PMs have the appropriate qualifications required based on 
+the size and complexity of the project to manage successful completion of 
+the project; and 
+(3) Ensure projects have established and monitored performance measures that 
+align with the DOE and Program Mission. 
+b. Take systematic and proactive measures to establish cost-effective and 
+appropriate internal controls. 
+c. Ensure IT Organizations within their control are properly informed of this Order 
+and identify and report on IT projects governed by this Order, as required. 
+d. Ensure Program Offices establish additional process-specific quality requirements to 
+be implemented under a Quality Assurance Program (QAP) for the control of 
+suspect/counterfeit items (S/CIs) and nuclear-safety software, as defined in 
+DOE O 414.1D, Quality Assurance. 
+e. Ensure IT acquisitions not subject to review by the Energy Systems 
+Acquisition Advisory Board (ESAAB) will continue to follow their 
+respective program office approval process, which will include the CIO or 
+the CIO's designee as a full participant whenever executive-level approval is 
+required, followed by a review through the Information Management 
+Governance Board (IMGB). 
+f. Ensure headquarters-managed projects and program offices without an IT 
+project approval process, or at the election of the CIO based on a risk 
+assessment, an Investment Review Board (IRB), under the auspices of the 
+IMGB, will be convened to provide formal review and approval of IT 
+projects. With respect to NNSA projects, the CIO may solicit an advisory 
+review from the IRB. 
+g. Notify Contracting Officers (COs) of contracts affected by the requirements of 
+this Order. 
+5. PROGRAM MANAGERS AND HEADS OF FIELD ORGANIZATIONS. 
+a. Direct initial project planning and execution roles for projects assigned by Senior 
+Management. 
+b. Establish the initial Integrated Project Team (IPT) in advance of the designation 
+of an IT PM, when required.
+
+--- page 12 ---
+Appendix A DOE O 415.1 
+Page A-4 12-3-2012 
+ 
+c. Oversee development of project definition, technical scope, and budget to support 
+Mission need. 
+d. Assign an IT PM, as appropriate, and PMs with the training, experience, and 
+skills necessary to meet the requirements of the project objectives, budget, and 
+schedule. 
+e. Oversee the project line management Organization, and ensure the line project 
+teams have the necessary experience, expertise, and training in IT Life Cycle 
+Management (LCM), including budget and schedule performance 
+management. 
+f. Develop project performance measures, and monitor and evaluate project 
+performance throughout the project ensuring compliance with DOE standards, 
+security requirements, and other mandates. 
+g. Report the cost, schedule, and performance on a monthly basis for all IT projects 
+governed by this Order to the OCIO Corporate IT PMO. Steady State (SS) 
+performance is reported through the CPIC process. 
+h. Identify and correct all reportable problems including cost, schedule, and scope in 
+a timely and effective manner. 
+i. Ensure Site/Facility management, support services, and systems development 
+contractors are responsible for flowing down the requirements of the Contractor 
+Requirements Document (CRD) to subcontractors at any tier, to the extent 
+necessary, to ensure IT Program/Project Management and services contractors’ 
+compliance with the requirements. 
+j. Manage the tailoring of IT investments. 
+6. CONTRACTING OFFICER (CO). 
+Once notified, COs are responsible for incorporating this Order into the affected contracts 
+via the laws, regulations, and DOE Directives clause of the contracts. Requirements 
+identified as solely a Federal function will not be incorporated into contracts. 
+7. DOE CHIEF ARCHITECT (SEE DOE O 200.1A). 
+Identifies opportunities for improving the integration of EA and CPIC processes to 
+maturity and enhance IT Project Management. 
+8. CHIEF HEALTH, SAFETY AND SECURITY OFFICER. Refer to DOE O 414.1D, 
+Quality Assurance, for applicability, as appropriate.
+
+--- page 13 ---
+DOE O 415.1 Appendix A 
+12-3-2012 A-5 (and A-6) 
+ 
+ 
+9. ACQUISITION EXECUTIVE (AE). 
+Each designated AE is guided by the specific limits of their delegated authority (see 
+DOE/NNSA Senior Procurement Executive for contract award and modification execution 
+authority). There can only be one designated AE per project. 
+a. Monitors the effectiveness of IT PMs and their support staff; 
+b. Approves project changes in compliance with the appropriately defined change 
+control levels and funding profile changes; 
+c. Conducts Quarterly Project Reviews (QPRs); and 
+d. Explicitly addresses integration of safety into design and construction for Hazard 
+Category 1, 2, and 3 nuclear facilities as a key consideration in the QPRs and 
+approval of project Stage Gates.
+
+--- page 14 ---
+
+
+--- page 15 ---
+DOE O 415.1  Attachment 1 
+12-3-2012  Page 1 (and Page 2) 
+ 
+ 
+CONTRACTOR REQUIREMENTS DOCUMENT 
+DOE ORDER (O) 415.1, INFORMATION TECHNOLOGY PROJECT MANAGEMENT 
+1. This CRD establishes the requirements for the Department of Energy (DOE) Information 
+Technology (IT) contractors with access to DOE information systems. Contractors must 
+comply with the requirements listed in this CRD. 
+2. Regardless of the performer of the work, the contractor is responsible for complying with 
+and flowing down the appropriate requirements of this CRD to subcontractors at any tier, to 
+the extent necessary, to ensure the contractors’ compliance with the requirements. That is, 
+the contractor will ensure that it and its subcontractors cost effectively comply with the 
+requirements of this CRD and incur only those costs that are reasonable and would be 
+incurred by a prudent person in the conduct of a competitive business. 
+3. The contractor, using a formal IT Project Management process with a graded approach to 
+project risk management, based on best business practices (BBPs), must develop a 
+Project Management approach for IT investments that: 
+(a) Foster IT investments that support DOE Program and Mission goals; 
+(b) Describe the management methods, organization, control systems, 
+and documentation for projects; and 
+(c) Monitor and control projects through Project Management practices. 
+4. For Federally directed IT investments with a Total Project Cost (TPC) of $25 Million (M) or 
+more, the contractor must follow the appropriate Program Office direction for IT Project 
+Management.
+
+--- page 16 ---
+
+
+--- page 17 ---
+DOE O 415.1 Attachment 2 
+12-3-2012 Page 1 
+ 
+ 
+ACRONYMS  
+ACRONYMS. The acronyms listed in the following table are for terms used in the Department of 
+Energy (DOE) Order (O) 415.1, Information Technology Project Management, including the 
+appendix and the attachments. 
+Acronym Definition 
+AE Acquisition Executive 
+BBP best business practices 
+BPA Bonneville Power Administration 
+CEO Chief Executive Officer 
+CFR Code of Federal Regulations 
+CIO Chief Information Officer 
+CO Contracting Officer 
+COTS commercial-off-the-shelf 
+CPIC Capital Planning and Investment Control 
+CRD Contractor Requirements Document 
+DDR Detailed Design Review 
+DO Delegating Official 
+DOE Department of Energy 
+EA Enterprise Architecture 
+ESAAB Energy Systems Acquisition Advisory Board 
+FAA Financial Assistance Awards 
+FASA Federal Acquisition Streamlining Act 
+FITARA Federal Information Technology Acquisition Reform Act 
+FTE Full Time Employee 
+G Guide 
+GAO Government Accountability Office 
+HQ Headquarters 
+IMGB Information Management Governance Board 
+IPT Integrated Project Team 
+IT Information Technology 
+IT PM IT Project Manager 
+IT PMO IT Project Management Office 
+LMC Life Cycle Management 
+M Million
+
+--- page 18 ---
+Attachment 2 DOE O 415.1 
+Page 2 12-3-2012 
+ 
+NNPP Naval Nuclear Propulsion Program 
+NNSA National Nuclear Security Administration 
+O Order 
+OCIO Office of the Chief Information Officer 
+OMB Office of Management and Budget 
+P.L. Public Law 
+PM Project Manager 
+PMO Project Management Office 
+PMP Project Management Plan 
+QAP Quality Assurance Program 
+QPR Quarterly Project Review 
+S/CIs suspect/counterfeit items 
+SS Steady State 
+TCO Total Cost of Ownership 
+TPC Total Project Cost 
+USC United States Code
+
+--- page 19 ---
+DOE O 415.1 Attachment 3 
+12-3-2012 Page 1 
+ 
+ 
+REFERENCES  
+REFERENCES. This attachment provides information and/or requirements associated with the 
+Department of Energy (DOE) Order (O) 415.1 as well as information and/or requirements applicable 
+to contracts in which the associated Contractor Requirements Document (DOE O 415.1, 
+Information Technology Project Management, Attachment 1) is inserted. 
+1. DOE, Secretary Delegation Order No. 00-031.00A, dated 6-7-07. 
+2. DOE CIO Memorandum, Enterprise Architecture Guidance, dated 1-9-07. 
+3. DOE G 413.3-2, Quality Assurance Guide for Project Management, dated 6-27-08. 
+4. DOE G 413.3-18A, Integrated Project Team Guide for Formation and Implementation, 
+dated 2-3-12. 
+5. DOE O 200.1A, Information Technology Management, dated 12-23-08. 
+6. DOE O 205.1B, Department of Energy Cybersecurity Management Program, dated 
+5-16-11. 
+7. DOE O 243.1A, Records Management Program, dated 11-7-11. 
+8. DOE O 413.1B, Internal Control Program, dated 10-28-08. 
+9. DOE O 413.3B, Program and Project Management for the Acquisition of Capital Assets, 
+dated 11-29-10. 
+10. DOE O 414.1D, Quality Assurance, dated 4-25-11. 
+11. Executive Order 13011, Federal Information Technology, FR 61-140, dated July 19, 1996. 
+12. Government Accountability Office (GAO) Report – GAO-11-826, OMB Needs to 
+Improve Its Guidance on IT Investments, dated September 29, 2011. 
+13. Office of Science, Definition of a User Facility Memorandum, dated January 6, 2012. 
+14. OMB Circular A-11, Preparation, Submission and Execution of the Budget, dated August 
+18, 2011. 
+15. OMB Circular A-123, Management Accountability and Control, dated December 21, 
+2004. 
+16. OMB Circular A-127, Financial Management Systems, dated January 9, 2009. 
+17. OMB Circular A-130, Management of Federal Information Resources, dated November 
+28, 2000.
+
+--- page 20 ---
+Attachment 3 DOE O 415.1  
+Page 2 12-3-2012 
+ 
+18. OMB Memorandum M-00-07, Incorporating and Funding Security in Information 
+Systems Investments, dated February 28, 2000. 
+19. OMB Memorandum M-11-29, Chief Information Officer Authorities, dated August 8, 
+2011. 
+20. OMB Memorandum M-97-02, Funding Information Systems Investments, dated October 
+25, 1996. 
+21. The Clinger-Cohen Act of 1996, (CCA), (Public Law 104-106, Division E), dated 
+February 10, 1996. 
+22. The E-Government Act of 2002, (Public Law 107-347), dated December 17, 2002. 
+23. The Federal Acquisition Streamlining Act of 1994, Title V (FASA V), dated October 13, 
+1994. 
+24. The Federal Information Security Management Act (FISMA) of 2002, dated October 24, 
+2002. 
+25. The Government Information Security Reform Act (GISRA - 2000), dated October 30, 
+2000. 
+26. The Government Paperwork Elimination Act of 1998, (Public Law 105-277, Title XVII), 
+dated October 21, 1998. 
+27. The Government Performance and Results Act of 1993 (GPRA) (Public Law 103-62), 
+dated August 3, 1993. 
+28. The Paperwork Reduction Act of 1995, (Public Law 104-13), dated May 22, 1995. 
+29. The President’s Management Agenda, Office of Management and Budget, Fiscal 
+Year 2002, dated January 29, 2001. 
+30. 25 Point Implementation Plan to Reform Federal Information Technology Management, 
+U.S. Chief Information Officer, dated December 9, 2010. 
+31. FITARA, Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for 
+Fiscal Year 2015, Pub. L. No. 11 3-291, dated December 19, 2014. 
+32. OMB Memorandum, Management and Oversight of Federal Information Technology, 
+M-15-14, June 10, 2015.
+
+--- page 21 ---
+DOE O 415.1 Attachment 4 
+12-3-2012 Page 1 
+ 
+ 
+GLOSSARY OF TERMS  
+GLOSSARY OF TERMS. The Glossary of Terms listed in the following table provides 
+definitions to the terms used in The Department of Energy (DOE) Order (O) 415.1, Information 
+Technology Project Management. 
+Term Definition 
+Acquisition Executive (AE)  The individual designated by the Secretary of Energy to integrate and unify 
+the management system for a Program portfolio of projects and implement 
+prescribed policies and practices. 
+Acquisition Strategy  A high-level business and technical-management approach designed to 
+achieve project objectives within specified resource constraints with 
+recognition of key project risks and the strategies identified to handle 
+those risks. It is the framework for planning, organizing, staffing, 
+controlling, and leading a project. It provides a master schedule for 
+activities essential for project success and for formulating functional 
+strategies and plans. 
+Baseline  A quantitative definition of cost, schedule, and technical performance that 
+serves as a base or standard for measurement and control during the 
+performance of an effort; the established plan against which the status of 
+resources and the effort of the overall Program, Field Program(s), 
+project(s), task(s), or subtask(s) are measured, assessed, and controlled. 
+Once established, baselines are subject to a change-control discipline. 
+Business Value The most important factor is the alignment between IT and business 
+processes, organization structure, and strategy. At the highest levels, this 
+alignment is achieved through proper integration of EA, business 
+architecture, process design, organization design, and performance 
+metrics. 
+Capital Planning and 
+Investment Control (CPIC) 
+A systematic approach to managing the risk and returns of IT 
+investments for a given Mission. The CPIC process is an integrated, 
+structured methodology to managing IT investments, which ensures that 
+IT investments align with the overall Strategic Plan and Mission in 
+support of business needs while minimizing risks and maximizing 
+returns throughout the investment’s life cycle. CPIC uses a systematic 
+selection, control, and continual-evaluation process to ensure that an 
+investment supports the overall Mission and business needs. 
+Chief Information Officer 
+(CIO) 
+The individual responsible for overseeing the IT investment portfolio. 
+Contract A contract is a mutually binding agreement that obligates the seller to 
+provide the specified product and obligates the buyer to pay for it.
+
+--- page 22 ---
+Attachment 4 DOE O 415.1 
+Page 2 12-3-2012 
+ 
+Term Definition 
+Contracting Officer (CO) The CO has the authority to enter into, administer, and/or terminate 
+contracts and make related determinations and findings. The term 
+includes certain authorized representatives of the CO acting within limits 
+of his/her authority as delegated by the CO. The CO and/or his/her 
+representative is accountable for preparing solicitation documents with 
+technical support from the IT Project Manager and acting on behalf of 
+the Head of the Contracting Activity. 
+Contractor Requirements 
+Document (CRD) 
+The DOE document that identifies the requirements that the prime 
+contractor's Project Management system must satisfy. 
+Cybersecurity  The protection of information systems against unauthorized access to or 
+modification of information (whether in storage, processing, or transit), 
+loss of accountability for information and user actions, and the denial of 
+service to authorized users, including those measures necessary to protect 
+against, detect, and counter such threats. 
+Delegating Official (DO) The DO has the authority for approval of information technology 
+projects to ensure that the proposed expenditures on IT are consistent 
+with established policies, processes, budgets, and related requirements. 
+Demonstrated Success  Those IT projects that have been developed through a 
+defined-information-system life cycle with consistent results of project 
+completion within the original project schedule, within budget, and 
+meeting the functionality requirements originally specified. 
+Departmental Directives 
+Program 
+Used to establish Directives as the primary means to set, communicate, 
+and institutionalize policies, requirements, responsibilities, and 
+procedures for Departmental Elements and contractors. Equivalencies 
+and exemptions to this Order are processed in accordance with DOE 
+Order 251.1C, Departmental Directives Program. 
+Development, 
+Modernization, and 
+Enhancement (DME) 
+DME means the project cost for new projects, changes, or modifications 
+to existing systems to improve capability or performance; changes 
+mandated by Congress or Agency leadership; personnel costs for 
+investment management; and direct support. For major IT investments, 
+this amount should equal the sum of amounts reported for planning and 
+acquisition plus the associated Full Time Employee (FTE) costs 
+reported in the OMB Exhibit 300B. 
+DOE Elements  Headquarters Elements or first-tier Organizations as listed in the 
+Correspondence Style Guide, Office of the Executive Secretariat.
+
+--- page 23 ---
+DOE O 415.1 Attachment 4 
+12-3-2012 Page 3 
+ 
+ 
+Term Definition 
+Enterprise Architecture (EA) A business-driven plan that describes the current state, future vision, 
+and transitional states of an operation. This is presented in terms of: 
+strategy and performance, business, applications and services, 
+technology, data, and security, all at the end of a 2-to-5 year planning 
+horizon. 
+Enterprise-wide IT Projects A project that spans or impacts multiple DOE Elements. 
+Equivalencies That which has the same or almost the same characteristics or effect. 
+Information Management 
+Governance Board (IMGB) 
+The DOE Information Management Governance Board (IMGB) serves 
+as a forum for collaboration, development, coordination, and execution 
+of efforts relating to DOE enterprise cyber activities and issues. 
+Information  Any communication or representation of knowledge such as facts, data, 
+or opinions in any medium or form, including textual, numerical, graphic, 
+cartographic, narrative, or audiovisual forms. 
+Information System A combination of information, computer, and telecommunications 
+resources; other information technology resources; and personnel 
+resources that collect, record, process, store, communicate, retrieve, and 
+display information. 
+Information Technology (IT) Information technology, as defined by the Clinger-Cohen Act of 1996, 
+sections 5002, 5141, and 5142, means any equipment or interconnected 
+system or subsystem of equipment that is used in the automatic 
+acquisition, storage, manipulation, management, movement, control, 
+display, switching, interchange, transmission, or reception of data or 
+information. For purposes of this definition, equipment is “used” by an 
+Agency whether the Agency uses the equipment directly or it is used by a 
+contractor under a contract with the Agency that (1) requires the use of 
+such equipment or (2) requires the use, to a significant extent, of such 
+equipment in the performance of a service or the furnishing of a product. 
+Information technology includes computers, ancillary equipment, 
+software, firmware, and similar procedures, services (including support 
+services), and related resources. It does not include any equipment that is 
+acquired by a Federal contractor incidental to a Federal contract. 
+Information technology is any proposed acquisition of information 
+technology or information technology-related resources to support a 
+defined business need. 
+Initiative An initiative is created by an Organization in response to a driver or 
+internal Directives and defines the scope of the Organizational 
+work- efforts performed.
+
+--- page 24 ---
+Attachment 4 DOE O 415.1 
+Page 4 12-3-2012 
+ 
+Term Definition 
+Internal Controls  A process affected by an Organization's structure, work and authority 
+flows, and people and management information systems; it is designed to 
+help the Organization accomplish specific goals or objectives. It is a means 
+by which an Organization's resources are directed, monitored, and 
+measured. 
+IT Assets  These IT assets provide the infrastructure and operational IT services 
+necessary for accomplishing the site Missions and Programs. Specifically, 
+they are locally managed IT assets or IT support services. Examples 
+include the following: 
+• Networks; 
+• Telecommunications; 
+• End-user devices (Desktops, Laptops, Printers, Tablets, mobile 
+devices, etc); 
+• Internet/Intranet; 
+• Email; 
+• Collaboration Tools; 
+• IT Planning (EA/CPIC/Program Office Support); 
+• Web Hosting; 
+• Data Storage; and/or 
+• Contractor Business/Financial/Administrative Systems. 
+IT Investment For the purpose of this Order, an IT investment is used interchangeably 
+with an IT asset and IT project. 
+IT Project  A planned endeavor funded by an approved information technology 
+investment, thus achieving a specific goal and creating a unique 
+product, service, or result. A project has a defined start and end point 
+with specific objectives that, when attained, signify completion. 
+IT Project Management 
+Office (IT PMO) 
+An Organizational Element or group that defines and maintains the 
+standards or processes generally related to Project Management within the 
+Organization. The PMO develops project guidance, policies, and 
+procedures. 
+IT Project Manager (IT PM) An individual in the Headquarters (HQ) Organizational Element 
+responsible for managing a project and its assigned activities. This 
+individual ensures that all the projects are properly phased, funded over 
+time, and that each Project Manager is meeting his/her key milestones. 
+These individuals are the project’s advocates, ensure proper resourcing, 
+and facilitate the execution process. They predict Programmatic risks and 
+put mitigation strategies in place so that projects are not affected.
+
+--- page 25 ---
+DOE O 415.1 Attachment 4 
+12-3-2012 Page 5 
+ 
+ 
+Term Definition 
+Life Cycle Management 
+(LCM) 
+A business approach to manage the total life cycle of products and 
+services. LCM is used to understand and analyze life cycle stages of 
+products and services of a business; identify potential economic, social, 
+or environmental risks and opportunities at each stage; and create ways 
+to act upon those opportunities and reduce potential risks. 
+Maintenance An activity necessary to keep an asset functioning as designed during its 
+operations and maintenance phase of a project. Maintenance costs 
+include costs needed to sustain an IT asset at the current capability and 
+performance levels including: corrective hardware/software, voice and 
+data communications maintenance, replacement of damaged or obsolete 
+IT equipment, and associated overhead costs. Examples of maintenance 
+projects include operating system upgrades, technology refreshes, and 
+security patch implementations. 
+Milestone  Any significant or substantive point, time, or event of the project. 
+Milestones typically refer to points at which large-schedule events or 
+series of events have been completed, and a new phase(s) is set to begin. 
+Modular Development  Focuses on a project or activity of the overall vision and progressively 
+expands upon the agencies’ capabilities, until the overall vision is realized. 
+Modular Development projects are broken down into discrete projects or 
+increments, each of which are undertaken to develop and implement the 
+products and capabilities that the larger program must deliver 
+Objective  This defines the principal areas of concern within the overall goal; it may 
+also provide quantitative measures of future performance and may list 
+several Strategic Targets that provide additional quantification of Agency 
+objectives. 
+Office of the Chief 
+Information Officer (OCIO) 
+The Office responsible to ensure that IT is acquired and information 
+resources are managed consistent with statutory, regulatory, and 
+Departmental requirements and priorities. 
+Operation The day-to-day management of an asset in the production environment 
+and included activities to operate data centers, help desks, operational 
+centers, telecommunication centers, and end user support services. 
+Operational activities are reported through Section C of the Exhibit 
+300B. Operations costs include the expenses associated with an IT asset 
+that is in the production environment to sustain an IT asset at the current 
+capability and performance levels including Federal and contracted 
+labor costs and the costs for the disposal of an asset. 
+Process A permanent or semi-permanent collection of measurable, auditable, and 
+repeatable activities that result in an output.
+
+--- page 26 ---
+Attachment 4 DOE O 415.1 
+Page 6 12-3-2012 
+ 
+Term Definition 
+Project A project has a defined start and end point with specific objectives that, 
+when attained, signify completion thus achieving a specific goal and 
+creating a unique product, service, or result. Built on interdependent 
+activities planned to meet a common objective, a project focuses on 
+attaining or completing a deliverable within a predetermined cost, 
+schedule, and technical scope. 
+Project Management  Project Management is the discipline of planning, organizing, securing, 
+managing, leading, and controlling resources to achieve specific goals. A 
+project is a temporary endeavor with a defined beginning and end (usually 
+time-constrained, and often constrained by funding or deliverables) 
+undertaken to meet unique goals and objectives, typically to bring about 
+beneficial change or added value. 
+Project Management Plan 
+(PMP) 
+The contractor-prepared document that sets forth the plans, organization, 
+and systems that the contractor will utilize to manage the project. Its 
+content and the extent of detail of the PMP will vary in accordance with 
+the size of the type of project and state of project execution. 
+Project Performance  The overall measurement of whether a project has met objectives and 
+requirements of scope, cost, and schedule. A periodic measurement during 
+the monitoring and controlling phases of a project performed to observe 
+project execution and identify variances from the Project Management 
+Plan for proactive mitigation. 
+Quality Assurance Program 
+(QAP) 
+In Project Management, an inspection of the accomplished work to ensure 
+its alignment with the project scope. In practice, projects typically have a 
+dedicated quality control team, which focuses on this area. 
+Requirements  A singular documented need of what a particular product or service 
+should be or perform. It is a statement that identifies a necessary 
+attribute, capability, characteristic, or quality of a system in order for it 
+to have value and utility to a user. Business requirements describe in 
+business terms what must be delivered or accomplished to provide 
+value. Functional requirements describe the functionality that the 
+system is to execute. 
+Risk Factor, element, constraint, or course of action that introduces an 
+uncertainty of outcome either positively or negatively that could impact 
+project objectives.
+
+--- page 27 ---
+DOE O 415.1 Attachment 4 
+12-3-2012 Page 7 
+ 
+ 
+Term Definition 
+Risk Management  The handling of risks through specific methods and techniques. 
+Effective risk management is an essential element of every project. The 
+DOE risk management concept is based on the principles that risk 
+management must be analytical, forward-looking, structured, 
+informative, and continuous. Risk assessments should be performed as 
+early as possible in the project and should identify critical technical, 
+performance, schedule, and cost risks. Once risks are identified, sound 
+risk mitigation strategies and actions should be developed and 
+documented. 
+Solution A comprehensive architectural response to a business problem. 
+Solutions address all layers of EA - strategy, business, data, 
+applications, and technology/security. 
+Sponsoring/Funding 
+Organization 
+The DOE Organization responsible for providing the necessary funding 
+to support the project and project activities. 
+Stakeholder  Individuals and Organizations that are actively involved in the project, 
+or whose interests may be positively or negatively affected as a result of 
+Program execution or completion. They may also exert influence over 
+the Program and its results. 
+Steady State (SS)  Steady State means maintenance and operation costs at current 
+capability and performance levels including costs for personnel, 
+maintenance of existing information systems, corrective software 
+maintenance, voice and data communications maintenance, and 
+replacement of broken IT equipment. For major IT projects, this amount 
+should equal the amount reported for maintenance plus the associated 
+FTE costs reported in the OMB Exhibit 300B. 
+System An interconnected set of information resources organized for the 
+collection, processing, maintenance, transmission, and dissemination of 
+information, in accordance with defined procedures, whether automated 
+or manual. 
+Tailoring Tailoring is used to determine which processes and outputs are 
+appropriate, and the degree of rigor that should be applied based on 
+factors such as scope, size, risk, and complexity. 
+Total Cost of Ownership 
+(TCO) 
+An analysis used to gauge the viability of any project. An Enterprise 
+may use it as a product/process comparison tool. The TCO directly 
+relates to an Enterprise's assets and/or related systems total costs across 
+all projects and processes, thus giving a picture of the profitability over 
+time.
+
+--- page 28 ---
+Attachment 4 DOE O 415.1 
+Page 8 12-3-2012 
+ 
+Term Definition 
+Total Project Cost (TPC)  All cost planning and implementation specific to a project incurred 
+through the startup of continual operations (capability delivered) but 
+prior to the operation of the facility. 
+Value Measuring 
+Methodology (VMM)  
+A tool that helps balance both tangible and intangible values when 
+making project decisions, and monitoring benefits.

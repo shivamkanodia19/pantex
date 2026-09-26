@@ -1,0 +1,2215 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov Office of Environment, Health, Safety and Security 
+U.S. Department of Energy ORDER  
+ Washington, DC 
+ 
+Approved: 8-30-2021 
+SUBJECT: PHYSICAL PROTECTION PROGRAM 
+1. PURPOSE. This Order establishes requirements for the Department of Energy (DOE) 
+Physical Protection (PP) Program for assets under the control of DOE.  
+2. CANCELLATION. The portions of DOE Order 473.3A Chg. 1 (MinChg), Protection 
+Program Operations, dated January 2, 2018, that relate to PP Programs (Attachment 3 
+and Annex 1 Safeguards and Security Alarm Management and Control Systems 
+[SAMACS]) are hereby cancelled. Policy clarification memoranda related to PP are 
+hereby incorporated into this Order and cancelled.  
+Cancellation of a directive does not, by itself, modify or otherwise affect any contractual 
+or regulatory obligation to comply with the directive. Contractor Requirements 
+Documents (CRDs) that have been incorporated into a contract remain in effect 
+throughout the term of the contract unless and until the contract or regulatory 
+commitment is modified to either eliminate requirements that are no longer applicable or 
+substitute a new set of requirements.  
+3. APPLICABILITY.  
+a. Departmental Applicability. The requirements in this Order apply to all DOE 
+elements unless exempted under paragraph 3.c. 
+(1) The Administrator of the National Nuclear Security Administration 
+(NNSA) will ensure that NNSA employees and contractors comply with 
+their respective responsibilities under this directive. Nothing in this 
+Order/Notice will be construed to interfere with the NNSA 
+Administrator's authority under section 3212(d) of Public Law (P.L.) 
+106-65 to establish Administration-specific policies, unless disapproved 
+by the Secretary. Any reference to a Program Secretarial Officer (PSO) 
+in this Order is also applicable to the Deputy Administrator/Associate 
+Administrators for the NNSA. 
+(2) The Bonneville Power Administration (BPA) Administrator must assure 
+that BPA employees and contractors comply with their respective 
+responsibilities under this directive consistent with BPA's self-
+financing, procurement and other statutory authorities. 
+DOE Contractors. Except for the equivalencies/exemptions in paragraph 3.c., the 
+CRD (Attachment 1) sets forth requirements of this Order that must apply to 
+contracts that include this CRD or its requirements as specified by the contracting 
+officer.
+DOE O 473.1A
+
+--- page 2 ---
+2 DOE O 473.1A 
+ 8-30-2021 
+ 
+(1) The CRD must be included in the site/facility management contracts 
+that involve classified information or nuclear materials. It must also be 
+included in contracts that contain DOE Acquisition Regulation (DEAR) 
+clause 952.204-2, titled Security Requirements. Departmental Elements 
+must notify contracting officers of affected contracts to incorporate this 
+directive into those contracts. 
+(2) Upon notification, contracting officers are responsible for incorporating 
+this directive into the affected contracts via the DEAR clause 970.0470-
+2, Laws, Regulations, and DOE directives clause of the contracts. 
+b. Equivalencies/Exemptions. Equivalencies and exemptions from the requirements 
+of this Order are processed in accordance with DOE O 251.1, Departmental 
+Directive Program, current version.  
+(1) Existing equivalencies and exemptions must be reviewed to determine 
+applicability under DOE O 473.1A. If applicable, the site must 
+document the review was completed and the equivalency or exemption 
+remains valid.  
+(2) Equivalencies or exemptions from the requirements in this Order, must 
+be supported by a vulnerability assessment (VA) or security risk 
+assessment (SRA). If a VA or SRA is not applicable in accordance with 
+DOE O 470.3, Design Basis Threat (DBT), current version, an analysis 
+approved by the responsible Program Office which establishes the basis 
+for an informed risk management decision is required. This analysis 
+must identify compensatory measures to be implemented, if applicable. 
+(3) Equivalencies and exemptions from safeguards and security (S&S) 
+requirements within DOE O 473.1A require formal consultation with 
+the Office of Security, Office of Environment, Health, Safety and 
+Security; and the appropriate Office of the General Counsel (GC) as 
+described in DOE O 251.1, current version. The Office of Security will 
+respond to consultation requests within 45 business days from the 
+receipt of the request. 
+(4) All approved equivalencies and exemptions under this Order must be 
+entered in the S&S Information Management System (SSIMS) database 
+and incorporated into the affected security plan(s) (SP). Approved 
+equivalencies and exemptions become a valid basis for operation when 
+they have been entered in SSIMS and documented in the appropriate SP 
+and incorporated into site procedures. 
+(5) DOE S&S program requirements may also be located in, or based on, 
+regulations issued by Federal agencies, and codified in the Code of 
+Federal Regulations (CFRs), or other authorities, such as Executive 
+Orders or Presidential Directives. In such cases, the process for
+
+--- page 3 ---
+DOE O 473.1A  3 
+8-30-2021 
+ 
+ 
+deviating from those requirements found in the source document must 
+be applied. If the source document does not include a deviation process, 
+the DOE GC, or NNSA GC, must be consulted to determine whether 
+the Departmental Elements deviation from the source can be legally 
+pursued.  
+(6) Equivalency. In accordance with the responsibilities and authorities 
+assigned by Executive Order 12344, codified at 50 USC sections 2406 
+and 2511 and to ensure consistency throughout the joint Navy/DOE 
+Naval Nuclear Propulsion Program, the Deputy Administrator for Naval 
+Reactors (Director) will implement and oversee requirements and 
+practices pertaining to this Directive for activities under the Director's 
+cognizance, as deemed appropriate. 
+4. REQUIREMENTS. Departmental Elements must establish and maintain standardized 
+requirements for management direction, maintenance of qualifications, and execution of 
+operations for the various physical protection activities within DOE.  
+a. General. Departmental Elements must ensure S&S programs implement the 
+requirements found in the attachments to this Order and contracts that include this 
+CRD or its requirements as specified by the contracting officer. 
+(1) The Department intends that the highest level of protection be given to 
+security interests and activities whose loss, theft, compromise, and/or 
+unauthorized use would seriously affect national security, the 
+environment, Departmental programs, and/or the health and safety of 
+the public or employees. Accordingly, this Order has been developed to 
+align with the protection levels (PL) defined within DOE O 470.3C, 
+current version.  
+(2) Whenever a legal, regulatory, or other external standard, or a DOE 
+directive referenced within this Order is amended or superseded, the 
+successor document is applicable under this Order. 
+b. Planning. PP planning must be based on the adversary capabilities outlined in the 
+DBT and the results of SRAs and VAs, as applicable. 
+c. Quality Assurance Program (QAP). Each Departmental and associated field 
+element(s) must develop and implement a QAP in accordance with DOE O 414.1, 
+Quality Assurance, current version, and incorporate into applicable QAP's and 
+Quality Implementation Plans. 
+d. Records. Security related records including records documenting access control 
+must be retained in accordance with the National Archives and Records 
+Administration (NARA) General Records Schedule (GRS) 5.6: Security Records.
+
+--- page 4 ---
+4 DOE O 473.1A 
+ 8-30-2021 
+ 
+e. Implementation. 
+(1) Compliance with the requirements within this Order, including the 
+attachments, must be complete within one (1) year of the issuance date. 
+(2) If compliance cannot be accomplished within one (1) year, an 
+implementation schedule must be submitted to the appropriate Program 
+Secretarial Officer (or their designee), prior to the deadline stated in 
+4.e.(1) above. Documentation must include timelines and resources 
+needed to fully implement this Order as well as a description of the 
+vulnerabilities and impacts created by delayed implementation of the 
+requirements.  
+f. Contracting Officer (CO) Requirements. The Head of the Departmental Element, 
+or his or her designee, must notify the CO and other appropriate subject matter 
+experts in the organization that the directive applies to an existing contract or to a 
+solicitation for a future contract. 
+(1) For existing contracts, the Head of Departmental Element must 
+designate appropriate representatives (Federal and/or contractor) to 
+work with the CO to develop an appropriately tailored set of standards, 
+practice, and controls. 
+(2) For existing management and operating (M&O) contracts, after being 
+notified by the Head of the Departmental Element or his or her 
+designee, the CO must provide the contractor the opportunity to: 
+(a) Assess the effect of incorporating the CRD on contract cost, 
+funding, schedule, and technical performance, and 
+(b) Provide input on the appropriately tailored set of requirements for 
+the contract. All associated activities will be accomplished in a 
+timely manner and, if applicable, in accordance with the timelines 
+established in DEAR 970.5204-2. The CO will incorporate the 
+CRD without alteration unless the directive permits alteration and 
+the appropriate process is followed.  
+5. RESPONSIBILITIES.  
+a. Office of Environment, Health, Safety and Security. Review, develop, and 
+coordinate policy requirements and guidance for the management, operation, and 
+performance testing of PP programs and systems based on authority and 
+requirements derived from the Atomic Energy Act and DOE Organization Act.  
+b. Officially Designated Federal Security Authority (ODFSA). Fulfill 
+requirements and responsibilities that are formally delegated to them from DOE 
+or NNSA. ODFSAs are Federal employees that possess the appropriate
+
+--- page 5 ---
+DOE O 473.1A  5 
+8-30-2021 
+ 
+ 
+knowledge and responsibilities for each situation to which they are assigned 
+through delegation. 
+(1) Delegation authority for these positions is originated according to 
+direction from the accountable Program Secretarial Officer, (or the 
+Secretary or Deputy Secretary for Departmental Elements not organized 
+under a Program Secretarial Office), who also provides direction for 
+which of the ODFSA positions may be further delegated.  
+(2) Each delegation must be documented in written form. It may be 
+included in other security plans or documentation approved by or 
+according to direction from the accountable principal.  
+(3) Each delegator remains responsible for the delegatee’s acts or omissions 
+in carrying out the purpose of the delegation.  
+c. Officially Designated Security Authority (ODSA). Fulfill requirements and 
+responsibilities that are formally delegated to them from DOE or NNSA. 
+Throughout this Order, in instances where there is no designated ODSA the 
+requirements and responsibilities remain with the ODFSA. Officially Designated 
+Security Authority (ODSA): ODSAs are Federal or contractor employees that 
+possess the appropriate knowledge and responsibilities for each situation to which 
+they are assigned through delegation. 
+(1) Delegation of authority for these positions is originated according to 
+direction from the accountable Program Secretarial Officer, (or the 
+Secretary or Deputy Secretary for Departmental Elements not organized 
+under a Program Secretarial Office), who also provides direction for 
+which of the ODFSA positions may be further delegated.  
+(2) Each delegation must be documented in written form. It may be 
+included in other security plans or documentation approved by or 
+according to direction from the accountable principal. 
+(3) Each delegator remains responsible for the delegate’s acts or omissions 
+in 
+carrying out the purpose of the delegation. 
+d. DOE Line Management. DOE line management refers to the chain of 
+responsibility that extends from the Secretary of Energy to the Deputy Secretary, 
+to the Secretarial Officers who set program policy and plans and develop assigned 
+programs, and to the program and Field Element Managers or ODFSAs who are 
+responsible for execution of these programs. 
+(1) Provide guidance and oversight to site and facility management and 
+operations offices that oversee PP programs, for the purposes of 
+protecting S&S interests.
+
+--- page 6 ---
+6 DOE O 473.1A 
+ 8-30-2021 
+ 
+(2) Ensure that PP programs under their cognizance are adequately 
+managed and maintained for the protection of S&S interests, as required 
+by this and other S&S related directives. 
+(3) Ensure that systems updates and or patches are installed in accordance 
+with manufacturer's instructions.  
+(4) Implement the requirements in paragraphs 4.a. through 4.f above. 
+e. Heads of Field Elements.  
+(1) Administer PP programs for the purposes of protecting pertinent S&S 
+interests. 
+(2) Ensure contracting officers of responsible contracts incorporate the CRD 
+into the contract. 
+f. Headquarters Security Operations.  
+(1) Administer PP programs for the purposes of protecting Headquarters 
+S&S interests. 
+(2) Ensure contracting officers of affected contracts incorporate the CRD 
+into the contract. 
+g. Office of Enterprise Assessments/National Training Center. Develops, maintains, 
+and delivers standardized PP training for Federal and contractor employees, in 
+order to ensure personnel are appropriately trained to fulfill their mission within 
+the Department’s S&S program.  
+h. Contracting Officers. 
+(1) Upon notification of its applicability, incorporate the CRD into affected 
+contracts via the appropriate process.  
+(2) Assist originators of procurement requests who want to incorporate the 
+requirements of this Order in new non-site/facility management 
+contracts, as applicable.  
+6. INVOKED STANDARDS. The following industry standards are invoked as required 
+methods in this Order in accordance with the applicability and conditions described 
+within this Order. Any technical standard or industry standard that is mentioned in or 
+referenced by this Order, but is not included in the list below, is not invoked by this 
+Order. Note: DOE O 251.1D, Appendix J provides a definition for "invoked technical 
+standard." 
+a. FED-STD-832, Federal Standard Construction Methods and Materials for Vaults
+
+--- page 7 ---
+DOE O 473.1A  7 
+8-30-2021 
+ 
+ 
+b. FIPS 201-2, Personal Identity Verification (PIV) of Federal Employees and 
+Contractors 
+c. Intelligence Community Standard (ICS) ICD/ICS 705, Technical Specifications 
+for Construction and Management of Sensitive Compartmented Information 
+Facilities, Version 1.4 
+d. NIST Special Publication 800-116, Rev 1, Guidelines for the Use of PIV 
+Credentials in Facility Access 
+e. UL 2050, National Industrial Security Systems 
+f. UL 634, Standard for Safety Connectors and Switches for Use with Burglar-
+Alarm Systems, sections 58, 60, 61, 62, 63 
+7. REFERENCES. References specific to this Order are listed in Attachment 8 - Physical 
+Protection Program References.  
+NOTE: Whenever a legal, regulatory, or other external standard, or a DOE Policy, Order, 
+Notice or Manual is referenced, and such standard is amended or superseded, the 
+successor standard is applicable under this Order. 
+8. DEFINITIONS. Terms commonly used in the program are defined in Attachment 7 - 
+Physical Protection Program Definitions.  
+9. CONTACT. Questions concerning this Order should be addressed to the Office of 
+Security Policy, Office of Environment, Health, Safety and Security at 
+security.directives@hq.doe.gov. Formal policy clarifications should be directed to the 
+Director, Office of Security, Office of Environment, Health, Safety and Security. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ 
+ DAVID M. TURK 
+ Deputy Secretary
+
+--- page 8 ---
+
+
+--- page 9 ---
+DOE O 473.1A i 
+8-30-2021 
+ 
+ 
+CONTENTS 
+ATTACHMENT 1 CONTRACTOR REQUIREMENTS DOCUMENT ................................... 1-1 
+ATTACHMENT 2 PHYSICAL PROTECTION BASELINE REQUIREMENTS .................... 2-1 
+CHAPTER I. PHYSICAL PROTECTION PLANNING ..................................................... 2-I-1 
+CHAPTER II. SECURITY AREAS .................................................................................... 2-II-1 
+CHAPTER III. PROHIBITED AND CONTROLLED ARTICLES .................................. 2-III-1 
+CHAPTER IV. POSTING NOTICES ............................................................................... 2-IV-1 
+CHAPTER V. SECURITY LOCKS AND KEYS ............................................................... 2-V-1 
+CHAPTER VI. BARRIERS............................................................................................... 2-VI-1 
+CHAPTER VII. SECURE STORAGE ............................................................................. 2-VII-1 
+CHAPTER VIII. ENTRY/EXIT SCREENING .............................................................. 2-VIII-1 
+CHAPTER IX. DOE SECURITY AND LOCAL SITE  
+SPECIFIC BADGE PROGRAM ............................................................................... 2-IX-1 
+ATTACHMENT 3 PHYSICAL PROTECTION FOR PL-7 AND PL-8 ASSETS ..................... 3-1 
+ATTACHMENT 4 PHYSICAL PROTECTION FOR PL-5 AND PL-6 ASSETS ..................... 4-1 
+ATTACHMENT 5 PHYSICAL PROTECTION OF PL 1-4 ASSETS ....................................... 5-1 
+CHAPTER I. PROTECTION OF PL 1-4 ASSETS.............................................................. 5-I-1 
+CHAPTER II. INSPECTION PROGRAMS ....................................................................... 5-II-1 
+CHAPTER III. SECURE STORAGE................................................................................. 5-III-1 
+CHAPTER IV. PROTECTIVE FORCE POSTS ............................................................... 5-IV-1 
+CHAPTER V. BARRIERS .................................................................................................. 5-V-1 
+CHAPTER VI. PROTECTION DURING TRANSPORTATION .................................... 5-VI-1 
+ATTACHMENT 6 PHYSICAL PROTECTION SYSTEMS ..................................................... 6-1 
+CHAPTER I. PHYSICAL ACCESS CONTROL SYSTEMS ............................................. 6-I-1 
+CHAPTER II. INTRUSION DETECTION SYSTEMS ...................................................... 6-II-1 
+CHAPTER III. VIDEO ASSESSMENT AND SURVEILLANCE SYSTEMS ................ 6-III-1
+
+--- page 10 ---
+ii DOE O 473.1A 
+ 8-30-2021 
+ 
+CHAPTER IV. PHYSICAL PROTECTION SYSTEMS TESTING ................................ 6-IV-1 
+CHAPTER V. PHYSICAL SECURITY SYSTEMS MAINTENANCE ............................ 6-V-1 
+CHAPTER VI. SECURITY COMMUNICATIONS ........................................................ 6-VI-1 
+CHAPTER VII. SECURITY ELECTRICAL POWER AND LIGHTING ...................... 6-VII-1 
+CHAPTER VIII. SECURITY DATA TRANSMISSION  
+AND LINE SUPERVISION .................................................................................... 6-VIII-1 
+ATTACHMENT 7 PHYSICAL PROTECTION PROGRAM DEFINITIONS .......................... 7-1 
+ATTACHMENT 8 PHYSICAL PROTECTION PROGRAM REFERENCES ........................................ 8-1
+
+--- page 11 ---
+DOE O 473.1A Attachment 1 – CRD, Contractors Only 
+8-30-2021 Page 1-1 (and 1-2) 
+ 
+ 
+ATTACHMENT 1. CONTRACTOR REQUIREMENTS DOCUMENT 
+Regardless of the performer of the work, the contractor is responsible for complying with the 
+requirements of this CRD. The contractor is responsible for flowing down the requirements of 
+this CRD to subcontractors at any tier to the extent necessary to ensure the contractor's 
+compliance with the requirements.  
+In addition to this order contractors are responsible for complying with Attachments 2-8 to 
+DOE O 473.1A referenced in and made a part of this CRD and which provide program 
+requirements and/or information applicable to contracts in which this CRD is inserted.
+
+--- page 12 ---
+
+
+--- page 13 ---
+DOE O 473.1A Attachment 2 – Federal Employees and Contractors 
+8-30-2021 Page 2-1 (and 2-2) 
+ 
+ 
+ATTACHMENT 2. PHYSICAL PROTECTION BASELINE REQUIREMENTS 
+The intent of this Attachment is to establish baseline requirements for all Department of Energy 
+(DOE) Departmental Elements to provide protection to DOE's assets. This and all subsequent 
+attachments apply to DOE Employees and Contractors.
+
+--- page 14 ---
+
+
+--- page 15 ---
+DOE O 473.1A Attachment 2, Chapter I – Federal Employees and Contractors 
+8-30-2021 Page 2-I-1 
+ 
+ 
+CHAPTER I.  PHYSICAL PROTECTION PLANNING 
+The intent of this Chapter is to provide the requirements for physical protection planning. 
+1. GENERAL REQUIREMENTS. Special Nuclear Material (SNM) must be protected at 
+the higher level when credible roll up to a higher category can occur.  
+If the facility has conducted an analysis and determined that roll up is not credible, the 
+security measures that prevent roll up from being credible must remain in place, or the 
+material must be protected at the higher level until an analysis determines that roll up to a 
+higher category is not credible. 
+a. SNM that is classified must receive the physical protection required by the highest 
+level of classification or category of SNM, whichever is the more stringent.  
+b. Countermeasures must be designed to mitigate the adversary scenarios and 
+capabilities described within the DBT.  
+c. Security Plans (SPs) must be developed in accordance with DOE O 470.4, 
+Safeguards and Security Program, current version. The SP must be approved by 
+the ODFSA. 
+d. For certain facilities that do not possess a facility clearance the Interagency 
+Security Committee Risk Management Process must be used as the baseline for 
+the SP (see DOE O 470.4, current version).  
+e. Protection measures must be documented in the SP. Cyber security protection 
+measures must be consistent with the Departmental Element Cybersecurity 
+Program Plan, as required by DOE O 205.1, Cybersecurity Program, current 
+version. 
+f. For assets requiring an SRA the protection strategy objectives below must be 
+addressed in the SP: 
+(1) Protection; 
+(2) Mitigation; 
+(3) Incident Response; and 
+(4) Mission Recovery. 
+g. Physical Access Control Systems (PACS) equipment used for physical protection 
+must be in accordance with Attachment 6, Chapter I of this Order.  
+h. Intrusion Detection Systems (IDS) equipment used for physical protection must 
+be in accordance with Attachment 6, Chapter II of this Order.
+
+--- page 16 ---
+Attachment 2, Chapter I – Federal Employees and Contractors DOE O 473.1A 
+Page 2-I-2 8-30-2021 
+ 
+i. Video Assessment and Surveillance Systems (VASS) equipment used for physical 
+protection must be in accordance with Attachment 6, Chapter III of this Order. 
+j. Physical protection systems, including components, must be performance tested 
+to ensure overall system effectiveness in accordance with Attachment 6, Chapter 
+IV of this Order. 
+k. Physical security system maintenance must be implemented in accordance with 
+Attachment 6, Chapter V of this Order. 
+l. Communications Systems equipment used for physical protection must be in 
+accordance with Attachment 6, Chapter VI of this Order. 
+m. Power and lighting equipment used for physical protection must be in accordance 
+with Attachment 6, Chapter VII of this Order. 
+n. Data transmission and line supervision of security systems equipment used for 
+physical protection must be in accordance with Attachment 6, Chapter VIII of this 
+Order. 
+o. Security containers or areas where explosives, pyrotechnics, weapons and/or 
+ammunition, not assigned to the protective force (PF), and not located in limited 
+areas (LAs), must be stored in a location monitored by IDS or checked at intervals 
+to protect against unauthorized access as documented in the SP.  
+p. Unmanned Aircraft Systems.  
+(1) The ODFSA must approve use of unmanned aircraft systems used for 
+security purposes. 
+(2) If used, sites must comply with DOE O 440.2, Aviation Management and 
+Safety, current version. 
+q. Counter Unmanned Aircraft Systems. The ODFSA must approve the use of 
+counter unmanned aircraft systems in accordance with the provisions of the 2017 
+National Defense Authorization Act [P.L. 114-328] and applicable delegation 
+orders.
+
+--- page 17 ---
+DOE O 473.1A Attachment 2, Chapter II – Federal Employees and Contractors 
+8-30-2021 Page 2-II-1 
+ 
+ 
+CHAPTER II.  SECURITY AREAS 
+The intent of this Chapter is to establish requirements for security areas, which are designed to 
+provide protection to the Department's assets. 
+1. GENERAL ACCESS AREA (GAA). GAAs may be designated by the ODSA to allow 
+access to certain areas with minimum-security requirements. 
+a. The ODFSA must approve security requirements for those areas designated as 
+GAAs based on a risk management process.  
+b. Security requirements and the identification of GAA locations must be 
+documented in SPs approved by the ODFSA. 
+c. The security requirements must be posted to inform all personnel, including the 
+public, that entry into these areas subjects them to requirements. 
+2. PROPERTY PROTECTION AREA (PPA). PPAs are security areas that are designated to 
+protect employees and government owned or leased, buildings, facilities and assets.  
+a. The ODSA must approve security measures for those areas designated as PPAs 
+based on an analysis in accordance with DOE O 470.4, current version.  
+b. PPAs must be configured to provide a means to control access. 
+c. Security requirements and the identification of PPA locations must be 
+documented in SPs approved by the ODFSA. 
+d. Warning signs and/or notices must be posted (see Chapter IV of this Attachment). 
+3. LIMITED AREA (LA). LAs are the minimum level security area designated for the 
+protection of classified matter, category III SNM, or Departmental assets requiring 
+limited access. 
+a. Unescorted access must be limited to authorized personnel with the appropriate 
+access authorization. 
+b. PACS must be installed in accordance with Attachment 6, Chapter 1. 
+c. Escort ratios for LAs must be documented in the approved SP. 
+d. Measures must be implemented at the LA perimeter to deter, delay and detect 
+unauthorized access into an LA, as documented in the approved SP. 
+e. Ingress and egress points must be equipped with access control designed to grant 
+authorized access and detect unauthorized entry. 
+f. LAs must have boundaries defined by physical barriers in accordance with 
+Chapter VI of this Attachment.
+
+--- page 18 ---
+Attachment 2, Chapter II – Federal Employees and Contractors DOE O 473.1A 
+Page 2-II-2 8-30-2021 
+ 
+g. Entry portals must provide the same level of detection as all other points along the 
+boundary. 
+h. Personnel access to LAs must be controlled in accordance with Attachment 6, 
+Chapter I of this Order. 
+i. Vehicle access must be for official purposes and meet the following requirements: 
+(1) Allow entry via an approved process documented in the SP. 
+(2) Allow entry via DOE security badge authentication of all personnel within 
+the vehicle by visual inspection, or 
+If used, PACS must be implemented in accordance with Attachment 6, 
+Chapter I. of this Order.  
+(3) Operated by authorized personnel. 
+(4) Vehicle is inspected by approved process documented in the SP. 
+j. Signs must be posted as documented in the approved SP to convey information 
+on: 
+(1) Prohibited and controlled articles.  
+(2) The inspection of vehicles, packages, hand carried items, and persons 
+entering or exiting the security area. 
+(3) The use of video surveillance equipment. 
+(4) Trespassing (see 42 U.S.C. § 2278a; 10 CFR Part 860).  
+4. VAULTS AND VAULT TYPE ROOM (VTR). Vaults and VTRs are established for the 
+protection of classified matter and DOE assets requiring limited access and security in 
+depth (see Chapter VII of this Attachment). 
+5. SENSITIVE COMPARTMENTED INFORMATION FACILITY (SCIF). DOE follows 
+the requirements in Intelligence Community Standard (ICS) ICD/ICS 705, Technical 
+Specifications for Construction and Management of Sensitive Compartmented 
+Information Facilities. 
+6. SPECIAL ACCESS PROGRAMS (SAPs). The requirements for SAPs are identified in 
+DOE O 471.5, Special Access Programs, current version. 
+7. PROTECTED AREA (PA). PAs are security areas that are established to protect 
+Category II or greater quantities of SNM and may contain classified matter (see 
+Attachment 6).
+
+--- page 19 ---
+DOE O 473.1A Attachment 2, Chapter II – Federal Employees and Contractors 
+8-30-2021 Page 2-II-3 (and 2-II-4) 
+ 
+ 
+8. MATERIAL ACCESS AREA (MAA). MAAs are security areas that are established to 
+protect Category I quantities of SNM (see Attachment 6).
+
+--- page 20 ---
+
+
+--- page 21 ---
+DOE O 473.1A Attachment 2, Chapter III – Federal Employees and Contractors 
+8-30-2021 Page 2-III-1 
+ 
+ 
+CHAPTER III.  PROHIBITED AND CONTROLLED ARTICLES  
+The intent of this Chapter is to prescribe requirements for prohibited and controlled articles.  
+1. GENERAL REQUIREMENTS.  
+a. Authorization for prohibited and controlled articles to be used for official 
+Government business must be documented in an SP.  
+Office of Secure Transportation (OST) Federal Agents, DOE protective 
+personnel, other Federal agents, local law enforcement officials with jurisdiction, 
+and emergency response personnel whose duties routinely require the carrying 
+and operation of prohibited and controlled articles, may be exempt from this 
+requirement unless a safety reason exists to prohibit certain communication 
+devices, e.g., cellular telephones, transceiver radios and other electronic 
+radiating/emitting devices. If such a prohibition exists, it is to be documented in 
+specific agreements between the site and the appropriate agency.  
+b. Sites are to develop procedures to deter the introduction of prohibited and 
+controlled articles. These procedures must be documented in an SP approved by 
+the ODFSA.  
+c. The articles listed below must not be permitted onto DOE property without 
+appropriate authorization.  
+2. PROHIBITED ARTICLES. Prohibited articles include but are not limited to: 
+a. explosives, 
+b. dangerous weapons, as defined by 18 USC § 930, 
+c. instruments or material likely to produce substantial injury to persons or damage 
+to persons or property, 
+d. controlled substances (e.g., illegal drugs and associated paraphernalia but not 
+prescription medicine), and 
+e. other items prohibited by law. Additional information covering prohibited items 
+may be found under the provisions of 18 USC § 930, 21 USC 841 et. seq, 10 CFR 
+Part 860 and 41 CFR Chapter 102-74 Subpart C. 
+3. CONTROLLED ARTICLES. 
+a. Controlled articles such as portable electronic devices (PED), both government 
+and personally owned, capable of recording information or transmitting data (e.g., 
+audio, video, radio frequency, infrared, and/or data link electronic equipment) are 
+not permitted in LAs, VTRs, PAs, and MAAs, without prior written approval.
+
+--- page 22 ---
+Attachment 2, Chapter III – Federal Employees and Contractors DOE O 473.1A 
+Page 2-III-2 8-30-2021 
+ 
+(1) The approval process permitting controlled articles must be documented in 
+the approved SP. 
+(2) Medical devices with the ability to transmit or record data must be 
+approved by the ODFSA. 
+(3) Government owned PEDs, information technology systems may only be 
+authorized for introduction and use within LA's VTR's, PA's and MAA's 
+by the ODFSA. Any ODFSA approval must be based on a documented 
+risk analysis incorporating technical security countermeasures and 
+cybersecurity input. 
+b. For application to SCIFs the ICS 705-1, Physical and Technical Security 
+Standards for Sensitive Compartmented Information Facilities program guidance 
+must be implemented.  
+c. See DOE O 471.5, Special Access Programs, current version, for guidance on 
+controlled articles in Special Access Program Facilities.
+
+--- page 23 ---
+DOE O 473.1A Attachment 2, Chapter IV – Federal Employees and Contractors 
+8-30-2021 Page 2-IV-1 
+ 
+ 
+CHAPTER IV.  POSTING REQUIREMENTS  
+The intent of this Chapter is to establish requirements for signs posted at facilities, installations, 
+and real property as defined in DOE O 430.1, Real Property Asset Management, current version, 
+based on the need to implement Federal statutes protecting against degradation of S&S interests. 
+1. GENERAL REQUIREMENTS.  
+a. 10 CFR Part 860, Trespassing on Department of Energy Property, requires 
+facilities, installations, or real property subject to the jurisdiction, administration 
+or in the custody of DOE to be published in the Federal Register in order to 
+inform the public of the penalties for trespassing or introducing unauthorized 
+weapons or dangerous materials (also known as prohibited articles) to these areas. 
+b. 10 CFR Part 860 requires DOE to post signs warning of the consequences and 
+penalties for trespassing and introducing unauthorized weapons or dangerous 
+materials on to DOE controlled property. 
+c. The Program Secretarial Office must approve all postings to the Federal Register 
+and coordinate the publishing of the notice with the National Archives Office of 
+the Federal Register. Additional guidance can be located at 
+https://www.archives.gov/federal-register/write.  
+d. The Program Secretarial Office must notify the local office of the Federal Bureau 
+of Investigation with jurisdiction over the subject property, of the date of posting, 
+relocation, removal of posting, or other change, and the identity of the property 
+involved. 
+2. FEDERAL REGISTER POSTING PROCESS.  
+a. Proposals for the posting of facilities, installations, or real property, or 
+amendment to or revocation of a previous proposal must be submitted when one 
+of the following occurs: 
+(1) New property acquisition or a change in existing property owned by or 
+contracted to the United States for DOE use. 
+(2) New property acquisition or a change in existing property which requires 
+protection under the Atomic Energy Act of 1954 and/or of the DOE 
+Organization Act. 
+(3) A previous notice needs to be amended or revoked. 
+b. Each posting proposal must include: 
+(1) The name and specific location of the installation, facility, or real property 
+to be covered and the boundary coordinates.
+
+--- page 24 ---
+Attachment 2, Chapter IV – Federal Employees and Contractors DOE O 473.1A 
+Page 2-IV-2 8-30-2021 
+ 
+(2) If boundary coordinates are not available, the proposal must include a 
+description that will furnish reasonable notice of the area to be covered, 
+which may be an entire area or any portion thereof that can be physically 
+delineated by the posting indicated in paragraph 2.(c) below. 
+c. Each proposal for amendment or revocation must identify the property involved, 
+state clearly the action to be taken (i.e., change in property description, correction, 
+or revocation), and contain a new or revised property description, if required. 
+3. SIGNAGE POSTING REQUIREMENTS. 
+a. DOE real property must have signs posted according to statutes, regulations, and 
+the administrative requirements for posting specified in this Chapter. 
+(1) Section 229 of the Atomic Energy Act of 1954 as amended (42 U.S.C. § 
+2278a), as implemented by 10 CFR Part 860. 
+(2) Section 662 of the DOE Organization Act (42 U.S.C. § 7270b), as 
+implemented by 10 CFR Part 1048.  
+(3) The Federal Property and Administrative Services Act of 1949 (P. L. 152, 
+Ch. 288, 63 Stat. 377, as amended).  
+(4) 41 CFR Part102-74, Subpart C governs entry to public buildings and 
+grounds under the charge and control of the General Services 
+Administration (GSA). 
+b. Signs prohibiting trespassing and the introduction of prohibited articles must be 
+posted in accordance with 10 CFR Part 860. 
+(1) Signs must be configured with a white or yellow background and black 
+lettering.  
+(2) Signs must measure at least 26.67 centimeters (10.5 inches) by 34.29 
+centimeters (13.5 inches). 
+c. Signs that notify of the use of deadly force are required for facilities with PL-1 
+through PL-4 assets. 
+(1) These signs must use a white background with red lettering for the 
+words "WARNING USE OF DEADLY FORCE AUTHORIZED" and 
+be clearly legible and commensurate with the size of the sign. The 
+remaining words should be in black. 
+(2) Placement of these signs must be based on the site's determination of 
+hostile intent and established rules of engagement.
+
+--- page 25 ---
+DOE O 473.1A Attachment 2, Chapter IV – Federal Employees and Contractors 
+8-30-2021 Page 2-IV-3 (and 2-IV-4) 
+ 
+ 
+d. Placement of signs on fences must not interfere with the function of fence 
+mounted IDS. If the signage interferes with the IDS or video assessment and 
+surveillance system (VASS), it could be mounted on posts outside the fenced 
+area. 
+e. The signage must be mounted to establish demarcation of boundaries. This 
+demarcation must be easily discernable, determined by the ODSA based on 
+analysis to provide reasonable assurance of notice to persons about to enter, and 
+documented in the approved SP.
+
+--- page 26 ---
+
+
+--- page 27 ---
+DOE O 473.1A Attachment 2, Chapter V – Federal Employees and Contractors 
+8-30-2021 Page 2-V-1 
+ 
+ 
+CHAPTER V.  SECURITY LOCKS AND KEYS 
+The intent of this Chapter is to establish requirements for the Department's security lock and key 
+programs based upon the Department of Defense's (DoD) Lock Program. The GSA is a sponsor 
+of the DoD Lock Program. More information can be found at the Naval Facilities Engineering 
+Systems Command (NAVFAC) website using the following link, 
+https://www.navfac.navy.mil/navfac_worldwide/specialty_centers/exwc/products_and_services/
+capital_improvements/dod_lock.html 
+Note: The General Services Administration, Interagency Advisory Committee on Security 
+Equipment (GSA/IACSE) provides the following clarification on the status of the Fedsafes GSA-
+approved class 5 security cabinets manufactured under Federal Specification AA-F-358. 
+Fedsafes was removed from the GSA Qualified Products List (by QPL-AA-F-358-16) on 9 
+September 2017 due to reoccurring inconsistent test results and failure to adequately resolve the 
+issues during periodic re-evaluations of their class 5 cabinet.  
+Although Fedsafes was removed from the Qualified Products List as an authorized manufacturer, 
+the original GSA approval of the existing class 5 cabinets has not been revoked.  
+Additionally, the GSA/IACSE in coordination with the Information Security Oversight Office 
+(ISOO) is developing a phase-out plan for all GSA-approved security containers and vault doors 
+manufactured prior to 1989 (Black GSA Label). The plan will rescind the approval for all GSA-
+approved security cabinets and vault doors manufactured from 1954 through 1989 (Black GSA-
+Approval labels) to store classified information and materials over a period of 4 years starting on 
+as of October 1, 2024.  
+The phase-out plan will start with the oldest cabinets (class 2) and proceed to the last of the 
+Black Label security equipment (class 5 & 6) over a period of at least 4 years as outlined below. 
+All GSA-approved Class 1, 2, 3 & 4 cabinets manufactured under Federal Specifications 
+AA-F-357 and AA-F-358 600 (Revision Indicators A - F) will be considered obsolete for 
+the storage of classified information and materials as outlined in the below chart. 
+All GSA-approved Class 5 & 6 cabinets and vault doors manufactured under Federal 
+Specification AA-F-358 (Revision Indicators A - F) and AA-D-600 (Revision Indicators 
+A - C) before 1989 will be considered obsolete for the storage of classified information 
+and materials as of 1 October 2028.
+
+--- page 28 ---
+Attachment 2, Chapter V – Federal Employees and Contractors DOE O 473.1A 
+Page 2-V-2 8-30-2021 
+ 
+Black Label Phased-Out Plan Chart 
+GSA 
+CLASS 
+FED SPEC AMEND YEARS PRODUCED YEARS OF 
+SERVICE 
+END OF 
+SERVICE 
+1 AA-F-357 A - F 1968 - 1982 46 - 60 1 October 2028 
+2 AA-F-357 A - F 1954 - 1970 50 - 70 1 October 2024 
+3 AA-F-358 A - F 1956 - 1968 52 - 69 1 October 2025 
+4 AA-F-358 A - F 1956 - 1968 52 - 69 1 October 2025 
+5 AA-F-358 A - F 1968 - 1989 31 - 60 1 October 2028 
+5 AA-F-363 A - B 1963 - 1989 57 - 65 1 October 2028 
+5 AA-D-600 A - B 1963 - 1989 57 - 65 1 October 2028 
+6 AA-D-600 A - C 1963 - 1989 57 - 65 1 October 2028 
+6 AA-F-358 A - F 1968 - 1989 52 - 60 1 October 2028 
+ 
+The old GSA-approved cabinets and vault doors produced prior to 1989 can be easily identified 
+by the silver and black GSA approval label on the outside of the cabinet or vault door and by the 
+certification labels and manufacturing dates located on the control drawer body or on the inside 
+of the vault door. 
+1. GENERAL REQUIREMENTS. 
+a. Security locks and key categories are based on the types of assets being protected 
+and the levels of controls associated with the locks and keys. Non-security locks 
+and keys are administrative in nature and are not addressed in this Order. 
+b. The ODSA must establish a security lock and key program that: 
+(1) Prescribes the installation, replacement, and maintenance requirements for 
+security locks. 
+(2) Prescribes the requirements for issuance, control and storage of security 
+keys. 
+(3) Limits the number of keys to the minimum amount needed for operational 
+purposes.  
+(4) Establishes the inventory system to ensure the accountability of security 
+locks, keys, key rings, keyways, and removable pinned cores (as 
+applicable). At a minimum, there must be a 100 percent annual inventory 
+of all security locks and keys.  
+(5) Prescribes the notification requirements for unaccounted for or broken 
+security locks and keys in accordance with DOE O 470.4B Chg 2, 
+Attachment 5. 
+(6) Prescribes the approved destruction methods of inoperative or damaged 
+keys.
+
+--- page 29 ---
+DOE O 473.1A Attachment 2, Chapter V – Federal Employees and Contractors 
+8-30-2021 Page 2-V-3 
+ 
+ 
+(7) Establishes procedures for key turn in when personnel or programs are 
+terminating or when an individual no longer has a need for the key. 
+(8) Includes a strategy for the use and protection of grand master, master, sub-
+master, and control keys. 
+(9) Is documented in the SP. 
+c. Keyed cylinders must meet Grade 1 American National Standards Institute 
+(ANSI) Standard A 156.30-2014, American National Standard for High Security 
+Cylinders and either; 
+(1) Grade 1 ANSI/A156.2-2017, Bored and Preassembled Locks and Latches, 
+or  
+(2) Grade 1 ANSI A156.13-2017, Mortise Locks and Latches. 
+d. At locations implementing a multifaceted Insider Threat Mitigation Program and 
+a Human Reliability Program (HRP), locksmiths must be analyzed for inclusion 
+in HRP in accordance with 10 CFR §712.10.  
+2. LEVEL I LOCKS AND KEYS.  
+a. Level I locks including those that provide access to classified matter, MAAs, 
+vaults and VTRs must be: 
+(1) Locks that meet Federal Specification FF-L-2740B, Amendment 2, Locks, 
+Combination, Electromechanical and Federal Specification FF-L-2890C, 
+Amendment 3, Lock Extensions (Pedestrian Door Lock Assembly 
+Preassembled, Panic, and Auxiliary Deadbolt) or 
+(2) High security, shrouded shackle, key operated padlocks with Grade 1 
+ANSI hasps, that meet standards in Military Specification MIL DTL 
+43607J, Padlock, Key Operated, High Security, Shrouded Shackle or 
+(3) A High Security Deadbolt Locking System, Internal Locking Device 
+(ILD) (dual cylinder model only) that meet DODM S-5210.41-M-V2 
+Nuclear Weapon Security Manual Enclosure 2, Section 3.b.(6)(c)(U).  
+(4) Combination padlocks meeting Federal Specification FF-P-110J may be 
+used to secure storage areas for SNM or, bulky material containing 
+Secret or Confidential information. 
+Hasps and yokes on containers storing classified matter must be 
+constructed of steel material, be at least 6.35 millimeters (¼ inch ) in 
+diameter or equivalent cross section, and be secured to the container by 
+welding, or riveting, to preclude removal.
+
+--- page 30 ---
+Attachment 2, Chapter V – Federal Employees and Contractors DOE O 473.1A 
+Page 2-V-4 8-30-2021 
+ 
+b. Six locks have been approved under FF-L-2740B for the protection of classified 
+matter. The Mas-Hamilton Group model X-07 lock was approved in February 
+1992, the X-08 in March 1999, the Kaba Mas X-09 in June 2002, the Sargent & 
+Greenleaf (S&G) model 2740 in June 2010, the Kaba Mas X-10 in April 2013, 
+and the S&G model 2740B in November 2013.The X-07 and X-08 locks have 
+reached the end of their expected service life and a plan to replace these locks 
+must be developed by the ODSA and documented.  
+c. The following combination locks are approved for the protection of Category I 
+and II SNM: 
+(1) Kaba Mas model X-09; 
+(2) S&G model 2740B; or, 
+(3) Kaba Mas model X-10.  
+3. LEVEL I LOCK AND KEY CONTROL. 
+a. Level I key blanks must be restricted/proprietary; specifically, the blank must be 
+unique to the site (e.g., it does not use a commercially available master key 
+blank). Level I key blanks must be stored and protected as outlined in 3.e. below. 
+b. Level I key codes (information required to replicate/cut a key) must be stored and 
+protected as outlined in 3.e below. 
+c. Access to Level I keys and key codes must be controlled and limited to personnel 
+with an access authorization commensurate to the classification of the assets to 
+which the keys or codes provide access. 
+d. Once they are put in service inside a security area, Level I security locks and keys 
+must not leave the security area without authorization as described in the SP. Any 
+key that leaves the security area without authorization must be considered 
+unaccounted for and reported as lost.  
+e. When not in use, Level I security locks and keys must be stored in a: 
+(1) GSA approved container; or 
+(2) LA or higher within a locked receptacle or room; or 
+(3) Vault or VTR. 
+f. Locks meeting FF-L-2740 not in use, and set to default, may be stored in a locked 
+receptacle or room within a PPA. 
+g. Level I keys must be on a separate key ring from all other levels of keys
+
+--- page 31 ---
+DOE O 473.1A Attachment 2, Chapter V – Federal Employees and Contractors 
+8-30-2021 Page 2-V-5 
+ 
+ 
+(1) Level I keys must be permanently marked with a unique identifying 
+number, and  
+(2) A unique identifying number must be placed on each key ring. 
+h. All parts of broken Level I security keys must be recovered. If the functional part 
+of the key (the blade) is lost or not retrievable it must be reported as a lost/missing 
+key and measures must be taken to replace the corresponding lock(s).  
+i. When a Level I security key is unaccounted for, immediate notification must be 
+made to the ODSA and compensatory measures must be immediately initiated.  
+If an unaccounted for Level I key cannot be located within 24 hours, the 
+affected lock must be changed. 
+4. LEVEL II SECURITY LOCKS. 
+a. Locations protecting PL-6 assets; Category III SNM; firearms and explosives 
+require Level II security locks and keys. 
+b. Level II locks must meet the requirements of one of the below: 
+(1) ANSI grade 1 keyed locksets with grade 1 cylinders, 
+(2) Commercial Item Descriptions (CID) A-A-59486C, Padlock Set 
+(individually keyed or keyed alike), 
+(3) CID A-A-59487C, Padlock (key operated), or 
+(4) Meet the requirements of Federal Specification FF-L-2937, Combination 
+Locks, Mechanical, and its Amendment 2 with an FF-L-2890C Pedestrian 
+door lock assembly. 
+5. LEVEL II LOCK AND KEY CONTROL. 
+a. When not in use, Level II security locks and keys must be stored in a: 
+(1) GSA approved container; or,  
+(2) Locked cabinet or drawer or otherwise secured in a PPA or higher; or,  
+(3) Vault or VTR. 
+b. Level II locks and keys once put into service must not leave the site without 
+authorization as described in the SP. 
+c. All parts of broken Level II security keys must be recovered. If the functional part 
+of the key (the blade) is lost or not retrievable it must be reported as a lost/missing 
+key and measures must be taken to replace the corresponding lock(s).
+
+--- page 32 ---
+Attachment 2, Chapter V – Federal Employees and Contractors DOE O 473.1A 
+Page 2-V-6 8-30-2021 
+ 
+d. Level II keys must be permanently marked with a unique identifying number. 
+e. Level II-III keys may be combined on the same key ring with a unique identifying 
+number; however, the key ring must be protected according to the highest level of 
+key on the ring.  
+6. LEVEL III SECURITY LOCKS. 
+a. Locations where Category IV SNM are stored and other areas designated by the 
+ODSA require level III security locks and keys. 
+b. Level III lock types must be authorized by the ODSA. 
+7. LEVEL III LOCK AND KEY CONTROL. 
+a. When not in use, Level III security locks and keys must be stored in a manner 
+approved by the ODSA. 
+b. All parts of broken Level III security keys must be recovered unless the functional 
+part of the key (the blade) is lost or not retrievable.  
+c. Level III keys must be permanently marked with a unique identifying number. 
+d. Level II-III keys may be combined on the same key ring with a unique identifying 
+number; however, the key ring must be protected according to the highest level of 
+key on the ring.
+
+--- page 33 ---
+DOE O 473.1A Attachment 2, Chapter VI – Federal Employees and Contractors 
+8-30-2021 Page 2-VI-1 
+ 
+ 
+CHAPTER VI.  BARRIERS 
+The intent of this chapter is to prescribe requirements for physical barriers, which serve as the 
+physical demarcation of security areas. 
+1. GENERAL REQUIREMENTS.  
+a. The ODFSA must determine, based on analysis in accordance with DOE O 470.4, 
+current version, what barriers are required for GAAs and PPAs.  
+b. The following requirements apply to LAs:  
+(1) Passive barriers such as fences, walls, and doors or active barriers such 
+as bollards, wedge barriers, or sliding gates must be employed to deter 
+and delay unauthorized access and control authorized access.  
+(2) At a minimum, an analysis is required of DOE assets to determine the 
+protection measures against vehicle borne improvised explosive devices 
+(VBIED) to mitigate the DBT adversary threat.  
+(3) Barriers must be used:  
+(a) To direct the flow of personnel and vehicular traffic through 
+designated entry points/portals; 
+(b) To permit efficient operation of access controls and entry point 
+inspections; and  
+(c) To support the ability to engage adversaries along all feasible 
+pathways. 
+(4) Entry points/portals must be designed to provide a barrier resistant to 
+bypass. 
+(5) Permanent barriers must be used to enclose LAs, except during 
+construction or temporary activities, when temporary barriers may be 
+erected in accordance with locally approved procedures.  
+2. PENETRATION OF SECURITY AREA BARRIERS. Penetration of security area 
+barrier requirements include the following: 
+a. Elevators that penetrate a security area barrier must be provided with an access 
+control system that is equivalent to the access control requirements for the 
+security area being penetrated. 
+b. Utility corridors that penetrate security area barriers must provide the same degree 
+of penetration resistance as the barriers they penetrate.
+
+--- page 34 ---
+Attachment 2, Chapter VI – Federal Employees and Contractors DOE O 473.1A 
+Page 2-VI-2 8-30-2021 
+ 
+c. Objects that intruders could use to scale or bridge barriers and enter security areas 
+must be removed or secured to prevent their unauthorized use. 
+d. If a security area configuration is altered, barriers must be erected, and at a 
+minimum, an analysis must be conducted and documented in accordance with 
+locally approved procedures to validate equivalent protection measures. 
+e. The barrier design must consider proximity to buildings or overhanging 
+structures. 
+3. HARDWARE.  
+a. Screws, nuts, bolts, hasps, clamps, bars, wire mesh, hinges, and hinge pins must 
+be fastened securely to preclude removal and to ensure visual evidence of 
+tampering.  
+b. Hardware accessible from outside the security area must be peened, brazed, or 
+spot welded to preclude removal, or  
+c. The area must be otherwise secured by use of tamper resistant hardware (e.g., 
+non-removable hinge pins), or  
+d. By other means as described in the SP. 
+Note: These requirements do not apply to fencing.  
+4. FENCING. When used to protect security areas designated as LAs or higher, fencing 
+installed or modified after the issuance of this order must meet the following 
+requirements: 
+a. Permanent Security Fencing Materials and Specifications. 
+(1) Chain link fabric consisting of a minimum of No. 11 American Wire 
+Gauge (AWG) galvanized steel wire with mesh openings not larger than 
+5.08 centimeters (2 inches) must be used.  
+(2) Fencing must be topped by three or more strands of barbed wire, coiled 
+barbed wire, or barbed tape coil with single or double outriggers. The 
+direction of the single outrigger is at the discretion of the ODSA. For PAs 
+this only applies to the inner fence. 
+(3) Overall fence height, excluding barbed wire or barbed tape coil topping, 
+must be a minimum of 2.13 meters (7 feet) above grade. 
+(4) Fence lines must be kept clear of vegetation, trash, equipment, and other 
+objects that could impede observation or facilitate bridging.
+
+--- page 35 ---
+DOE O 473.1A Attachment 2, Chapter VI – Federal Employees and Contractors 
+8-30-2021 Page 2-VI-3 
+ 
+ 
+(5) Gate hardware that if removed would facilitate unauthorized entry, must 
+be installed in a manner to mitigate tampering and/or removal (e.g., by 
+brazing, peening, or welding). 
+(6) Posts, bracing, and other structural members must be located on the inside 
+of security fences. 
+(7) Wire ties used to fasten fence fabric to poles must be of the same or more 
+robust gauge than that of the fence fabric. 
+Note: Other fencing types (architectural or decorative) may be used without an 
+equivalency if they have been performance tested to establish that the resulting 
+barrier provides delay and deterrence equivalent to or greater than the above 
+requirements and are documented in the SP. 
+b. Permanent Security Fencing. When permanent fencing is used to enclose LAs or 
+higher, fencing must meet the following construction requirements: 
+(1) Areas under security fencing subject to water flow, such as bridges, 
+culverts, ditches, and swales, must be blocked with wire, steel bars, or 
+other methods that provide for the passage of floodwater but also provide 
+a penetration delay equal to that of the security fence.  
+(2) Fencing must extend to within 5.08 centimeters (2 inches) of firm ground 
+or below the surface. 
+(a) Surfaces must be stabilized in areas where loose sand, shifting 
+soils, or surface waters may cause erosion and thereby assist an 
+intruder in penetrating the area. 
+(b) Where surface stabilization is impossible or impractical, concrete 
+curbs, sills, or a similar type of anchoring device extending below 
+ground level must be provided. 
+(3) Alternate barriers or terrain may be used instead of fencing if the 
+penetration resistance of the barrier is equal to or greater than security 
+fencing specified in this Chapter. An analysis must be conducted and 
+documented in accordance with locally approved procedures. 
+c. Temporary Security Fencing. Temporary barriers must effectively impede access 
+to the area. During construction or temporary activities, security fencing must be 
+installed to:  
+(1) Exclude unauthorized vehicular and pedestrian traffic from the security 
+area, 
+(2) Restrict authorized vehicular traffic to designated access roads, and
+
+--- page 36 ---
+Attachment 2, Chapter VI – Federal Employees and Contractors DOE O 473.1A 
+Page 2-VI-4 8-30-2021 
+ 
+(3) Comply with locally approved procedures and operational requirements. 
+5. PERIMETER BARRIER GATES. Controls for motorized gates used at entry 
+points/portals must be located within PF posts or other locations as described in the SP. 
+Motorized gates must be designed to facilitate manual operation during power outages. 
+6. EXTERIOR WALLS. Walls that constitute exterior barriers of security areas must extend 
+from the true floor to the true ceiling unless equivalent means are used to provide 
+evidence of penetration of the security area or access to the security interest being 
+protected.  
+7. CEILING AND FLOORS. Ceilings and floors must be constructed of building materials 
+that offer penetration resistance to, and evidence of, unauthorized entry into the area. 
+8. DOORS. For LAs and above doors, door frames, door threshold, and door jambs 
+associated with walls serving as barriers must provide the necessary barrier delay 
+required by the SP. Requirements include the following: 
+a. Penetration Resistance Doors. Doors with transparent glazing material must offer 
+penetration resistance to, and evidence of, unauthorized entry into the area. Doors 
+that serve exclusively as emergency and evacuation exits from security areas 
+must: 
+(1) Not permit access to the security area from outside the security area; and 
+(2) Comply with National Fire Protection Association Life Safety Code 101. 
+b. Astragals or Mullions. An astragal or mullion must be used where doors used in 
+pairs meet.  
+Door louvers, baffles, or astragals/mullions must be reinforced and immovable 
+from outside the area being protected. 
+c. Visual Access. Visual barriers must be used if visual access is a factor. 
+9. WINDOWS. The following design requirements must be applied to security windows 
+when used as physical barriers. 
+a. Windows must offer penetration resistance to, and evidence of, unauthorized 
+entry into the area. 
+b. Frames must be securely anchored in the walls and windows locked from the 
+inside or installed in fixed (non-operable) frames so the panes are not removable 
+from outside the area under protection. 
+c. Visual barriers must be used if visual access is a factor.
+
+--- page 37 ---
+DOE O 473.1A Attachment 2, Chapter VI – Federal Employees and Contractors 
+8-30-2021 Page 2-VI-5 (and 2-VI-6) 
+ 
+ 
+10. MISCELLANEOUS OPENINGS. The following requirements apply to LAs, Vaults, 
+VTRs, PAs, and MAAs. 
+a. Barriers or detection are required for all miscellaneous openings penetrating 
+security area boundaries for which the opening is larger than 619.20 square 
+centimeters (96 square inches) in area and larger than 15.24 centimeters (6 inches) 
+in the smallest dimension. 
+b. Detection and/or barrier designs for miscellaneous openings must be addressed in 
+the SP. At a minimum, barriers must be; 
+(1) 9 gauge wire mesh;  
+(2) 9 gauge expanded metal; or,  
+(3) Solid steel bars at least 1.3 centimeters (0.5 inches) in diameter secured in 
+a way to prevent unauthorized removal e.g., welded vertically and 
+horizontally 15.24 centimeters (6 inches) on center.  
+c. Alternate barriers providing equivalent or greater protection must be supported by 
+a documented analysis. 
+d. The delay material must be securely fastened to preclude removal.  
+e. Where used, wire mesh, expanded metal, or solid steel bars must be mounted so 
+that classified matter or SNM cannot be removed.  
+f. When pipe or conduit pass through a wall, the annular space between the sleeve 
+and the pipe or conduit must be filled with permanent material that would leave 
+evidence of surreptitious removal of the pipe or conduit.
+
+--- page 38 ---
+
+
+--- page 39 ---
+DOE O 473.1A Attachment 2, Chapter VII – Federal Employees and Contractors 
+8-30-2021 Page 2-VII-1 
+ 
+ 
+CHAPTER VII.  SECURE STORAGE 
+The intent of this Chapter is to prescribe requirements for secure storage of certain Departmental 
+assets. 
+1. GENERAL REQUIREMENTS.  
+a. Classified Storage. The storage requirements for classified matter, including non-
+conforming storage can be found in DOE O 471.6, Information Security, current 
+version. 
+b. Classified Conference Rooms. Conference rooms and other similar facilities 
+approved for classified discussions/processing must be located in a LA or higher 
+and implement the provisions of DOE O 470.6, Technical Security Program, 
+current version. 
+c. Vaults and VTRs.  
+(1) IDS must be installed in accordance with Attachment 6, Chapter II of this 
+Order. 
+(2) When used as storage all perimeter doors must be secured using locks as 
+required by Chapter V of this Attachment (does not apply to emergency 
+egress only doors). 
+(3) Access to vaults and VTRs must be strictly controlled and based on an 
+appropriate access authorization and need to know.  
+(4) Means of controlling access must be documented in an SP. 
+(5) Access controls at vaults and VTRs must provide logging or recording of 
+all entries.  
+(a) In vaults and VTRs utilizing vestibules/foyers (where no access to 
+SNM or classified is possible), logging entry is not required unless 
+entry is made into the vault or VTR.  
+(b) Where PACS is not used, the ODFSA may waive the requirement 
+for repeated logging for personnel whose offices are located within 
+the boundary of the vaults and VTRs. 
+(6) Persons without need to know or the appropriate access authorization must 
+be escorted at all times. 
+(a) Entries must be logged or recorded and must include the name and 
+date/time of entry and exit of the individual and the escort.
+
+--- page 40 ---
+Attachment 2, Chapter VII – Federal Employees and Contractors DOE O 473.1A 
+Page 2-VII-2 8-30-2021 
+ 
+(b) Protective measures to mask classified matter must be used before 
+visitors or cleared persons without need to know are granted 
+access. 
+(7) Vault and VTR doors must remain closed and controlled at all times. 
+When a door needs to be open, it must be continually monitored by an 
+authorized and cleared individual. 
+2. VAULTS AND VAULT TYPE ROOMS. The following minimum standards are required 
+for all new construction, renovations, alterations, modifications and repairs that impact 
+the integrity of the structure of vaults and VTRs.  
+a. Approval. The ODFSA must approve all construction and the methods used 
+before the storage of classified matter or other S&S interests is authorized. 
+b. Vaults.  
+(1) Vault construction must comply with Class A from Federal Standard 
+(FED-STD-832), Construction Methods and Materials for Vaults. 
+(2) A modular vault meeting Class B of FED-STD-832 may be used in lieu of 
+a vault. 
+c. VTR. VTR construction standards must comply with the following requirements.  
+(1) The perimeter walls, floors, and ceiling must be permanently 
+constructed and attached to one another.  
+Walls that constitute exterior barriers must extend from the true floor to 
+the true ceiling unless equivalent means are used to provide evidence of 
+penetration of the security area or access to the security interest being 
+protected (see (10) and (11) below). 
+(2) The walls, floor, ceiling and door and door frame must be constructed of 
+materials which provide comparable penetration resistance.  
+(3) All construction must be done in a manner that provides visual evidence of 
+unauthorized penetration. Evidence of unauthorized penetration may 
+consist of damaged surfaces, missing paint, and suspicious patching 
+inconsistent with surrounding finishes. 
+(4) Floor and wall construction materials must offer resistance to and 
+evidence of unauthorized entry into the VTR.  
+(5) For floors and walls, if insert type panels are used, a method must be 
+devised to prevent their removal without leaving visual evidence of 
+tampering.
+
+--- page 41 ---
+DOE O 473.1A Attachment 2, Chapter VII – Federal Employees and Contractors 
+8-30-2021 Page 2-VII-3 
+ 
+ 
+(6) Should any of the outer walls/floors or ceilings be adjacent to space where 
+security is not controlled by DOE, the walls must be constructed of or 
+reinforced with more substantial building materials such as brick, 
+concrete, corrugated metal, wire mesh, etc.  
+(7) Windows that can be routinely opened and are installed at a height of less 
+than 5.48 meters (18 feet) from any point adjacent to the window that 
+would permit unrestricted access must be:  
+(a) Provided with protective measures to delay or deter entry or to 
+notify the response force of an attempted entry. 
+(b) During non-working hours, the windows must be closed and 
+securely fastened to preclude surreptitious entry. 
+(8) If visual access is a security concern,  
+(a) Barrier walls must be opaque or translucent;  
+(b) Windows must be closed and locked and must be translucent or 
+opaque; and,  
+(c) Doors that have windows, door louvers, baffle plates or service 
+panels, or similar openings must be covered with translucent or 
+opaque coverings.  
+(9) Perimeter doors must be of wood or metal.  
+(a) Wooden doors must be of solid core construction, 4.445 
+centimeters (1.75 inches) thick, or at a minimum faced on the 
+exterior side with at least 16-gauge sheet metal. 
+(b) Hardware must be fastened in such a way to reveal or preclude 
+surreptitious removal and to ensure visual evidence of tampering.  
+(c) Hardware accessible from outside the area must be peened, pinned, 
+brazed, or spot welded to preclude removal. 
+(d) Doors that have windows, door louvers, baffle plates or service 
+panels, or similar openings must be secured with 18 gauge 
+expanded metal or wire mesh fastened inside the VTR to preclude 
+unauthorized entry.  
+(e) When doors are used in pairs, an astragal or mullion must be 
+installed where the doors meet. Both doors must be 
+locked/secured.
+
+--- page 42 ---
+Attachment 2, Chapter VII – Federal Employees and Contractors DOE O 473.1A 
+Page 2-VII-4 8-30-2021 
+ 
+(f) Emergency egress doors (when not used for ingress) must be 
+locked (level I lock not required) in accordance with NFPA 101 
+Life Safety Code and have no exterior hardware. 
+(10) Ceilings. 
+(a) When barrier walls do not extend to the true ceiling and a false 
+ceiling is created, the false ceiling must be reinforced with 18 
+gauge expanded metal or wire mesh to serve as a true ceiling or 
+ceiling tile clips must be secured. 
+1 Any wire mesh or expanded metal used must overlap the 
+adjoining walls and be secured to show evidence of any 
+tampering. 
+2 When ceiling tile clips are used, a minimum of four clips 
+per tile must be installed.  
+3 If the ceiling tile cannot accommodate four clips, the 
+maximum number of clips that can be accommodated on 
+the tile must be used.  
+4 The clips must be installed from the interior of the area, and 
+each clip must be mounted to preclude surreptitious entry. 
+5 If 1-4 above cannot be met, IDS must be used above the 
+ceiling tile. 
+(b) In some instances, it may not be practical to erect a solid 
+suspended ceiling as part of the VTR. In such cases, IDS must be 
+used to ensure that the area cannot be entered surreptitiously.  
+(11) When barrier walls do not extend to the true floor and a raised/false floor 
+greater than 15.24 centimeters (6 inches) is created, the IDS is required 
+below the raised floor.
+
+--- page 43 ---
+DOE O 473.1A Attachment 2, Chapter VIII – Federal Employees and Contractors 
+8-30-2021 Page 2-VIII-1 (and 2-VIII-2) 
+ 
+ 
+CHAPTER VIII.  ENTRY/EXIT SCREENING 
+The intent of this Chapter is to prescribe the requirements for the Department's random entry and 
+exit screening program.  
+1. GENERAL REQUIREMENTS. Inspections are mandatory at PAs and MAAs (see 
+Attachment 5, Chapter II), random inspections may be conducted at other designated 
+areas. 
+a. The ODFSA must determine the need and approve the scope and locations of 
+screening programs at PPAs and LAs.  
+b. Screening programs must be documented in the SP.  
+2. IMPLEMENTATION. Where implemented the entry/exit inspection program must be 
+documented in an SP or procedure. Screening programs must include the following: 
+a. Entry Inspections. Searches of personnel, vehicles, and all hand carried items 
+must be performed to deter and detect prohibited article introduction.  
+b. Exit Inspections. Personnel, vehicles, and all hand carried items must be inspected 
+to deter and detect unauthorized removal of classified matter or other S&S 
+interests from designated security areas.
+
+--- page 44 ---
+
+
+--- page 45 ---
+DOE O 473.1A Attachment 2, Chapter IX – Federal Employees and Contractors 
+8-30-2021 Page 2-IX-1 
+ 
+ 
+CHAPTER IX.  DOE SECURITY AND LOCAL SITE SPECIFIC BADGE PROGRAM 
+The intent of this Chapter is to prescribe requirements for the Department's Security badges.  
+1. GENERAL REQUIREMENTS. Security badges are used to support physical access 
+control operations at DOE facilities. The DOE security badge is the Homeland Security 
+Presidential Directive 12 (HSPD-12) Personal Identification Verification (PIV) 
+credential, which establishes a mandatory, Federal government-wide standard for 
+identification and physical access to Federally controlled facilities.  
+a. Site specific requirements and procedures for receiving and escorting visitors 
+must be developed and approved by DOE line management or the ODFSA and 
+documented in the site's SP.  
+b. Visitors not possessing PIV credentials must present a state-issued driver's license 
+or identification card that is compliant with the REAL ID Act of 2005.  
+c. If the visitor does not possess a state-issued driver's license or identification that is 
+compliant with the REAL ID Act then the individual must present an acceptable 
+document to establish identity following instructions listed on the Department of 
+Homeland Security (DHS) Form I-9, “Employment Eligibility Verification" (see 
+http://www.uscis.gov/i-9 and http://www.tsa.gov/traveler-information/acceptable-
+ids).  
+The following alternate access control procedures, as identified in the DHS REAL 
+ID Implementation Guide, if implemented must be approved by the ODFSA when 
+a REAL ID compliant form of identification is not presented for access: 
+(1) Escort of a visitor listed in a visitor control log without having to 
+present ID; or,  
+(2) Escort of a visitor presenting a non-compliant driver's license or ID; or 
+(3) Use of a knowledge-based authentication to establish identity.  
+d. Use of the DOE badges with PACS is described in Attachment 6, Chapter 1 of 
+this Order. 
+e. DOE PIV and Local Site Specific Only (LSSO) badges must display the holder's 
+access authorization level. 
+2. DOE BADGES.  
+a. DOE PIV Credentials. 
+(1) The DOE PIV credential must be issued to all Federal employees and 
+contractor employees who require long term (greater than six months) 
+physical access to DOE facilities or information systems. Logical access
+
+--- page 46 ---
+Attachment 2, Chapter IX – Federal Employees and Contractors DOE O 473.1A 
+Page 2-IX-2 8-30-2021 
+ 
+falls under the purview of the Chief Information Officer. Physical 
+access falls under the purview of DOE Office of Environment, Health, 
+Safety, and Security. 
+(2) The DOE PIV credential must be recognized for physical access at all 
+DOE sites and facilities.  
+(3) The identity verification and issue process is described in FIPS 201-2, 
+Personal Identity Verification (PIV) of Federal Employees and 
+Contractors. 
+(4) Specifications for the DOE PIV credential are described in National 
+Institute of Standards and Technology (NIST) 800-73 and FIPS 201-2, 
+Personal Identity Verification (PIV) of Federal Employees and 
+Contractors.  
+b. Local Site Specific Only (LSSO) Badges. 
+(1) When necessary to facilitate temporary (less than six months), or non-
+routine access, DOE line management or Officially Designated Federal 
+Security Authority (ODFSA) may authorize the issuance of Local Site-
+Specific Only (LSSO) badges for physical access as documented in the 
+approved Security Plan (SP). LSSO Badges may be developed and 
+issued to address a variety of issues and unique local badging 
+requirements. Example scenarios where this might apply include facility 
+access cards issued to short term and non-routine individuals (e.g., 
+employees with forgotten/misplaced PIV, summer interns, vendors).  
+(a) If LSSOs are used, the design, issuance, accountability and 
+return process must be documented.  
+(b) LSSO badges must not resemble the design or color of the DOE 
+PIV credential.  
+(c) LSSOs must not be recognized outside the jurisdiction of the 
+cognizant ODFSA.  
+(d) For ongoing construction projects longer than six months, 
+contractors may be issued an LSSO badge providing access to 
+the construction area.  
+1 Provided they are not permanently assigned to another 
+DOE facility; and  
+2 Do not require unrestricted physical access to other 
+Departmental assets, security areas, and buildings; and
+
+--- page 47 ---
+DOE O 473.1A Attachment 2, Chapter IX – Federal Employees and Contractors 
+8-30-2021 Page 2-IX-3 
+ 
+ 
+3 Have received a favorably adjudicated HSPD-12 Federal 
+background investigation.  
+(2) Military and other Federal department and agency personnel who 
+possess PIV credentials and who are assigned/detailed to DOE must 
+have their badge enrolled in the appropriate DOE PACS, where 
+possible, or issued an LSSO badge. 
+(3) Military and other Federal department and agency personnel who 
+possess HSPD 12 credentials/badges issued by their respective 
+organizations may, at the discretion of the DOE cognizant office, be 
+permitted entry to a PPA without further badging.  
+(a) Even though the person possesses an HSPD 12 credential/badge, 
+issued by another Federal department or agency, the local 
+visitation process must be followed. 
+(b) If there is a requirement for entry beyond a PPA or access to 
+SNM, nuclear weapons, or classified matter, the provisions of 
+paragraph (4) below must be followed.  
+(4) Visitors possessing a commensurate access authorization who require 
+access to a LA, PA, MAA, SNM, nuclear weapons or classified matter 
+must verify identity and appropriate access authorization in accordance 
+with local procedures or submit a DOE F 5631.20, Request for Visit or 
+Access Approval, prior to arriving at the site. Visitors may be issued a 
+temporary LSSO badge for the visit. 
+c. Foreign National Badges.  
+(1) Foreign Nationals who have been in the United States for three or more 
+continuous years and require access longer than six months must be 
+issued a DOE PIV credential, in accordance with FIPS 201-2. Foreign 
+National access must be processed in accordance with DOE O 142.3, 
+Unclassified Foreign Visits and Assignments Program prior to issuance 
+of the PIV. 
+(2) Foreign Nationals who have been in the United States for less than three 
+years and require access longer than six months may be issued an LSSO 
+at the discretion of the Secretarial Program Office based on a risk 
+determination.  The risk determination must be documented and based 
+on the results of the following: 
+(a) FBI fingerprint based National Criminal History Check (NCHC), 
+(b) FBI Investigations files (Name Check), 
+(c) Name check against the Terrorist Screening database,
+
+--- page 48 ---
+Attachment 2, Chapter IX – Federal Employees and Contractors DOE O 473.1A 
+Page 2-IX-4 8-30-2021 
+ 
+(d) USCIS Check against SAVE, and, 
+(e) Any additional requirements in DOE O 142.3, Unclassified 
+Foreign Visits and Assignments Program 
+(3) Foreign Nationals may be issued an LSSO badge for access less than six 
+months for unclassified site access after an identity verification process 
+has been completed by the foreign visits and assignments staff of the 
+organization sponsoring the visit in accordance with DOE O 142.3, 
+Unclassified Foreign Visits and Assignments Program prior to issuance 
+of the badge. 
+3. EMERGENCY RESPONSE OFFICIAL (ERO). Personnel designated by their 
+organizations as EROs as described in FIPS 201-2, can be issued a DOE PIV 
+credential with the words "Emergency Response Official" in accordance with FIPS 
+201-2.  
+4. ISSUANCE, USE, RECOVERY, AND DESTRUCTION OF DOE PIV AND LSSO 
+BADGES. 
+a. Procedures. DOE line management or ODFSA must approve local procedures for 
+issuance, use, accountability, and return of DOE PIV credentials and LSSO 
+badges.  
+(1) DOE PIV credentials must be processed and issued in accordance with 
+FIPS 201-2. 
+(2) Measures must be taken to ensure that a single individual cannot 
+process and/or issue an LSSO badge allowing unauthorized access. 
+(3) Personnel with the ability to edit access to security areas, authentication 
+mechanism data, security access authorization data in badging systems 
+must be cleared at the same level as the highest access authorization in 
+the system.  
+(4) Sites must implement procedures to control access to security systems 
+that maintain badging and clearance information. 
+(5) The information on the badge must not be used for any purpose other 
+than access control (physical or logical).  
+(6) The information on the badge must not be collected or stored outside of 
+DOE access control systems without prior authorization in accordance 
+with established procedures for the control and protection of the 
+information.
+
+--- page 49 ---
+DOE O 473.1A Attachment 2, Chapter IX – Federal Employees and Contractors 
+8-30-2021 Page 2-IX-5 
+ 
+ 
+b. Individual Changes of Appearance. A DOE badge must be confiscated and 
+reissued, with a new photograph, if the individual's appearance no longer 
+resembles the person in the photograph. 
+c. Badge Holder Name Change. A DOE badge must be replaced when the badge 
+holder's name is legally changed. 
+d. Recovery of DOE Badges. Local procedures, approved by the ODFSA, must be 
+established for the recovery of the badge whenever an individual has terminated 
+employment, their access authorization status changes, or they no longer require 
+the badge.  
+e. Badge Destruction. DOE badges that are deactivated or no longer needed must be 
+destroyed so that the badge cannot be reconstructed.  
+(1) If destruction is not immediate, badges must be stored at a minimum, in 
+a locked container until they can be destroyed.  
+(2) DOE PIV credential must be destroyed in a manner approved by 
+Federal Information Processing Standard (FIPS) FIPS 201-2, Personal 
+Identity Verification of Federal Employees and Contractors. 
+5. ACCOUNTABILITY OF DOE BADGES.  
+a. The issuing office must maintain badging records to include the badge number; 
+date of issuance; badge holder's name and organization; and the date of 
+destruction, when applicable. 
+b. A record of missing DOE badges must be maintained.  
+(1) Personnel and/or systems controlling access to DOE security areas must 
+be provided current information regarding missing badges to prevent 
+badge misuse.  
+(2) The theft or loss and recovery of DOE issued security badges must be 
+reported immediately in accordance with locally approved procedures. 
+c. Records must be maintained in accordance with the requirements of the local 
+records management program. Personal data must be protected from loss or 
+compromise (see 5 U.S.C. 522a). 
+6. PROTECTION OF DOE BADGE MATERIALS AND EQUIPMENT. Stocks of badging 
+materials, unissued DOE PIV credentials and LSSO badges, and processing equipment 
+must be stored in a locked room, filing cabinet or GSA approved container.  
+7. DOE BADGE VALIDATION. Badge validation procedures at access control points must 
+be documented in the SP.
+
+--- page 50 ---
+Attachment 2, Chapter IX – Federal Employees and Contractors DOE O 473.1A 
+Page 2-IX-6 8-30-2021 
+ 
+a. Badge validation procedures must be performed by PACS or physical 
+examination of the DOE badge. For PIV credential, physical examination must be 
+performed in accordance with FIPS 201-2.  
+b. Other methods of validation for LSSO badges may be approved by the ODFSA. 
+8. DOE BADGE RECIPIENT REQUIREMENTS. A written or electronic record of 
+acknowledgement must be provided by the badge recipient of the following 
+responsibilities. 
+a. Protecting the DOE PIV Credential through the use of only FIPS-201-2 compliant 
+badge holders. 
+b. Protecting the DOE PIV credential/LSSO security badge against loss, theft, or 
+misuse.  
+c. Reporting a lost, stolen, or misused badge to the issuing office within 24 hours of 
+discovery. 
+d. Protecting its integrity by ensuring that the badge is not altered, photocopied, 
+counterfeited, reproduced, or photographed (other than for official government 
+business). 
+e. Returning the DOE PIV credential/LSSO badge when it is no longer valid or 
+required. 
+f. Surrendering or returning the DOE PIV credential/LSSO badge when requested 
+according to local procedures. 
+g. Wearing the DOE PIV credential/LSSO badge conspicuously, photo side out, in a 
+location above the waist and on the front of the body while having access to DOE 
+facilities. (This requirement may be modified for operational or safety reasons.)  
+h. When not on Federally controlled, owned, or leased property the badge should be 
+removed or obscured from visual access. This does not preclude the use for 
+identification purposes as necessary.
+
+--- page 51 ---
+DOE O 473.1A Attachment 3 – Federal Employees and Contractors 
+8-30-2021 Page 3-1 (and 3-2) 
+ 
+ 
+ATTACHMENT 3. PHYSICAL PROTECTION FOR PL-7 AND PL-8 ASSETS 
+The intent of this Attachment is to prescribe protection requirements for PL-7 and PL-8 assets. 
+These are departmental assets that do not meet the criteria for other PLs. These requirements are 
+in addition to those physical protection requirements outlined in Attachment 2 of this Order.
+
+--- page 52 ---
+
+
+--- page 53 ---
+DOE O 473.1A Attachment 3, Chapter I – Federal Employees and Contractors 
+8-30-2021 Page 3-I-1 
+ 
+ 
+CHAPTER I.  PHYSICAL PROTECTION FOR PL-7 ASSETS 
+1. GENERAL REQUIREMENTS.  
+a. A facility must not possess, receive, process, transport, or store safeguards and 
+security assets until that facility has been cleared (see DOE O 470.4, current 
+version). 
+b. The protection strategy of PL-7 assets is order compliance. The following require 
+an SRA: PL-7 high value assets (as defined by Program Secretarial Officers), 
+non-conforming storage of classified matter, noncompliant storage of Category III 
+or IV SNM, or SNM as part of a roll-up analysis. The objectives of the protection 
+strategy used for PL-7 assets requiring an SRA are: 
+(1) Protection; 
+(2) Mitigation; 
+(3) Incident Response; and 
+(4) Mission Recovery. 
+2. BIOLOGICAL AGENTS. PL-7 assets identified as biological agents requiring biosafety 
+level (BSL)-1 or -2 or animal biosafety level (ABSL)-1 or -2 must meet the following 
+requirements as applicable: 
+a. 42 CFR § 73, Select Agents and Toxins, contains two lists of agents and toxins 
+regulated by HHS/CDC (Centers for Disease Control and Prevention of the 
+Department of Health and Human Services): 1) HHS Select Agents and Toxins 
+(42 CFR § 73.3); and 2) Overlap Select Agents and Toxins (42 CFR § 73.4). 
+b. 7 CFR § 331, Possession, Use, and Transfer of Select Agents and Toxins, contains 
+a list of Plant Protection and Quarantine (PPQ) Programs of the Animal and Plant 
+Health Inspection Service (APHIS), Select Agents and Toxins (7 CFR § 
+331.3(b)). 
+c.  9 CFR § 121, Use, and Transfer of Select Agents and Toxins, contains two lists: 
+1) Veterinary Services Programs (VS) of the APHIS, Select Agents and Toxins( 9 
+CFR § 121.3(b)); and 2) Overlap Select Agents and Toxins (9 CFR § 121.4(b)) 
+.For more information, see DOE G 151.1-5, Biosafety Facilities Emergency 
+Management Guide, current version. 
+3. CATEGORY III SNM. PL-7 assets identified as Category III SNM must meet the 
+following requirements: 
+a. SNM must be used or processed within at least a LA in accordance with security 
+procedures documented in a Security Plan (SP).
+
+--- page 54 ---
+Attachment 3, Chapter I – Federal Employees and Contractors DOE O 473.1A 
+Page 3-I-2 8-30-2021
+b. Protect with barriers designed to mitigate the DBT adversary's capabilities.
+c. SNM must be stored within a locked security container or room, either of which 
+must be located within at least a LA in accordance with security procedures 
+documented in a SP.
+(1) The container or room must be protected by IDS in accordance with 
+Attachment 6, Chapter II of this Order or by protective force (PF) patrol 
+physical check at least every eight hours.
+(2) The container or room must be secured with Level II locks.
+d. Control access with PACS in accordance with Attachment 6, Chapter 1 of this 
+Order or equivalent means and documented in an approved SP.
+e. Category III quantities of SNM may be transported by the following methods 
+unless otherwise prohibited by statute (see DOE O 460.2, Departmental Materials 
+Transportation and Packaging Management, current version).
+(1) Classified nuclear explosive parts, components, special assemblies, sub 
+critical test devices, trainers or shapes containing no fissile nuclear material 
+or less than Category II quantities of fissile nuclear material must be 
+shipped consistent with both DOE policy governing protection of classified 
+matter and Department of Transportation regulations governing interstate 
+transportation.
+(2) Domestic offsite shipments of classified configurations of Category III 
+quantities of SNM must be made by OST or by an OST approved 
+commercial carrier that meets the requirements listed below in (3).
+(3) Offsite shipments of unclassified configurations of Category III quantities 
+of SNM are not required to be made by OST. If OST is not used, the 
+shipments may be made by the following means:
+(a) Government owned or exclusive use truck, commercial carrier, or 
+rail may be used.
+1 Transport vehicles must be inspected by authorized  
+personnel before loading and shipment. 
+2 Cargo compartments must be locked and sealed after the 
+inspection and remain sealed while en route. 
+3 S hipment escorts must periodically communicate with a 
+control station operator.
+
+--- page 55 ---
+DOE O 473.1A Attachment 3, Chapter I – Federal Employees and Contractors 
+8-30-2021 Page 3-I-3 
+ 
+ 
+4 The control station operator must be capable of requesting 
+appropriate local law enforcement agency (LLEA) response 
+if needed. 
+(b) Air shipments must be under the direct observation of the 
+authorized escorts during all land movements and loading and 
+unloading operations. 
+(4) Requirements for movement between security areas at the same site must 
+be developed and documented in the approved SP. 
+4. CATEGORY IV SNM. PL-7 assets identified as Category IV SNM must meet the 
+following requirements: 
+a. SNM must be stored, used or processed within at least a PPA in accordance with 
+security procedures documented in a SP. 
+b. Protect with barriers designed to mitigate the DBT adversary's capabilities. 
+c. Secure with Level III locks and keys, including while in transit. 
+d. Control access either utilizing PACS in accordance with Attachment 6, Chapter 1 
+of this Order, or Level III locks and keys. 
+e. Category IV quantities of SNM may be transported by the following methods 
+unless otherwise prohibited by statute: 
+(1) Domestic offsite shipments of classified configurations of Category IV 
+quantities of SNM may be made by the OST or by other means when 
+approved by DOE line management or ODFSA. 
+(2) Shippers are required to give the consignee an estimated time of arrival 
+before dispatch and to follow up with a written confirmation not later than 
+48 hours after dispatch. 
+(3) Consignees must promptly notify the shipper by telephone and written 
+confirmation upon determination that a shipment has not arrived by the 
+scheduled time. 
+(4) Shipments must be made by a mode of transportation that can be traced, 
+and within 24 hours from request, the carrier be capable of reporting the 
+last known location of the shipment should it fail to arrive on schedule. 
+5. OTHER ACCOUNTABLE NUCLEAR MATERIAL. PL-7 assets identified as Other 
+Accountable Nuclear Material as referenced by the DBT and defined by DOE O 474.2, 
+Nuclear Material Control and Accountability, current version, must be protected in 
+accordance with local security procedures documented in a SP, based on analysis:
+
+--- page 56 ---
+Attachment 3, Chapter I – Federal Employees and Contractors DOE O 473.1A 
+Page 3-I-4 8-30-2021 
+ 
+6. RADIOLOGICAL MATERIALS. Protection of PL-7 assets identified as radiological 
+materials as defined by the DBT (Appendix A, 2.g.5) must be protected in accordance 
+with local security procedures documented in a SP, based on analysis: 
+7. CHEMICALS. PL-7 assets identified as chemical assets as defined by the DBT 
+(Appendix A 2.g.6) must be protected in accordance with local security procedures 
+documented in a SP, based on analysis. 
+8. GOVERNMENT PROPERTY AND FACILITIES. PL-7 assets identified as Government 
+property and facilities must be protected in accordance with the applicable requirements 
+in this Order. 
+9. CLASSIFIED OR CONTROLLED UNCLASSIFIED INFORMATION (CUI).  
+a. PL-7 assets identified as classified matter must be protected with Level I locks 
+and meet the requirements of DOE O 471.6, Information Security, current 
+version, and Attachment 3 of this Order. 
+b. PL-7 assets identified as CUI within the Department consists of: 
+(1) Unclassified Controlled Nuclear Information (UCNI) which, must be 
+protected in accordance with 10 CFR 1017 Subpart E, Physical Protection 
+Requirements, and DOE O 471.1, Identification and Protection of 
+Unclassified Controlled Nuclear Information (UCNI), current version. 
+(2) Official Use Only (OUO), which encompasses Personally Identifiable 
+Information (PII) and other unclassified sensitive information not 
+governed by specific directives. OUO must be protected in accordance 
+with DOE O 471.3, Identification and Protecting of Official Use Only 
+Information, current version. It will be subject to the Freedom of 
+Information Act (FOIA), 5 U.S.C. 552, and applicable exemptions may 
+apply if requested.
+
+--- page 57 ---
+DOE O 473.1A Attachment 3, Chapter II – Federal Employees and Contractors 
+8-30-2021 Page 3-II-1 (and 3-II-2) 
+ 
+ 
+CHAPTER II.  PHYSICAL PROTECTION FOR PL-8 ASSETS 
+1. GENERAL REQUIREMENTS. PL-8 assets are defined in the DBT as Departmental 
+Federal employees, contractors, and the general public on Departmental property. This 
+also includes childcare centers physically located on Departmental property, visitor 
+centers, and government leased properties.  
+a. The protection strategy of PL-8 assets is order compliance.  
+b. When planning protection measures for workplace violence and active shooter 
+events, the adversary characteristics, capabilities and scenarios described in the 
+DBT for PL-8 must be used. 
+c. Protection measures may be implemented using Departmental or non-
+Departmental resources (e.g., local law enforcement, commercial alarm 
+monitoring, local fire department, and hazard material response). Additional 
+measures may be applied based on local analyses.
+
+--- page 58 ---
+
+
+--- page 59 ---
+DOE O 473.1A Attachment 4 – Federal Employees and Contractors 
+8-30-2021 Page 4-1 (and 4-2) 
+ 
+ 
+ATTACHMENT 4. PHYSICAL PROTECTION FOR PL-5 AND PL-6 ASSETS 
+The intent of this Attachment is to provide the baseline physical protection requirements for PL-
+5 and PL-6 assets. These requirements are in addition to those physical protection requirements 
+outlined in Attachment 2 of this Order.
+
+--- page 60 ---
+
+
+--- page 61 ---
+DOE O 473.1A Attachment 4, Chapter I – Federal Employees and Contractors 
+8-30-2021 Page 4-I-1 
+ 
+ 
+CHAPTER I.  PHYSICAL PROTECTION FOR PL-5 ASSETS 
+1. GENERAL REQUIREMENTS. PL-5 assets are assets designated as part of the United 
+States National Critical Infrastructure as defined in Presidential Policy Directive-21, 
+Critical Infrastructure Security and Resilience. PL-5 assets also include facilities with 
+significant radiological, chemical, or biological sabotage targets, and have off-site 
+consequences. 
+a. Protection measures must be designed to mitigate the adversary scenarios and 
+capabilities for PL-5 described within the DBT.  
+b. An SRA is required for PL-5 assets. Additional requirements may be established 
+by the Program Secretarial Office or Power Marketing Administration (PMA) as 
+determined by the results of the SRA. 
+c. The protection strategy objective for PL-5 assets is order compliance. The four 
+elements below must be addressed in the SP or in the analyses that support the 
+SP: 
+(1) Protection; 
+(2) Mitigation; 
+(3) Incident Response; and 
+(4) Mission Recovery. 
+d. Boundaries must be defined by physical barriers (fences, buildings, rooms, 
+containment structures, etc.) encompassing the designated space containing the 
+asset with access controls to ensure that only authorized personnel are allowed to 
+enter the area containing the asset. 
+e. Intra-site transportation procedures must be covered in the SP. 
+2. NATIONAL CRITICAL INFRASTRUCTURE. PL-5 assets designated as national 
+critical infrastructure as defined in the DBT must meet the following requirements: 
+a. Deter cyber sabotage by preventing unauthorized on-site or remote access to 
+critical process controls.  
+b. Deter insider sabotage which would result in a release of chemicals offsite by 
+employing measures established by the ODSA and documented in a SP approved 
+by the ODFSA. 
+c. Control access to the asset by either utilizing PACS in accordance with 
+Attachment 6, Chapter 1 of this Order, or through the use of Level I locks and 
+keys.
+
+--- page 62 ---
+Attachment 4, Chapter I – Federal Employees and Contractors DOE O 473.1A 
+Page 4-I-2 8-30-2021 
+ 
+d. Protect vehicle avenues of approach with barriers designed to mitigate the DBT 
+adversary's capabilities based on the results of the SRA. 
+e. Monitor with IDS in accordance with Attachment 6, Chapter II of this Order, or 
+monitor using authorized personnel.  
+f. Ensure that site security participates in coordinating an emergency response that 
+supports a documented Emergency Management program that provides a 
+foundation for planning, preparedness, response, recovery, and readiness 
+assurance to respond to/recover from incidents involving these assets. 
+3. RADIOLOGICAL MATERIALS. PL-5 assets identified as radiological or nuclear 
+materials defined in the DBT must meet the following requirements: 
+a. Control access to the asset either utilizing PACS in accordance with Attachment 
+6, Chapter 1 of this Order, or through the use of Level I locks and keys. 
+b. Deter insider sabotage which would result in a release of chemicals offsite by 
+employing measures established by the ODSA and documented in a SP approved 
+by the ODFSA  
+c. Protect with barriers designed to mitigate the DBT adversary's capabilities, as 
+required, based on the results of the SRA.  
+d. Monitor via IDS in accordance with Attachment 6, Chapter II of this Order, or 
+monitor using authorized personnel. 
+e. Ensure that site security participates in coordinating an emergency response that 
+supports a documented Emergency Management program that provides a 
+foundation for planning, preparedness, response, recovery, and readiness 
+assurance to respond to/recover from incidents involving these assets. 
+4. BIOLOGICAL AGENTS AND SELECT AGENTS AND TOXINS. PL-5 assets 
+identified as biological agents and select agents and toxins as defined by the DBT must 
+meet the requirements contained in the following national and departmental policies: 
+a. 42 CFR § 73, Select Agents and Toxins, contains two lists of agents and toxins 
+regulated by HHS/CDC: 1) HHS Select Agents and Toxins (42 CFR § 73.3); 
+and 2) Overlap Select Agents and Toxins (42 CFR § 73.4). 
+b. 7 CFR § 331, Possession, Use, and Transfer of Select Agents and Toxins, 
+contains a list of Plant Protection and Quarantine Programs (PPQ) of the Animal 
+and Plant Health Inspection Service (APHIS), Select Agents and Toxins 
+(7 CFR § 331.3(b)). 
+c.  9 CFR § 121, , Use, and Transfer of Select Agents and Toxins, contains two lists: 
+1) Veterinary Services Programs (VS) of the APHIS, Select Agents and Toxins 
+(9 CFR § 121.3(b)); and 2) Overlap Select Agents and Toxins (9 CFR § 121.4(b)).
+
+--- page 63 ---
+DOE O 473.1A Attachment 4, Chapter I – Federal Employees and Contractors 
+8-30-2021 Page 4-I-3 
+ 
+ 
+d. DOE Policy 434.1, Conduct and Approval of Select Agent and Toxin Work at 
+DOE Sites, current version. 
+e. For more information, see CDC guidance from Biosafety in Microbiological and 
+Biomedical Laboratories and DOE Guide 151.1-5, Biosafety Facilities, current 
+version.  
+f. Ensure that site security participates in coordinating an emergency response that 
+supports a documented Emergency Management program that provides a 
+foundation for planning, preparedness, response, recovery, and readiness 
+assurance to respond to/recover from incidents involving these assets. 
+5. CHEMICALS. Chemicals with PL-5 consequences must be protected in accordance with 
+the requirements below and as required based on the results of an SRA. Chemicals 
+typically found on DOE facilities are identified here: 
+https://edms.energy.gov/pac/TeelDocs. 
+PL-5 assets identified as chemical assets as defined by the DBT must be protected 
+by/contained within areas meeting the following requirements: 
+a. A boundary must be established to protect the asset. 
+b. The boundary must be defined by physical barriers that may include fences, 
+buildings, rooms, or other barriers that surround the asset.  
+c. A means of intrusion detection and surveillance must be provided for protection 
+of the asset. The level of intrusion detection and surveillance must be based on the 
+results of the SRA for the asset. 
+d. Deter vehicles from penetrating the perimeter of the area where the asset is stored, 
+gaining unauthorized access or otherwise presenting a hazard to potentially 
+critical targets.  
+e. Be stored in a location that is secured with Level I locks. 
+f. Approved procedures must be in place to monitor the shipping, receipt, and 
+storage of hazardous materials within the facility.  
+g. Deter insider sabotage that would result in a release of chemicals offsite by 
+employing measures established by the ODSA and documented in a SP approved 
+by the ODFSA including: 
+(1) Limit access to authorized individuals,  
+(2) Provide access control by using PACS in accordance with Attachment 
+6, Chapter I, or authorized personnel,  
+(3) Control visitor access as documented in the approved SP,
+
+--- page 64 ---
+Attachment 4, Chapter I – Federal Employees and Contractors DOE O 473.1A 
+Page 4-I-4 8-30-2021 
+ 
+(4) Provide tamper-resistant storage of the chemical.  
+h. Deter cyber sabotage by preventing unauthorized on-site or remote access to 
+critical process controls.  
+i. Maintain effective monitoring, communications, and warning systems. 
+j. Ensure proper security training of facility personnel is specific to the assets being 
+protected.
+
+--- page 65 ---
+DOE O 473.1A Attachment 4, Chapter II – Federal Employees and Contractors 
+8-30-2021 Page 4-II-1 
+ 
+ 
+CHAPTER II.  PHYSICAL PROTECTION FOR PL-6 ASSETS 
+1. GENERAL REQUIREMENTS. PL-6 assets are assets designated as critical program 
+assets or facilities; radiological, chemical, or biological materials; or assets determined to 
+be sabotage targets with on-site consequences as defined in the DBT. 
+a. Protection measures must be designed to mitigate the adversary scenarios and 
+capabilities for PL-6 described within the DBT.  
+b. An SRA is required for PL-6 assets. Additional requirements may be established 
+by the Program Secretarial Office or PMA as determined by the results of the SRA. 
+c. The protection strategy objective for PL-6 assets is order compliance. The four 
+elements below must be addressed in the SP or in the analyses that support the SP: 
+(1) Protection; 
+(2) Mitigation; 
+(3) Incident Response; and 
+(4) Mission Recovery. 
+d. Boundaries must be defined by physical barriers (fences, buildings, rooms, 
+containment structures, etc.) encompassing the designated space containing the 
+asset with access controls to ensure that only authorized personnel are allowed to 
+enter the area containing the asset. 
+e. Intra-site transportation procedures must be covered in the SP. 
+2. CRITICAL PROGRAM ASSETS. PL-6 assets designated as critical program assets as 
+defined in the DBT must meet the following requirements: 
+a. Control access either utilizing PACS in accordance with Attachment 6, Chapter 1 
+of this Order, or Level II locks and keys. 
+b. Monitor with IDS in accordance with Attachment 6, Chapter II of this Order, or 
+monitor using authorized personnel based on the results of an SRA. 
+c. Deter cyber sabotage by preventing unauthorized on-site or remote access to 
+critical process controls.  
+d. Ensure that site security participates in coordinating an emergency response that 
+supports a documented Emergency Management program that provides a 
+foundation for planning, preparedness, response, recovery, and readiness assurance 
+to respond to/recover from incidents involving these assets.
+
+--- page 66 ---
+Attachment 4, Chapter II – Federal Employees and Contractors DOE O 473.1A 
+Page 4-II-2 8-30-2021 
+ 
+e. Deter insider sabotage would result in sabotage of critical program assets by 
+employing measures established by the ODFSA and documented in a SP. 
+3. RADIOLOGICAL MATERIALS. PL-6 assets identified as radiological or nuclear 
+materials defined in the DBT must meet the following requirements: 
+a. Protect with barriers designed to mitigate the DBT adversary's capabilities based 
+on the results of an SRA. 
+b. Control access either utilizing PACS in accordance with Attachment 6, Chapter 1 
+of this Order, or Level II locks and keys. 
+c. Monitor via IDS in accordance with Attachment 6, Chapter II of this Order, or 
+monitor using authorized personnel. 
+d. Ensure that site security participates in coordinating an emergency response that 
+supports a documented Emergency Management program that provides a 
+foundation for planning, preparedness, response, recovery, and readiness assurance 
+to respond to/recover from incidents involving these assets. 
+e. Intra-site transportation procedures must be covered in the SP. 
+4. BIOLOGICAL AGENTS. PL-6 assets identified as Biological agents as defined by the 
+DBT must meet the requirements contained in the following national policies: 
+a. 42 CFR § 73, Select Agents and Toxins, contains two lists of agents and toxins 
+regulated by HHS/CDC: 1) HHS Select Agents and Toxins (42 CFR § 73.3); and 
+2) Overlap Select Agents and Toxins (42 CFR § 73.4). 
+b. 7 CFR § 331, Possession, Use, and Transfer of Select Agents and Toxins, contains 
+a list of Plant Protection and Quarantine Programs (PPQ) of the Animal and Plant 
+Health Inspection Service (APHIS), Select Agents and Toxins (7 CFR § 331.3(b)). 
+c. 9 CFR § 121, Use, and Transfer of Select Agents and Toxins, contains two lists: 1) 
+Veterinary Services Programs (VS) of the APHIS, Select Agents and Toxins( 9 
+CFR § 121.3(b)); and 2) Overlap Select Agents and Toxins (9 CFR § 121.4(b)) 
+d. DOE Policy 434.1, Conduct and Approval of Select Agent and Toxin Work at DOE 
+Sites, current version. 
+e. For more information see CDC guidance from Biosafety in Microbiological and 
+Biomedical Laboratories and DOE Guide 151.1-5, Biosafety Facilities, current 
+version.  
+Ensure that the site has established a documented Emergency Management 
+program that provides a foundation for planning, preparedness, response, recovery, 
+and readiness assurance to respond to/recover from incidents involving these 
+assets.
+
+--- page 67 ---
+DOE O 473.1A Attachment 4, Chapter II – Federal Employees and Contractors 
+8-30-2021 Page 4-II-3 
+ 
+ 
+5. CHEMICALS. Chemicals with PL-6 consequences must be protected in accordance with 
+the requirements below and as required based on the results of an SRA. Chemicals 
+typically found on DOE facilities are identified here: 
+https://edms.energy.gov/pac/TeelDocs. 
+a. Monitor with IDS or authorized personnel. 
+b. Control access either utilizing PACS in accordance with Attachment 6, Chapter 1 
+of this Order, or Level II locks and keys. 
+c. Deter vehicles from gaining unauthorized access to the asset.  
+d. Secure and monitor the shipping, receipt, and storage of hazardous materials for 
+the facility.  
+e. Deter insider sabotage which would result in a release of chemicals onsite by 
+employing measures established by the ODSA and documented in an approved 
+SP. 
+f. Deter cyber sabotage by preventing unauthorized on-site or remote access to 
+critical process controls.  
+g. Maintain effective monitoring, communications, and warning systems. 
+h. Ensure proper security training of facility personnel specific to the assets being 
+protected.
+
+--- page 68 ---
+
+
+--- page 69 ---
+DOE O 473.1A Attachment 5 – Federal Employees and Contractors 
+8-30-2021 Page 5-1 (and Page 5-2) 
+ 
+ 
+ATTACHMENT 5. PHYSICAL PROTECTION OF PL 1-4 ASSETS 
+The intent of this Attachment is to prescribe the physical protection requirements for PL-1 
+through PL-4 assets. These requirements are in addition to those physical protection 
+requirements outlined in Attachments 2 and 6.
+
+--- page 70 ---
+
+
+--- page 71 ---
+OE O 473.1A Attachment 5, Chapter I – Federal Employees and Contractors 
+8-30-2021 Page 5-I 1 
+ 
+ 
+CHAPTER I.  PROTECTION OF PL-1 THROUGH PL-4 ASSETS 
+The intent of this Chapter is to establish requirements for physical protection of PL-1 through 
+PL-4 assets consistent with the DBT.  
+1. GENERAL REQUIREMENTS. The requirements cited in this Chapter apply to fixed 
+facilities and not the conduct of onsite movement of SNM or operations managed by 
+OST.  
+a. Protection of PL-1 through PL-4 assets must be based on the results of a 
+vulnerability analysis (VA) as required by DOE O 470.3, Design Basis Threat, 
+current version. 
+b. Roll-up is the accumulation of lower categories of SNM to attain a higher 
+Category of SNM. SNM must be protected at the higher level when roll up to 
+Category I or II quantities can occur on site unless the facility has conducted an 
+analysis that determined roll up is not credible.  
+c. Protection measures must be designed to prevent malevolent acts and to respond 
+to adverse conditions such as emergencies caused by acts of nature. 
+(1) An integrated system of protection measures must be developed, 
+documented, and implemented to protect PL-1 through PL-4 assets. 
+(2) Protection measures must address physical protection strategy (i.e., denial 
+or containment) as well as recapture, recovery, and/or pursuit by an armed 
+PF.  
+d. A facility must not possess, receive, process, transport, or store nuclear weapons 
+or SNM until that facility has been issued a facility clearance. (see 
+DOE O 470.4B, Appendix B, Section 1). 
+2. FACILITIES WITH PL-1 THROUGH PL-3 ASSETS. PL-1 through PL-3 assets must be 
+located within a Material Access Area (MAA).  
+a. Any MAA containing unattended (not in use/processing) PL-1 through PL-3 
+assets must be equipped with an IDS, or detection must be provided by the PF.  
+b. PL-1 assets must be stored in a vault within an MAA. Storage facilities 
+constructed after July 15, 1994, must be built below grade i.e., underground. 
+c. PL-2 assets must be stored in a vault within an MAA; however, certain 
+operational activities may dictate other storage configurations. These storage 
+configurations must be supported by a VA and approved by the appropriate 
+Federal risk acceptance official. 
+d. PL-3 assets must be stored in a vault or VTR within an MAA.
+
+--- page 72 ---
+Attachment 5, Chapter I – Federal Employees and Contractors DOE O 473.1A 
+Page 5-I-2 8-30-2021 
+ 
+3. FACILITIES WITH PL-4 ASSETS. 
+a. PL-4 assets must be located, at a minimum, within a Protected Area (PA). 
+b. PL-4 assets must be stored in a vault or VTR within a PA; however, certain 
+operational activities may dictate other storage configurations. These storage 
+configurations must be supported by a VA and approved by the appropriate Federal 
+risk acceptance official. 
+4. PROTECTED AREAS (PAs).PAs are security areas designed to protect PL-1 through PL-
+4 assets by providing concentric layers of security.  
+a. PAs must be surrounded by a perimeter intrusion detection and assessment system 
+(PIDAS) (see Attachment 6, Chapter II). 
+b. PAs must be designed to facilitate assessment. 
+c. PA entrances (e.g., gates in fences, doors in buildings) must be secured using Level 
+I locks when not under observation by PF. 
+d. PAs must be designed to mitigate the VBIED threat, as identified in the DBT. 
+e. PA access control systems must ensure only authorized personnel are allowed to 
+enter and exit (see Attachment 6, Chapter I). 
+(1) Unescorted access must be limited to individuals with an appropriate access 
+authorization and for the conduct of official duties. 
+(2) Individuals without an appropriate access authorization must be escorted. 
+(a) The ODSA must establish escort to visitor ratios for the PA and 
+document in an approved Security Plan (SP). 
+(b) Escort responsibilities must be documented in the approved SP. 
+(c) Escorts must acknowledge understanding of escort responsibilities. 
+(d) The escort must ensure measures are taken to prevent compromise 
+of classified matter or access to SNM. 
+(e) Visitors to PAs must be documented in a log or PACS. 
+(f) Information from visitor logs must be retained in accordance with 
+local records management procedures. 
+(3) Automated access control at PAs must have anti-passback protection.
+
+--- page 73 ---
+OE O 473.1A Attachment 5, Chapter I – Federal Employees and Contractors 
+8-30-2021 Page 5-I 3 (and 5-I-4) 
+ 
+ 
+f. An inspection program must be developed by the ODSA in accordance with the 
+requirements cited in Chapter II of this Attachment and documented in the 
+approved SP.  
+g. Vehicles authorized by the ODSA in accordance with local procedures may be 
+admitted as operationally required.  
+5. MATERIAL ACCESS AREAS. In addition to requirements for a PA the following apply 
+to an MAA: 
+a. Multiple MAAs may exist within a single PA. MAAs must be located wholly 
+within a PA with no common boundary. 
+b.  MAAs must have barriers that provide sufficient delay to facilitate a timely 
+response, as informed by the results of a vulnerability analysis. 
+c. While an MAA is required for the protection of Category I quantities of SNM, 
+classified matter may exist within an MAA. In such instances, the classified matter 
+must be stored according to the requirements in DOE O 471.6, Information 
+Security, current version. 
+d. An inspection program must be developed in accordance with the requirements 
+cited in Chapter II of this Attachment. 
+e. Access control must be administered by armed PF personnel and/or automated 
+physical access control systems. 
+(1) Automated access control at MAAs must have anti-passback protection. 
+(2) MAA entrances must be secured using Level I locks when not under 
+observation by PF. 
+(3) Access must be controlled to limit entry to individuals with an appropriate 
+access authorization and who have been authorized for entry in accordance 
+with local procedures. 
+(4) Individuals without appropriate access authorization must be escorted. 
+(a) The ODSA must establish escort to visitor ratios for the MAA and 
+document in an approved SP. 
+(b) Escort responsibilities must be documented in the approved SP. 
+(c) Escorts must acknowledge understanding of escort responsibilities. 
+(d) The escort must ensure measures are taken to prevent compromise 
+of classified matter or access to SNM. 
+(e) Visitors to MAAs must be documented in a log or PACS.
+
+--- page 74 ---
+
+
+--- page 75 ---
+DOE O 473.1A Attachment 5, Chapter II – Federal Employees and Contractors 
+8-30-2021 Page 5-II-1 
+ 
+ 
+CHAPTER II.  INSPECTION PROGRAMS 
+The intent of this Chapter is to establish requirements for inspection programs utilized at PA and 
+MAA boundaries.  
+1. GENERAL. These programs are also intended to protect Department assets and interests 
+from unauthorized removal. An entry/exit inspection program must be documented in an 
+SP.  
+a. An inspection program must be established and documented in an approved SP 
+to detect prohibited and controlled articles before being brought into DOE 
+facilities and prevent the unauthorized removal of Departmental assets. 
+b. Passage of individuals, vehicles, and/or packages or mail through entry control 
+point inspection equipment must be observed and controlled by trained 
+designated personnel.  
+c. Inspection equipment must be used for PAs and MAAs such as x-ray machines, 
+metal detectors, and SNM detectors. 
+(1) Uninterruptable power supplies must be provided to all inspection 
+equipment. In those instances where uninterrupted power is not practical, 
+there must be locally developed procedures to provide alternative 
+measures for conducting entry/exit screening when loss of electrical power 
+occurs. 
+(2) The testing and configuration of inspection equipment must be 
+documented in the SP approved by the ODFSA. 
+d. Entry/exit control points.  
+(1) Entry control points must allow the entry and exit of authorized personnel 
+while detecting prohibited and controlled articles. 
+(2) Entry control point configuration must allow for the inspection of 
+personnel, packages, and hand carried items. 
+(3) Entry/exit point inspection operations and equipment must be collocated 
+with designated permanent PF posts to facilitate the initiation of a timely 
+response to a security event. 
+(4) Permanent PF posts must be designed with an unobstructed view to 
+facilitate observation of any attempt to bypass systems. 
+(5) Entry/exit points must be alarmed with intrusion detection sensors when 
+not in use or controlled at all times.
+
+--- page 76 ---
+Attachment 5, Chapter II – Federal Employees and Contractors DOE O 473.1A 
+Page 5-II-2  8-30-2021 
+ 
+(6) Entry/exit points must be designed to preclude commingling of 
+searched and unsearched personnel. 
+2. ENTRY/EXIT SCREENING EQUIPMENT. 
+a. Explosives Detection. 
+(1) Sites must analyze PA and MAA access points to determine whether 
+vulnerability exists for an adversary to use explosives to affect 
+consequences of DOE assets. 
+(2) Sites must implement protective measures to mitigate the risk of the DBT 
+adversary threat.  
+(3) These protective measures must be supported by a VA and be included in 
+the overall protection planning process. 
+(4) If the analysis determines that explosive detection is required, explosive 
+detection measures must ensure that explosives are not introduced without 
+appropriate authorization as described in Attachment 2, Chapter III.  
+(5) The SP or procedure must document the analysis that establishes a 
+facility's capability to detect explosives and provide protection against the 
+malicious use of explosives. 
+(6) Documentation must include the rationale for explosive detection 
+measures selection, deployment, and use. 
+(7) Security procedures for explosive detection measures must be documented 
+in the SP approved by the ODFSA. 
+b. Metal Detection.  
+(1) Metal detectors must ensure weapons are not introduced without 
+authorization. (For details on testing and maintenance see Attachment 6, 
+Chapter IV paragraph 3.c.). 
+(2) Security procedures for metal detection equipment must be documented in 
+site specific procedure(s) or the approved SP.  
+c. X-ray Machines.  
+(1) X-ray machines may be used to supplement metal detectors and protective 
+personnel hand searches for prohibited and controlled articles. (For details 
+on testing and maintenance see Attachment 6, Chapter IV paragraph 3.d.). 
+(2) X-ray machines must provide a discernible image of the prohibited and 
+controlled article.
+
+--- page 77 ---
+DOE O 473.1A Attachment 5, Chapter II – Federal Employees and Contractors 
+8-30-2021 Page 5-II-3 
+ 
+ 
+(3) Security procedures for X-ray machines must be documented in site 
+specific procedure(s) or the approved SP.  
+d. SNM Detectors.  
+(1) SNM detectors must be configured to ensure SNM is not removed without 
+authorization. Detection thresholds must be consistent with the SNM type, 
+form, quantity, attractiveness level, size, configuration, portability, and 
+credible diversion amounts of the articles or property contained within the 
+area. 
+(2) SNM detectors used in the inspection process must be tested using 
+materials with radioactive signatures and strengths consistent with 
+required detection thresholds that depict the type of SNM located within 
+the security area. 
+(3) Security procedures for SNM detection equipment must be documented in 
+site specific procedure(s) or the approved SP.  
+3. ENTRY SCREENING. Entrance inspections of personnel, vehicles, packages, and hand 
+carried items must be performed to deter and detect prohibited and controlled articles.  
+a. Bypass routes around inspection equipment must be closed or monitored to deter 
+unauthorized passage of personnel, prohibited and controlled articles. 
+b. Measures must be taken to preclude the unauthorized alteration of control settings 
+on all entry/exit control point inspection equipment. 
+c. Equipment, excluding x-ray machines, must have audible and visual alarms 
+monitored by trained personnel. 
+d. Measures must be taken to prohibit the commingling of screened individuals from 
+unscreened individuals during the entry screening process. 
+4. EXIT SCREENING. 
+a. Personnel, vehicles, and hand carried items including packages, briefcases, 
+purses, and lunch containers are to be inspected to deter and detect unauthorized 
+removal of SNM, classified matter, or other S&S interests from designated 
+security areas.  
+b. Items to be detected during vehicle screening must be determined by site analysis. 
+c. Exit inspection procedures must be written to ensure: 
+(1) SNM and Metal Detectors must be co-located with PF to assist in 
+detection of attempted shielding and/or diversions of SNM.
+
+--- page 78 ---
+Attachment 5, Chapter II – Federal Employees and Contractors DOE O 473.1A 
+Page 5-II-4  8-30-2021 
+ 
+(2) SNM detectors and metal detectors must be used in a combination that 
+precludes the opportunity to defeat the detectors (e.g., the placement of the 
+metal detector ahead of the SNM detector to prevent use of metal 
+shielding to remove SNM). 
+(3) Metal detectors, SNM detectors, and x-ray machines used in the exit 
+inspection process must ensure shielded SNM is not removed without 
+authorization. 
+(4) Specific inspection procedures and response to alarms with limitations and 
+thresholds for the various detectors must be established and documented in 
+the SP or procedure. 
+(5) The identification of detection thresholds for the various specified threats 
+and shielding must be consistent with the type, form, quantity, 
+attractiveness level, size, configuration, portability, and credible diversion 
+amounts of material contained within the area. 
+5. EMERGENCY PERSONNEL AND VEHICLES. Emergency personnel and vehicles, 
+whether onsite or offsite responders, may be authorized for immediate entry to security 
+areas in response to a verified emergency if:  
+a. The PF or other designated site personnel maintain continuous surveillance of all 
+emergency vehicles that enter the site. 
+b. Arrangements are made to inspect emergency personnel and vehicles when 
+exiting after the emergency is over or when leaving the site.  
+(1) If the emergency condition prevents an exit inspection before departing 
+the site, an escort must be provided as required in site specific procedures 
+or the approved SP.  
+(2) Both personnel and emergency vehicles must be inspected as soon as the 
+emergency is over.
+
+--- page 79 ---
+DOE O 473.1A Attachment 5, Chapter III – Federal Employees and Contractors 
+8-30-2021 Page 5-III-1 (and 5-III-2) 
+ 
+ 
+CHAPTER III.  SECURE STORAGE 
+The intent of this Chapter is to establish requirements for SNM vaults. 
+1. GENERAL.  
+a. A Special Nuclear Material (SNM) Vault must:  
+(1) Be a penetration resistant enclosure that has doors, walls, floor, and 
+roof/ceiling; 
+(2) Designed and constructed to delay penetration from forced entry; and 
+(3) Equipped with IDS devices on openings that may allow access.  
+b. The material thickness must be determined by the requirement for forcible entry 
+delay times for the Safeguards and Security (S&S) interests stored within but 
+must not be less than the delay time provided by a minimum 20.32 centimeters (8 
+inch) thick reinforced concrete poured in place with a 28-day compressive 
+strength of 17,237 kilopascal (2,500 pounds per square inch).  
+c. Activated technologies such as active barriers or passive/active denial systems 
+may be used when analysis indicates that longer delay times are required.  
+d. The site's analysis of the protection measures in use must be documented in the 
+SP. 
+e. The vault door and frame must meet the GSA's highest level of penetration 
+resistance. The lock on the door must be a Level I lock that meets the 
+requirements of Attachment 2, Chapter V.  
+f. Certain operational activities may dictate other storage configurations. These 
+storage configurations must be supported by a VA and approved by the 
+appropriate Federal risk acceptance official.
+
+--- page 80 ---
+

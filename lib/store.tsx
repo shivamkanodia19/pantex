@@ -15,6 +15,7 @@ import {
   type ReviewAction,
 } from "@/lib/review-state";
 import { resolveReviewPack } from "@/lib/review-packs";
+import type { DocChange } from "@/lib/document-data";
 import type { ImpactJudgement } from "@/lib/impact";
 
 function useDocumentState() {
@@ -73,7 +74,7 @@ function useDocumentState() {
   }, []);
 
   function act(
-    type: Exclude<ReviewAction["type"], "loadPack">,
+    type: Exclude<ReviewAction["type"], "loadPack" | "mergeChanges">,
     label: string,
     extra: Partial<ReviewAction> = {},
   ) {
@@ -84,6 +85,20 @@ function useDocumentState() {
       snapshotId: crypto.randomUUID(),
       createdAt: new Date().toISOString(),
     } as ReviewAction);
+  }
+
+  function mergeScanChanges(incoming: DocChange[]) {
+    if (incoming.length === 0) return;
+    dispatch({
+      type: "mergeChanges",
+      label:
+        incoming.length === 1
+          ? `Scan merged ${incoming[0].id}`
+          : `Scan merged ${incoming.length} changes`,
+      snapshotId: crypto.randomUUID(),
+      createdAt: new Date().toISOString(),
+      changes: incoming,
+    });
   }
 
   function loadReviewPack(siteId: string, doeFromId: string, doeToId: string) {
@@ -144,6 +159,7 @@ function useDocumentState() {
       act("restore", "Restored snapshot", { id }),
     pushNamedSnapshot: (label: string) => act("snapshot", label),
     getChange: (id: string) => state.changes.find((c) => c.id === id),
+    mergeScanChanges,
     loadReviewPack,
     impacts,
     setImpacts,

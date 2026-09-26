@@ -1,0 +1,526 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov Office of Health, Safety and Security 
+U.S. Department of Energy ORDER 
+ Washington, D.C.  
+Approved: 08-05-2026 
+ 
+SUBJECT:  DOE CORPORATE OPERATING EXPERIENCE PROGRAM 
+1. PURPOSE. 
+a. To institute a Department of Energy (DOE)-wide program for the management 
+of operating experience to prevent adverse operating incidents and facilitate 
+the sharing of good work practices among DOE sites while enabling tailored 
+local operating experience programs based on the nature of work, hazards, 
+and organizational complexities.  Operating experiences can be found in 
+all disciplines. 
+b. To provide the systematic review, identification, collection, screening, evaluation, 
+and dissemination of operating experience from United States (U.S.) and foreign 
+government agencies and industry, professional societies, trade associations, 
+national academies, universities, and DOE and its contractors. 
+c. To define the DOE Corporate Operating Experience Program so that it can be 
+integrated into major management programs, reinforcing the core functions and 
+guiding principles of DOE’s Integrated Safety Management System (ISMS), and 
+enhance mission accomplishment, quality assurance, safety, and reliability. 
+2. CANCELS/SUPERSEDES.  DOE O 210.2A, DOE Corporate Operating Experience 
+Program, dated 04-08-11. 
+Cancellation of a directive does not, by itself, modify or otherwise affect any contractual 
+or regulatory obligation to comply with the directive.  Contractor Requirements 
+Documents (CRDs) that have been incorporated into a contract remain in effect 
+throughout the term of the contract unless and until the contract or regulatory 
+commitment is modified to either eliminate requirements that are no longer applicable or 
+substitute a new set of requirements. 
+3. APPLICABILITY. 
+a. Departmental Applicability.  Except for the exemptions in paragraph 3c, the 
+provisions of this Order apply to all Departmental Elements. 
+The National Nuclear Security Administration (NNSA) Administrator shall 
+ensure that NNSA employees comply with their respective responsibilities under 
+this Order.  Nothing in this directive shall be construed to interfere with the 
+NNSA Administrator’s authority under section 3212(d) of Public Law (P.L.) 
+106-65 to establish Administration-specific policies, unless disapproved by 
+the Secretary. 
+DOE O 210.2B
+
+--- page 2 ---
+2 DOE O 210.2B 
+ 08-05-2026 
+b. DOE Contractors.  Except for the equivalencies/exemptions in paragraph 3.c the 
+CRD, Attachment 1, sets forth requirements of this Order that apply to contracts 
+that include the CRD.  The CRD must be included in the contracts for the 
+operation, management, maintenance, construction, demolition, or remediation of 
+a DOE facility. 
+c. Equivalencies/Exemptions.  Equivalencies and exemptions to this Order are 
+processed in accordance with DOE O 251.1C, Departmental Directives Program. 
+(1) Equivalency.  In accordance with the responsibilities and authorities 
+assigned by Executive Order 12344, Naval Nuclear Propulsion Program, 
+codified at Title 50 United States Code (U.S.C.) §§  2406 and 2511, Naval 
+Nuclear Propulsion Program, and to ensure consistency through the joint 
+Navy/DOE Naval Nuclear Propulsion Program, the Deputy Administrator 
+for Naval Reactors (Director) will implement and oversee requirements 
+and practices pertaining to this Directive for activities under the Director’s 
+cognizance, as deemed appropriate. 
+(2) Exemption.  Consistent with Secretarial Delegation Order 
+Number 00033.00B to the Administrator and Chief Executive Officer, 
+Bonneville Power Administration (BPA), this Order does not apply 
+to BPA. 
+4. REQUIREMENTS. 
+a. Departmental Elements, including Headquarters and Field Elements, must 
+develop and implement an Operating Experience (OE) Program and identify and 
+designate an OE Program Coordinator.  The OE Program shall use a graded 
+approach when addressing the applicability of the following requirements and the 
+basis for this approach must be documented based upon the review and analysis 
+of the hazards and risks for the program and its operational activities. 
+b. Each organization must submit lessons learned from operating experience to the 
+DOE Corporate Lessons Learned Database when both: 
+(1) Operating experience has relevance to other DOE facilities, sites, or 
+programs; and 
+(2) Information has the potential to help avoid adverse operating incidents, for 
+performance improvements, or for cost savings. 
+c. The DOE Corporate Operating Experience Program has the following 
+requirements: 
+(1) A formal process must be established to review and evaluate operating 
+experience from DOE and related government or industry programs, 
+technologies, and facilities.  This requirement may be satisfied by regular 
+participation in the review of external events conducted by the Operating 
+Experience Committee (OEC).
+
+--- page 3 ---
+DOE O 210.2B  3 
+08-05-2026 
+(2) Routinely screen and assess internal and external operating experience to 
+identify significant issues and lessons learned that may be of safety 
+significance or have a bearing on the success of DOE missions and to 
+make them available to the DOE complex. 
+(3) Operating experience must be centrally collected, stored, and retrievable 
+to allow ready access to and communication of collected information on a 
+timely, unimpeded basis by all DOE elements. 
+5. RESPONSIBILITIES. 
+a. Deputy Secretary.  Approves Operating Experience Level 1 (OE-1) reports, as 
+needed, to inform the DOE complex of the most significant events or trends of 
+events in accordance with Appendix A. 
+b. NNSA Administrator and Program Secretarial Officers. 
+(1) Designate OE Program coordinators to fulfill responsibilities of this Order. 
+(2) Develop and promulgate relevant operating experience through the DOE 
+Corporate Operating Experience Program, including identified cross-
+cutting issues and trends and lessons learned following completion of 
+major program missions and contract transitions. 
+(3) Ensure appropriate coordination and response for DOE Corporate 
+Operating Experience Documents, in accordance with Appendix A. 
+(4) Ensure that operating experience is incorporated into applicable activities 
+and processes. 
+(5) As part of self-assessments conducted to evaluate organizational 
+performance in Integrated Safety Management (ISM), include an 
+assessment of the effectiveness of the organization’s operating 
+experience program. 
+c. Office of Health, Safety and Security. 
+(1) As the designated DOE Corporate Operating Experience Program Lead 
+Office, maintain and continuously improve the program and associated 
+databases (e.g., the DOE Corporate Lessons Learned Database). 
+(2) Develop, promulgate, and maintain program guidance materials. 
+(3) Assist DOE elements in implementing this Order. 
+(4) Collect and analyze internal operating experience information (e.g., from 
+occurrence reports, accident investigations, and site-specific input) to 
+identify and communicate significant-crosscutting issues and trends.
+
+--- page 4 ---
+4 DOE O 210.2B 
+ 08-05-2026 
+(5) Collect and analyze external operating experience information (e.g., from 
+other government agencies, industry organizations, or professional groups) 
+to identify and communicate significant issues and lessons learned 
+applicable to DOE. 
+(6) Develop and communicate performance trending and analysis information 
+from operating experience (e.g., daily occurrence summaries, weekly 
+reports, periodic safety management meeting materials, and occurrence 
+trend reports). 
+(7) Develop and distribute DOE Corporate Operating Experience Program 
+documents in accordance with Appendix A. 
+(8) Promote and manage the DOE OEC, the members of which perform 
+in-depth reviews of DOE and external operating experience to determine 
+its relevance and share both internal and external lessons learned. 
+(9) Perform annual self-assessment reviews on the effectiveness of the OE 
+Program to guide ongoing program improvement. 
+d. Heads of Field Elements and Contracting Activities; Heads of GOGO Sites; and 
+Heads of Sites Not Under the Cognizance of a DOE Field Element. 
+(1) Designate OE Program Coordinators who have access to senior 
+management to fulfill the responsibilities assigned by this Order. 
+(2) Develop and promulgate relevant operating experience through the 
+DOE Corporate Operating Experience Program, including lessons 
+learned following completion of major program missions and contract 
+transitions, and submit lessons learned to the DOE Corporate Lessons 
+Learned Database. 
+(3) Ensure appropriate coordination and responses for DOE Corporate 
+Operating Experience Documents, in accordance with Appendix A. 
+(4) Ensure that operating experience is incorporated into applicable activities 
+and processes. 
+(5) Identify contracts to which the CRD should apply and notify the cognizant 
+contracting officers. 
+(6) As part of self-assessments conducted to evaluate organizational 
+performance in Integrated Safety Management (ISM), include an 
+assessment of the effectiveness of the organization’s operating 
+experience program.
+
+--- page 5 ---
+DOE O 210.2B  5 
+08-05-2026 
+e. Operating Experience Program Coordinators. 
+(1) Serve as the point-of-contact for the DOE Corporate Operating 
+Experience Program. 
+(2) Support Program, Field Office, or Government Site Managers, as 
+requested, in implementing, managing, and overseeing the OE Program. 
+(3) Determine, with the help of subject-matter experts, the applicability and 
+significance of internal and external operating experiences and distribute 
+products, as applicable, for review, analysis, and potential action. 
+(4) Apprise senior management of any emergent operating experience issues 
+or adverse trends that need management attention. 
+(5) Participate in the OEC and OEC activities and tasks. 
+f. Contracting Officers.  Incorporate the CRD into contracts in a timely fashion 
+upon notification of its applicability. 
+6. DEFINITIONS. 
+a. Actions.  Responses to lessons learned.  Examples are: 
+(1) Corrective actions in response to occurrence analysis. 
+(2) Preventive actions to preclude the recurrence of a negative event. 
+(3) Improvement actions based on good work practices or 
+innovative approaches. 
+b. DOE Corporate Operating Experience Program Documents.  Publications defined 
+in Appendix A, DOE Corporate Operating Experience Program Documents. 
+c. Good Work Practice or Best Practice.  A positive example of work processes 
+with the potential to be the basis for significant operational improvements or 
+cost savings. 
+d. Lesson Learned.  A good work practice or innovative approach that is captured 
+and shared to promote repeat application or an adverse work practice or 
+experience that is captured and shared to prevent recurrence. 
+e. Operating Experience.  Information that relates to the methods by which work is 
+planned and conducted and an organization’s missions are performed.  Operating 
+experience provides the basis for knowledge and understanding that fosters 
+development of lessons learned and improvement of operational performance.
+
+--- page 6 ---
+6 DOE O 210.2B 
+ 08-05-2026 
+f. Operating Experience Committee.  A committee that performs in-depth reviews 
+of industry operating experience to determine its relevance to DOE and shares 
+both internal and external lessons learned. 
+g. Subject-Matter Expert (SME).  An individual with qualifications and experience 
+in a particular field or work process; an individual who by education, training, 
+and/or experience is a recognized expert on a particular subject, topic, or system. 
+7. REFERENCES. 
+(Note: DOE directives are available online at 
+www.directives.doe.gov/directives/current.html.) 
+a. Public Law 106-65, section 3212(d), Administrator for Nuclear Security—
+Policy Authority 
+b. 50 U.S.C. § 2406, Deputy Administrator for Naval Reactors 
+c. 50 U.S.C. § 2511, Naval Nuclear Propulsion Program 
+d. DOE O 251.1C, Departmental Directives Program 
+e. Executive Order 12344, Naval Nuclear Propulsion Program 
+8. CONTACT.  Questions concerning this order should be addressed to the Office of 
+Health, Safety and Security at EHSSWebTeam@hq.doe.gov. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ 
+JAMES P. DANLY 
+Deputy Secretary
+
+--- page 7 ---
+DOE O 210.2B Appendix A—Federal Employees Only 
+08-05-2026 Page A-1 
+APPENDIX A 
+DOE CORPORATE OPERATING EXPERIENCE PROGRAM DOCUMENTS 
+Operating 
+Experience 
+Document Purpose Developed By Distrib. Vehicle Issued By Issued To 
+Who Takes 
+Action Actions 
+Follow-up 
+Reports 
+Operating 
+Experience 
+Level 1 
+(OE-1) 
+To inform DOE complex of most 
+significant events or trends of 
+concern to DOE management, 
+including assessments and 
+required actions with close-out 
+verification in a formal response. 
+Operating Experience 
+(OPEX) Lead Office 
+and working group of 
+subject-matter experts 
+(SMEs) from across 
+DOE. 
+Formal 
+Correspondence 
+ 
+Lessons Learned 
+(LL) Webpage 
+Deputy 
+Secretary 
+(Dep Sec) 
+National Nuclear 
+Security 
+Administration 
+(NNSA) and DOE 
+Under Secretaries 
+(Under Secs) 
+For Action 
+Registered persons 
+are notified when 
+posted on Internet. 
+As directed Assessments; 
+decision of 
+applicability; actions 
+taken or planned 
+with dates; 
+verification of close-
+out. 
+Formal response 
+required through 
+Under Secs to 
+Dep Sec (copy to 
+OPEX Lead 
+Office) with 
+consolidated 
+report of actions 
+taken and 
+affirmation that 
+expectations are 
+met or will 
+be met by 
+required date. 
+Operating 
+Experience 
+Level 2 
+(OE-2) 
+To inform DOE complex (or 
+affected sites) of potentially 
+significant safety issues (e.g., 
+Conduct of Operations (CON-
+OPS); Suspect/Counterfeit or 
+Defective items (S/CI-D).  Must 
+include a statement of actions 
+required (or recommended for 
+NNSA) and formal method of 
+feedback. 
+OPEX Lead Office 
+and working group of 
+SMEs from across 
+DOE 
+Formal 
+Correspondence 
+ 
+LL Webpage 
+Chief, 
+Health, 
+Safety and 
+Security 
+Office 
+NNSA Principal 
+Deputy 
+Administrator and 
+Program Secretarial 
+Offices (PSOs) 
+For Action 
+Registered persons 
+are notified when 
+posted on Internet. 
+DOE, including 
+Government- 
+Owned/ 
+Government-
+Operated 
+(GOGO), 
+Elements and 
+Contractors, as 
+applicable 
+Review issue 
+(e.g., CON-OPS or 
+Purchasing for 
+S/CI-D) and take 
+appropriate action. ___
+
+--- page 8 ---
+Appendix A – Federal Employees Only DOE O 210.2B 
+Page A-2 08-05-2026 
+DOE CORPORATE OPERATING EXPERIENCE PROGRAM DOCUMENTS 
+Operating 
+Experience 
+Document Purpose Developed By Distrib. Vehicle Issued By Issued To 
+Who Takes 
+Action Actions 
+Follow-up 
+Reports 
+Operating 
+Experience 
+Level 3 
+(OE-3) 
+To inform Senior HQ and Field 
+Management when an events(s) 
+or a trend(s) warrants attention 
+by Senior HQ or Field 
+Management, but the issue does 
+not warrant on OE-1 or OE-2 
+report. Highlights important 
+environment, safety, and health 
+issues for senior management’s 
+attention and potential action. 
+OPEX Lead Office LL Webpage Office of 
+Health, 
+Safety and 
+Security 
+NNSA Principle 
+Deputy 
+Administrator and 
+PSOs.  Registered 
+persons are 
+notified when 
+posted on the 
+internet. 
+DOE, including 
+(GOGO), 
+Elements and 
+Contractors, as 
+applicable 
+As appropriate None 
+Operating 
+Experience 
+Summary 
+(OES) 
+To inform DOE complex of 
+DOE or external operating 
+experience from which sites 
+could benefit. Consists of a 
+complication of informative 
+operating experience-based 
+articles. 
+OPEX Lead Office Operating 
+Experience 
+Summary 
+webpage and 
+blog 
+OPEX 
+Lead 
+Office 
+Internet 
+distribution only.  
+Registered users 
+are notified when 
+posted on the 
+internet. 
+DOE, including 
+(GOGO), 
+Elements 
+As appropriate None
+
+--- page 9 ---
+DOE O 210.2B Appendix A—Federal Employees Only 
+08-05-2026 Page A-3 
+DOE CORPORATE OPERATING EXPERIENCE PROGRAM DOCUMENTS 
+Operating 
+Experience 
+Document Purpose Developed By 
+Distrib. 
+Vehicle Issued By Issued To 
+Who Takes 
+Action Actions 
+Follow-up 
+Reports 
+Suspect/ 
+Counterfeit 
+or Defective 
+Items 
+(S/CI-D) 
+Data 
+Collection 
+Sheet 
+(DCS) 
+To provide information on 
+S/CI-Ds with potential 
+impact to DOE operations. 
+Developed from review of 
+occurrence reports, the 
+Government/Industry Data 
+Exchange Program 
+(GIDEP), the Institute of 
+Nuclear Power (INPO), and 
+other sources. 
+OPEX Lead Office S/CI-D web 
+pages A limited 
+number sent by 
+push mail to a 
+registered users 
+list. 
+OPEX 
+Lead 
+Office 
+Internet 
+distribution only. 
+Registered users 
+are notified when 
+posted on the 
+internet. 
+DOE, 
+including 
+(GOGO), 
+Elements 
+As appropriate None 
+DOE 
+Lessons 
+Learned 
+(LL) 
+Report 
+To provide feedback 
+communications on 
+identified 
+program/mission-specific 
+lessons learned across the 
+DOE complex. 
+DOE 
+Complex-wide 
+DOE Corporate 
+LL Database 
+OPEX 
+Lead 
+Office 
+Internet 
+distribution only. 
+Registered users 
+are notified when 
+posted on the 
+internet. 
+DOE, 
+including 
+(GOGO), 
+Elements 
+As appropriate None
+
+--- page 10 ---
+DOE O 210.2B Attachment 1 – CRD, Contractors Only 
+08-05-2026 Page 1-1 
+ATTACHMENT 1 
+CONTRACTOR REQUIREMENTS DOCUMENT 
+DOE O 210.2B, DOE CORPORATE OPERATING EXPERIENCE PROGRAM 
+Regardless of the performer of the work, the contractor is responsible for complying with the 
+requirements of this Contractor Requirements Document (CRD) and flowing down CRD 
+requirements to subcontractors at any tier, using a graded approach based on risk to the extent 
+necessary to ensure contractor compliance.  
+1. REQUIREMENTS. 
+a. Establish an Operating Experience Program tailored to the nature of the work, 
+hazards, and organizational complexities to: 
+(1) Develop lessons learned that focus on preventing adverse trends and 
+events and on performance improvement or cost savings. 
+(2) Screen, distribute, and review DOE Corporate Operating Experience 
+Program Operating Experience Level 1, Level 2, and Level 3 documents 
+defined in Appendix A for site-specific relevance, risks, and 
+vulnerabilities, and consider incorporation into contractor activities and 
+processes, as appropriate. 
+b. Designate an Operating Experience Program Coordinator who can raise operating 
+experience issues to senior contractor management, support contractor managers 
+in implementing, managing, and overseeing the Operating Experience Program, 
+and serve as the point of contact for the DOE Corporate Operating 
+Experience Program. 
+c. Share contractor-specific lessons learned from operating experience with the DOE 
+complex through the DOE Corporate Lessons Learned Database when both 
+conditions are met: 
+(1) Operating experience has relevance to other DOE facilities, sites, or 
+programs; and 
+(2) Information has the potential to help avoid adverse operating incidents, for 
+performance improvements, or for cost savings.

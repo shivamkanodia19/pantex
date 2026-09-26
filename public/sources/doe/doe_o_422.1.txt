@@ -1,0 +1,249 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov Office of Environment, H ealth, Safety and Security 
+U.S. Department of Energy ORDER 
+ Washington, D.C.  
+Approved: 08-05-2026 
+ 
+SUBJECT:  CONDUCT OF OPERATIONS 
+1. PURPOSE.  The United States Department of Energy (DOE) must implement a conduct 
+of operations framework to support mission success and to protect workers, the public, 
+and the environment by promoting disciplined and structured operations and by 
+minimizing the likelihood and consequences of human fallibility and technical and 
+organizational system failures. 
+The Department must use DOE Facility Representative programs to provide line 
+management operational awareness and oversight consistent with DOE-STD-1063-2021, 
+DOE Standard Facility Representatives (Invoked). 
+2. CANCELS/SUPERSEDES.  DOE O 422.1, Chg. 4 (LtdChg), Conduct of Operations, 
+dated June 29, 2010.  Cancellation of a directive does not, by itself, modify or otherwise 
+affect any contractual or regulatory obligation to comply with the directive.  Contractor 
+Requirements Documents (CRDs) that have been incorporated into a contract remain in 
+effect throughout the term of the contract unless and until the contract or regulatory 
+commitment is modified to either eliminate requirements that are no longer applicable or 
+substitute a new set of requirements. 
+3. APPLICABILITY. 
+a. Departmental Applicability.  This Order applies to Departmental Elements that 
+direct, manage, oversee, or perform operations in DOE Hazard Category 1, 2, and 
+3 nuclear facilities. 
+b. National Nuclear Security Administration (NNSA).  The Administrator of the 
+NNSA must ensure that NNSA employees comply with their responsibilities 
+under this Order.  Nothing in this Order must be construed to interfere with the 
+NNSA Administrator’s authority under Section 3212(d) of Public Law 106-65, 
+National Nuclear Security Administration Act, to establish Administration-
+specific policies, unless disapproved by the Secretary. 
+DOE O 422.1A
+
+--- page 2 ---
+2 DOE O 422.1A 
+ 08-05-2026 
+c. DOE Contractors.  The requirements of this Order shall be incorporated into 
+applicable contracts, including Management and Operating (M&O) contracts.  
+The contractor is responsible for flowing down the requirements of this CRD, if 
+applicable.  Contractors shall comply with the requirements of applicable federal, 
+state, and local laws and regulations in carrying out the requirements of this Order 
+unless relief has been granted in writing.  Omission of any applicable law or 
+regulation from the Order does not affect the obligation of the contractor to 
+comply with such law or regulation.  Contractors must comply with the 
+requirements of this Order, except to the extent modified by the equivalencies or 
+exemptions identified herein or issued to the contractor in writing by DOE 
+utilizing the process outlined in DOE O 251.1E, Departmental Directives 
+Program, including as amended or updated. 
+4. CONDUCT OF OPERATIONS PROGRAM REQUIREMENTS. 
+a. Organization and Administration.  The operator must establish policies, programs, 
+and procedures that define an effective operations organization, including the 
+following elements: 
+(1) Organizational roles, responsibilities, authority, and accountability; 
+(2) Adequate material and personnel resources to accomplish operations; 
+(3) Monitoring and self-assessment of operations; 
+(4) Methods for approving, posting, maintaining, and controlling access to 
+electronic operations documents (procedures, drawings, schedules, 
+maintenance actions, etc.) if electronic documents are used. 
+b. Shift Routines and Operating Practices.  The operator must establish and 
+implement operations practices to ensure that shift operators are alert, informed of 
+conditions, and operate equipment properly, addressing the following elements: 
+(1) Prompt notification to operating personnel and supervisors of changes in 
+the facility status, abnormalities, or difficulties encountered in performing 
+assigned tasks; 
+(2) Awareness by operating personnel of the status of equipment through 
+inspection, conducting checks, and tours of equipment and work areas; 
+(3) Procedures for completing round sheets or inspection logs, responding to 
+abnormal conditions, and periodic supervisory reviews of round sheets or 
+inspection logs; 
+(4) Prompt response to instrument indications, including the use of multiple 
+indications to obtain parameters;
+
+--- page 3 ---
+DOE O 422.1A 3 
+08-05-2026 
+(5) Procedures for resetting protective devices; and 
+(6) Professional and disciplined operator performance of duties. 
+c. Control Area Activities.  The operator must establish and implement operations 
+practices that promote orderly, and business-like control area operations. 
+d. Communications.  The operator must establish and implement operations 
+practices that ensure accurate, unambiguous communication among operations 
+personnel. 
+e. On-Shift Training.  The operator must establish and implement operations 
+practices that control on-shift training of facility operators designed to prevent 
+inadvertent or incorrect trainee manipulation of equipment. 
+f. Control of Equipment and Systems Status.  The operator must establish and 
+implement operations practices for initial equipment lineups and subsequent 
+changes to ensure facilities operate with known, proper configuration as designed, 
+addressing the following elements: 
+(1) Authorization for, and awareness of, equipment and system status 
+changes; 
+(2) Initial system alignment and maintaining control of equipment and system 
+status through startup, operation, and shutdown, and documentation status; 
+(3) Management of equipment deficiencies, maintenance activities, post-
+maintenance testing, and return to service; 
+(4) Awareness and documentation of control panel and local alarm issues; 
+(5) Control of temporary equipment modifications and temporary 
+systems; and 
+(6) Configuration control of engineering documents. 
+g. Lockout/Tagout (LO/TO) and Electrical Safety.  The operator must establish and 
+implement operations practices that address the following elements for the 
+installation and removal of LO/TO: 
+(1) When controlling hazardous energy for the protection of personnel and 
+equipment, comply with 29 CFR § 1910, Occupational Safety and Health 
+Standards, and/or 29 CFR § 1926, Safety and Health Regulations for 
+Construction, requirements.
+
+--- page 4 ---
+4 DOE O 422.1A 
+ 08-05-2026 
+(2) When performing electrical work, comply with National Fire Protection 
+Association Standard (NFPA) 70E, Standard for Electrical Safety in the 
+Workplace, electrical safety requirements using LO/TO. 
+(3) LO/TO training and qualification. 
+h. Interdependent Verification and Concurrent Dual Verification.  The operator must 
+establish and implement operations practices to verify that critical equipment 
+configuration is in accordance with controlling documents, addressing the 
+following elements: 
+(1) Structures, systems, components, operations, and programs requiring 
+independent verification; 
+(2) Situations requiring independent verification; 
+(3) Methods for performing and documenting independent verification; 
+(4) Situations, if any, allowing concurrent dual verification; and 
+(5) Methods for performing concurrent dual verification, if used. 
+i. Log Keeping.  The operator must establish and implement operations practices to 
+ensure thorough, accurate, and timely recording of equipment information, 
+addressing the following elements: 
+(1) Narrative logs at all key positions, as defined by management, for the 
+recording of pertinent information; 
+(2) Prompt and accurate recording of information; 
+(3) Type, scope, and format for log entries; 
+(4) Method for recording late entries and correcting erroneous entries without 
+obscuring the original entry; 
+(5) Periodic supervisory reviews for accuracy, adequacy, and trends; and 
+(6) Document retention requirements. 
+j. Turnover and Assumption of Responsibilities.  The operator must establish and 
+implement operations practices for thorough, accurate transfer of information and 
+responsibilities at shift or operator relief to ensure continued safe operation. 
+k. Control of Interrelated Process.  The operator must establish and implement 
+operations practices to ensure that interrelated processes do not adversely affect 
+facility safety or operations.
+
+--- page 5 ---
+DOE O 422.1A 5 
+08-05-2026 
+l. Timely Instructions/Order.  The operator must establish and implement operations 
+practices for timely written direction and guidance from management 
+to operators. 
+m. Operator Aids.  The operator must establish and implement operations practices 
+to provide accurate, current, and approved operator aids, addressing the 
+following element: 
+(1) Technical evaluation and management approve of operator aids; 
+(2) Operator aids serve as conveniences, not operational requirements; 
+(3) Operator aids do not obscure equipment; 
+(4) Administrative control of installed operational aids is maintained; and 
+(5) Periodic reviews determine adequacy and correctness. 
+n. Component Labeling.  The operator must establish and implement operations 
+practices for clear, accurate equipment labeling, addressing the 
+following elements: 
+(1) Durable and securely attached labels that do not interfere with controls or 
+equipment; and 
+(2) Administrative control of labels, including a process for promptly 
+identifying and replacing lost or damaged labels, preventing unauthorized 
+or incorrect labels, and control of temporary labels. 
+5. RESPONSIBILITIES. 
+a. Program Secretarial Offices. 
+(1) Determine applicability of this Order to facilities under their cognizance 
+that are other than Hazard Category 1, 2, or 3 nuclear facilities. 
+(2) For government-owned/government-operated activities under their 
+cognizance, approve or designate the approval authority for conduct of 
+operations documentation prepared to implement this Order. 
+b. Office of Environment, Health, Safety and Security. 
+(1) Conduct training as necessary to support implementation of this Order. 
+c. Office of Enterprise Assessments.  Plan and conduct assessments to determine 
+compliance with the requirements of this Order.
+
+--- page 6 ---
+6 DOE O 422.1A 
+ 08-05-2026 
+d. Heads of Field Elements. 
+(1) Ensure contracts are managed such that applicable requirements of this 
+Order are incorporated into affected contracts via the laws, regulations, 
+and DOE Directives clause (Department of Energy Acquisition 
+Regulation 970.5204-2, Laws, Regulations, and DOE Directives) when 
+present, or via other appropriate contract actions when not present. 
+(2) Must provide direction and oversight for implementation of conduct of 
+operations programs consistent with this Order and must oversee 
+contractor conduct of operations performance. 
+(3) Must assign DOE Facility Representatives to oversee conduct of 
+operations in accordance with DOE-STD-1063-2021. 
+e. Contracting Officer. 
+For all applicable contracts and upon notification that a site/facility management 
+contract is affected by this Order, the contracting officer(s) shall incorporate the 
+requirements into the affected contract(s) via the “Laws, Regulations, and DOE 
+Directives” clause of the contract, or through negotiation and modification, as 
+appropriate. 
+6. INVOKED STANDARDS. 
+The following DOE technical standards and industry standards are invoked as required 
+methods in this Order in accordance with the applicability and conditions described 
+within this Order.  Any technical standard or industry standard that is mentioned in or 
+referenced by this Order, but is not included in the list below, is not invoked by this 
+Order.  Note: DOE O 251.1D, Departmental Directives Program, Appendix J, provides a 
+definition for “invoked technical standard.” 
+a. DOE-STD-1063-2021, facility representatives are required to be implemented by 
+DOE Field Elements for the management of the Facility Representative programs. 
+7. REFERENCES. 
+a. Public Law 106-65, Title XXXII, National Nuclear Security Administration Act, 
+as amended. 
+b. 10 CFR § 830, Nuclear Safety Management 
+c. 29 CFR § 1910, Occupational Safety and Health Standards 
+d. 29 CFR § 1926, Safety and Health Regulations for Construction 
+e. NFPA 70E, Standard for Electrical Safety in the Workplace.
+
+--- page 7 ---
+DOE O 422.1A 7 
+08-05-2026 
+f. Department of Energy Acquisition Regulation (DEAR) 970.5204-2, “Laws, 
+Regulations, and DOE Directives” 
+g. Institute of Nuclear Power Operations (INPO) 15-002, “Conduct of Operations” 
+h. DOE O 251.1D and 251.1E, Departmental Directives Program. 
+i. DOE-STD-1063-2021, DOE Standard Facility Representatives (Invoked). 
+j. DOE-HDBK-1226-2019, Conduct of Operations Implementation. 
+8. DEFINITIONS. 
+a. Concurrent Dual Verification.  Method of checking an operation or calculation 
+where the verifier independently observes and/or confirms the operation 
+or calculation. 
+b. Conduct of Operations Program.  Formal documentation, practices, and actions 
+implementing disciplined and structured operations that support the safe 
+performance of work and mission success. 
+c. Control Area.  Physical area (e.g., room, booth, desk) where facility operations 
+are monitored and controlled. 
+d. Facility Representative.  Individual assigned by the DOE field element manager 
+(or designee) for monitoring safe and efficient performance of the site/facility 
+and operations. 
+e. Independent Verification.  Act of checking, by a separate qualified person, that a 
+given operation or component position conforms to established criteria. 
+f. Interrelated Processes.  Processes or activities that can affect operations but are 
+under control of people other than the affected operators. 
+g. Operations.  General term for work activities accomplished by the facility or 
+project, including but not limited to operating, maintenance, technical, and 
+laboratory analysis activities. 
+9. CONTACT.  Questions concerning this Order should be addressed to the Office of 
+Nuclear Safety at (301) 903-3331. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ 
+JAMES P. DANLY 
+Deputy Secretary

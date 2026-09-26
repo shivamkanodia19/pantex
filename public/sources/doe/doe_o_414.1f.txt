@@ -1,0 +1,500 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov Office of Environment, Health, Safety and Security 
+U.S. Department of Energy ORDER 
+ Washington, D.C.  
+Approved: 08-05-2026 
+ 
+SUBJECT: QUALITY ASSURANCE 
+1. PURPOSE.  To establish an integrated Quality Assurance Program (QAP) that assures: 
+a. Controls for the conduct of work, 
+b. The meeting of requirements, and; 
+c. Achievement of organizational mission needs. 
+2. CANCELS/SUPERSEDES.  United States Department of Energy (DOE) Order 
+(O) 414.1E, Quality Assurance, dated December 18, 2024. 
+Cancellation of a Directive does not, by itself, modify or otherwise affect any contractual 
+or regulatory obligation to comply with the Directive.  Contractor Requirements 
+Documents (CRDs) that have been incorporated into a contract remain in effect 
+throughout the term of the contract unless and until the contract or regulatory 
+commitment is modified to either eliminate requirements that are no longer applicable or 
+substitute a new set of requirements. 
+3. APPLICABILITY. 
+a. Departmental Applicability.  Except for the equivalencies and exemptions in 
+paragraphs 3.c. and 3.d., this Order applies to all Departmental Elements, and their 
+associated Field Elements.1 
+The Administrator of the National Nuclear Security Administration (NNSA) must 
+ensure that NNSA employees comply with their responsibilities under this 
+Directive.  Nothing in this Directive will be construed to interfere with the NNSA 
+Administrator’s authority under section 3212(d) of Public Law (P.L.) 106-65 to 
+establish Administration-specific policies, unless disapproved by the Secretary. 
+Except for the equivalencies and exemptions in paragraph 3.c: 
+(1) This Order applies to all work conducted by or for DOE. 
+(2) Applicable requirements of the CRD set forth in this Order apply to 
+government-owned government-operated facilities and federally 
+staffed laboratories. 
+ 
+1  Operations offices, service centers, site offices, area offices, field offices, government-owned government-
+operated facilities, and regional offices of federally staffed laboratories that report directly to a DOE 
+Headquarters office. 
+DOE O 414.1F
+
+--- page 2 ---
+2 DOE O 414.1F 
+ 08-05-2026 
+b. DOE Contractors.  Except for the equivalencies and exemptions in paragraph 3.c., 
+the CRD sets forth requirements of this Order that will apply to contracts that 
+include the CRD.  Except for the equivalencies and exemptions in paragraph 3.c., 
+this CRD must be included in contracts for the management or operation of DOE-
+owned or -leased areas or locations or other areas or locations controlled by DOE 
+where activities and operations are performed at one or more facilities or places 
+by a contractor (i.e., those contracts that include the DOE Acquisition Regulations 
+[DEAR] clause at 48 CFR § 970.5204-2, laws, regulations and DOE directives) 
+and that require or involve responsibility for work that affects or may affect DOE 
+sites, facilities, programs or activities (including work that may take place outside 
+the physical boundaries of a DOE facility, such as design or analytical services).  
+For all other contracts involving or requiring this type of work, the applicable 
+requirements set forth in the CRD must be included in the contract terms and 
+conditions. 
+c. Equivalencies/Exemptions for DOE O 414.1F.  Any exemption or equivalency to 
+this Order affecting nuclear facilities requires concurrence from the appropriate 
+Central Technical Authority (CTA) per DOE O 410.1, Central Technical 
+Authority Responsibilities Regarding Nuclear Safety Requirements, current 
+version. 
+(1) Equivalency.  In accordance with the responsibilities and authorities 
+assigned by Executive Order 12344, Naval Nuclear Propulsion Program, 
+codified at 50 United States Code §§ 2406, Deputy Administrator for 
+Naval Reactors, and 2511, Naval Nuclear Propulsion Program, and to 
+ensure consistency through the joint Navy/DOE Naval Nuclear Propulsion 
+Program, the Deputy Administrator for Naval Reactors (Director) will 
+implement and oversee requirements and practices pertaining to this 
+Directive for activities under the Director’s cognizance, as deemed 
+appropriate. 
+(2) Exemption.  Activities and facilities subject to regulation by the Nuclear 
+Regulatory Commission (NRC) are exempt from the requirements of this 
+Order.  Requirements in this Order that overlap or duplicate the 
+requirements of the NRC do not apply to facilities or activities (including 
+design, construction, operation, deactivation and decommissioning) that 
+are subject to an NRC license (including construction authorization) and 
+related NRC regulatory authority.  Other requirements in this Order may 
+be applied to the extent determined appropriate by the responsible 
+Program Office. 
+d. Financial Assistance.  This Order does not apply to federal oversight of financial 
+assistance awards.
+
+--- page 3 ---
+DOE O 414.1F 3 
+08-05-2026 
+4. REQUIREMENTS. 
+a. Quality Assurance Program Development and Implementation.  Each 
+Departmental Element and associated Field Element must identify and assign an 
+individual within its organization to have responsibility, authority, and 
+accountability for QAP development, implementation, assessment, maintenance, 
+and improvement.  The organization must develop a QAP and its Quality 
+Assurance Program Description (QAPD) and then implement the approved QAP.  
+The QAP must implement the quality assurance (QA) requirements found in 
+Attachment 2 for all work and all facilities.  The QAP, as documented in the 
+QAPD, must: 
+(1) Apply the Graded Approach: Where appropriate, a graded approach must 
+be used to implement the requirements of the QAP. 
+(a) Graded approach means the process of ensuring that the level of 
+analysis, documentation, and actions used to comply with a 
+requirement are commensurate with: 
+1 The relative importance to safety, safeguards, and security; 
+2 The magnitude of any hazard involved; 
+3 The life-cycle stage of a facility; 
+4 The programmatic mission of a facility; 
+5 The particular characteristics of a facility; 
+6 The relative importance to radiological and non-radiological 
+hazards; and 
+7 Any other relevant factors (10 CFR § 830.3). 
+(b) The basis of the graded approach must be documented for each 
+applicable quality assurance requirement of this Order and be 
+submitted to DOE as part of the QAPD.  The graded approach must 
+not be used to negate any applicable requirements. 
+(2) The QAPD must describe how the requirements in Attachment 2 are met. 
+(3) The applicable QA requirements and responsibilities must be flowed down 
+throughout all levels of the Departmental Element and associated 
+Field Office.
+
+--- page 4 ---
+4 DOE O 414.1F 
+ 08-05-2026 
+(4) The Departmental Element and associated Field Element will document 
+the selection of appropriate national or international voluntary consensus 
+standard, or other standards. 
+(a) The necessary level of detail from the standards must be described 
+during development of the QAP to achieve quality consistent with 
+contractual and regulatory requirements, and Secretarial 
+Officer direction. 
+(b) Gaps between the selected consensus standards and Attachment 2 
+must be addressed within the QAPD. 
+b. Quality Assurance Program Approval and Changes.  Each Departmental Element 
+and associated field elements must: 
+(1) Obtain QAPD approval by the designated DOE QA Approval Authority. 
+(a) The QAPD must adequately prescribe the flow down of quality 
+requirements to working level processes (i.e., procedures, 
+instructions, or any other similar term used in the 
+implementing documents). 
+(b) The selection of the voluntary consensus standards used to develop 
+the working level processes of the QAP must be described. 
+(2) Review the QAP and update as needed.  Submit a summary of any 
+proposed substantive changes and the modified QAPD to the DOE QA 
+Approval Authority.  Editorial changes that do not reduce provisions of 
+the QAP or QAPD do not require approval. 
+(3) Implement the QAP as approved. 
+(4) Regard the QAP as approved 30 calendar days after receipt by the DOE 
+QA Approval Authority, unless approved or rejected at an earlier date. 
+c. Federal Technical Capability and Qualifications.  Qualification for the functional 
+areas identified in paragraphs 4.c.(1) and (2) must be achieved as provided in 
+DOE O 426.1, Department of Energy Federal Technical Capabilities, 
+current version. 
+(1) Federal personnel directly responsible for the oversight of quality 
+requirements governing defense nuclear facilities must be qualified in 
+accordance with the DOE Federal Technical Capability Program. 
+(See DOE O 426.1, current version, for specific requirements.  See 
+DOE-STD-1150-2013, Quality Assurance Functional Area Qualification 
+Standard, or latest revision, for other acceptable methods).
+
+--- page 5 ---
+DOE O 414.1F 5 
+08-05-2026 
+(2) Federal personnel directly responsible for oversight of safety software 
+quality assurance activities of defense nuclear facilities must be qualified 
+in accordance with the DOE Federal Technical Capability Program 
+(see DOE O 426.1, current version, for specific requirements.  See 
+DOE-STD-1172-2011, Safety Software Quality Assurance 
+Functional Area Qualification Standard, or latest revision, for 
+other acceptable methods). 
+d. Review and Approval of Contractor Quality Assurance Program.  The designated 
+DOE QA Approval Authority must identify the personnel responsible for 
+conducting the review of a contractor’s QAP.  The personnel responsible for 
+conducting the review of a contractor’s QAP must: 
+(1) When submitted by the contractor per the requirements of Attachment 1, 
+Section 2. 
+(a) Ensure that the QAPD adequately prescribes the flow down of the 
+Attachment 2 requirements to working level processes. 
+(b) Ensure an appropriate national or international voluntary 
+consensus standard or portions of standards are selected as the basis 
+for the program.  Gaps between the selected consensus standards 
+and Attachment 2 must be addressed within the QAPD. 
+(2) Document the results of the review including any programmatic gaps. 
+(3) If the review results and identified programmatic gaps preclude QAP 
+approval, direct the contractor to address the issues preventing approval.  
+Upon correction and resubmittal, review the contractor QAP per 
+section 4.d.(1). 
+(4) Following a satisfactory review, submit the review documentation to the 
+DOE QA Approval Authority for final approval.  Formally document the 
+approval and issue to the contractor. 
+5. RESPONSIBILITIES. 
+a. Deputy Secretary. 
+(1) Ensure implementation of DOE QA requirements throughout 
+the Department. 
+(2) Provide leadership for QA program development and implementation with 
+the support of the Office of Environment, Health, Safety, and Security 
+(EHSS).
+
+--- page 6 ---
+6 DOE O 414.1F 
+ 08-05-2026 
+b. Program Secretarial Officers (PSO). 
+(1) Notify cognizant Contracting Officers, (for other than field-issued 
+contracts), of those Contractors that should include the CRD or its 
+requirements, as appropriate, in their organization’s contracts.  The PSO 
+has the authority to direct the Contracting Officer, as necessary, to ensure 
+appropriate quality requirements are implemented by the contractor. 
+(2) For PSOs, other than the NNSA, act as the QA Approval Authority or 
+delegate such authority, as appropriate, for QAPs within the Secretarial 
+Officer’s organization, and the DOE Field Elements and Contractors 
+within the purview of that Secretarial Office.  The NNSA Secretarial 
+Officers act as the QA Approval Authority for QAPs within the Secretarial 
+Officer’s organization. 
+(3) Provide direction and resources for implementing QA requirements for 
+work within their purview and ensure that the appropriate staff is qualified 
+as specified in paragraph 4.c. 
+(4) Ensure development and approval of the QAP governing the work of their 
+respective organization that meets the requirements of paragraph 4 of 
+this Order. 
+(5) Ensure reviews of their PSO’s QAP are performed per paragraph 4.b.(2) of 
+this Order. 
+(6) For PSOs other than NNSA, ensure review and approval of new or revised 
+QAPs for: 
+(a) Field Elements under their purview; and 
+(b) Contractors within the purview of the PSO if approval authority is 
+not delegated. 
+(7) Ensure the QAPs are reviewed, and either rejected or approved within 
+30 calendar days of receipt.  Requests for review/approval that are not 
+approved or rejected within 30 calendar days from receipt will be 
+deemed approved. 
+c. Field Element Managers (FEMs). 
+(1) Notify Contracting Officers for field-issued contracts which Contractors 
+are affected by this Order.  The Secretarial Officer has the authority to 
+direct the Contracting Officer, as necessary, to ensure appropriate quality 
+requirements are implemented by the contractor.
+
+--- page 7 ---
+DOE O 414.1F 7 
+08-05-2026 
+(2) For FEMs of sites other than NNSA sites where approval authority is 
+delegated to the FEM, designate a reviewer and approve any new or 
+revised QAPs for work under the FEM’s purview.  Where authority is not 
+delegated to the FEM, review, comment on, and submit the QAPs to the 
+Secretarial Officer for approval. 
+(3) For FEMs of NNSA sites, designate a reviewer and approve any new or 
+revised QAPs for work under the FEM’s purview, including the FEM and 
+contractor QAPs. 
+(4) Provide resources and staff to meet the provisions of this Order and 
+ensure that appropriate staff is qualified, as specified in paragraph 4.c of 
+this Order. 
+(5) Ensure reviews of the Field Element QAP are performed per 
+paragraph 4.b.(2) of this Order and update, as necessary.  Obtain approval 
+of the modified QAPD by the DOE QA Approval Authority. 
+d. Contracting Officers.  Incorporate the CRD into appropriate contracts in a timely 
+manner upon notification of their applicability. 
+e. Director of the Office of Environment, Health, Safety and Security.  In addition to 
+Secretarial Officer duties prescribed in paragraph 5.b, the Director of the Office of 
+Environment, Health, Safety and Security has the following responsibilities: 
+(1) Quality Policy. 
+(a) Act as the Office of Primary Interest (OPI) for this Order by 
+meeting the requirements of the OPI described in DOE O 251.1, 
+Departmental Directives Program, current version. 
+(b) Develop and propose QA policies and requirements (including 
+those contained in this Order, 10 CFR § 830 Subpart A, Quality 
+Assurance), and related guides and standards for all DOE work. 
+(c) Provide advice and assistance to DOE elements and Contractors 
+concerning implementation of this Order. 
+(d) Serve as central point of contact for coordination within DOE and 
+the liaison with other agencies and groups for the development of 
+QA policy, requirements, guides, and standards. 
+(e) Review proposed statutes, regulations, standards, DOE directives, 
+and Defense Nuclear Facilities Safety Board documents for 
+applicability to and potential impact on DOE Quality programs. 
+(2) Quality Program Support.  Identify and propose resolutions for crosscutting 
+QA issues within the Department to improve implementation.
+
+--- page 8 ---
+8 DOE O 414.1F 
+ 08-05-2026 
+6. INVOKED STANDARDS.  This Order invokes Federal Acquisition Regulation 
+(FAR) 52.246-26, Reporting Nonconforming Items.  Any technical standard or industry 
+standard that is mentioned in or referenced by this Order is not invoked by this Order.  
+Note: DOE O 251.1, current version, provides a definition for “invoked 
+technical standard.” 
+7. DEFINITIONS. 
+a. Nonreactor Nuclear Facility.  Facilities, activities or operations that involve, or 
+will involve, radioactive and/or fissionable materials in such form and quantity 
+that a nuclear or a nuclear explosive hazard potentially exists to workers, the 
+public, or the environment, but does not include accelerators and their operations 
+and does not include activities involving only incidental use and generation of 
+radioactive materials or radiation such as check and calibration sources, use of 
+radioactive sources in research and experimental and analytical laboratory 
+activities, electron microscopes, and X-ray machines. 
+b. Nuclear Facility.  A reactor or a nonreactor nuclear facility where an activity is 
+conducted for or on behalf of DOE and includes any related area, structure, 
+facility, or activity to the extent necessary to ensure proper implementation of 
+the requirements. 
+c. Quality Assurance Program (QAP).  The overall program or management system 
+established to assign responsibilities and authorities, define policies and 
+requirements, and provide for the performance and assessment of work. 
+d. Quality Assurance Program Description (QAPD).  A document describing how 
+the quality assurance requirements of Attachment 2 to this Order and any 
+additional contractual and federal quality-related requirements are met. 
+8. REFERENCES.  The following documents provide guidance and/or related requirements 
+for implementing this Order.  DOE directives are available at 
+http://www.directives.doe.gov. 
+a. P.L. 106-65, Department of Defense Authorization Act of 2000. 
+b. 10 CFR § 830, Nuclear Safety Management. 
+c. Executive Order 12344, “Naval Nuclear Propulsion Program,” dated February 1. 
+1982. 
+d. DOE O 410.1, Central Technical Authority Responsibilities Regarding Nuclear 
+Safety Requirements, current version. 
+e. FAR 52.246-26, “Reporting Nonconforming Items.” 
+f. DOE O 426.1, Department of Energy Federal Technical Capabilities. 
+g. DOE O 251.1, Departmental Directives Program.
+
+--- page 9 ---
+DOE O 414.1F 9 
+08-05-2026 
+9. CONTACT.  Questions concerning this Order should be addressed to the Office of 
+Environment, Health, Safety and Security. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ 
+JAMES P. DANLY 
+Deputy Secretary
+
+--- page 10 ---
+DOE O 414.1F Attachment 1 – CRD, Contractors Only 
+08-05-2026 Page 1-1 
+ATTACHMENT 1 
+CONTRACTOR REQUIREMENTS DOCUMENT 
+DOE O 414.1F, QUALITY ASSURANCE 
+Regardless of the performer of the work, the contractor is responsible for complying with the 
+requirements of this Contractor Requirements Document (CRD).  The contractor is responsible 
+for flowing down the applicable requirements of this CRD throughout its organization, to its 
+subcontractors at any tier and its vendors and suppliers, to ensure compliance with the 
+requirements of this CRD and for the safe performance of work. 
+This CRD also incorporates Attachment 2 to Department of Energy (DOE) Order (O) 414.1F, 
+referenced in and made a part of this CRD, which provides additional program requirements 
+and/or information applicable to contracts in which this CRD is inserted. 
+Requests for equivalencies and exemptions to the requirements of this CRD are to be made via 
+the cognizant Contracting Officer.  Any exemption or equivalency to this Order affecting nuclear 
+facilities requires concurrence from the appropriate Central Technical Authority (CTA). 
+For those activities, items, or services that affect or may affect the safety of DOE (including 
+National Nuclear Security Administration [NNSA]) nuclear facilities, the contractor must 
+comply with 10 CFR § 830.  The requirements contained within this Order do not contradict 
+10 CFR § 830.  When regulations are stricter than this CRD, the contractor must comply with the 
+regulations, as applicable, and comply with this CRD, in addition to the regulations. 
+1. QUALITY ASSURANCE PROGRAM DEVELOPMENT. 
+a. The Contractor is responsible for developing and documenting a Quality 
+Assurance Program (QAP) in compliance with the contract scope of work, while 
+meeting the requirements of this CRD, including Attachment 2 to DOE O 414.1F. 
+b. QAP development must account for the integration of additional contractual and 
+federal quality-related requirements. 
+c. The contractor must identify and assign an individual within their organization to 
+have responsibility, authority, and accountability for QAP development, 
+implementation, assessment, maintenance, and improvement. 
+2. QUALITY ASSURANCE PROGRAM APPROVAL AND CHANGES. 
+The Contractor must: 
+a. Submit a Quality Assurance Program document (QAPD) to DOE or NNSA for 
+approval within 90 days of being awarded a DOE contract containing this CRD. 
+(1) The QAPD must be a summary of the QAP. 
+(2) The QAPD must adequately prescribe the flow down of requirements to 
+working level processes (e.g., procedures, instructions, or any other 
+similar term used in the implementing documents.)
+
+--- page 11 ---
+Attachment 1 – CRD, Contractors Only DOE O 414.1F 
+Page 1-2 08-05-2026 
+(3) The selection of the voluntary consensus standards used to develop the 
+working level processes of the QAP must be described.  Gaps between the 
+selected consensus standards and Attachment 2 of this Order must be 
+addressed within the QAPD. 
+(4) The QAPD must also provide a summary explaining the graded approach. 
+(a) Graded approach means the process of ensuring that the level of 
+analysis, documentation, and actions used to comply with a 
+requirement are commensurate with: 
+1 The relative importance to safety, safeguards, and security; 
+2 The magnitude of any hazard involved; 
+3 The life-cycle stage of a facility or item; 
+4 The programmatic mission of a facility; 
+5 The particular characteristics of a facility or item; 
+6 The relative importance to radiological and non-radiological 
+hazards; and 
+7 Any other relevant factors (10 CFR 830.3). 
+The basis of the graded approach must be documented for 
+applicable quality assurance requirement in this CRD, and 
+that documentation must be submitted to DOE as part of the 
+QAPD.  The graded approach must not be used to negate 
+any applicable requirements. 
+(5) The QAPD must describe how the requirements of this CRD are met. 
+(6) The QAP will be regarded as approved by DOE 30 calendar days after 
+receipt by DOE unless the QAPD is approved or rejected at an earlier date.  
+The QAP will be considered received upon acknowledgement by the 
+receiving organization. 
+b. Implement the QAP per the approval issued by DOE. 
+c. Modify the QAP as directed by the designated DOE contracting authority. 
+d. Review the QAP and update as needed.  Submit a summary of any proposed 
+substantive changes and the modified QAPD to the DOE QA Approval Authority.  
+Editorial changes that do not reduce provisions of the QAP or QAPD do not 
+require approval.
+
+--- page 12 ---
+DOE O 414.1F Attachment 2 – Fede ral Employees and Contractors 
+08-05-2026 Page 2-1 
+ATTACHMENT 2 
+QUALITY ASSURANCE REQUIREMENTS 
+This Attachment provides requirements associated with Department of Energy (DOE) Order 
+(O) 414.1F as well as requirements applicable to contracts in which the associated CRD 
+(Attachment 1 to DOE O 414.1F) is inserted.  The requirements are in Part A for general quality 
+assurance (QA) criteria, and Part B for safety software QA. 
+1. Part A, Quality Assurance Criteria. 
+For all work performed by and for the Department, the Quality Assurance Program (QAP) 
+must establish, identify, and implement processes for: 
+2. Criterion 1, Management/Program. 
+a. Establish an organizational structure, functional responsibilities, levels of 
+authority, and interfaces for those managing, performing, and assessing the work. 
+b. Establish management processes, including planning, scheduling, and providing 
+resources for the work. 
+3. Criterion 2, Management/Personnel Training and Qualification. 
+a. Train and qualify personnel to be capable of performing their assigned work. 
+b. Provide continuing training to personnel to maintain their job proficiency. 
+4. Criterion 3, Management/Quality Improvement. 
+a. Establish and implement processes to detect and prevent quality problems. 
+b. Identify, control, and correct items, services, and processes that do not meet 
+established requirements. 
+c. Identify the causes of problems and include prevention of recurrence as a part of 
+corrective action planning. 
+d. Review item characteristics, process implementation, and other quality-related 
+information to identify items, services, and processes needing improvement. 
+5. Criterion 4, Management/Documents and Records. 
+a. Prepare, review, approve, issue, use, and revise documents to prescribe processes, 
+specify requirements, or establish design. 
+b. Specify, prepare, review, approve, and maintain records.
+
+--- page 13 ---
+Attachment 2 – Federal Employees and Contractors DOE O 414.1F 
+Page 2-2 08-05-2026 
+6. Criterion 5, Performance/Work Processes. 
+a. Perform work consistent with technical standards, administrative controls, and 
+other hazard controls adopted to meet regulatory or contract requirements using 
+approved instructions, procedures, or other appropriate means. 
+b. Identify and control items to ensure proper use. 
+c. Maintain items to prevent damage, loss, or deterioration. 
+d. Calibrate and maintain equipment used for process monitoring or data collection. 
+7. Criterion 6, Performance/Design. 
+a. Design items and processes using sound engineering/scientific principles and 
+appropriate standards. 
+b. Incorporate applicable requirements and design bases in design work and 
+design changes. 
+c. Identify and control design interfaces. 
+d. Verify or validate the adequacy of design products using individuals or groups 
+other than those who performed the work. 
+e. Verify or validate work before approval and implementation of the design. 
+8. Criterion 7, Performance/Procurement. 
+a. Procure items and services that meet established requirements and perform 
+as specified. 
+b. Evaluate and select prospective suppliers on the basis of specified criteria. 
+c. Establish and implement processes to ensure that approved suppliers continue to 
+provide acceptable items and services. 
+9. Criterion 8, Performance/Inspection and Acceptance Testing. 
+a. Inspect and test specified items, services, and processes using established 
+acceptance and performance criteria. 
+b. Calibrate and maintain equipment used for inspections and tests.
+
+--- page 14 ---
+DOE O 414.1F Attachment 2 – Fede ral Employees and Contractors 
+08-05-2026 Page 2-3 
+10. Criterion 9, Assessment/Management Assessment.  Ensure that managers assess their 
+management processes and identify and correct problems that hinder the organization 
+from achieving its objectives. 
+11. Criterion 10, Assessment/Independent Assessment. 
+a. Plan and conduct independent assessments to measure item and service quality, to 
+measure the adequacy of work performance, and to promote improvement. 
+b. Establish sufficient authority and freedom from line management for independent 
+assessment teams. 
+c. Ensure persons who perform independent assessments are technically qualified 
+and knowledgeable in the areas to be assessed. 
+12. Part B, Safety Software Quality Assurance. 
+Safety software includes, at a minimum, software that is cited in either a DOE-approved 
+safety analysis document or a Laboratory Directorate-approved hazard analysis document 
+or other documented safety analysis (e.g., documented safety analysis, safety analysis 
+report).  Other software should be included as determined by the responsible 
+implementing organization. 
+Processes for safety software QA must be identified, established, and implemented within 
+the QAP. 
+a. The graded approach must be applied to the selection, management, control, 
+documentation, and implementation of all safety software (including software 
+systems and subsystems) through the QAP. 
+b. Applicable requirements in this Attachment apply to all safety software using the 
+graded approach. 
+c. The basis for the graded approach used for safety software must be documented 
+and submitted to/approved by DOE. 
+d. Safety software must be documented, managed, inventoried, and controlled 
+throughout the software’s life cycle.  Appropriate national or international 
+software engineering consensus standards must be used, unless contrary to law or 
+otherwise impractical2, as approved by the DOE QA Approval Authority.  The 
+consensus standards could include combinations of standards (e.g., International 
+Electrical and Electronics Engineers, National Institute of Standards and 
+Technology, American Nuclear Society, etc.) or other software 
+engineering standards. 
+ 
+2  National Technology Transfer and Advancement Act of 1995, P.L. No. 104-113.

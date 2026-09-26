@@ -34,6 +34,13 @@ export type ReviewAction =
       expectedRevision?: number;
     }
   | {
+      type: "mergeChanges";
+      label: string;
+      snapshotId: string;
+      createdAt: string;
+      changes: DocChange[];
+    }
+  | {
       type: "loadPack";
       label: string;
       snapshotId: string;
@@ -110,6 +117,7 @@ export function reviewReducer(
   }
 
   if (
+    action.type !== "mergeChanges" &&
     action.expectedRevision !== undefined &&
     action.expectedRevision !== state.revision
   )
@@ -118,7 +126,80 @@ export function reviewReducer(
   let changes = state.changes;
   let undoStack = state.undoStack;
 
-  if (action.type === "undo") {
+  if (action.type === "mergeChanges") {
+    if (action.changes.length === 0) return state;
+    const byId = new Map(changes.map((c) => [c.id, c]));
+    for (const incoming of action.changes) {
+      byId.set(incoming.id, { ...incoming });
+    }
+    // Preserve existing order; append newly seen ids at the end.
+    const merged: DocChange[] = [];
+    const seen = new Set<string>();
+    for (const c of changes) {
+      const next = byId.get(c.id)!;
+      merged.push(next);
+      seen.add(c.id);
+    }
+    for (const incoming of action.changes) {
+      if (seen.has(incoming.id)) continue;
+      merged.push(byId.get(incoming.id)!);
+      seen.add(incoming.id);
+    }
+    changes = merged;
+
+    // Attach highlights onto matching paragraphs (first para in section if needed).
+    const sections = state.sections.map((sec) => {
+      const forSec = changes.filter((c) => c.sectionId === sec.id);
+      if (forSec.length === 0) return sec;
+      return {
+        ...sec,
+        paragraphs: sec.paragraphs.map((p) => {
+          const hit = forSec.find(
+            (c) =>
+              p.changeId === c.id ||
+              p.text.includes(c.oldText.slice(0, 48)) ||
+              c.oldText.includes(p.text.slice(0, 48)),
+          );
+          if (hit) return { ...p, changeId: hit.id };
+          return p;
+        }),
+      };
+    });
+    // If a section has a change but no paragraph matched, pin to first paragraph.
+    const pinned = sections.map((sec) => {
+      const forSec = changes.filter((c) => c.sectionId === sec.id);
+      if (forSec.length === 0) return sec;
+      if (sec.paragraphs.some((p) => forSec.some((c) => p.changeId === c.id)))
+        return sec;
+      const [first, ...rest] = sec.paragraphs;
+      if (!first) return sec;
+      return {
+        ...sec,
+        paragraphs: [{ ...first, changeId: forSec[0].id }, ...rest],
+      };
+    });
+
+    undoStack = [
+      ...undoStack,
+      { changes: cloneChanges(state.changes), label: action.label },
+    ].slice(-40);
+    return {
+      ...state,
+      changes: cloneChanges(changes),
+      sections: pinned,
+      undoStack,
+      revision: state.revision + 1,
+      histories: [
+        {
+          id: action.snapshotId,
+          label: action.label,
+          createdAt: action.createdAt,
+          changes: cloneChanges(changes),
+        },
+        ...state.histories,
+      ],
+    };
+  } else if (action.type === "undo") {
     const last = undoStack.at(-1);
     if (!last) return state;
     changes = cloneChanges(last.changes);

@@ -1,0 +1,765 @@
+--- page 1 ---
+U.S. Department of Energy ORDER
+ Washington, D.C. DOE O 410.1 
+Approved: 8-28-07 
+SUBJECT:  CENTRAL TECHNICAL AUTHORITY RESPONSIBILITIES REGARDING 
+NUCLEAR SAFETY REQUIREMENTS 
+1. OBJECTIVES. To establish Central Technical Au thority (CTA) and Chief of Nuclear
+Safety/Chief of Defense Nuclear Safety (CNS/CDNS) responsibilities and requirements
+directed by the Secretary of Energy in the development and issuance of Department of
+Energy (DOE) regulations and directives (includes standards) that affect nuclear safety.
+a. To identify CTA authorities and actions for specific regulations and directives.
+b. To establish related responsibilities and requirements for other Departmental
+elements.
+c. To establish responsibilities and requirements for addressing nuclear safety
+regulations and directives in contracts.
+2. CANCELLATION. None.
+3. APPLICABILITY.
+a. DOE Elements. Except for the exclusions in paragraph 3c, this Order applies to
+all Departmental elements involved in developing, managing, and implementing
+regulations and directives that affect nuclear safety.  (Go to
+http://www.directives.doe.gov/pdfs/reftools/org-list.pdf for the current listing of
+Departmental elements.  This list automatically includes all Departmental
+elements created after the Order is issued.)  Requirements in this Order affecting
+contracts apply to the following contract types for DOE nuclear facilities:
+management and operating; management and integration; design; and
+construction. While this Order does not  place explicit responsibilities upon
+contracting officers, concurrence by CTAs must be obtained by program and
+cognizant Secretarial Officers and field element managers for contract actions,
+including the release of requests for proposals and the execution of contract
+renewals.
+The Administrator of the National Nuclear Security Administration (NNSA)
+will assure that NNSA employees comply with their respective responsibilities
+under this Order. Nothing in this Order will be construed to interfere with the
+NNSA Administrator’s authority under section 3212(d) of Public Law
+(P.L.) 106-65 to establish Administration specific policies, unless disapproved
+by the Secretary.
+b. DOE Contractors. None.
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov	 Office of the Deputy Secretary
+
+--- page 2 ---
+2 DOE O 410.1 
+8-28-07 
+c.	 Exclusions. 
+(1)	 This Order does not apply to the DOE/NNSA Naval Reactors Program in 
+accordance with Executive Order 12344, statutorily prescribed by Public 
+Law 98-525 [42 United States Code (U.S.C.) 7158, note]. 
+(2)	 This Order does not apply to the Bonneville Power Administration (BPA), 
+in accordance with Secretarial delegation Order Number 00-033.00A to 
+the BPA Administrator and Chief Executive Officer, dated 9-27-02.  
+4.	 REQUIREMENTS. 
+a.	 CTA concurrence is required on directives included pursuant to Title 48 Code of 
+Federal Regulations (CFR) 970.5204-2 paragraphs (b) and (c) in all new prime  
+management and operating, management and integration, design, and construction 
+contracts for DOE nuclear facilities.   
+Note: 	In the following, “CTA” includes all CTAs having responsibilities for 
+nuclear facilities that are covered by a particular contract or that would be 
+affected by granting an exemption or exception.   
+(1)	 CTA concurrence is required prior to approval of exemptions to 
+10 CFR 830 and prior to approval of exemptions or exceptions to the 
+directives listed in Attachment 1.  
+(2)	 CTA concurrence is required prior to approval of a methodology other 
+than that given in Table 2-1, Appendix A of Subpart B to 10 CFR 830 for 
+preparation of a documented safety analysis for a Hazard Category 1, 2 or 
+3 nuclear facility. 
+(3)	 CTA concurrence is required on the directives included pursuant to 48 
+CFR 970.5204-2 paragraph (b) and paragraph (c) in requests for proposals 
+(RFPs) for new prime contracts for DOE nuclear facilities prior to the 
+release of the RFP.  CTA concurrence is required prior to contract award if 
+changes are made to the included directives after initial RFP is released.  
+(4)	 CTA concurrence is required on directives included pursuant to 
+48 CFR 970.5204-2 paragraph (b) and paragraph (c) prior to approving 
+revisions to existing prime contracts when both of the following 
+conditions exist: 
+(a)	 the revisions involve construction, major modification, or initiation 
+of program work, and  
+(b)	 any of the Contractor Requirements Document (CRD) provisions 
+of directives listed in Attachment 1 that are applicable to the
+
+--- page 3 ---
+3 DOE O 410.1 
+8-28-07 
+construction, major modification or new program work were not 
+previously included in the contract. 
+(5)	 Implementation of Work Smart Standards, Standards and Requirements 
+Identification Documents, or approved Safety Management System 
+processes used to tailor the requirements included in new or revised 
+contracts pursuant to 48 CFR 970.5204-2 paragraph (c) must be consistent 
+with the following requirements: 
+(a)	 Directives listed in Attachment 1, and subsequent revisions, must 
+be evaluated for applicability within 12 months of issuance or 
+within the time period identified in the directive, whichever is 
+shorter. 
+(b)	 Methodologies listed in Table 2-1, Appendix A of Subpart B to 
+10 CFR 830 must be implemented as written when used for the 
+development of Documented Safety Analyses for Hazard Category 
+1, 2, or 3 nuclear facilities, unless DOE approves the use of an 
+alternative methodology.   
+Note: Applying the provisions for the graded approach provided in 
+10 CFR 830 (i.e. adjusting the level of detail, analysis, and 
+documentation to reflect the complexity and hazard 
+associated with a particular facility) is considered 
+implementing the directives as written because 10 CFR 830 
+allows for that approach.  Use of a different or “tailored” 
+methodology, however, to eliminate required portions of the 
+methodology or content beyond the grading permitted by 
+10 CFR 830 requires DOE approval and CTA concurrence as 
+an alternative methodology. 
+(c)	 As directives listed in Attachment 1 are revised, or new directives 
+are added to Attachment 1, an integrated listing (organized by 
+Regulation or Directive number as appropriate) must be developed 
+and maintained to indicate which provisions of the new or revised 
+CRDs have been implemented, omitted, and implemented with 
+exceptions or in a modified form in prime contracts.  Treatment of 
+directives already in prime contracts as of the date of this order is 
+not included in this requirement, but the treatment of future 
+revisions to those directives is subject to this requirement. 
+(d)	 As directives listed in Attachment 1 are revised, or new directives 
+are added to Attachment 1, justifications must be documented and 
+maintained for the life of the prime contract that explain the 
+contractual treatment of new or revised CRD provisions not 
+included in the contract as written in the CRD.  Treatment of 
+directives already in contracts as of the date of this order is not
+
+--- page 4 ---
+4 DOE O 410.1 
+8-28-07 
+included in this requirement, but the treatment of future revisions 
+to those directives is subject to this requirement. 
+b.	 CTA concurrence is required prior to approval of a revision to or cancellation of 
+10 CFR 830 or the directives and regulations listed in Attachment 2. 
+Note: This requirement applies to the references listed in Attachment 2 and all 
+subsequent versions. 
+Note: As used here, the term “revision” includes any means used to change the 
+content of the directive or regulation. 
+c.	 CTAs must be notified prior to Department-wide review and comment of new 
+directives. Where the CTA concludes that  a new regulation or directive does not 
+affect nuclear safety, coordination with the CTA will not be required. 
+d.	 Published documents that affect nuclear safety must be identified in Attachments 
+1 and 2 of this Order. 
+(1)	 Attachment 1 lists only those directives warranting CTA oversight that 
+directly impact the establishment, verification, and maintenance of the 
+safety bases for DOE nuclear facilities as defined in 10 CFR 830, and that 
+have relevant CRD provisions. CTA review of prime contract 
+requirements focuses on the implementation of the CRD provisions of 
+these documents. 
+(2)	 Attachment 2 includes those directives listed in Attachment 1, as well as 
+other documents that impact the training and qualification of nuclear 
+safety personnel, or that have sufficient impact on nuclear safety to 
+warrant CTA concurrence to any changes.   
+(3)	 Changes to this Order that affect only the list of documents in Attachments 
+1 and 2 must be initiated by and coordinated between the CTAs. 
+e.	 The office of primary interest or the preparing activity for a document must be 
+notified that a new draft document will require CTA concurrence. 
+5.	 RESPONSIBILITIES. 
+a.	 Central Technical Authorities. 
+Note: 	In the following subsections, when more than one CTA is responsible for 
+nuclear facilities to which a directive is applicable, or that are covered by a 
+particular contract or that would be affected by granting an exemption or 
+exception, all responsible CTAs must concur on the associated action.   
+(1)	 Concur with exemptions to 10 CFR 830 and exemptions or exceptions to 
+the directives listed in Attachment 1—for directives, within the time limits
+
+--- page 5 ---
+5 DOE O 410.1 
+8-28-07 
+established for the concurrences to exemptions in DOE M 251.1-1B for 
+both exemptions and exceptions; for exemptions to 10 CFR 830 no later 
+than 30 days before the time limit for approval elapses.   
+(2)	 Concur with revision or cancellation of directives and regulations listed in 
+Attachment 2.  
+(3)	 Concur with new regulations and directives that that the CTA identifies as 
+affecting nuclear safety. 
+(4)	 For structures, activities and operations for which they are responsible: 
+(a)	 Concur with the directives included in RFPs and in new prime 
+contracts for nuclear facilities. 
+(b)	 Concur with the directives included in prime contract revisions that 
+allow for construction, major modification or new program work 
+when both of the following conditions apply: 
+1	 any of the CRD provisions of directives listed in 
+Attachment 1 are applicable to the construction, major 
+modification or new program work, and  
+2	 the applicable CRD provisions are not already included in 
+the prime contract. 
+(5)	 Identify documents that affect nuclear safety by approving changes to 
+Attachments 1 and 2 for existing documents, and by notifying the Office 
+of Primary Interest or the Preparing Activity for new documents as early 
+in the coordination process as possible, preferably during pre-
+coordination, that CTA concurrence will be required. 
+(6)	 Concur with the use of any methodology other than that given in Table 2-
+1, Appendix A of Subpart B to 10 CFR 830 to prepare a documented 
+safety analysis for a Hazard Category 1, 2 or 3 nuclear facility within 
+150 calendar days of receipt of the request for concurrence. 
+b.	 Chief of Nuclear Safety/Chief of Defense Nuclear Safety. 
+(1)	 Develops and maintains a baseline list of known exemptions to 
+10 CFR 830 and exemptions or exceptions taken in prime contracts for 
+nuclear facilities to directives identified in Attachment 1. 
+(2)	 Evaluates requests for exemptions to 10 CFR 830 and for exceptions or 
+exemptions to directives identified in Attachment 1 and for each request, 
+provides the CTA a written summary of the evaluation along with a 
+recommendation regarding concurrence.
+
+--- page 6 ---
+6 DOE O 410.1 
+8-28-07 
+(3)	 Evaluates requests for revision or cancellation of regulations and 
+directives listed in Attachment 2; and, for each request, provides the CTA 
+a written summary of the evaluation along with a recommendation 
+regarding concurrence. 
+(4)	 Evaluates new and revised regulations and other documents for inclusion 
+in Attachments 1 and 2 and provides the CTA a written summary of the 
+evaluation and justification for each document recommended for inclusion 
+as early in the coordination process as possible, preferably during pre-
+coordination. 
+(5)	 Evaluates RFPs and new or revised nuclear facility contracts for adequacy 
+of the directives included and provides the CTA written summaries of the 
+evaluations along with recommendations regarding concurrence. 
+(6)	 Maintains a list of approved deviations from the double contingency 
+principle (DOE O 420.1B). 
+(7)	 Evaluates the use of any methodology other than that given in Table 2-1, 
+Appendix A of Subpart B to 10 CFR 830 to prepare a documented safety 
+analysis for a Hazard Category 1, 2 or 3 nuclear facility and for each 
+request, provides the CTA a written summary of the evaluation along with 
+a recommendation regarding concurrence. 
+c.	 Program Secretarial Officers (PSOs) and Cognizant Secretarial Officers (CSOs) 
+with Responsibility for Nuclear Facilities or Nuclear Safety. 
+(1)	 Recommend additions and deletions to regulations and directives in 
+Attachments 1 and 2 with the potential to affect nuclear safety. 
+(2)	 Concur with revisions and cancellations of regulations and directives 
+listed in Attachment 2.    
+(3)	 Concur with new regulations and directives that the CTA identifies as 
+affecting nuclear safety. 
+(4)	 Notify CTA through the appropriate CSO and the CNS/CDNS subsequent 
+to approval of deviations from the double contingency principle in 
+operations involving criticality hazards (DOE O 420.1B.) 
+(5)	 Withhold approval of exemptions to 10 CFR 830 until CTA concurrence 
+has been received or the time limits established for CTA concurrence in 
+paragraph 5a(1), above have elapsed.  (Note: timing considerations for 
+approval of exemptions to directives are provided in DOE M 251.1-1B) 
+(6)	 Withhold approval of the use of a methodology other than that given in 
+Table 2-1, Appendix A of Subpart B to 10 CFR 830 to prepare a
+
+--- page 7 ---
+7 DOE O 410.1 
+8-28-07 
+documented safety analysis for a Hazard Category 1, 2 or 3 nuclear 
+facility until CTA concurrence has been received or the time limits 
+established for CTA concurrence in paragraph 5a(6), above, has 
+elapsed. 
+(7)	 For prime contracts other than those managed by NNSA:  Obtain CTA 
+concurrence on the list of directives to be included in RFPs prior to the 
+release of the RFP, and prior to award of new contracts for nuclear 
+facilities, by requesting the Office of Contract Management to forward the 
+RFP to CTA as part of the Business Clearance process.  This includes 
+NNSA CTA concurrence for DOE prime contracts that include the 
+operation of NNSA nuclear activities or operations. 
+(8)	 For prime contracts other than those managed by NNSA:  Obtain CTA 
+concurrence on the list of directives included in prime contract revisions 
+for construction, major modification or new program work when both of 
+the following conditions apply: 
+(a)	 any of the CRD provisions of directives listed in Attachment 1 are 
+applicable to the construction, major modification or new program 
+work, and 
+(b)	 the applicable CRD provisions were not included in the prime 
+contract prior to the revision. 
+This responsibility includes obtaining NNSA CTA concurrence for DOE 
+prime contracts that include the operation of NNSA nuclear activities or 
+operations when the contract revision affects work performed in those 
+facilities. 
+d.	 Field Element Managers. 
+(1)	 Recommend additions and deletions to regulations and directives in 
+Attachments 1 and 2 with the potential to affect nuclear safety. 
+(2)	 Determine when specific CRD provisions are applicable to prime 
+contracts and when the treatment of an applicable CRD provision in new 
+revisions to prime contracts would constitute an exception (see definition) 
+to a directive listed in Attachment 1. 
+(3)	 Request CTA concurrence for exemption to 10 CFR 830 and for 
+exemption or exception to directives listed in Attachment 1 at the same 
+time as the approval request is submitted to the approval authority  
+(4)	 Withhold approval of new exceptions to the directives listed in 
+Attachment 1 until either CTA concurrence has been received or the time 
+limits established for the concurrences to exemptions in DOE M 251.1-1B
+
+--- page 8 ---
+8 DOE O 410.1 
+8-28-07 
+have elapsed. (Note: Timing considerations for the approval of exemptions 
+to directives are provided in DOE M 251.1-1B) 
+(5)	 Develop and maintain a baseline list of known exemptions to 10 CFR 830 
+and exceptions taken in CRDs to directives (by directive number) 
+identified in Attachment 1. 
+(6)	 As directives listed in Attachment 1 are revised, or new directives are 
+added to Attachment 1, ensure that an integrated listing (organized by 
+regulation or directive number as appropriate) is developed and 
+maintained to indicate which provisions of the new or revised CRDs 
+have been implemented, omitted, and implemented with exceptions or 
+in a modified form.  Treatment of directives already in contracts as of 
+the date of this order is not included in this requirement, but the 
+treatment of future revisions to those directives is subject to this 
+requirement.   
+(7)	 As directives listed in Attachment 1 are revised, or new directives are 
+added to Attachment 1, ensure that justifications are documented and 
+maintained for the life of the contract that explain the contractual 
+treatment of new or revised CRD provisions that were not included in the 
+contract as written in the CRD.  Treatment of directives already in 
+contracts as of the date of this order is not included in this requirement, 
+but the treatment of future revisions to those directives is subject to this 
+requirement.  
+(8)	 For prime contracts managed by NNSA: 
+(a)	 Obtain CTA concurrence on the list of directives included in the 
+prime contract for nuclear facilities prior to release of the RFP and 
+prior to authorizing the contracting officer to award the new 
+contract. 
+(b)	 Obtain CTA concurrence on the list of directives included in 
+revised prime contracts for nuclear facilities that involve 
+construction, major modification, or initiation of program work 
+in nuclear facilities when both of the two following conditions 
+apply: 
+1	 any of the CRD provisions of directives listed in 
+Attachment 1 are applicable to the construction, major 
+modification or new program work, and  
+2	 the applicable CRD provisions were not previously 
+included in the prime contract.
+
+--- page 9 ---
+9 DOE O 410.1 
+8-28-07 
+(9)	 Ensure that an integrated list of approved deviations from the double 
+contingency principle in operations involving criticality hazards 
+(DOE O 420.1B) is developed and maintained current. 
+(10)	 At the same time as the approval request is submitted to the approval 
+authority, request CTA concurrence for the use of a methodology other 
+than that given in Table 2-1, Appendix A of Subpart B to 10 CFR 830 to 
+prepare a documented safety analysis for a Hazard Category 1, 2 or 3 
+nuclear facility; if approval authority is delegated, withhold approval until 
+CTA concurrence has been received or the time limit established for CTA 
+concurrence in (a) (6) of this section has elapsed. 
+(11)	 Ensure that Work Smart Standards, Standards and Requirements 
+Identification Documents, or approved Safety Management System 
+processes used to tailor the requirements included in new or revised 
+contracts, as well as local processes used to review and grant exemptions, 
+are consistent with the requirements in this Order. 
+e.	 Offices of Primary Interest (OPIs) or Preparing Activities. 
+(1)	 For a revision to an existing document, consult the list of directives and 
+regulations in Attachment 2 to determine whether CTA concurrence on the 
+revision is required. 
+(2)	 Notify the CTA of draft changes to directives and regulations listed in 
+Attachment 2. 
+(3)	 Provide CTAs with copies of the Justification Memorandum when 
+submitted for new directives, and for revisions to directives listed in 
+Attachment 2 
+(4)	 Verify that the resolution of rejected comments on directives and 
+regulations listed in Attachment 2, including Guides and Standards, is 
+acceptable to the commenting organization.  If a mutually acceptable 
+resolution can not be reached, provide a summary of the issue and the 
+resolution approach when requesting CTA concurrence.  
+(5)	 Following comment resolution, provide a redlined version of the revised 
+document, along with consolidated comment resolution matrices to the 
+CNS/CDNS for changes to directives and regulations listed in 
+Attachment 2, including Guides, along with a request for CTA 
+concurrence. 
+(6)	 Withhold release or publication “for use” of revised directives and 
+regulations listed in Attachment 2 or new documents that the CTA 
+indicates affect nuclear safety until CTA concurrence has been 
+obtained.
+
+--- page 10 ---
+10 DOE O 410.1 
+8-28-07 
+(7)	 Notify the CNS/CDNS of any new documents that should be considered 
+for possible inclusion in Attachment 1 and 2.  
+f.	 Office of Management (For Prime Contracts Not Managed by NNSA).  
+Provide RFPs and new prime contracts for nuclear facilities to the 
+CNS/CDNS for evaluation of the adequacy of the directives included in the 
+documents when PSO or CSO with responsibility for nuclear facilities or 
+nuclear safety requests. 
+6.	  DEFINITIONS. All terms used in this Order comply  with standard definitions used in 
+10 CFR 830 and the DOE Directives System where standard definitions exist.  The 
+definition source is noted in parentheses. 
+a.	 Applicable—A determination that the conditions for which a requirement was 
+designed exist at a given location or in a given situation.  For example, conduct of 
+operations requirements for control rooms are applicable at a site where control 
+room functions exist.  (As used in this document) 
+b.	 Approval Authority—The duly designated authority to make an approval 
+decision. When used to describe a pe rson, the person having approval authority, 
+i.e., the approving official. Approval auth ority may be designated in a variety of 
+ways such as through the DOE and NNSA FRAMs, in a DOE Notice, Order or 
+Manual, or by delegation letter.  (As used in DOE M 251.1 1B) 
+c.	 Central Technical Authority (CTA)—The CTAs are designated by the 
+Secretary of Energy, April 26, 2005 memorandum. 
+d.	 Contract—Many of the CTA responsibilities in this document relate to 
+requirements in contracts for nuclear facility design, construction, operation, 
+maintenance, modification, decontamination, decommissioning, etc.  For the 
+purpose of this Order, the term “contract” refers to those prime contracts for DOE 
+nuclear facilities (including Management and Operating, Management and 
+Integration, design, and construction) contracts that include DEAR clause 
+970.5204-2, Laws, regulations, and DOE Directives.  (As used in DEAR clause 
+970.5204-2) 
+e.	 Exception—The situation that exists when Work Smart Standards, Standards and 
+Requirements Identification Documents, approved Safety Management System or 
+similar processes are used to modify an applicable Contractor Requirements 
+Document (CRD) provision for inclusion in a contract, and a knowledgeable 
+person would reasonably conclude that the apparent meaning of the CRD 
+provision has not been met by its contractual treatment.  Exceptions are taken to 
+provide relief from what would be a requirement were a CRD provision included 
+in the contract as it is written in the directive where it appears. (As used in this 
+document)
+
+--- page 11 ---
+11 DOE O 410.1 
+8-28-07 
+f.	 Exemption—Exemptions may apply to Federal personnel and/or contractors. 
+For Federal Personnel, an exemption is formal and final relief from the need to 
+comply with applicable requirements of DOE regulations and directives.  For 
+contractors, an exemption is a formal and final release from a provision in a DOE 
+Order, Notice, or Manual that has been included in their contract; or from one or 
+more requirements in a Regulation.  Processes for obtaining approval for 
+exemptions to 10 CFR 830 are found in 10 CFR 820; related guidance is provided 
+in DOE STD 1083. Processes for obtain ing approval to exemptions to DOE 
+Orders, Notices and Manuals are either included in the Directive or are found in 
+DOE M 251.1-1B (DOE M 251.1 1B and 10 CFR 820) 
+g.	 Nuclear Facility—This term is defined in 10 CFR 830.3.  Note: the usage in 
+10 CFR 830 addresses both reactor and non-reactor nuclear facilities.  
+Radiological facilities as well as Hazard Category I, II, and III facilities (as 
+defined in DOE STD 1027) all fit the definition of a nuclear facility 
+h.	 Office of Primary Interest (OPI)—The DOE Directives System establishes 
+OPIs who are responsible for development and maintenance of directives. (As 
+used in DOE M 251.1-1B) 
+i.	 Preparing Activity—The organization sponsoring and preparing the proposed 
+DOE Technical Standard—A directive that is developed under the DOE 
+Technical Standards Program, described in DOE O 252.1). 
+7.	 REFERENCES. 
+a.	 10 CFR 830, Nuclear Safety Management. 
+b.	 10 CFR 820, Procedural Rules for DOE Nuclear Activities. 
+c.	 DEAR 970.5204-2, Laws, Regulations, and DOE Directives. 
+d.	 DOE O 251.1B, Departmental Directives Program. 
+e.	 DOE M 251.1-1B, Departmental Directives Program Manual. 
+f.	 DOE STD 1083-95, Requesting and Granting Exemptions to Nuclear Safety 
+Rules. 
+g.	 DOE O 252.1, Technical Standards Program. 
+h.	 DOE M 450.3-1, DOE Closure Process for Necessary and Sufficient Sets of 
+Standards. 
+8.	 NECESSITY FINDING STATEMENT. In compliance with Sec. 3174 of P.L. 104-201 
+(42 USC 7274k note), DOE hereby finds that this Order is necessary for the protection of 
+human health and the environment or safety, fulfillment of current legal requirements, 
+and conduct of critical administrative functions
+
+--- page 12 ---
+12 DOE O 410.1 
+8-28-07 
+9.	 CONTACT. Questions concerning this directiv e should be directed to the Central 
+Technical Authority at 202-586-9471. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ CLAY SELL
+ Deputy Secretary
+
+--- page 13 ---
+DOE O 410.1 Attachment 1 
+8-28-07 Page 1 (and Page 2) 
+DIRECTIVES (LATEST VERSION) REQUIRING CENTRAL TECHNICAL 
+AUTHORITY CONCURRENCE PRIOR TO GRANTING EXEMPTIONS OR 
+EXCEPTIONS 
+Directive Title/Comment 
+DOE O 413.3A Program and Project Management for the Acquisition of Capital 
+Assets 
+DOE O 414.1C Quality Assurance 
+DOE O 420.1B Facility Safety  
+DOE O 425.1C Startup and Restart of Nuclear Facilities 
+DOE O 433.1A Maintenance Management Program for DOE Nuclear Facilities 
+DOE M 435.1-1 Chg 1 Radioactive Waste Management Manual 
+DOE O 435.1 Chg 1 Radioactive Waste Management 
+DOE M 440.1-1A DOE Explosives Safety Manual 
+DOE O 452.1C Nuclear Explosive and Weapon Surety Program 
+DOE O 452.2C Nuclear Explosive Safety  
+DOE O 460.1B Packaging and Transportation Safety 
+DOE M 461.1-1 Chg 1 Packaging and Transfer of Materials of National Security 
+Interest Manual 
+DOE O 461.1A Packaging and Transfer or Transportation of Materials of 
+National Security Interest 
+DOE O 5480.20A Chg 1 Personnel Selection, Qualification, and Training Requirements 
+for DOE Nuclear Facilities 
+DOE O 5480.30 Chg 1 Nuclear Reactor Safety Design Criteria 
+DOE O 5480.19 Chg 2 Conduct of Operations Requirements for DOE Facilities
+
+--- page 14 ---
+DOE O 410.1 Attachment 2 
+8-28-07 Page 1 
+DOE REGULATIONS AND DIRECTIVES (LATEST VERSIONS) REQUIRING CTA 
+CONCURRENCE PRIOR TO ANY REVISION OR CANCELLATION  
+Number Title 
+DOE SEN-35-91 Nuclear Safety Policy 
+DOE O 151.1C Comprehensive Emergency Management System 
+DOE G 200.1-1 series Software Engineering Methodology TOC 
+DOE G 225.1A-1 Implementation Guide for Use with DOE O 225.1 Accident 
+Investigations 
+DOE P 226.1 Department of Energy Oversight Policy 
+DOE M 231.1-1A Chg 1 Environment, Safety and Health Reporting Manual 
+DOE G 231.1-1 Occurrence Reporting and Performance Analysis Guide 
+DOE M 231.1-2 Occurrence Reporting and Processing of Operations 
+Information 
+DOE G 231.1-2 Occurrence Reporting Causal Analysis Guide 
+DOE M 251.1-1B Departmental Directives Program Manual 
+DOE P 251.1A Departmental Directives Program Policy 
+DOE P 410.1A Promulgating Nuclear Safety Requirements 
+DOE P 411.1 Safety Management Functions, Responsibilities and 
+Authorities Policy 
+DOE P 413.1 Program and Project Management Policy for the Planning, 
+Programming, Budgeting and Acquisition of Capital Assets 
+DOE P 413.2 Value Engineering 
+DOE O 413.3A Program and Project Management for the Planning, 
+Programming, Budgeting and Acquisition of Capital Assets 
+DOE M 413.3-1 Project Management for the Acquisition of Capital Assets 
+DOE O 414.1C Quality Assurance 
+DOE G 414.1-1A Management Assessment and Independent Assessment Guide 
+DOE G 414.1-2A Quality Assurance Management System Guide for Use with 
+10 CFR 830 Subpart A, Quality Assurance Requirements and 
+DOE O 414.1C, Quality Assurance
+
+--- page 15 ---
+8-28-07 
+Attachment 2 DOE O 410.1 
+Page 2 
+Number Title 
+DOE G 414.1-3 Suspect/Counterfeit Items Guide for Use with 10 CFR 830 
+Subpart A, Quality Assurance Requirements and DOE O  
+414.1B, Quality Assurance 
+DOE G 414.1-4 Safety Software Guide for Use with 10 CFR 830 Subpart A, 
+Quality Assurance Requirements and DOE O 414.1C, 
+Quality Assurance 
+DOE G 414.1-5 Corrective Action Program Guide 
+DOE O 420.1B Facility Safety  
+DOE G 420.1-1 Nonreactor Nuclear Safety Design Criteria and Explosive 
+Safety Criteria Guide for Use with DOE O 420.1 Facility 
+Safety 
+DOE G 420.1-2 Guide for the Mitigation of Natural Phenomena Hazards for 
+DOE Nuclear Facility and Non-Nuclear Facilities 
+DOE G 421.1-1 series DOE Good Practices Guide Criticality Safety Good 
+Practices Program Guide for DOE Nonreactor Nuclear 
+Facilities 
+DOE G 421.1-2 Implementation Guide for Use in Developing Documented 
+Safety Analyses to Meet Subpart B of 10 CFR 830 
+DOE G 423.1-1 Implementation Guide for Use in Developing Technical 
+Safety Requirements 
+DOE G 424.1-1A Implementation Guide for Use in Addressing Unreviewed 
+Safety Questions Requirements 
+DOE O 425.1C Startup and Restart of Nuclear Facilities 
+DOE P 426.1 Federal Technical Capability Policy for Defense Nuclear 
+Facilities 
+DOE M 426.1-1A Federal Technical Capability Manual 
+DOE P 430.1 Land and Facility Use Planning 
+DOE G 430.1-2 Implementation Guide for Surveillance and Maintenance 
+During Facility Transition and Disposition 
+DOE G 430.1-3 Deactivation Implementation Guide 
+DOE G 430.1-4 Decommissioning Implementation Guide 
+DOE G 430.1-5 Transition Implementation Guide
+
+--- page 16 ---
+DOE O 410.1 Attachment 2 
+8-28-07 Page 3 
+Number Title 
+DOE O 433.1A Maintenance Management Program for DOE Nuclear 
+Facilities  
+DOE G 433.1-1 Nuclear Facility Maintenance Management Program Guide 
+for Use with DOE O 433.1 
+DOE O 435.1 Chg 1 Radioactive Waste Management 
+DOE M 435.1-1 Chg 1 Radioactive Waste Management Manual 
+DOE G 435.1-1 series Implementation Guide for Use with DOE M 435.1-1 
+Chapters 1 through 4 
+DOE M 440.1-1A DOE Explosives Safety Manual 
+DOE G 440.1 series Guides for Use with DOE O 440.1 Volumes 1-5 
+DOE P 441.1 DOE Radiological Health and Safety Policy 
+DOE G 441.1-1B Radiation Protection Programs Guide 
+DOE P 442.1 Differing Professional Opinions on Technical Issues Related 
+to Environment, Safety, and Health 
+DOE O 442.1A Department Of Energy Employee Concerns Program 
+DOE M 442.1-1 Differing Professional Opinions Manual for Technical Issues 
+Involving Environment, Safety, and Health  
+DOE G 442.1-1 Department of Energy Employee Concerns Program Guide 
+DOE G 450.1-1A Implementation Guide for Use with DOE O 450.1 
+DOE G 450.1-2 Implementation Guide for Integrating Environmental 
+Management Systems into Integrated Safety Management 
+Systems 
+DOE G 450.1-5 Implementation Guide for Integrating Pollution Prevention 
+into Environmental Management Systems 
+DOE P 450.2A Identifying, Implementing and Complying with Environment, 
+Safety and Health Requirements 
+DOE P 450.3 Authorizing Use of the Necessary and Sufficient Process for 
+Standards-Based Environment, Safety and Health 
+Management 
+DOE M 450.3-1 DOE Closure Process for Necessary and Sufficient Sets of 
+Standards
+
+--- page 17 ---
+Attachment 2 DOE O 410.1 
+Page 4 8-28-07 
+Number Title 
+DOE G 450.3-1 Documentation for Work Smart Standards Applications 
+DOE G 450.3-2 Attributes of Effective Implementation 
+DOE G 450.3-3 Tailoring for Integrated Safety Management Applications 
+DOE P 450.4 Safety Management System Policy 
+DOE M 450.4-1 Integrated Safety Management System Manual 
+DOE G 450.4-1B series Integrated Safety Management System Guide, Volumes 1 and 
+2 
+DOE P 450.7 Environment, Safety and Health (ES&H) Goals 
+DOE O 451.1B Chg 1 National Environmental Policy Act Compliance Program 
+DOE O 452.1C Nuclear Explosive and Weapon Surety Program 
+DOE O 452.2C Nuclear Explosive Safety 
+DOE M 452.2-1 Nuclear Explosive Safety Manual 
+DOE P 454.1 Use of Institutional Controls 
+DOE P 455.1 Use of Risk-Based End States 
+DOE O 460.1B Packaging and Transportation Safety 
+DOE G 460.1-1 series Packaging and Transportation Safety 
+DOE G 460.2-1 Implementation Guide for Use with DOE O 460.2 
+Departmental Materials Transportation and Packaging 
+Management 
+DOE M 460.2-1 Radioactive Material Transportation Practices Manual 
+DOE O 461.1A Packaging and Transfer or Transportation of Materials of 
+National Security Interest 
+DOE M 461.1-1 Chg 1 Packaging and Transfer of Materials of National Security 
+Interest Manual 
+DOE O 470.2B Independent Oversight and Performance Assurance Program 
+DOE M 470.4-2 Chg 1 Physical Protection 
+DOE M 470.4-6 Chg 1 Nuclear Material Control and Accountability
+
+--- page 18 ---
+DOE O 410.1 Attachment 2 
+8-28-07 Page 5 
+Number Title 
+DOE O 5400.5 Chg 2 Radiation Protection of the Public and the Environment 
+DOE O 5480.19 Chg 2 Conduct of Operations Requirements for DOE Facilities  
+DOE O 5480.20A Chg 1 Personnel Selection, Qualification, and Training 
+Requirements for DOE Nuclear Facilities 
+DOE O 5480.30 Chg 1 Nuclear Reactor Safety Design Criteria 
+DOE O 5530.3 Chg 1 Radiological Assistance Program 
+DOE O 5660.1B Management of Nuclear Materials 
+10 CFR 820 Procedural Rules for DOE Nuclear Activities 
+10 CFR 830 Nuclear Safety Management 
+10 CFR 835 Occupational Radiation Protection 
+48 CFR 970.5203-2 DOE Acquisition Regulation, Performance Improvement and 
+Collaboration 
+48 CFR 970.5204-2 DOE Acquisition Regulation, Laws, Regulations and DOE 
+Directives Clause 
+48 CFR 970.5215-3 DOE Acquisition Regulation, Conditional Payment of Fee, 
+Profit and other Incentives—F acility Management Contracts 
+Clause 
+48 CFR 970.5223-1 DOE Acquisition Regulation, Integration of Environment, 
+Safety and Health Into Work Planning and Execution Clause 
+DOE-STD-1020-2002 Natural Phenomena Hazards Design and Evaluation Criteria 
+for Department of Energy Facilities 
+DOE-STD-1021-93 Natural Phenomena Hazards Performance Categorization 
+Guidelines for Structures, Systems, and Components 
+DOE-STD-1022-94 Reaffirmed Natural Phenomena Hazards Characterization Guide 
+DOE-STD-1023-95 Reaffirmed Natural Phenomena Hazards Assessment Criteria 
+DOE-STD-1027-92 Ch. 1 Hazard Categorization and Accident Analysis Techniques for 
+Compliance with DOE O 5480.23 
+DOE-STD-1030-96 Guide to Good Practices for Lockouts and Tagouts 
+DOE-STD-1063-2006 Facility Representatives
+
+--- page 19 ---
+Attachment 2 
+Page 6 
+Number
+DOE-STD-1066-99 
+DOE-STD-1073-2003 
+DOE-STD-1083-95 
+DOE-STD-1088-95 
+DOE-STD-1090-2004 
+DOE-HBK-1099-96 
+DOE-STD-1104-96 
+DOE-STD-1120-2005 
+DOE-STD-1134-99 
+DOE-STD-1134-99 
+DOE-STD-1135-99 
+DOE-STD-1137-2000 
+DOE-HBK-1148-2002 
+DOE-STD-1150-2002 
+DOE-STD-1158-2002 
+DOE-STD-1159-2003 
+DOE-STD-1166-2003 
+DOE-STD-1172-2003 
+DOE-STD-1173-2003 
+DOE-STD-1175-2006 
+DOE O 410.1 
+8-28-07 
+Title 
+Fire Protection Design Criteria 
+Configuration Management Program 
+Requesting and Granting Exemptions to Nuclear Safety Rules 
+Fire Protection for Relocatable Structures—Reaffirmation  
+Memorandum 
+Hoisting and Rigging (Formerly Hoisting and Rigging 
+Manual) 
+Establishing Nuclear Facility Drill Programs 
+Review and Approval of Nuclear Facility Safety Basis 
+Documents (Documented Safety Analysis and Technical 
+Safety Requirements 
+Integration of Environment, Safety, and Health into Facility 
+Disposition Activities, Volumes 1 and 2 
+Tritium Handling and Safe Storage 
+Review Guide for Criticality Safety Evaluations 
+Guidance for Nuclear Criticality Safety Engineer Training 
+and Qualification 
+Fire Protection Engineering Functional Area Qualification 
+Standard 
+Work Smart Standards (WSS) Users Handbook 
+Quality Assurance Functional Area Qualification Standard 
+Self-Assessment Standard for DOE Contractor Criticality 
+Safety Programs 
+Waste Management Functional Area Qualification Standard 
+Deactivation and Decommission Functional Area 
+Qualification Standard 
+Safety Software Quality Assurance Functional Area 
+Qualification Standard 
+Criticality Safety Functional Area Qualification Standard 
+Senior Technical Safety Manager Functional Area 
+Qualification Standard
+
+--- page 20 ---
+DOE O 410.1 
+8-28-07 
+Number 
+DOE-STD-1183-2004 
+DOE-STD-1186-2004 
+DOE-STD-3006-2000 
+DOE-STD-3007-2007 
+DOE-STD-3009-94 Chg 3 
+DOE-HDBK-3010-94 and Chg 1 
+DOE-STD-3011-2002 
+DOE-HDBK-3012-2003 
+DOE-STD-3013-2004 
+DOE-STD-3014-96 
+DOE-STD-3015-2004 
+DOE-STD-3016-2006 
+DOE-STD-3020-2005 
+DOE-STD-3024-98 
+DOE STD-3025-2007 
+Attachment 2 
+Page 7 (and Page 8) 
+Title 
+Nuclear Safety Specialist Functional Area Qualification 
+Standard 
+Specific Administrative Controls 
+Planning and Conduct of Operational Readiness Reviews 
+(ORR) 
+Guidelines for Preparing Criticality Safety Evaluations at 
+Department of Energy Non-Reactor Nuclear Facilities 
+Preparation Guide for U.S. DOE Nonreactor Nuclear 
+Facility Safety Analysis Reports 
+Airborne Release Fractions/Rates and Respirable Fractions 
+for Nonreactor Nuclear Facilities 
+Volume 1 - Analysis of Experimental Data, December 1994 
+Volume 2 - Appendices, December 1994 
+Guidance for Preparation of Basis for Interim Operation 
+(BIO) Documents 
+Guide To Good Practices For Operational Readiness 
+Reviews (ORR), Team Leader's Guide  
+Stabilization, Packaging, And Storage Of Plutonium-Bearing 
+Materials 
+Accident Analysis for Aircraft Crash into Hazardous 
+Facilities 
+Nuclear Explosive Safety Study Process 
+Hazard Analysis Reports for Nuclear Explosive Operations 
+Specification for HEPA Filters Used by DOE Contractors 
+Content of System Design Descriptions 
+Quality Assurance Inspection and Testing of HEPA Filters

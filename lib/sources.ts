@@ -1,3 +1,5 @@
+import doeLibrary from "@/lib/generated/doe-library.json";
+
 export interface SourceDoc {
   id: string;
   format: "procedure" | "pdf" | "markdown" | "text" | "external";
@@ -17,8 +19,19 @@ export interface SourceDoc {
 
 const base = () => process.env.NEXT_PUBLIC_BASE_PATH || "";
 
-/** Reference corpus for Source Search (file finder) + analysis panel. */
-export function getSourceDocs(): SourceDoc[] {
+type DoeLibraryDoc = {
+  id: string;
+  oid: string;
+  title: string;
+  shortTitle: string;
+  description: string;
+  pdf: string;
+  pages: number;
+  role: string;
+};
+
+/** Core demo docs always present (CD-0039 + CRADA pair + diff + externals). */
+function coreSourceDocs(): SourceDoc[] {
   return [
     {
       id: "src-cd-0039",
@@ -82,6 +95,21 @@ export function getSourceDocs(): SourceDoc[] {
       updatedLabel: "PDF · current",
     },
     {
+      id: "src-doe-m-483-1-1",
+      format: "pdf",
+      folder: "doe",
+      kind: "doe",
+      title: "DOE M 483.1-1 — Cooperative Research and Development Agreements Manual",
+      shortTitle: "DOE M 483.1-1",
+      description:
+        "Historical CRADA manual — local RAG supporting corpus for CD-0039 scan (not a review target).",
+      href: `${base()}/sources/DOE_M_483.1-1_CRADA_Manual.pdf`,
+      local: true,
+      pages: 95,
+      docId: "DOE M 483.1-1",
+      updatedLabel: "PDF · supporting",
+    },
+    {
       id: "src-doe-483-diff",
       format: "markdown",
       folder: "doe",
@@ -124,6 +152,47 @@ export function getSourceDocs(): SourceDoc[] {
       updatedLabel: "External · DOE",
     },
   ];
+}
+
+/** Oids already covered by core entries (avoid duplicate rows in Source Search). */
+const CORE_OID_PREFIXES = [
+  "DOE O 483.1B",
+  "DOE O 483.1C",
+  "DOE M 483.1-1",
+];
+
+function librarySourceDocs(): SourceDoc[] {
+  const docs = (doeLibrary as { docs: DoeLibraryDoc[] }).docs;
+  return docs
+    .filter(
+      (d) =>
+        !CORE_OID_PREFIXES.some(
+          (p) => d.oid === p || d.oid.startsWith(`${p} `),
+        ),
+    )
+    .map((d) => ({
+      id: d.id,
+      format: "pdf" as const,
+      folder: "doe" as const,
+      kind: "doe" as const,
+      title: d.title,
+      shortTitle: d.shortTitle,
+      description: d.description,
+      href: `${base()}/sources/${d.pdf}`,
+      local: true,
+      pages: d.pages,
+      docId: d.oid,
+      updatedLabel:
+        d.role === "priority" ? "PDF · RAG indexed" : "PDF · local library",
+    }));
+}
+
+/** Reference corpus for Source Search (file finder) + analysis panel. */
+export function getSourceDocs(): SourceDoc[] {
+  const core = coreSourceDocs();
+  const seen = new Set(core.map((d) => d.id));
+  const extra = librarySourceDocs().filter((d) => !seen.has(d.id));
+  return [...core, ...extra];
 }
 
 export function sourcesByFolder() {

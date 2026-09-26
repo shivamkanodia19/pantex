@@ -34,9 +34,18 @@ try {
     "lib/generated/cd-0039-body.json",
     path.join(dir, "generated", "cd-0039-body.json"),
   );
+  fs.copyFileSync(
+    "lib/generated/doe-corpus.json",
+    path.join(dir, "generated", "doe-corpus.json"),
+  );
+  fs.copyFileSync(
+    "lib/generated/doe-library.json",
+    path.join(dir, "generated", "doe-library.json"),
+  );
 
   for (const name of [
     "cd-0039-body",
+    "doe-rag",
     "document-data",
     "review-packs",
     "review-state",

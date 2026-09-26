@@ -1,0 +1,330 @@
+--- page 1 ---
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov Office of Environment, Health, Safety and Security  
+U.S. Department of Energy ORDER 
+ Washington, D.C.  
+Approved: 08-05-2026 
+ 
+SUBJECT:  MAINTENANCE MANAGEMENT PROGRAM FOR DOE 
+NUCLEAR FACILITIES 
+1. PURPOSE.  Federal Regulations (CFR) § 830.204(b)(5) for maintenance and the reliable 
+performance of structures, systems, and components (SSCs) that are part of the safety 
+basis required by 10 CFR § 830.202, Safety Basis, at Hazard Category 1, 2 and 3 
+Department of Energy (DOE) nuclear facilities. 
+2. CANCELS/SUPERSEDES.  DOE O 433.1B, Maintenance Management Program for 
+DOE Nuclear Facilities, dated March 12, 2013.  Cancellation of a directive does not, by 
+itself, modify or otherwise affect any contractual or regulatory obligation to comply with 
+the Directive.  Contractor Requirements Documents (CRDs) that have been incorporated 
+into a contract remain in effect throughout the term of the contract unless and until the 
+contract or regulatory commitment is modified to either eliminate requirements that are 
+no longer applicable or substitute a new set of requirements. 
+3. APPLICABILITY. 
+a. Departmental Applicability.  This Order applies to all DOE elements involved in 
+the maintenance of DOE Hazard Category 1, 2, and 3 nuclear facilities and 
+automatically applies to DOE elements created after it is issued.  This includes 
+both government-owned and government-operated (GOGO) and 
+government-owned and contractor-operated (GOCO) nuclear facilities. 
+The Administrator of the National Nuclear Security Administration (NNSA) must 
+ensure that NNSA employees comply with their respective responsibilities under 
+this Directive.  Nothing in this Directive will be construed to interfere with the 
+NNSA Administrator’s authority under section 3212(d) of Public Law 
+(P.L.) 106-65, National Defense Authorization Act for Fiscal Year 2000, to 
+establish Administration-specific policies, unless disapproved by the Secretary. 
+b. DOE Contractors.  Except for the equivalencies/exemptions in paragraph 3.c., the 
+CRD, Attachment 1, sets forth requirements of this Order that will apply to 
+contracts that include the CRD.  The CRD requirements apply to all contractors 
+responsible for managing and maintaining DOE-owned or -leased Hazard 
+Category 1, 2, and 3 nuclear facilities.  Contractors must comply with the 
+requirements listed in the CRD to the extent set forth in their contracts. 
+DOE O 433.1C
+
+--- page 2 ---
+2 DOE O 433.1C 
+ 08-05-2026 
+c. Equivalencies/Exemptions for DOE O 433.1C.  Equivalencies and exemptions to 
+this Order are processed in accordance with DOE O 251.1, Departmental 
+Directives Program, current version.  Concurrence by the Central Technical 
+Authority (CTA) or designee is required for both exemptions and equivalencies to 
+this Order for nuclear facilities. 
+(1) Equivalency.  In accordance with the responsibilities and authorities 
+assigned by Executive Order 12344, Naval Nuclear Propulsion Program, 
+codified at 50 U.S.C. §§ 2406, Deputy Administrator for Naval Reactors, 
+and 2511, Naval Nuclear Propulsion Program, and to ensure consistency 
+through the joint Navy/DOE Naval Nuclear Propulsion Program, the 
+Deputy Administrator for Naval Reactors (Director) will implement and 
+oversee requirements and practices pertaining to this Directive for 
+activities under the Director’s cognizance, as deemed appropriate. 
+(2) Exemption.  This Order does not apply to those portions of the 
+nuclear facility maintenance programs that are subject to regulation by 
+other federal agencies such as the United States (U.S.) Nuclear 
+Regulatory Commission. 
+(3) Exemption.  This Order does not apply to the Bonneville Power 
+Administration (BPA), in accordance with S1-DEL-BPA1-2016, 
+Delegation to the Administrator and Chief Executive Officer of 
+Bonneville Power Administration, dated August 12, 2016, to the BPA 
+Administrator and Chief Executive Officer. 
+4. REQUIREMENTS.  DOE Guide (G) 433.1-1, Nuclear Facility Maintenance 
+Management Program Guide for Use with DOE O 433.1, current version, provides 
+acceptable examples of approaches for meeting the requirements of this Order.  
+DOE G 433.1-1 references federal regulations, DOE Directives, and industry best 
+practices using a graded approach regarding implementation of requirements for 
+maintaining DOE-owned government property.  Graded approach is defined in 
+10 CFR § 830.3, Definitions, and guidance for applying it is provided in DOE G 433.1-1. 
+a. All Hazard Category 1, 2, or 3 nuclear facilities, as defined in DOE-Standard 
+(STD)-1027-2018, Chg. 1, dated January 2019, must conduct all maintenance of 
+SSCs that are part of the safety basis in compliance with a Nuclear Maintenance 
+Management Program (NMMP) through tailored application (e.g., graded 
+approach) of the requirements. 
+b. NMMPs for GOCO facilities must demonstrate compliance with the requirements 
+contained in the CRD of this Order (Attachment 1).  NMMPs for GOGO facilities 
+must demonstrate compliance with the requirements contained in Attachment 2.
+
+--- page 3 ---
+DOE O 433.1C 3 
+08-05-2026 
+c. Changes to NMMPs must be reviewed under the unreviewed safety question 
+(USQ) process to ensure that SSCs are maintained and operated within the 
+approved safety basis, as required by 10 CFR § 830, Subpart B, Safety Basis 
+Requirements.  Changes that would result in a USQ must be approved prior to the 
+change taking effect. 
+d. Assessments of NMMP implementation should be conducted in accordance with 
+DOE O 226.1, Implementation of Department of Energy Oversight Policy, current 
+version, to evaluate whether all CRD requirements are appropriately 
+implemented. Periodic self-assessments in accordance with DOE O 226.1 should 
+be conducted to evaluate the effectiveness of oversight of NMMPs. 
+e. A single maintenance program may be used to address the requirements of this 
+Order and the requirements of DOE O 430.1, Real Property Asset Management, 
+current version. 
+f. Full implementation of the requirements in this Order must be accomplished 
+within 1 year of its issuance, unless a different implementation schedule is 
+approved by the Secretarial Officer with concurrence of the CTAs. 
+5. RESPONSIBILITIES. 
+a. Secretarial Officers, including NNSA Administrator and Deputy Administrator 
+for Defense Programs. 
+(1) Ensure that the requirements of this Order are implemented for facilities, 
+activities, or programs under their cognizance. 
+(2) For GOGO activities under their cognizance, approve or designate the 
+approval authority for NMMP documentation prepared in accordance with 
+the CRD (Attachment 1). 
+(3) Ensure that contractors conduct maintenance of SSCs in accordance with a 
+DOE/NNSA-approved NMMP. 
+(4) Review and approve requests for equivalencies and exemptions from 
+requirements of this Order after resolving comments in accordance with 
+DOE O 251.1, current version. 
+(5) Ensure that Field Office Managers notify Contracting Officers when 
+contracts are affected by this Order. 
+b. Central Technical Authorities. 
+(1) Concur with decisions regarding applicability of CRDs related to this 
+Order, in accordance with DOE O 410.1, Central Technical Authority 
+Responsibilities Regarding Nuclear Safety Requirements, current version.
+
+--- page 4 ---
+4 DOE O 433.1C 
+ 08-05-2026 
+(2) Concur with exemptions and equivalencies to this Order for 
+nuclear facilities. 
+c. Field Office Managers (including NNSA). 
+(1) Ensure that maintenance activities and programs at Hazard Category 1, 2, 
+and 3 nuclear facilities under their purview are conducted in compliance 
+with the requirements of this Order. 
+(2) Ensure that sufficient resources are requested to meet the requirements of 
+this Order and to ensure that safety SSCs are sufficiently maintained to 
+perform their assigned safety function. 
+(3) Ensure that the requirements of this Order are incorporated into contracts, 
+subcontracts, and support services contracts for Hazard Category 1, 2, and 
+3 nuclear facilities, as appropriate. 
+(4) Notify Contracting Officers when contracts are affected by this Order. 
+(5) Review and approve NMMP program description documentation that 
+demonstrates compliance with the CRD, Attachment 1, with Specific 
+Requirements found in the sources listed in section 7, below. 
+(6) Conduct comprehensive self-assessments and assessments of contractor 
+maintenance management programs as specified in section 4. 
+d. Contracting Officers. 
+(1) For all applicable contracts and upon notification that a site/facility 
+management contract is affected by this Order, the Contracting Officers 
+shall incorporate the requirements into the affected contract(s) via the 
+“Laws, Regulations, and DOE Directives” clause of the contract, or 
+through negotiation and modification, as appropriate. 
+6. INVOKED STANDARDS.  This Order does not invoke any DOE technical standards or 
+industry standards as required methods. Any technical standard or industry standard that 
+is mentioned in or referenced by this Order is not invoked by this Order. Note: 
+DOE 251.1D, Appendix J, provides a definition for “invoked technical standard.” 
+7. REFERENCES. 
+a. Title XXXII, National Nuclear Security Administration Act, of P.L. 106-65, 
+as amended, established a separately organized agency within the Department 
+of Energy. 
+b. 10 CFR § 830, Nuclear Safety Management; Subpart A, “Quality 
+Assurance Requirements.”
+
+--- page 5 ---
+DOE O 433.1C 5 
+08-05-2026 
+c. 10 CFR § 830, Nuclear Safety Management; Subpart B, “Safety 
+Basis Requirements.” 
+d. 10 CFR § 835, Occupational Radiation Protection. 
+e. 10 CFR § 850, Chronic Beryllium Disease Prevention Program. 
+f. 10 CFR § 851, Worker Safety and Health Program. 
+g. 48 CFR § 970.5223-1, “Integration of Environment, Safety and Health into Work 
+Planning and Execution.” 
+h. Executive Order 12344, “Naval Nuclear Propulsion Program.” 
+i. DOE O 226.1, Implementation of Department of Energy Oversight Policy, 
+current version. 
+j. DOE O 227.1, Independent Oversight Program, current version. 
+k. DOE O 251.1, Departmental Directives Program, current version. 
+l. DOE O 410.1, Central Technical Authority Responsibilities Regarding Nuclear 
+Safety Requirements, current version. 
+m. DOE O 414.1, Quality Assurance, current version. 
+n. DOE O 420.1, Facility Safety, current version. 
+o. DOE O 422.1, Conduct of Operations, current version. 
+p. DOE O 426.2, Personnel Selection, Training, Qualification, and Certification 
+Requirements for DOE Nuclear Facilities, current version. 
+q. DOE G 424.1-1, Implementation Guide for Use in Addressing Unreviewed Safety 
+Question Requirements, current version. 
+r. DOE O 430.1, Real Property Asset Management, current version. 
+s. DOE G 433.1-1, Nuclear Facility Maintenance Management Program Guide for 
+Use with DOE O 433.1B, current version. 
+t. DOE O 440.1, Worker Protection Program for DOE (Including the National 
+Nuclear Security Administration) Federal Employees, current version. 
+u. DOE G 450.4-1, Integrated Safety Management System Guide, current version. 
+v. DOE O 450.2, Integrated Safety Management, current version.
+
+--- page 6 ---
+6 DOE O 433.1C 
+ 08-05-2026 
+w. DOE O 458.1, Radiation Protection of the Public and the Environment, current 
+version. 
+x. DOE-STD-1027-2018, Chg 1, Hazard Categorization of DOE Nuclear Facilities, 
+dated January 2019. 
+8. CONTACT.  Questions concerning this Directive should be addressed to the Office of 
+Nuclear Safety, Quality Assurance and Environment at 202-586-5680. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ 
+JAMES P. DANLY 
+Deputy Secretary
+
+--- page 7 ---
+DOE O 433.1C Attachment 1 – CRD, Contractors Only 
+08-05-2026 Page 1-1 
+ATTACHMENT 1 
+CONTRACTOR REQUIREMENTS DOCUMENT 
+DOE O 433.1C, MAINTENANCE MANAGEMENT PROGRAM FOR 
+DOE NUCLEAR FACILITIES 
+Contractors at Hazard Category 1, 2, and 3 nuclear facilities must comply with the requirements 
+listed in this Contractor Requirements Document (CRD) to the extent set forth in their contracts.  
+Maintenance Management Program requirements applicable to this CRD are provided in 
+Attachment 2.  Regardless of the performer of the work, the contractor is responsible for 
+complying with the requirements of this CRD and flowing down CRD requirements to 
+subcontractors at any tier to the extent necessary to ensure contractor compliance. 
+The provisions of this CRD apply to Department of Energy (DOE) and National Nuclear 
+Security Administration (NNSA) contractors.
+
+--- page 8 ---
+DOE O 433.1C Attachment 2 – Fede ral Employees and Contractors 
+08-05-2026 Page 2-1 
+ATTACHMENT 2 
+MAINTENANCE MANAGEMENT PROGRAM REQUIREMENTS FOR DOE 
+NUCLEAR FACILITIES 
+1. GENERAL REQUIREMENTS. 
+a. Federal and contractor organizations responsible for Hazard Category 1, 2, or 3 
+nuclear facilities, as defined by Department of Energy (DOE) Standard (STD) 
+1027-2018 Chg1, Hazard Categorization of DOE Nuclear Facilities, dated 
+January 2019, must develop and implement a Nuclear Maintenance Management 
+Program (NMMP) through tailored application (e.g., graded approach) of the 
+Specific Requirements in this Attachment.  The definition of graded approach is 
+provided in Title 10 Code of Federal Regulations (CFR) § 830.3, Definitions.  
+The NMMP must describe the Safety Management Program for maintenance and 
+the reliable performance of structures, systems and components (SSCs) that are 
+part of the safety basis at Hazard Category 1, 2 and 3 DOE nuclear facilities. 
+b. Federal and contractor organizations must conduct all maintenance of SSCs that 
+are part of the safety basis in compliance with an approved NMMP. 
+c. Federal and contractor organizations must ensure that equivalencies and 
+exemptions from the Maintenance Management Program elements of this 
+Attachment are identified, formally documented with supporting justification, 
+and approved. 
+d. Federal and contractor organizations must implement the NMMP through federal 
+or contractor-approved documents, respectively. 
+e. Federal and contractor organizations must submit NMMP description 
+documentation to DOE/NNSA for review prior to the startup of new Hazard 
+Category 1, 2, and 3 nuclear facilities.  NMMP description documentation must 
+be, at a minimum, an applicability matrix or a combination of multiple 
+documents.  The following elements must be covered: 
+(1) Correlation of the Specific Requirements in this Attachment to the 
+applicable facilities; 
+(2) Correlation of the implementing documents (procedures, work 
+instructions, etc.) to the Specific Requirements in this Attachment; and 
+(3) Documentation of the basis for applying a graded approach, if applicable. 
+f. Federal and contractor organizations must conduct assessments of NMMP 
+implementation, in accordance with DOE Policy (P) 226.1, Implementation of 
+Department of Energy Oversight Policy, current version and 10 CFR § 830, 
+Nuclear Safety Management, Subpart A, Quality Assurance Requirements.
+
+--- page 9 ---
+Attachment 2 – Federal Employees and Contractors DOE O 433.1C 
+Page 2-2 08-05-2026 
+g. Federal and contractor organizations must ensure that NMMPs are identified in 
+the applicable documented safety analysis in accordance with 10 CFR § 830.204, 
+Documented Safety Analysis. 
+h. Federal and contractor organizations must review proposed changes to the 
+NMMP, which could affect the performance of safety SSCs, as part of the 
+ongoing unreviewed safety question (USQ) process.  This review is intended to 
+evaluate whether safety SSCs are maintained and operated within the approved 
+safety basis, as required by 10 CFR § 830.203, Unreviewed Safety Question 
+Process.  Changes that would result in a positive USQ must be submitted to the 
+Secretarial Officer for approval prior to the change taking effect. 
+2. SPECIFIC REQUIREMENTS.  The NMMP must clearly address the following: 
+a. The NMMP must be integrated with applicable federal regulations and DOE 
+Directives governing nuclear safety, quality assurance, worker protection, 
+radiation protection, conduct of operations, and integrated safety management.  
+Integration requirements are determined through the facility’s safety 
+basis documentation. 
+Implementation shall be integrated with applicable documents identified in 
+section 7, References. 
+b. Maintenance Organization and Administration.  The management structure that 
+applies sufficient resources (e.g., oversight and independent assessment, 
+management involvement, funding, assignment of personnel roles and 
+responsibilities, facilities, tools, and equipment) necessary to support the 
+requirements described in this Attachment and ensure integration with 
+other programs. 
+c. Planning, Scheduling, and Coordination of Maintenance.  The process for 
+planning, scheduling, coordination, and control of maintenance activities, and 
+properly emphasizing equipment availability.  The process must describe the 
+application of a System Engineer Program in the planning and execution of 
+maintenance activities. 
+d. Types of Maintenance.  The process for utilization of appropriate types of 
+maintenance (e.g., preventive maintenance, predictive maintenance, reliability-
+centered maintenance, surveillance and testing, and corrective maintenance) to 
+provide for safe, efficient, and reliable operation of safety SSCs. 
+e. Maintenance Procedures.  The process for developing and implementing 
+documented and approved work instructions for work on safety SSCs (e.g., work 
+packages, procedures, work instructions, and drawings). 
+f. Training and Qualification.  The Training and Qualification Program for 
+maintenance positions specified in DOE O 426.2, Personnel Selection, Training, 
+Qualification, and Certification Requirements for DOE Nuclear Facilities, 
+current version.
+
+--- page 10 ---
+DOE O 433.1C Attachment 2 – Fede ral Employees and Contractors 
+08-05-2026 Page 2-3 
+g. Configuration Management.  The incorporation of the Configuration Management 
+Program to control approved modifications and to prevent unauthorized 
+modifications to safety SSCs. 
+h. Suspect and Counterfeit Items. The incorporation of the process to prevent the use 
+of suspect and counterfeit items into maintenance procedures and 
+work instructions. 
+i. Maintenance Tool and Equipment Control.  The process for control of 
+maintenance tools including calibration of measuring and test equipment. 
+j. Maintenance History.  The process for developing and maintaining documented 
+and retrievable maintenance history (e.g., cost data, system availability data, and 
+failure data) to support work planning, performance trending, analysis of 
+problems to determine root causes of unplanned occurrences related to 
+maintenance, and continuous program improvement.  Tracking and trending of 
+deferred maintenance on safety SSCs, including aging of deferred items and risk 
+significance, to support resource planning and priority setting. 
+k. Performance Measures.  Establishment and use of performance measures to assess 
+NMMP effectiveness, identify adverse trends, and drive corrective action. 
+l. Facility Condition Inspection. The process for conducting and implementing 
+routine assessment of facilities to identify issues related to operability, 
+and reliability. 
+m. Post-Maintenance Testing.  The process for conducting post-maintenance testing 
+to verify that safety SSCs can perform their intended function when returned 
+to service.

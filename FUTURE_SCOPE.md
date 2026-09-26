@@ -10,6 +10,10 @@ Notes for the technical slide and post-demo product direction. **Not implemented
 
 Document tab = real **CD-0039** text. Change cards = derived from the in-repo B→C diff (not a live Haiku call). **Run LLM** is wired for optional re-analysis and does **not** auto-run.
 
+### Temporary experiment: full-document RAG scan
+
+Local-only **Run full scan** on Document walks every CD-0039 section through a lightweight keyword RAG over indexed `483.1B` + `483.1C` text extracts + the precomputed B→C diff (`lib/doe-rag.ts`, `/api/scan-section`). Explicit button only — not production path; may revert to section-scoped UI.
+
 ## Optional: business impact triage (Changes tab)
 
 Rough Haiku scoring of change cards for **urgency / business impact** filters. Completely optional — not a risk register, not required for Approve/Revert. Local API only (`/api/impact`).

@@ -6,6 +6,7 @@ import {
   type DocChange,
   type DocSection,
 } from "@/lib/document-data";
+import { doeDocAsSections } from "@/lib/doe-rag";
 import { getSourceDocs, type SourceDoc } from "@/lib/sources";
 
 export interface DocumentMeta {
@@ -48,9 +49,14 @@ export function isCd0039Site(siteId: string) {
   return siteId === "src-cd-0039" || siteId === "src-cd-0039-pdf";
 }
 
-/** Pantex site docs available in the Document picker. */
+/**
+ * Document review targets only — official Pantex CD-0039 PDF.
+ * DOE PDFs stay in the local RAG corpus; they are not site review docs.
+ */
 export function siteDocOptions(): SourceDoc[] {
-  return getSourceDocs().filter((d) => d.id === "src-cd-0039-pdf");
+  return getSourceDocs().filter(
+    (d) => d.local && d.format === "pdf" && d.folder === "pantex",
+  );
 }
 
 /** DOE docs selectable as baseline / incoming. */
@@ -86,8 +92,10 @@ export function resolveReviewPack(
     doeFromId,
     doeToId,
     sitePdfHref:
-      src("src-cd-0039-pdf")?.href ??
-      `${base()}/sources/CD-0039_PXD_Integrated_Safety_Management_Program.pdf`,
+      site?.format === "pdf"
+        ? site.href
+        : (src("src-cd-0039-pdf")?.href ??
+          `${base()}/sources/CD-0039_PXD_Integrated_Safety_Management_Program.pdf`),
     doeFromPdfHref: from?.href,
     doeToPdfHref: to?.href,
     diffHref:
@@ -118,31 +126,37 @@ export function resolveReviewPack(
     };
   }
 
+  const parsed = doeDocAsSections(siteId);
+  const fallbackSections: DocSection[] = [
+    {
+      id: "sec-pdf-only",
+      number: "PDF",
+      title: site?.shortTitle ?? "Source PDF",
+      pages: site?.pages ? [1, site.pages] : [1],
+      paragraphs: [
+        {
+          id: "p-pdf-1",
+          text: `${site?.title ?? siteId} is available as a PDF (${site?.pages ?? "—"} pages). Use Open PDF for the official file.`,
+        },
+      ],
+    },
+  ];
+
   return {
     ...shared,
     meta: {
-      title: site?.title ?? "Selected site document",
+      title: site?.title ?? "Selected document",
       revision: site?.updatedLabel ?? "—",
       docId: site?.docId ?? siteId,
-      owner: "Pantex",
+      owner: site?.folder === "doe" ? "DOE" : "Pantex",
       totalPages: site?.pages ?? 0,
     },
-    sections: [
-      {
-        id: "sec-empty",
-        number: "—",
-        title: "No structured body for this site file yet",
-        pages: [1],
-        paragraphs: [
-          {
-            id: "p-empty-1",
-            text: `Selected ${site?.shortTitle ?? siteId}. Open the PDF from the links below. Structured section review is currently wired for CD-0039.`,
-          },
-        ],
-      },
-    ],
+    sections: parsed.length > 0 ? parsed : fallbackSections,
     changes: [],
-    note: "Site file loaded without a sectioned pack. Choose CD-0039 for the demo document body.",
+    note:
+      parsed.length > 0
+        ? `Opened ${site?.shortTitle ?? siteId} — ${parsed.length} parts from text extract (${site?.pages ?? "—"} pp PDF). Full CRADA RAG scan targets CD-0039.`
+        : `Opened ${site?.shortTitle ?? siteId}. No text extract indexed yet — use Open PDF.`,
   };
 }
 
