@@ -60,7 +60,6 @@ export function DocumentReader() {
   const sectionHeading = useRef<HTMLHeadingElement>(null);
   useLayoutEffect(() => {
     if (reviewView !== "section" || !sectionNavigation) return;
-    sectionHeading.current?.scrollIntoView({ block: "start" });
     sectionHeading.current?.focus({ preventScroll: true });
   }, [sectionNavigation, reviewView]);
 

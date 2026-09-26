@@ -61,7 +61,6 @@ export function FullDocumentReader() {
     const heading = document.getElementById(
       `heading-${sectionNavigation.sectionId}`,
     );
-    heading?.scrollIntoView({ block: "start" });
     heading?.focus({ preventScroll: true });
   }, [sectionNavigation]);
 
