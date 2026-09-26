@@ -35,12 +35,10 @@ See [FUTURE_SCOPE.md](./FUTURE_SCOPE.md) for the product/tech-slide cache, DOE p
 
 ## Demo DOE corpus (CRADA supersession)
 
-No published **DOE O 483.1D** — the live pair is **483.1B Chg 3 → 483.1C**:
-
 | File | Role |
 |---|---|
-| [`public/sources/DOE_O_483.1B_Chg3_CRADA.pdf`](./public/sources/DOE_O_483.1B_Chg3_CRADA.pdf) | Baseline order |
-| [`public/sources/DOE_O_483.1C_CRADA.pdf`](./public/sources/DOE_O_483.1C_CRADA.pdf) | Incoming order |
+| [`public/sources/DOE_O_483.1B_Chg3_CRADA.pdf`](./public/sources/DOE_O_483.1B_Chg3_CRADA.pdf) | Baseline — 483.1B Chg 3 |
+| [`public/sources/DOE_O_483.1C_CRADA.pdf`](./public/sources/DOE_O_483.1C_CRADA.pdf) | Incoming — 483.1C |
 | [`public/sources/DEMO_DIFF_DOE_O_483.1B_to_483.1C.md`](./public/sources/DEMO_DIFF_DOE_O_483.1B_to_483.1C.md) | Precomputed “LLM” diff (presentation) |
 
 Text extracts (`.txt`) sit beside the PDFs for the ingest story.

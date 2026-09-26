@@ -67,7 +67,7 @@ export function getSourceDocs(): SourceDoc[] {
       title: "DOE O 483.1C — Cooperative Research and Development Agreements",
       shortTitle: "DOE O 483.1C",
       description:
-        "Current CRADA order (approved 08-05-2026). Risk-based MSW / delegated path. Incoming side of the demo LLM diff. No 483.1D is published.",
+        "Current CRADA order (approved 08-05-2026). Risk-based MSW / delegated path. Incoming side of the demo LLM diff vs 483.1B.",
       href: `${base()}/sources/DOE_O_483.1C_CRADA.pdf`,
       local: true,
       pages: 15,

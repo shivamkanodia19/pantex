@@ -2,7 +2,7 @@
 
 > **Demo artifact.** In the full product this file is what the **difference-identification LLM** would emit after ingesting two DOE order versions. The hackathon UI does **not** recompute this live — we ship the precomputed result so the presentation can show the pipeline without building the full RAG system.
 >
-> **Corpus note:** There is no published **DOE O 483.1D**. The live supersession pair is **483.1B Chg 3 (10-28-2024)** → **483.1C (08-05-2026)**. Files live under `public/sources/`.
+> **Corpus note:** Supersession pair is **483.1B Chg 3 (10-28-2024)** → **483.1C (08-05-2026)**. Files live under `public/sources/`.
 
 | Field | Value |
 |---|---|

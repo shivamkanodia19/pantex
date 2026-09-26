@@ -6,8 +6,8 @@ Notes for the technical slide and post-demo product direction. **Not implemented
 
 Shipped under `public/sources/` for Source Search:
 
-- `DOE_O_483.1B_Chg3_CRADA.pdf` + `.txt` — baseline
-- `DOE_O_483.1C_CRADA.pdf` + `.txt` — incoming (no **483.1D** published)
+- `DOE_O_483.1B_Chg3_CRADA.pdf` + `.txt` — baseline (483.1B)
+- `DOE_O_483.1C_CRADA.pdf` + `.txt` — incoming (483.1C)
 - `DEMO_DIFF_DOE_O_483.1B_to_483.1C.md` — **precomputed LLM difference ID** (the expensive step, mocked for the pitch)
 
 The wireframe never re-runs that diff; the product pitch is hash-cached regeneration only when either side’s content hash moves.
