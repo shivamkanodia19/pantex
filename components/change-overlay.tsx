@@ -55,7 +55,7 @@ export function DoeAnalysisPanel({ change }: { change: DocChange | null }) {
       setLlmError(null);
       setLlm(null);
       try {
-        const res = await fetch("/api/analyze", {
+        const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/api/analyze`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           signal: controller.signal,
@@ -113,10 +113,11 @@ export function DoeAnalysisPanel({ change }: { change: DocChange | null }) {
   }
 
   async function rerun() {
+    if (!change) return;
     setLlmLoading(true);
     setLlmError(null);
     try {
-      const res = await fetch("/api/analyze", {
+      const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/api/analyze`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
