@@ -13,6 +13,7 @@ import {
   reviewReducer,
   type ReviewAction,
 } from "@/lib/review-state";
+import { resolveReviewPack } from "@/lib/review-packs";
 
 function useDocumentState() {
   const [state, dispatch] = useReducer(
@@ -24,7 +25,7 @@ function useDocumentState() {
   const [selectedId, selectChange] = useState<string | null>(null);
 
   function act(
-    type: ReviewAction["type"],
+    type: Exclude<ReviewAction["type"], "loadPack">,
     label: string,
     extra: Partial<ReviewAction> = {},
   ) {
@@ -34,6 +35,28 @@ function useDocumentState() {
       label,
       snapshotId: crypto.randomUUID(),
       createdAt: new Date().toISOString(),
+    } as ReviewAction);
+  }
+
+  function loadReviewPack(siteId: string, doeFromId: string, doeToId: string) {
+    const pack = resolveReviewPack(siteId, doeFromId, doeToId);
+    selectChange(null);
+    dispatch({
+      type: "loadPack",
+      label: `Loaded ${pack.meta.docId} · ${pack.doeFromId}→${pack.doeToId}`,
+      snapshotId: crypto.randomUUID(),
+      createdAt: new Date().toISOString(),
+      siteId: pack.siteId,
+      doeFromId: pack.doeFromId,
+      doeToId: pack.doeToId,
+      meta: pack.meta,
+      sections: pack.sections,
+      changes: pack.changes,
+      packNote: pack.note,
+      diffHref: pack.diffHref,
+      sitePdfHref: pack.sitePdfHref,
+      doeFromPdfHref: pack.doeFromPdfHref,
+      doeToPdfHref: pack.doeToPdfHref,
     });
   }
 
@@ -60,6 +83,7 @@ function useDocumentState() {
       act("restore", "Restored snapshot", { id }),
     pushNamedSnapshot: (label: string) => act("snapshot", label),
     getChange: (id: string) => state.changes.find((c) => c.id === id),
+    loadReviewPack,
   };
 }
 

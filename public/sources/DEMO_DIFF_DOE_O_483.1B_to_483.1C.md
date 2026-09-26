@@ -62,20 +62,23 @@ These mirror the shape of UI change cards — not a full page-by-page legal redl
 ## Pipeline story (presentation)
 
 ```
-[ DOE O 483.1B Chg 3 PDF ]     [ DOE O 483.1C PDF ]
-            \                       /
-             \                     /
-              v                   v
-         ingest + section hash (deterministic, cheap)
+[ DOE O 483.1B PDF ]          [ DOE O 483.1C PDF ]
+         \                           /
+          \                         /
+           v                       v
+      diff / difference ID  ←── this file (demo: precomputed; LLM not re-run)
                        |
                        v
-              LLM difference ID  ←── this file (demo: precomputed)
+           look in new DOE (483.1C loci: Purpose §1.c, §4, supersession)
                        |
                        v
-         change cards → Approve / Revert / Reword / Undo
+           find matching site clauses in Pantex CD-0039
+                       |
+                       v
+         Document change cards → Approve / Revert / Reword / Undo
 ```
 
-Browsing Source Search never calls the model. Only “difference identification” (and optional Reword) is the expensive step — cached by content hash in the product pitch (`FUTURE_SCOPE.md`).
+Browsing Source Search never calls the model. Difference ID is precomputed for the pitch; optional Haiku “Run LLM” on a card is wired but not auto-run.
 
 ---
 

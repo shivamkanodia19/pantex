@@ -85,7 +85,7 @@ export function ChangesTable() {
                     </div>
                     <div className="rounded-card border border-accent/20 bg-accent-muted/50 px-3 py-2.5">
                       <a
-                        href={ch.doe.url}
+                        href={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}${ch.doe.url}`}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="pressable text-[11px] font-semibold text-accent hover:underline"
@@ -94,7 +94,7 @@ export function ChangesTable() {
                       </a>
                       <p className="mt-1 text-[12px] leading-relaxed text-ink">{ch.doe.excerpt}</p>
                       <a
-                        href={ch.doe.url}
+                        href={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}${ch.doe.url}`}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="pressable mt-2 inline-block text-[11px] font-semibold text-accent hover:underline"

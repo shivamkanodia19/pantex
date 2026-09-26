@@ -143,7 +143,16 @@ function FolderButton({
 }
 
 function FilePreview({ doc }: { doc: SourceDoc }) {
-  const isProcedure = doc.id === "src-px-ops-2204";
+  const canAnalyze =
+    doc.id === "src-cd-0039" ||
+    doc.id === "src-cd-0039-pdf" ||
+    doc.id === "src-doe-483-1b" ||
+    doc.id === "src-doe-483-1c";
+
+  const analyzeHref =
+    doc.folder === "pantex"
+      ? `/document?site=${doc.id === "src-cd-0039-pdf" ? "src-cd-0039" : doc.id}&from=src-doe-483-1b&to=src-doe-483-1c`
+      : `/document?site=src-cd-0039&from=${doc.id === "src-doe-483-1c" ? "src-doe-483-1b" : doc.id}&to=${doc.id === "src-doe-483-1b" ? "src-doe-483-1c" : doc.id}`;
 
   return (
     <>
@@ -170,25 +179,29 @@ function FilePreview({ doc }: { doc: SourceDoc }) {
       </div>
 
       <div className="mt-auto flex flex-col gap-2 pt-8">
-        {isProcedure ? (
+        {canAnalyze ? (
           <Link
-            href="/document"
+            href={analyzeHref}
             className="pressable inline-flex items-center justify-center rounded-md bg-accent px-3 py-2 text-[13px] font-semibold text-surface"
           >
-            Open in Document →
+            Analyze in Document →
           </Link>
-        ) : (
-          <a
-            href={doc.href}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="pressable inline-flex items-center justify-center rounded-md bg-accent px-3 py-2 text-[13px] font-semibold text-surface"
-          >
-            {doc.local ? "Open PDF ↗" : "Open library ↗"}
-          </a>
-        )}
+        ) : null}
+        <a
+          href={doc.href}
+          target="_blank"
+          rel="noopener noreferrer"
+          className={clsx(
+            "pressable inline-flex items-center justify-center rounded-md px-3 py-2 text-[13px] font-semibold",
+            canAnalyze
+              ? "border border-border bg-canvas text-ink-muted"
+              : "bg-accent text-surface",
+          )}
+        >
+          {doc.local ? (doc.href.endsWith(".md") ? "Open diff ↗" : "Open PDF ↗") : "Open library ↗"}
+        </a>
         <p className="text-[11px] leading-relaxed text-ink-faint">
-          No LLM while browsing. Analysis runs only from Document, section by section.
+          No LLM while browsing. Pick files in Document, then optionally Run LLM on a change card.
         </p>
       </div>
     </>

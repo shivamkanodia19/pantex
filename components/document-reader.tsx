@@ -1,13 +1,14 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { Suspense, useEffect, useMemo, useState } from "react";
 import clsx from "clsx";
 import Link from "next/link";
 
-import { DOCUMENT_META, SECTIONS, type DocChange } from "@/lib/document-data";
+import type { DocChange } from "@/lib/document-data";
 import { getSourceDocs } from "@/lib/sources";
 import { useDocStore } from "@/lib/store";
 import { statusStyles } from "@/components/change-overlay";
+import { DocumentFilePicker } from "@/components/document-file-picker";
 
 interface LlmAnalysis {
   model: string;
@@ -40,14 +41,16 @@ export function DocumentReader() {
     editChange,
     rewriteChange,
     revision,
+    meta,
+    sections,
   } = useDocStore();
 
   const [sectionIndex, setSectionIndex] = useState(0);
-  const section = SECTIONS[sectionIndex] ?? SECTIONS[0];
+  const section = sections[sectionIndex] ?? sections[0];
 
   const sectionChanges = useMemo(
-    () => changes.filter((c) => c.sectionId === section.id),
-    [changes, section.id],
+    () => (section ? changes.filter((c) => c.sectionId === section.id) : []),
+    [changes, section],
   );
 
   const changeIndex = Math.max(
@@ -67,6 +70,12 @@ export function DocumentReader() {
   const offline = process.env.NEXT_PUBLIC_STATIC_EXPORT === "true";
 
   useEffect(() => {
+    setSectionIndex(0);
+    setLlm(null);
+    setLlmError(null);
+  }, [meta.docId, sections.length]);
+
+  useEffect(() => {
     setLlm(null);
     setLlmError(null);
     setEditing(false);
@@ -81,7 +90,7 @@ export function DocumentReader() {
     }
     // intentionally when section changes
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [section.id]);
+  }, [section?.id]);
 
   useEffect(() => {
     if (focusedChange) setDraft(focusedChange.workingText);
@@ -92,7 +101,7 @@ export function DocumentReader() {
   const busy = llmLoading || rewriting;
 
   function goSection(delta: number) {
-    setSectionIndex((i) => Math.min(SECTIONS.length - 1, Math.max(0, i + delta)));
+    setSectionIndex((i) => Math.min(sections.length - 1, Math.max(0, i + delta)));
   }
 
   function goChange(delta: number) {
@@ -112,7 +121,7 @@ export function DocumentReader() {
     const idx = ordered.findIndex((c) => c.id === focusedChange?.id);
     const nextIdx = Math.min(ordered.length - 1, Math.max(0, (idx < 0 ? 0 : idx) + delta));
     const next = ordered[nextIdx];
-    const sIdx = SECTIONS.findIndex((s) => s.id === next.sectionId);
+    const sIdx = sections.findIndex((s) => s.id === next.sectionId);
     if (sIdx >= 0) setSectionIndex(sIdx);
     selectChange(next.id);
     setLlm(null);
@@ -197,17 +206,20 @@ export function DocumentReader() {
 
   return (
     <div>
+      <Suspense fallback={null}>
+        <DocumentFilePicker />
+      </Suspense>
+
       <div className="mb-5 flex flex-wrap items-end justify-between gap-4">
         <div>
           <p className="text-[11px] font-medium uppercase tracking-[0.06em] text-ink-faint">
-            {DOCUMENT_META.docId} · {DOCUMENT_META.revision}
+            {meta.docId} · {meta.revision}
           </p>
           <h1 className="mt-1.5 max-w-2xl text-[22px] font-medium tracking-tight text-ink sm:text-[26px]">
             Section review
           </h1>
-          <p className="mt-1.5 text-[13px] text-ink-muted">
-            {SECTIONS.length} sections · {pendingCount} open DOE items · Haiku runs only when you click
-            Run LLM (local)
+          <p className="mt-1.5 max-w-2xl text-[13px] text-ink-muted">
+            {meta.docId} · {pendingCount} open items · Run LLM is optional (local only; not auto-run).
           </p>
         </div>
         <button
@@ -225,7 +237,7 @@ export function DocumentReader() {
         <NavBtn label="← Section" disabled={sectionIndex === 0} onClick={() => goSection(-1)} />
         <NavBtn
           label="Section →"
-          disabled={sectionIndex >= SECTIONS.length - 1}
+          disabled={sectionIndex >= sections.length - 1}
           onClick={() => goSection(1)}
         />
         <span className="mx-1 hidden h-4 w-px bg-border sm:block" />
@@ -243,7 +255,7 @@ export function DocumentReader() {
         <NavBtn label="Prev change (doc)" onClick={() => goGlobalChange(-1)} />
         <NavBtn label="Next change (doc)" onClick={() => goGlobalChange(1)} />
         <span className="ml-auto font-mono text-[11px] text-ink-faint">
-          § {sectionIndex + 1}/{SECTIONS.length}
+          § {sectionIndex + 1}/{sections.length}
           {sectionChanges.length > 0
             ? ` · Δ ${changeIndex + 1}/${sectionChanges.length}`
             : " · no DOE items"}
@@ -252,6 +264,10 @@ export function DocumentReader() {
 
       <div className="grid items-start gap-5 lg:grid-cols-[minmax(0,1fr)_min(360px,38%)]">
         <article className="rounded-card border border-border bg-surface px-5 py-5 sm:px-6 sm:py-6">
+          {!section ? (
+            <p className="text-[13px] text-ink-muted">Load a review set to begin.</p>
+          ) : (
+            <>
           <header className="mb-4 flex flex-wrap items-baseline justify-between gap-2 border-b border-border-subtle pb-3">
             <h2 className="text-[15px] font-semibold tracking-tight text-ink">
               <span className="text-accent">{section.number}</span> {section.title}
@@ -312,6 +328,8 @@ export function DocumentReader() {
               );
             })}
           </div>
+            </>
+          )}
         </article>
 
         <aside className="lg:sticky lg:top-16 lg:self-start">
@@ -406,10 +424,18 @@ export function DocumentReader() {
                     type="button"
                     disabled={busy || offline || dirty}
                     onClick={() => void runLlm()}
-                    className="pressable w-full rounded-md bg-accent px-3 py-2.5 text-[13px] font-semibold text-surface disabled:opacity-60"
+                    className="pressable w-full rounded-md border border-accent/40 bg-canvas px-3 py-2.5 text-[13px] font-semibold text-accent disabled:opacity-60"
                   >
-                    {llmLoading ? "Running Haiku…" : llm ? "Re-run LLM" : "Run LLM"}
+                    {llmLoading
+                      ? "Running Haiku…"
+                      : llm
+                        ? "Re-run LLM"
+                        : "Run LLM (optional · local)"}
                   </button>
+                  <p className="text-[11px] text-ink-faint">
+                    Change cards above are precomputed from the B→C DOE diff. LLM is set up for
+                    live re-analysis; it does not run until you click.
+                  </p>
 
                   {offline ? (
                     <p className="text-[12px] text-ink-muted">
@@ -476,7 +502,7 @@ export function DocumentReader() {
                       DEMO EVIDENCE · NOT INDEPENDENTLY VERIFIED
                     </p>
                     <a
-                      href={focusedChange.doe.url}
+                      href={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}${focusedChange.doe.url}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="pressable mt-1.5 block text-[12px] font-medium text-accent hover:underline"
