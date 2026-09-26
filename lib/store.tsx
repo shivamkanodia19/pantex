@@ -14,6 +14,7 @@ import {
   type ReviewAction,
 } from "@/lib/review-state";
 import { resolveReviewPack } from "@/lib/review-packs";
+import type { ImpactJudgement } from "@/lib/impact";
 
 function useDocumentState() {
   const [state, dispatch] = useReducer(
@@ -23,6 +24,8 @@ function useDocumentState() {
   );
   const [mode, setMode] = useState<"view" | "write">("view");
   const [selectedId, selectChange] = useState<string | null>(null);
+  /** Optional business-impact triage — cleared when review set reloads. */
+  const [impacts, setImpacts] = useState<Record<string, ImpactJudgement>>({});
 
   function act(
     type: Exclude<ReviewAction["type"], "loadPack">,
@@ -41,6 +44,7 @@ function useDocumentState() {
   function loadReviewPack(siteId: string, doeFromId: string, doeToId: string) {
     const pack = resolveReviewPack(siteId, doeFromId, doeToId);
     selectChange(null);
+    setImpacts({});
     dispatch({
       type: "loadPack",
       label: `Loaded ${pack.meta.docId} · ${pack.doeFromId}→${pack.doeToId}`,
@@ -84,6 +88,10 @@ function useDocumentState() {
     pushNamedSnapshot: (label: string) => act("snapshot", label),
     getChange: (id: string) => state.changes.find((c) => c.id === id),
     loadReviewPack,
+    impacts,
+    setImpacts,
+    clearImpacts: () => setImpacts({}),
+    getImpact: (id: string) => impacts[id],
   };
 }
 

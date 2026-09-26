@@ -1,6 +1,6 @@
 "use client";
 
-import { Suspense, useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import clsx from "clsx";
 import Link from "next/link";
 
@@ -206,9 +206,7 @@ export function DocumentReader() {
 
   return (
     <div>
-      <Suspense fallback={null}>
-        <DocumentFilePicker />
-      </Suspense>
+      <DocumentFilePicker />
 
       <div className="mb-5 flex flex-wrap items-end justify-between gap-4">
         <div>

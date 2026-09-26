@@ -23,7 +23,6 @@ export interface ResolvedReviewPack {
   meta: DocumentMeta;
   sections: DocSection[];
   changes: DocChange[];
-  /** Precomputed DOE→DOE diff artifact, if any. */
   diffHref?: string;
   note: string;
   sitePdfHref?: string;
@@ -33,7 +32,6 @@ export interface ResolvedReviewPack {
 
 const base = () => process.env.NEXT_PUBLIC_BASE_PATH || "";
 
-/** Default demo pack: CD-0039 reviewed against 483.1B→483.1C. */
 export const DEFAULT_PACK_IDS = {
   siteId: "src-cd-0039",
   doeFromId: "src-doe-483-1b",
@@ -44,46 +42,46 @@ function src(id: string): SourceDoc | undefined {
   return getSourceDocs().find((d) => d.id === id);
 }
 
-/** Site docs the Document tab can put in the left pane. */
-export function siteDocOptions(): SourceDoc[] {
-  return getSourceDocs().filter(
-    (d) =>
-      d.folder === "pantex" &&
-      (d.id === "src-cd-0039" || d.id === "src-cd-0039-pdf"),
-  );
+function normalizeSiteId(siteId: string) {
+  return siteId === "src-cd-0039-pdf" ? "src-cd-0039" : siteId;
 }
 
-/** DOE docs selectable as baseline / incoming authority. */
+/** Site docs for the Document picker (one row per analyzable site file). */
+export function siteDocOptions(): SourceDoc[] {
+  return getSourceDocs().filter((d) => d.id === "src-cd-0039");
+}
+
+/** DOE docs selectable as baseline / incoming. */
 export function doeDocOptions(): SourceDoc[] {
   return getSourceDocs().filter(
-    (d) => d.folder === "doe" && d.local && d.id !== "src-doe-483-diff",
+    (d) => d.id === "src-doe-483-1b" || d.id === "src-doe-483-1c",
   );
 }
 
-function packKey(siteId: string, doeFromId: string, doeToId: string) {
-  return `${siteId}|${doeFromId}|${doeToId}`;
+function cd0039Sections(): DocSection[] {
+  return SECTIONS.map((s) => ({
+    ...s,
+    paragraphs: s.paragraphs.map((p) => ({ ...p })),
+  }));
 }
 
 /**
- * Resolve a review set from the three selected files.
- * Only the CD-0039 + 483.1B→483.1C combo has precomputed change cards (demo).
- * Other combos still “load” (meta + PDF links) so the picker workflow is real.
+ * Resolve review set from the three selected files.
+ * CD-0039 always loads sectioned body when chosen as site.
+ * Precomputed change cards only for 483.1B → 483.1C.
  */
 export function resolveReviewPack(
   siteId: string,
   doeFromId: string,
   doeToId: string,
 ): ResolvedReviewPack {
-  const site = src(siteId);
+  const site = src(normalizeSiteId(siteId)) ?? src(siteId);
   const from = src(doeFromId);
   const to = src(doeToId);
-  const known = packKey("src-cd-0039", "src-doe-483-1b", "src-doe-483-1c");
-  const normalizedSite =
-    siteId === "src-cd-0039-pdf" ? "src-cd-0039" : siteId;
-  const key = packKey(normalizedSite, doeFromId, doeToId);
+  const siteNorm = normalizeSiteId(siteId);
 
   const shared = {
-    siteId,
+    siteId: siteNorm,
     doeFromId,
     doeToId,
     sitePdfHref:
@@ -97,46 +95,49 @@ export function resolveReviewPack(
         : undefined,
   };
 
-  if (key === known || packKey(normalizedSite, doeFromId, doeToId) === known) {
+  const isCd0039 = siteNorm === "src-cd-0039";
+  const hasDemoCards =
+    isCd0039 &&
+    doeFromId === "src-doe-483-1b" &&
+    doeToId === "src-doe-483-1c";
+
+  if (isCd0039) {
     return {
       ...shared,
       meta: { ...DOCUMENT_META },
-      sections: SECTIONS.map((s) => ({
-        ...s,
-        paragraphs: s.paragraphs.map((p) => ({ ...p })),
-      })),
-      changes: cloneChanges(SEED_CHANGES),
-      note: "Loaded precomputed cards: DOE 483.1B→483.1C diff → 483.1C loci → CD-0039. LLM not auto-run.",
+      sections: cd0039Sections(),
+      changes: hasDemoCards ? cloneChanges(SEED_CHANGES) : [],
+      note: hasDemoCards
+        ? "Loaded CD-0039 with precomputed cards from DOE 483.1B→483.1C. LLM not auto-run."
+        : `Loaded CD-0039 against ${from?.shortTitle ?? doeFromId} → ${to?.shortTitle ?? doeToId}. No precomputed cards for this DOE pair (demo cards are B→C only). PDFs still open below.`,
     };
   }
 
-  // Fallback: selectable but no seeded redlines yet
-  const label = site?.shortTitle ?? siteId;
   return {
     ...shared,
     meta: {
       title: site?.title ?? "Selected site document",
       revision: site?.updatedLabel ?? "—",
-      docId: site?.docId ?? label,
-      owner: site?.folder === "pantex" ? "Pantex" : "DOE",
+      docId: site?.docId ?? siteId,
+      owner: "Pantex",
       totalPages: site?.pages ?? 0,
     },
     sections: [
       {
         id: "sec-empty",
         number: "—",
-        title: "No structured review pack for this combination yet",
+        title: "No structured body for this site file yet",
         pages: [1],
         paragraphs: [
           {
             id: "p-empty-1",
-            text: `You selected ${site?.shortTitle ?? siteId} against ${from?.shortTitle ?? doeFromId} → ${to?.shortTitle ?? doeToId}. Open the PDFs from the picker. A full sectioned review pack (like CD-0039 + 483.1B→C) has not been generated for this set.`,
+            text: `Selected ${site?.shortTitle ?? siteId}. Open the PDF from the links below. Structured section review is currently wired for CD-0039.`,
           },
         ],
       },
     ],
     changes: [],
-    note: "Combination loaded without precomputed change cards. Pick CD-0039 + 483.1B + 483.1C for the demo redlines.",
+    note: "Site file loaded without a sectioned pack. Choose CD-0039 for the demo document body.",
   };
 }
 
