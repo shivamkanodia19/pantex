@@ -1,0 +1,1716 @@
+{
+  "meta": {
+    "title": "CD-0039 — Integrated Safety Management Program (Incorporating WS&H)",
+    "revision": "Issue No. 001",
+    "docId": "CD-0039",
+    "owner": "PanTeXas Deterrence, LLC — Pantex Plant",
+    "totalPages": 54
+  },
+  "sections": [
+    {
+      "id": "sec-intro",
+      "number": "Intro",
+      "title": "Introduction",
+      "pages": [
+        8
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-intro-1",
+          "text": "PanTeXas Deterrence, LLC (PXD) is the management and operating contractor for the National Nuclear Security Administration’s (NNSA) Pantex Plant located in Carson County near Amarillo, Texas. PXD is a joint venture led by a BWX Technologies, Inc. (BWXT) subsidiary – it also includes Fluor; SOC, A Day & Zimmermann Company; and the Texas A&M University System. Pantex is one of six production facilities in the NNSA’s Nuclear Security Enterprise. As the cornerstone of the nation’s Nuclear Security Enterprise, Pantex applies unique capabilities to ensure the effectiveness of the U.S. nuclear stockpile in support of the nation’s nuclear deterrent."
+        },
+        {
+          "id": "p-sec-intro-2",
+          "text": "Pantex accomplishes this through executing nuclear explosive assembly and disassembly, special nuclear material testing and evaluations, and manufacturing and assessing high explosives. The Pantex mission has grown over the decades as other facilities closed and responsibilities for life-extension, surveillance, assembly and high explosives operations were moved to the site. Since 1975, Pantex has been the nation’s primary assembly, disassembly, retrofit, and life-extension center for nuclear weapons. The last new nuclear weapon was completed in 1991."
+        },
+        {
+          "id": "p-sec-intro-3",
+          "text": "Since then, Pantex has safely dismantled thousands of weapons retired from the stockpile by the military and placed the resulting plutonium pits in interim storage. All work at Pantex is carried out under three overarching priorities: the safety and health of workers and the public, the security of weapons and information, and the protection of the environment. Operations at Pantex are primarily conducted on 2,000 acres of the 18,000-acre site. The plant has approximately 650 buildings, including specialized facilities in which maintenance, modification, disassembly, and assembly operations are conducted."
+        },
+        {
+          "id": "p-sec-intro-4",
+          "text": "The plant maintains its own water-treatment, sewage, and steam-generating plants. Five wind turbines, each over 400-feet tall, generate enough power to support more than 60 percent of the Pantex Plant’s annual energy. For more information on Pantex, visit https://pantex.energy.gov. PXD employs approximately 4,800 full-time personnel, comprised of an exempt, non-exempt/non-bargaining, and bargaining workforce. In addition, PXD utilizes the services of numerous cleared and un-cleared subcontractors to perform various projects and tasks, including construction projects."
+        }
+      ]
+    },
+    {
+      "id": "sec-1",
+      "number": "1",
+      "title": "Purpose",
+      "pages": [
+        9
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-1-1",
+          "text": "On November 1, 2024, after approximately a four-month contract transition with Consolidated Nuclear Security, LLC., PXD officially became the sole management and operating contractor for the Pantex Plant under contract number 89233224CNA000004. This new, initial issue, document describes PXD’s consolidated Integrated Safety Management (ISM)/ Worker Safety and Health (WS&H) Program (hereinafter referred to as the Pantex ISM/WS&H Program)."
+        },
+        {
+          "id": "p-sec-1-2",
+          "text": "This document, in addition to the documents contained in the flow-down report in Section 7, implements the applicable requirements of 48 CFR 970.5223-1, Integration of Environment, Safety, and Health Into Work Planning and Execution; and 10 CFR 851, Worker Safety and Health Program. The Pantex ISM/WS&H Program represents the overall umbrella for integrating and managing Environment, Safety, and Health (ES&H) requirements and is a standards-based system consistent with the ISM/WS&H policies, rules, orders, manuals, and standards (simply referred to as standards) that are applicable to Department of Energy (DOE)/NNSA sites."
+        },
+        {
+          "id": "p-sec-1-3",
+          "text": "The implementation of these standards enables PXD to conduct work in a manner that ensures protection of its workers, the public, and the environment."
+        }
+      ]
+    },
+    {
+      "id": "sec-2",
+      "number": "2",
+      "title": "Scope",
+      "pages": [
+        9,
+        10
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-2-1",
+          "text": "This document applies to all PXD employees. The Pantex ISM/WS&H Program infrastructure includes site-level programs that prescribe the processes for business and program management, prioritization and allocation of resources, budget and cost management, identification of DOE/NNSA requirements and regulations, and specific ES&H management programs, procedures, and requirements (including waste management and pollution prevention) at the site, facility, and activity/task levels."
+        },
+        {
+          "id": "p-sec-2-2",
+          "text": "Pantex is currently a “covered workplace” as defined by 10 Code of Federal Regulations (CFR) 851.3(a), “a place at a DOE site where a contractor is responsible for performing work in furtherance of a DOE mission.” At the site level, the NNSA’s Pantex Field Office (PFO) is responsible for federal management and oversight. The requirements of 10 CFR 851 do not apply to the following: • Work at a DOE site that is regulated by Occupational Safety and Health Administration (OSHA) [10 CFR 851.2(a)(1)]."
+        },
+        {
+          "id": "p-sec-2-3",
+          "text": "• Work at a DOE site that is operated under the authority of the Director, Naval Nuclear Propulsion, pursuant to Executive Order 12344, as set forth in Public Law 98–525, 42 U.S.C. 7158 note [10 CFR 851.2(a)(2)]. • Radiological hazards (to the extent regulated by 10 CFR Part 20 and 835) or nuclear explosives operations (to the extent regulated by 10 CFR Parts 820 and 830) [10 CFR 851.2(b)]. • Transportation to or from a DOE site [10 CFR 851.2(c)]."
+        },
+        {
+          "id": "p-sec-2-4",
+          "text": "• Activities by employees of other federal, state, or local government agencies; or government corporations (e.g., Department of Defense [DOD], Army Corps of Engineers.) except when covered by a coordination agreement, memorandum, or equivalent. • Site visitors, students, visiting scientists, and others not under contract with PXD. • PXD work activities not performed on a DOE/NNSA owned, leased, or controlled site. • Construction and maintenance of facilities on property deeded by DOE/NNSA to third parties (e.g., the John C. Drummond Center)."
+        },
+        {
+          "id": "p-sec-2-5",
+          "text": "In addition, the following site activities are not covered by 10 CFR 851 but are subject to the safety and health requirements (including ISM) implemented in the applicable terms and conditions of their contract(s) with PXD: • Activities by subcontractors that are providing operation and maintenance services for commercial items (e.g., X-ray technicians, machine tool technicians, fax/copier technicians, repair services for equipment under warranty, training activities for equipment operation)."
+        },
+        {
+          "id": "p-sec-2-6",
+          "text": "• Activities by vendors or suppliers coming on-site who do not have service contracts and who engage in no more than incidental work relating to delivery, installation or repair of the products provided."
+        }
+      ]
+    },
+    {
+      "id": "sec-3",
+      "number": "3",
+      "title": "Strategy",
+      "pages": [
+        10,
+        11
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-3-1",
+          "text": "This document identifies and establishes the organizations, roles, and responsibilities for implementation of the ISM program. Line management incorporates ISM guiding principles (GPs) and core functions (CFs) into process documents, work instructions, manuals, or other management-controlled documents that impact the safety of the site, facilities, or work tasks. Recognizing these principles and functions apply to all work, implementation is flexible and tailored to the complexity of the specific work and the severity of the associated hazards and environmental risks. ISM is applicable to all work performed by PXD employees."
+        },
+        {
+          "id": "p-sec-3-2",
+          "text": "ISM is also applicable to PXD subcontractors to the extent that such requirements are incorporated into subcontractor contract documents. The contract between PXD and the subcontractor will contain specific contract scope, applicable worker safety and health requirements, and other terms and conditions. Unless otherwise specified in contractual documents, PXD subcontractors working on-site will work under the WS&H program requirements established in this document.",
+          "changeId": "chg-04"
+        },
+        {
+          "id": "p-sec-3-3",
+          "text": "PXD strives to provide a place of employment that is free from recognized hazards that have the potential to cause injury, illness, serious physical harm, or death to workers and ensures that work is performed in accordance with applicable requirements of 10 CFR 851, including any compliance order issued by the Secretary pursuant to 10 CFR 851.4. WS&H Program requirements apply to all PXD activities and operations including design, construction, operation, maintenance, decontamination and decommissioning, research and development, and environmental restoration activities at Pantex."
+        },
+        {
+          "id": "p-sec-3-4",
+          "text": "Activities and operations conducted by PXD personnel in leased and other off-site facilities will be in accordance with this"
+        },
+        {
+          "id": "p-sec-3-5",
+          "text": "WS&H program (e.g., the Pantex Amarillo Campus, Palo Duro Research Center, Nuclear Incident Response Program [NIRP]). One of the integral components of the environmental programs at Pantex is the Pantex Environmental Management System (EMS). The EMS is based on International Organization for Standardization (ISO) 14001, Environmental Management Systems-Requirements with Guidance for Use. The EMS has been integrated into the ISM program. To integrate requirements of ISO 14001, EMS objectives/targets for continual improvement are established on an annual basis."
+        },
+        {
+          "id": "p-sec-3-6",
+          "text": "These continual improvement goals are reviewed and approved by site management to ensure they are consistent with company commitments contained in the strategic plan and PXD’s commitment to environmental stewardship as reflected in ES&H policies."
+        }
+      ]
+    },
+    {
+      "id": "sec-4",
+      "number": "4",
+      "title": "Requirements",
+      "pages": [
+        11
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-4-1",
+          "text": "Federal regulation 48 CFR 970.5223-1, Integration of Environment, Safety, and Health into Work Planning and Execution, requires DOE contractors to establish an ISM System. This regulation also requires contractors to follow ISM GPs and CFs, and to describe their approach for implementing and tailoring an ISM Program to their sites and activities.",
+          "changeId": "chg-05"
+        },
+        {
+          "id": "p-sec-4-2",
+          "text": "Federal regulation 10 CFR 851, Worker Safety and Health Program, requires DOE contractors to provide a written WS&H Program that describes how the contractor will integrate all applicable requirements of the rule with other related site-specific worker protection activities and with their ISM program. Section 7 contains a link to a flow-down report from the Business Requirements and Instruction Network (BRAIN) that establishes the implementing documents for the applicable Pantex ISM/WS&H Program requirements, including the applicable functional areas cited in 10 CFR 851.24 and 10 CFR 851, Appendix A."
+        },
+        {
+          "id": "p-sec-4-3",
+          "text": "The flow-down report is intentionally established as a separately maintained and updated document. Updates to this flow-down report do not require notification and/or submittal to PFO for review or approval."
+        }
+      ]
+    },
+    {
+      "id": "sec-5",
+      "number": "5",
+      "title": "Interfaces / Roles and Responsibilities",
+      "pages": [
+        11
+      ],
+      "paragraphs": []
+    },
+    {
+      "id": "sec-5.1",
+      "number": "5.1",
+      "title": "ISM Program Overview — Guiding Principles and Core Functions",
+      "pages": [
+        11
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.1-1",
+          "text": "The basic structure of ISM (i.e., the GPs and CFs) is the overarching system used to manage the performance of work. The GPs are the fundamental guidance for actions from the development of safety directives to work performance. The CFs define how safety management functions are performed and provide structured methodology for the ISM Program."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.2",
+      "number": "5.2",
+      "title": "ISM Guiding Principles",
+      "pages": [
+        12
+      ],
+      "paragraphs": []
+    },
+    {
+      "id": "sec-5.2.1",
+      "number": "5.2.1",
+      "title": "GP 1 — Line Management Responsibility for Safety",
+      "pages": [
+        12,
+        13,
+        14
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.2.1-1",
+          "text": "“Line management is responsible for the protection of the public, the workers, and the environment.” (a) Contractor Assurance System (CAS) The PXD CAS helps provide Pantex customers, partners, employees, corporate parents, and the DOE/NNSA with assurance of mission success demonstrated by safety, quality assurance, security, project management, and operational business excellence achieved by: • A culture that stresses safety, quality, security, and performance excellence. • Well-defined requirement identification, adoption, and implementation processes."
+        },
+        {
+          "id": "p-sec-5.2.1-2",
+          "text": "• Functional area improvements driven by appropriate performance metrics, self-assessments, effective corrective actions, and continuous feedback and improvement activities. • Graded and integrated risk management processes applied to site activities. • Metrics focused on essential parameters used to identify areas needing management attention. • Identifying and addressing program and performance deficiencies and opportunities for improvement. • Providing the means and requirements to report deficiencies to the responsible managers and authorities. • Sharing lessons learned across all aspects of operations."
+        },
+        {
+          "id": "p-sec-5.2.1-3",
+          "text": "• Transparency with stakeholders, employees, PFO, parent companies, and other involved entities. Results are communicated to provide assurance that business functions are performing in accordance with contractual, corporate, and legal requirements and expectations, deficiencies are recognized and resolved in a timely manner, and continuous improvement efforts are consistently focused on key processes."
+        },
+        {
+          "id": "p-sec-5.2.1-4",
+          "text": "An effective CAS results in a complementary and supportive relationship between PFO and PXD that allows both to focus limited resources on higher risk facilities and activities while retaining confidence that lower risk facilities and activities meet or exceed levels of satisfactory performance. It is"
+        },
+        {
+          "id": "p-sec-5.2.1-5",
+          "text": "supported by quantifiable data and is designed to be consistent with the hazards and the risks associated with the work performed. (b) Management Responsibility Line management is responsible for integrating ISM principles into all work and assuring active and effective communication between all levels of the workforce. The management team is committed to conducting work safely and securely and recognizes that line management responsibility; accountability, robust management systems, and worker involvement are the key elements to an effective ISM program."
+        },
+        {
+          "id": "p-sec-5.2.1-6",
+          "text": "All levels of management and each worker are ultimately responsible for working safely and securely; and for the protection of the public, the environment, and DOE/NNSA assets (information and property). PXD is committed to providing a safe and hazard free workplace for employees and to protect the public and the environment. Use of ISM to consistently instill PXD values in diverse work activities requires a tailored ISM program. ISM was designed to be implemented based on the hazards and risks associated with specific facilities and operations."
+        },
+        {
+          "id": "p-sec-5.2.1-7",
+          "text": "Implementation of ISM focuses on clearly establishing line management’s responsibility and accountability for safety. This responsibility is accomplished through a well-defined organizational structure and by including specific roles and responsibilities of managers in the procedures that implement ISM. Senior management is responsible for providing policy and strategic planning support, ensuring that the work scope and budget process incorporate ISM principles, and oversee and guide implementation of ISM."
+        },
+        {
+          "id": "p-sec-5.2.1-8",
+          "text": "Supervisors, organizational managers, and senior managers are held accountable for safety and health performance and the communication of safety and health rules for all employees. Safety responsibilities are understood and accepted by line managers as integral to mission accomplishment. Managers clearly understand their work activities and performance objectives, and how to safely conduct their work activities to accomplish their performance objectives."
+        },
+        {
+          "id": "p-sec-5.2.1-9",
+          "text": "Managers demonstrate their commitment to safety through their actions and behaviors, and support the organization in successfully implementing safety culture attributes by conducting inspections and surveillances of work areas and equipment. Work areas are inspected regularly using a risk-based approach to identify potentially hazardous conditions or work practices and to ensure expectations are being met regarding compliance with established requirements."
+        },
+        {
+          "id": "p-sec-5.2.1-10",
+          "text": "All levels of management encourage workers to analyze work to be performed with a questioning attitude and to initiate a “pause” or “stop” work when additional guidance or direction is needed. Management assures workers to bring forth safety concerns without fear of reprisal of retaliation. (c) Risk-informed, Conservative Decision Making Managers support and reinforce conservative decisions based on available information and risks. Risk is identified and decision making is systematic and rigorous through the utilization of ISM processes developed to support safe and reliable operations."
+        },
+        {
+          "id": "p-sec-5.2.1-11",
+          "text": "Implementation of the ISM CFs with a questioning attitude, using processes at the site, facility, and activity/task levels results in the work being performed safely. (d) Management Engagement and Time in Field Managers and supervisors spend time in the workplace. Line managers practice visible leadership by placing eyes on the work, asking questions, coaching, mentoring, and reinforcing standards and positive behaviors. Deviations from expectations are addressed promptly."
+        },
+        {
+          "id": "p-sec-5.2.1-12",
+          "text": "Part of the ES&H philosophy is that managers and supervisors are expected to assure that all workers reporting to them understand the expectations related to safety and health, the governing work controls, and the means by which workers can safely and successfully perform their assignments. This is accomplished through a variety of methods to include periodic safety meetings, daily pre-job briefings, walk-throughs, workplace and/or process observations, and safety shares."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.2.2",
+      "number": "5.2.2",
+      "title": "GP 2 — Clear Roles and Responsibilities",
+      "pages": [
+        14,
+        15
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.2.2-1",
+          "text": "“Clear and unambiguous lines of authority and responsibility for ensuring ES&H are established and maintained at all organizational levels.” (a) Clear Expectations and Accountability This principle is manifested in contract language, position descriptions, work authorization documents, technical procedures, administrative procedures, and training. Personnel at all organizational levels are held accountable for standards and expectations. Processes are in place to recognize excellent performance through Special Recognition Awards as well as formal and informal programs to identify, address, and correct less-than-adequate performance."
+        },
+        {
+          "id": "p-sec-5.2.2-2",
+          "text": "Accountability considers intent and organizational factors that may contribute to undesirable outcomes. Responsibility for safety is well defined at all levels of the organization's workforce. Expectations for safety performance and accountability are clearly defined in writing. Individuals and organizations are held accountable in the context of a just culture."
+        },
+        {
+          "id": "p-sec-5.2.2-3",
+          "text": "(b) Responsibility for Safety Responsibility and authority for safety are well defined and clearly understood as an integral part of performing work. The line of authority and responsibility for safety is defined from senior management to individual contributors. Roles, responsibilities, authorities, and accountabilities are clearly defined in writing and are understood. Safety programs reinforce individual commitment and responsibility for each individual’s personal safety."
+        },
+        {
+          "id": "p-sec-5.2.2-4",
+          "text": "(c) Policies and Procedures PXD utilizes programs, processes, plans, manuals, procedures, and other associated work instructions that are derived from applicable federal, state, and local statutes and regulations, site policies, and industry standards that are used to conduct work. These various programs and processes are used daily in operating Pantex and provide reasonable assurance of adequate protection for the worker, the public, and the environment."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.2.3",
+      "number": "5.2.3",
+      "title": "GP 3 — Competence Commensurate with Responsibilities",
+      "pages": [
+        15,
+        16
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.2.3-1",
+          "text": "“Personnel possess the experience, knowledge, skills, and abilities that are necessary to discharge their responsibilities.” (a) Employee recruitment, selection, retention, and development. Management takes steps to assure that the appropriate depth and breadth of technical talent is available, and that PXD has in place the means for periodically evaluating competencies. Competence includes training, experience, and fitness for duty. PXD maintains a highly knowledgeable workforce to support a broad spectrum of operational and technical decisions. Technical and safety expertise is readily available."
+        },
+        {
+          "id": "p-sec-5.2.3-2",
+          "text": "Outside expertise is employed when necessary. Professional and technical growth is supported to build organizational capability. Employees are required to improve knowledge, skills, and abilities by participating in recurrent and relevant training and are strongly encouraged to pursue educational opportunities. For all work activities, management is responsible for assuring that workers have the knowledge, skills and abilities, including physical capabilities, to perform their work assignments prior to assignment."
+        },
+        {
+          "id": "p-sec-5.2.3-3",
+          "text": "Managers set an example for safety through their personal commitment to professional development and by direct involvement in training that reinforces expected employee behaviors. The Human Resources organization with support from the Organizational Development & Training (OD&T) organization as applicable, establishes and verifies that minimum qualification and experience requirements identified in"
+        },
+        {
+          "id": "p-sec-5.2.3-4",
+          "text": "DOE O 426.2A are met during the hiring process. Additionally, both fixed and delta continuing training is provided to assure personnel maintain their job proficiency. The goal of the Pantex Training and Qualification Program is to assure that workers and subcontractors have the knowledge, skills and abilities to perform work in a competent and safe manner. The Pantex Training and Qualification Program employs a Systematic Approach to Training which incorporates a cycle of analysis, design, development, implementation, and evaluation as integral elements of training programs."
+        },
+        {
+          "id": "p-sec-5.2.3-5",
+          "text": "In turn, this systematic approach to training supports implementation of the ISM requirements. (Refer to Section 5.5.14, Training and Qualification Program)"
+        }
+      ]
+    },
+    {
+      "id": "sec-5.2.4",
+      "number": "5.2.4",
+      "title": "GP 4 — Balanced Priorities",
+      "pages": [
+        16,
+        17
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.2.4-1",
+          "text": "“Resources are effectively allocated to address safety, programmatic, and operational considerations. Protecting the workers, the public, and the environment is a priority whenever activities are planned and performed.” PFO interfaces with PXD to ensure continued excellence in mission execution. PFO and PXD senior managers collaborate to clearly define strategic ES&H expectations. Within the mission requirements of Pantex, DOE/NNSA proposes the fiscal year work scope at the start of the new fiscal year budget process."
+        },
+        {
+          "id": "p-sec-5.2.4-2",
+          "text": "Program Management reviews the proposed work scope based on plant capacity and DOE/NNSA's priorities and initiates the fiscal year budget process by providing draft budget planning guidance. (a) Integration of Safety and Business Processes Determining budget and resource allocations necessary for safe operations is an integral component to annual planning and budget processes. By performing work analysis and budget formulation together, PXD more accurately estimates the funding required for safety analysis and the control of hazards associated with the task."
+        },
+        {
+          "id": "p-sec-5.2.4-3",
+          "text": "Senior management provides policy and strategic direction, ensures the work scope and budget process incorporates ISM principles, and guides implementation of ISM. The budget reconciliation process matches production, ES&H, and plant infrastructure requirements with available funding based on priorities. Unresolved items are elevated to the senior leadership team for resolution. The budget reconciliation process is an iterative process that culminates each fiscal year in agreement between PXD and DOE/NNSA authorizing the management and operating contractor to execute the agreed upon work scope."
+        },
+        {
+          "id": "p-sec-5.2.4-4",
+          "text": "The current contract provides for work authorization directives, performance metrics, incentive fee criteria, and performance milestones for"
+        },
+        {
+          "id": "p-sec-5.2.4-5",
+          "text": "the budget execution year and contains requirements for the execution of Department of Energy Acquisition Regulation (DEAR) Clause 48 CFR 970.5223-1, including flow down of these requirements to subcontractors. This process may be reiterated based on changes in mission, DOE/NNSA requirements, or newly identified work requirements. PXD has established processes to track, manage, and control the budget. Following development of the budget, these processes provide the mechanism for evaluating PXD’s performance against the budget plan."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.2.5",
+      "number": "5.2.5",
+      "title": "GP 5 — Identification of Safety Standards and Requirements",
+      "pages": [
+        17
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.2.5-1",
+          "text": "“Before work is performed, the associated hazards are evaluated and an agreed-upon set of safety standards and requirements is established which, if properly implemented, will provide adequate assurance that the workers, the public, and the environment are protected from adverse consequences.” Safety standards and requirements are flowed into contractual agreements. Requirement flow-down, from the Prime Contract to implementing management and control documents, is through the BRAIN. The level of the hazard dictates the level of formality used to analyze the hazards and to establish controls.",
+          "changeId": "chg-03"
+        },
+        {
+          "id": "p-sec-5.2.5-2",
+          "text": "Design and construction workflow processes include steps to initiate applicable hazard evaluation processes to provide the analysis of designs of new facilities and modifications to existing facilities and equipment for potential workplace hazards (10 CFR 851.21). Design Project Teams and construction workflow processes include steps to incorporate controls from applicable hazards evaluations. Safety and health professionals verify that the designs comply with the safety requirements (i.e., Safety Basis documents; industrial hazards analyses; and other aspects of the ES&H Program)."
+        },
+        {
+          "id": "p-sec-5.2.5-3",
+          "text": "The number and rigor of Design Reviews vary depending on project size and complexity. These processes define the boundaries for safe and environmentally responsible operation of a work-activity. Based on the identified hazards, the level of formality and complexity of a work activity’s safety analysis process is directly related to the level of hazardous inventories and operations present. As the hazards and risks associated with a work activity increase, the formality, documentation, and general level of effort increase. This concept is known as the “graded approach.”"
+        }
+      ]
+    },
+    {
+      "id": "sec-5.2.6",
+      "number": "5.2.6",
+      "title": "GP 6 — Hazard Controls Tailored to Work Being Performed",
+      "pages": [
+        18
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.2.6-1",
+          "text": "“Administrative and engineering controls to prevent and mitigate hazards are tailored to the work being performed and associated hazards.” Refer to CFs 2 and 3 in Section 5.3 for information regarding established processes for identification and analysis of hazards, and determination of appropriate controls."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.2.7",
+      "number": "5.2.7",
+      "title": "GP 7 — Operations Authorization",
+      "pages": [
+        18
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.2.7-1",
+          "text": "“The conditions and requirements to be satisfied for operations to be initiated and conducted are clearly established and agreed upon.” The level of formality for authorizing operations depends on the level of hazard and the program requirements. Before a work-activity commences, the process/work-activity owner and/or the Facility Manager or representative assures that the management chain is clearly identified and the safety and health controls are in place. New or revised work activities may not begin until they have been authorized and documented as having all applicable hazards evaluations completed."
+        },
+        {
+          "id": "p-sec-5.2.7-2",
+          "text": "Operations authorization is maintained using the change control process to maintain the safety basis authorized by DOE/NNSA. Refer to CFs 2, 3, and 4 in Section 5.3 for additional information related to operational requirements and work authorization."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.3",
+      "number": "5.3",
+      "title": "ISM Core Functions",
+      "pages": [
+        18
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.3-1",
+          "text": "ISM is implemented through the ISM CF framework, which assures work processes at the site, facility, and activity/task levels, methodically and formally assess hazards and implement appropriate controls to mitigate any potential negative consequences."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.3.1",
+      "number": "5.3.1",
+      "title": "CF-1 — Define the Scope of the Work",
+      "pages": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.3.1-1",
+          "text": "“Missions are translated into work, expectations are set, and tasks are identified and prioritized, and resources allocated.” (a) Implementation Implementing the scope of work is established at the corporate level by the management and operating contract between PXD and DOE/NNSA/PFO. The Contract defines PXD as an entity and provides the operating boundaries and requirements of the work PXD performs for DOE/NNSA. Each fiscal year, budget targets are established. PXD reviews the proposed work and initiates the budget process."
+        },
+        {
+          "id": "p-sec-5.3.1-2",
+          "text": "DOE/NNSA expectations, Pantex capabilities, safety priorities and available resources are explicitly considered in defining the scope of work to be performed. Activities are prioritized to assure that resources are most effectively applied while safety is being maintained."
+        },
+        {
+          "id": "p-sec-5.3.1-3",
+          "text": "ISM relies on a well-defined and understood scope of work to establish appropriate levels of resources for performing work safely and securely. Mechanisms exist for planning, estimating, and budgeting for the required resources based on DOE/NNSA mission requirements. From these processes, facility-level work requirements are established. Performance objectives, measures, and commitments are established and agreed to between PFO and PXD annually and are consistent with mission, and budget guidance. The Performance Evaluation Measurement Plan (PEMP) and specific work scope performance objectives are established by PFO."
+        },
+        {
+          "id": "p-sec-5.3.1-4",
+          "text": "A baseline change process is in place to maintain the performance and budget plans. The purpose of the objectives, measures and commitments is to drive continuous improvement in performance and ISM system effectiveness. The budgeting process incorporates the agreed upon production and ES&H priorities for PXD. Within this process, personnel requirements are projected through integration in production work scopes. This includes not only the skilled labor and supervisory requirements, but also the technical personnel needed to support operations."
+        },
+        {
+          "id": "p-sec-5.3.1-5",
+          "text": "(b) Define Scope of Work Once the work scope is agreed upon contractually, the operating organizations are responsible for carrying out the mission (1) while fulfilling the requirements of all applicable laws, regulations, DOE/NNSA directives, and standard industrial practices, and (2) within the approved safety basis, environmental permits, and security plans for the facility. An important part of the work planning process is a clear definition of the scope of the work to be performed. (c) Operational Work Operational work is defined as work performed by a production or operations organization."
+        },
+        {
+          "id": "p-sec-5.3.1-6",
+          "text": "The scope of operational work includes activities such as assembly and disassembly of weapons components, manufacturing of components, and weapons quality assurance and evaluation activities. Also included in operational work are activities such as operational checks, rounds, and surveillances. The scope of operational work authorized for each nuclear facility is defined via an applicable readiness review and falls within each facility's approved safety basis, security plan, and environmental permits."
+        },
+        {
+          "id": "p-sec-5.3.1-7",
+          "text": "Each facility, process, and activity change is evaluated against the safety basis to ensure that work can be performed within the approved safety basis."
+        },
+        {
+          "id": "p-sec-5.3.1-8",
+          "text": "(d) Maintenance Work A comprehensive maintenance program preserves and restores facility systems, equipment and components to assure structures, systems and components important to safe and reliable operations are capable of fulfilling their design and safety functions. The work control system is designed to assure that maintenance activities are performed safely, correctly and in a timely manner; such activities are properly verified; and that adequate facilities, equipment, tools, parts and materials are available when needed. Maintenance work is performed in a support role."
+        },
+        {
+          "id": "p-sec-5.3.1-9",
+          "text": "The maintenance provider works closely with the line managers and other support organizations to plan, schedule, and perform maintenance work. For maintenance activities, the scope of work to be performed is initially identified by the requesting entity. Maintenance work is planned, scheduled, executed and closed in accordance with site-specific procedures. (e) Project Work When a present or future need or requirement is identified by an organization, the organization shall determine whether the mechanism required to meet the need is a project."
+        },
+        {
+          "id": "p-sec-5.3.1-10",
+          "text": "Projects are unique efforts that support a program mission with defined start and end points, undertaken to create a product, facility, or system with interdependent activities planned to meet a common objective or mission. Projects include planning and execution of construction, renovation, modification, and large capital equipment."
+        },
+        {
+          "id": "p-sec-5.3.1-11",
+          "text": "For demolition work the process includes identifying the scope of work and hazards and risks associated with the work; identifying design mitigating actions; producing, and obtaining approval of, design documents and work instructions; and issuing a demolition plan, which defines the demolition and supporting activities and is required for gaining approval to demolish a facility."
+        },
+        {
+          "id": "p-sec-5.3.1-12",
+          "text": "(f) Protective Force Work PXD has established programs and processes to define the configuration management processes and mechanisms for security employees to use in effectively planning, documenting, and performing work in an integrated, rigorous, and disciplined manner in accordance with ISM, including firearm safety requirements. (g) Support and Service Work Support and service work activities include tasks performed by support-type organizations not addressed in the previous sections. The scope of support and service work includes hands-on work performed by organizations such as"
+        },
+        {
+          "id": "p-sec-5.3.1-13",
+          "text": "ES&H and Engineering, including technology research and development activities. Although these support and services work tasks are not controlled specifically through existing site-level work control processes or procedures, evaluation of task and facility-related hazards is necessary to ensure appropriate controls are established."
+        },
+        {
+          "id": "p-sec-5.3.1-14",
+          "text": "Organizations performing these types of work tasks are required to perform work utilizing the existing processes and procedures described in this document (i.e., technical procedures, job hazard analysis), or they may establish and implement organization-level processes and procedures for defining work scope, analyzing hazards and establishing controls. Implementation of hazard controls may be through employee training and qualification, pre-work briefing by supervisors or supervisor of the organization being supported, or documented work plans."
+        },
+        {
+          "id": "p-sec-5.3.1-15",
+          "text": "The following elements are required to be implemented by all organizations performing hands-on support and services work activities: • Define the work control process in procedures or work plans directing work activities in accordance with ISM CFs. • Establish training qualification requirements for Support Services personnel. • Incorporate work authorization from the supervisor and/or facility/operations manager. • Address the analysis of hazards associated with the work task and established controls. • Identify, evaluate, and control hazards associated with the facility or work location."
+        },
+        {
+          "id": "p-sec-5.3.1-16",
+          "text": "(h) Subcontract Work Subcontract management uses a graded approach and will vary. Factors influencing the degree of subcontract management include the nature and complexity of the work, the type of subcontract, established lines of jurisdiction, and the potential exposures to the personnel involved. Subcontract management involves not only the Subcontract Administrator/Procurement Representative (SA/PR), but also the Subcontract Technical Representative (STR) and the Industrial Safety Construction Safety Specialist, both of whom play a critical role in the outcome of the subcontract."
+        },
+        {
+          "id": "p-sec-5.3.1-17",
+          "text": "The STR and Construction Safety Specialist monitor technical performance and safety compliance and reports any potential or actual problems to the SA/PR. (Refer to Appendix C for Pantex “OSHA +” implementation)"
+        }
+      ]
+    },
+    {
+      "id": "sec-5.3.2",
+      "number": "5.3.2",
+      "title": "CF-2 — Identify and Analyze the Hazards",
+      "pages": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.3.2-1",
+          "text": "“Hazards associated with the work are identified, analyzed, and categorized.” The Pantex ISM/WS&H program identifies how workplace hazards are recognized, abated, controlled, or otherwise mitigated to reasonably assure workers are adequately protected from identified hazards. The identification and analysis of hazards is part of the work planning process. The goal of this process is to assure that the hazards associated with work activities and facility operations are clearly understood and appropriately managed."
+        },
+        {
+          "id": "p-sec-5.3.2-2",
+          "text": "Existing and potential workplace hazards are identified on a facility-by-facility basis and based on the types of operations and work activities being performed. In addition, site level procedures establish the process to identify potential environmental hazards associated with Pantex site operations and activities. PXD fully recognizes that it is important to highlight and keep clearly in focus hazards that would result in the largest consequence."
+        },
+        {
+          "id": "p-sec-5.3.2-3",
+          "text": "However, PXD recognizes the importance of being aware of, and controlling, hazards with a higher likelihood of occurrence (such as industrial safety hazards) which could injure workers and undermine the Pantex safety posture. Industrial hazards affect every Pantex operation. The hazard assessment and hazard abatement processes must be integrated across all operations to properly address all hazards."
+        },
+        {
+          "id": "p-sec-5.3.2-4",
+          "text": "Hazards associated with Pantex operations include, but are not limited to: Nuclear/Nuclear Explosive Operations; Non-Nuclear Hazardous Operations; Explosive hazards; Facility hazards; and Physical hazards associated with routine facility operations, maintenance, and construction activities. The Pantex ISM/WS&H program complements DOE nuclear safety and explosives requirements by assuring that people who implement worker protection, nuclear safety, and explosives safety requirements coordinate and cooperate in instances where requirements overlap."
+        },
+        {
+          "id": "p-sec-5.3.2-5",
+          "text": "These requirements are integrated and applied to guard against unintended results and provide reasonable assurance of adequate worker protection. (a) Nuclear/Nuclear Explosive Operations: Hazardous nuclear operations under 10 CFR 830 are addressed in site-specific procedures: • The Documented Safety Analysis (DSA) process applies to all projects, programs, and activities that specifically require a safety basis. • Safety Basis documents contain the results of the hazard identification/evaluation, accident analyses, and control selection for site, facility and nuclear explosive programs. • Safety Basis documents are approved by PFO."
+        },
+        {
+          "id": "p-sec-5.3.2-6",
+          "text": "(b) Non-Nuclear Hazardous Operations At Pantex, high, moderate, and low-level non-nuclear hazardous operations are identified in the facility hazard classification process. A Process Hazards Analysis/High Risk Hazards Analysis (PHA/HRHA) is a thorough review and analysis to determine the hazards of the explosives and highly hazardous chemical operations associated with a covered process and facility. The PHA/HRHA identifies controls to prevent or mitigate potential accidents and consequences of a catastrophic release affecting the worker, as well as facility and equipment protection."
+        },
+        {
+          "id": "p-sec-5.3.2-7",
+          "text": "Employees from all levels are involved in PHA/HRHA development. The PHA/HRHA approach examines the administrative and engineered controls that are major contributors to process and facility safety with a focus toward prevention and mitigation of potential accidents. (c) Explosives Hazards The Explosives Safety Program (ESP) is established to provide a safe workplace for Pantex employees, contractors, and visitors regarding operations involving the development, testing, handling, and processing of explosives or assemblies containing explosives."
+        },
+        {
+          "id": "p-sec-5.3.2-8",
+          "text": "PD 02.01.07.01, Process for the Explosives Safety Program, establishes and maintains a site-specific ESP at Pantex in accordance with the requirements of DOE-STD-1212, Explosives Safety. The ESP provides a safe workplace for Pantex personnel associated with the entire spectrum of explosives development, manufacturing, handling, storing, transporting, processing, and testing. The ESP utilizes MNL-240176, Department of Energy Explosives Safety Standard Pantex/Lawrence Livermore National Laboratory Version, as a direct correlation of DOE-STD-1212 requirements and approved site-specific Waivers/Equivalencies/Exemptions."
+        },
+        {
+          "id": "p-sec-5.3.2-9",
+          "text": "The requirements of MNL-240176 are flowed down through numerous site-level process documents, work instructions, and technical procedures. Compliance is verified through start-up safety reviews and document change control processes, as well as independent and management assessments. (d) Facility Hazards The Facility Safety (FS) Program applies primarily to operations involving significant nuclear and/or chemical hazards and is focused on the prevention and mitigation of accidents which have potentially significant consequences."
+        },
+        {
+          "id": "p-sec-5.3.2-10",
+          "text": "To meet the primary focus of the program, all Site activities are subject to hazardous material identification and facility classification processes. Pantex uses the facility hazard classification process to determine the level of formality required to address the hazards associated with operations. Facilities exceeding specified nuclear material/chemical thresholds are required to develop, maintain, and operate within controls established"
+        },
+        {
+          "id": "p-sec-5.3.2-11",
+          "text": "through defined safety analysis processes. Remaining facilities must conduct operations within material limits established during the hazardous material identification process. Facilities are screened to determine the facility classification based on the facility's inventory of nuclear material, chemical, and other classification criteria. The FS program, including roles and responsibilities, are defined in site specific procedures."
+        },
+        {
+          "id": "p-sec-5.3.2-12",
+          "text": "In addition, site level procedures establish the guidance and criteria for determining facility classifications, as well as processes for analysis of hazards, identification of controls, and preparation of safety basis documents. To ensure that work scope is performed within the facility's safety basis, the safety envelope of the facility must be clearly defined, understood, and maintained by line management of the facility."
+        },
+        {
+          "id": "p-sec-5.3.2-13",
+          "text": "The requirements and commitments to implement programs, such as configuration management, maintenance, selection and qualification of operating personnel, and procedures development and implementation are necessary to maintain the safety envelope. Depending on the facility classification (based on the operations and the types and inventories of materials), a formal safety analysis may be performed to establish the safety basis of the facility. A DSA - typically a Safety Analysis Report - and the technical safety requirements (TSRs) are required in accordance with 10 CFR 830, Subpart B, for nuclear facilities."
+        },
+        {
+          "id": "p-sec-5.3.2-14",
+          "text": "(e) Physical Hazards Physical hazards associated with routine facility operations, maintenance, security, and construction activities, including environmental hazards, are covered by Pantex Safety Programs. A hazard analysis (HA) is one of many accident prevention tools, and is used to review job methods by identifying hazards associated with the layout of site facilities and the design and operation of machinery, equipment, tools, workstations, tasks or processes. HAs are performed by supervisors and involved employees working together. The ES&H subject matter experts (SMEs) provide assistance as needed."
+        },
+        {
+          "id": "p-sec-5.3.2-15",
+          "text": "The supervisor discusses the job hazards and hazard control methods with all personnel involved in that job after HAs are completed. Employees are given the opportunity to provide comments on the HA if they think hazards have not been appropriately addressed. Additional tools include, but are not limited to, safety and management walk-throughs, engineering instructions and reviews, work-packages, project plans, safety basis reviews, pause/stop work authority, etc. HAs are updated periodically to assure that any new hazards that have been introduced since the last evaluation of the activity are addressed. The"
+        },
+        {
+          "id": "p-sec-5.3.2-16",
+          "text": "principle elements of a HA include: selection of operations and procedures to be analyzed; breakdown of operations and procedures to their component tasks; identification of hazards associated with each task and the controls necessary to protect workers against those hazards; identification and addressing of potential hazards to bystanders and identification of related controls; during the work activity hazard evaluation, the identified hazards and the applicable controls required to manage each identified hazard are documented; and development of procedures and work control documents incorporating identified controls."
+        },
+        {
+          "id": "p-sec-5.3.2-17",
+          "text": "(f) Assessing and Evaluating Operations, Procedures, and Facilities Hazard evaluation processes include regularly scheduled evaluations of operations, procedures, and facilities to identify workplace hazards. Significant focus is on individual work activities because these activities can change frequently and present different hazards. The scheduled evaluations identify and document existing and potentially hazardous work conditions and practices that do not comply with worker protection requirements or may otherwise pose hazards to the safety or health of workers."
+        },
+        {
+          "id": "p-sec-5.3.2-18",
+          "text": "(g) Subcontractor Work Activities PXD has established subcontractor ES&H processes which define the requirements and responsibilities to manage ES&H for all subcontracted work at Pantex, leased or managed properties. These processes delineate clear roles and the responsibilities for establishing appropriate ES&H controls for subcontractors. For additional information refer to Section 5.5.15, Subcontract Strategy."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.3.3",
+      "number": "5.3.3",
+      "title": "CF-3 — Develop and Implement Hazard Controls",
+      "pages": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.3.3-1",
+          "text": "“Applicable safety standards and requirements are identified and agreed-upon, controls to prevent/mitigate hazards are identified, the safety envelope is established, and controls are implemented.” (a) Hierarchy of Controls: In the establishment of safety controls, Pantex uses the following hazard control method hierarchy: [10 CFR 851.22 (b)]. • Elimination or substitution. • Engineering controls where feasible and appropriate to include: o Enclosing the hazard. o Locating hazardous operations or equipment in remote or unoccupied areas. o Establishing physical barriers and guards."
+        },
+        {
+          "id": "p-sec-5.3.3-2",
+          "text": "o Using local exhaust ventilation. • Work practices and administrative controls that limit worker exposures to include: o Written operating procedures, safe work practices, and work permits. o Exposure time limitations. o Limits on the use of hazardous materials and monitoring of such operations. o Health and Safety Plans. o Altered work schedules, such as working early morning or evening to reduce potential for heat stress. o Training employees in methods of reducing exposure."
+        },
+        {
+          "id": "p-sec-5.3.3-3",
+          "text": "• Personal Protective Equipment (PPE), an acceptable control method: o To supplement elimination or substitution, engineering, and work practices and administrative controls when such controls are not feasible or do not adequately reduce the hazard. o As an interim measure while engineering controls are being developed and implemented. o During emergencies when elimination or substitution, engineering, and work practices and administrative controls may not be feasible. o During maintenance and other non-routine activities where other controls are not feasible."
+        },
+        {
+          "id": "p-sec-5.3.3-4",
+          "text": "When elimination or substitution of the hazard does not reduce the associated risk to acceptable levels, they may be supplemented with engineering controls. Engineered controls are used when possible and appropriate to control hazards and mitigate potential accidents. Where engineering controls do not reduce the associated risk to acceptable levels, they may be supplemented with work practices and administrative controls. Where necessary, these controls may be further supplemented with the use of appropriate PPE. PPE as a control measure is not considered until all other methods of control have been explored."
+        },
+        {
+          "id": "p-sec-5.3.3-5",
+          "text": "PPE is used when engineered barriers and administrative controls are either unavailable or insufficient to mitigate the hazards. Worker involvement in procedure development and verification through tabletop reviews and system walk-downs is essential to ensure procedures are usable, technically correct, and contain the appropriate requirements. As part of the HA process, workers participate in HA teams to identify hazards"
+        },
+        {
+          "id": "p-sec-5.3.3-6",
+          "text": "for the defined work. Using experienced personnel who have an understanding of the engineered and administrative controls and the PPE requirements is key to handling abnormal situations should these controls fail. Using information available from process-specific hazard analyses, and other controls specified by facility or site level requirements, line managers work with facility managers to establish the controls necessary for performing the work safely. The line manager identifies the facilities where work will be performed."
+        },
+        {
+          "id": "p-sec-5.3.3-7",
+          "text": "Line and program managers are responsible for assuring ES&H hazards associated with the proposed work are within the safety basis. The site work control processes ensure that planned work or changing scope of work falls within the facility's safety basis, environmental permits, and security plans. For additional guidance regarding environmental hazards and controls refer to the site-specific EMS."
+        },
+        {
+          "id": "p-sec-5.3.3-8",
+          "text": "(b) Establishing and Maintaining the Safety Envelope For nuclear facilities, the implementation of approved safety basis documents ensures credited engineered barriers, operating parameters, and administrative controls are maintained within the facility's safety basis. Safety basis requirements are addressed via implementing procedures that provide direction to ensure that Pantex facilities are operated within their design basis and are used to support safe operations of those facilities. Based on the safety analysis, DSAs document facility hazards and identify necessary controls. TSRs establish the highest level controls within the facility."
+        },
+        {
+          "id": "p-sec-5.3.3-9",
+          "text": "These safety basis controls, which are implemented by procedures, along with formal work control processes used to plan and execute operational, maintenance, construction, and project activities to ensure controls are in place for other hazards, define the operational safety envelope. Revisions to a facility’s safety basis documentation may be required before implementing changes to the facility, inventory, engineered or administrative controls if the safety basis would no longer be appropriate for existing or proposed future hazards."
+        },
+        {
+          "id": "p-sec-5.3.3-10",
+          "text": "Application of the unreviewed safety question (USQ) process is required to evaluate a planned change in facilities, equipment, or work scope to determine if the change is outside the approved DSA and may require PFO approval. (c) Documented Safety Analysis For nuclear facilities, ISM relies on clear identification of nuclear hazards and controls so proposed changes can be evaluated to ensure they remain within the approved safety envelope. This identification is accomplished through"
+        },
+        {
+          "id": "p-sec-5.3.3-11",
+          "text": "safety analysis that defines the controls necessary to operate the facility safely and securely through use of formal work control processes that implement controls to address hazards or risks specific to the work being performed. The results of this safety analysis are documented in a DSA. Safety Management programs are also documented by the safety analysis process."
+        },
+        {
+          "id": "p-sec-5.3.3-12",
+          "text": "Examples of Safety Management Programs are: • Configuration Management • Nuclear Criticality Safety • Radiation Protection • Hazardous Material Protection • Initial Testing, In-Service Surveillance, and Maintenance • Conduct of Operations • Fire Protection • Quality Assurance • Emergency Management • USQ Process • Training and Qualification (d) Nuclear Operations Hazardous nuclear operations are governed by 10 CFR 830 and are addressed in site-specific documents."
+        },
+        {
+          "id": "p-sec-5.3.3-13",
+          "text": "The DSA process applies to all Pantex projects, programs, and activities that specifically require a safety basis (e.g., hazard Category 2 nuclear facilities, nuclear materials operations, and nuclear explosive operations). DSAs contain the results of the hazard identification/evaluation and control selection at the site and facility level and by the nuclear explosive program. HA results and the controls, both engineered and administrative, derived from those analyses are documented and approved by PFO."
+        },
+        {
+          "id": "p-sec-5.3.3-14",
+          "text": "(e) Non-Nuclear Hazardous Operations For Pantex operations, a PHA/HRHA records the analysis of the hazards and controls related to an explosives or highly hazardous chemical operation. A PHA/HRHA Team, led by a PHA/HRHA Analyst, performs revalidation of each required process every five years. The PHA/HRHA Team identifies the hazards associated with a process and then identifies the controls, both engineered and administrative, used to prevent or mitigate potential explosive"
+        },
+        {
+          "id": "p-sec-5.3.3-15",
+          "text": "responses. Changes to PHA/HRHA -covered operations are managed through the Pantex Hazards and Controls Evaluation Process."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.3.4",
+      "number": "5.3.4",
+      "title": "CF-4 — Perform Work within Controls",
+      "pages": [
+        29,
+        30
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.3.4-1",
+          "text": "“Readiness is confirmed and work is performed safely.” It is the policy to startup new operations or restart operations previously shutdown in a reliable, secure, and cost-effective manner. The Readiness Assurance Program applies to Pantex organizations, employees, subcontractors and other support personnel that perform startup or restart activities. Each line organization is responsible for meeting operational readiness expectations for these activities."
+        },
+        {
+          "id": "p-sec-5.3.4-2",
+          "text": "Management uses facility procedures to ensure that work is performed within the operating boundary of the facility and the potential for accidents and emergency situations is identified and analyzed. For projects that introduce new hazards into the facility, the line manager involves facility management, technical managers, and ES&H staff to assist in identifying any special considerations that might affect the safety of conducting the work in the given facility. When new controls are necessary to safely execute a project, they are identified and included in project cost projections. These new controls may require modifying the safety basis."
+        },
+        {
+          "id": "p-sec-5.3.4-3",
+          "text": "Work on individual project tasks involving identified hazards/risks is authorized when: 1) PFO approves the expenditure of funds and 2) the Startup/Restart Authorization Authority authorizes the conduct of work. Specific readiness program startup and restart requirements apply to initial startup, modification or restart of any nuclear, nuclear explosive or Pantex hazardous non-nuclear facility or operation. The process for activity startup and restart includes: • Certification of readiness by the appropriate organizational manager. • Conduct of independent Readiness Reviews (Operational Readiness Reviews and Readiness Assessments)."
+        },
+        {
+          "id": "p-sec-5.3.4-4",
+          "text": "Readiness preparation and review applies to all organizations and to all nuclear, nuclear explosive and hazardous non-nuclear activities for which PXD has environment, safety, and health responsibility. The project/facility manager assigned responsibility for management of the startup/restart prepares the activity for safe operations. At Pantex, as a part of the readiness preparation process, a readiness verification of the elements of the activity is conducted to confirm the project has achieved readiness."
+        },
+        {
+          "id": "p-sec-5.3.4-5",
+          "text": "When the readiness verification is complete, the team leader recommends to the responsible organizational manager to declare readiness for the Contractor Readiness Review."
+        },
+        {
+          "id": "p-sec-5.3.4-6",
+          "text": "For nuclear explosive work, an approved Nuclear Explosive Safety Study and Design Agency approval (Engineering Release) are required. Work is conducted in accordance with MNL-00040, Pantex Plant Conduct of Operations Manual. MNL-00040 establishes the requirements necessary to control operations in a disciplined manner to ensure work is conducted according to procedures and work packages with the appropriate level of rigor and formality. Additionally, this manual establishes clear roles and responsibilities for the control of work activities, and defines the interfaces between operations and plant system owners."
+        },
+        {
+          "id": "p-sec-5.3.4-7",
+          "text": "Work permits are used as management controls for performing work safely in hazardous environments. Permits are predefined to control work in radiological areas, nuclear and explosives areas, confined spaces, excavations, hot work, and other work activities as required by site-level ES&H programs and/or procedures. After the scope of work is well understood, hazards and risks have been identified and analyzed, and controls and measures established to prevent or mitigate the hazards and risks, MNL-00040 is used to ensure work is authorized and established controls remain in place throughout work execution."
+        },
+        {
+          "id": "p-sec-5.3.4-8",
+          "text": "The line manager is responsible to ensure that workers are properly trained, current procedures are available, orders are posted and executed, and technical support is available as needed to ensure the safe and secure conduct of work. Work is performed in a disciplined manner with strict adherence to procedures, work planning documents and the facility security plan. Line supervision is responsible to ensure controls remain in place during work execution."
+        },
+        {
+          "id": "p-sec-5.3.4-9",
+          "text": "When abnormal conditions arise, or when there is a perceived threat to the safety and security of the worker, the public, or to the protection of the environment and DOE assets, workers are trained to execute “pause” or “stop” work authority. For additional information refer to Section 5.5.5, Stop Work."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.3.5",
+      "number": "5.3.5",
+      "title": "CF-5 — Provide Feedback and Continuous Improvement",
+      "pages": [
+        30
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.3.5-1",
+          "text": "“Feedback information on the adequacy of controls is gathered; opportunities for improving the definition and planning of work are identified and implemented.” Refer to Section 6, Feedback and Improvement Processes for information regarding established feedback and improvement mechanisms."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.4",
+      "number": "5.4",
+      "title": "Integration of Core Functions at Each Level of Work",
+      "pages": [
+        31
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.4-1",
+          "text": "Management) The CFs define how safety management functions are performed and provide structured methodology for the ISM Program. The ISM CFs apply at the site, facility, and activity/task levels. Each level has defined processes that integrate with the other levels. This assures safety and provides feedback about the effectiveness of the overall ISM Program. The levels are as follows: • Site Level represents the management and operation of Pantex as authorized by the Prime Contract. • Facility Level represents the work of providing and maintaining facilities and equipment to support Pantex missions and associated processes."
+        },
+        {
+          "id": "p-sec-5.4-2",
+          "text": "• Activity/Task Level represents work/activities on individual mission projects."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.4.1",
+      "number": "5.4.1",
+      "title": "Site Level",
+      "pages": [
+        31
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.4.1-1",
+          "text": "PXD management is responsible for providing policy and strategic direction, ensuring that the work scope and budget process incorporates ISM principles, and overseeing and guiding implementation of the ISM program through the implementation of site level programs, procedures, and work instructions. Although primary responsibility for ISM implementation lies with line management at the facility and activity/task levels where work is performed, worker involvement and PXD management support are necessary to ensure successful implementation."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.4.2",
+      "number": "5.4.2",
+      "title": "Facility Level",
+      "pages": [
+        31,
+        32
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.4.2-1",
+          "text": "Procedures and standards, including safety basis documents, define the scope of work at the facility level, including identification of facility controls and personnel roles and responsibilities for maintaining the integrity of the facility-operating boundary. These documents are used to assure facility operating boundaries fall within the boundaries defined by the operating contract and its safety basis."
+        },
+        {
+          "id": "p-sec-5.4.2-2",
+          "text": "The facility safety basis is that set of documents required by 10 CFR 830, Subpart B that are approved by the PFO, relating to the control of hazards at a facility and relied upon to conclude that activities at a facility can be conducted safely. At the facility level, implementation of ISM provides the managers of line operations with the technical resources and processes to fulfill their responsibilities for managing the safety and security envelopes. Work planning is accomplished using a multi-disciplined team approach so that potential hazards and risks are identified and analyzed."
+        },
+        {
+          "id": "p-sec-5.4.2-3",
+          "text": "Integrated controls and measures are put in place to protect the worker, the public, the environment, and DOE assets (information and"
+        },
+        {
+          "id": "p-sec-5.4.2-4",
+          "text": "property). Assessment and feedback processes that are vital to the continuous monitoring and improvement of ISM are used to assess implementation."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.4.3",
+      "number": "5.4.3",
+      "title": "Activity / Task Level",
+      "pages": [
+        32
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.4.3-1",
+          "text": "At the activity/task level, successful implementation of the ISM program relies on the knowledge, skills, and safety and security commitment of the first line supervisors and workers. A disciplined approach to work execution, formalized by Conduct of Operations requirements, using formal work procedures and qualified workers is fundamental to ISM. Worker participation provides the necessary floor-level perspective to ensure that work can be executed safely and securely and that opportunities for improving safety, security, and operational efficiency are identified and implemented throughout the work process."
+        },
+        {
+          "id": "p-sec-5.4.3-2",
+          "text": "At the individual activity/task level, activities range from work activities with no specificity beyond definition of work scope (e.g., area walk-downs or inspections) to operational activities that are described in technical procedures which specify the step-by-step detailed actions that are performed during work execution. Work is planned using a graded approach to recognize the hazards and complexity of the work. For each task being performed, work control processes ensure that: • The scope of work is defined. • The hazards, threats, and risks associated with the task are identified and analyzed."
+        },
+        {
+          "id": "p-sec-5.4.3-3",
+          "text": "• Controls and measures are identified, integrated, and implemented before the work is performed. • Work is performed within the identified controls. • Feedback mechanisms are used to evaluate process improvements. Analysis of potential hazards and risks associated with a task is the responsibility of line management, who will involve the appropriate technical expertise and SMEs, as needed. Line management is responsible at the task level to ensure all activities in the facility are authorized within the safety envelope and security plan. Workers are involved in the analysis of hazards and risks and the identification of controls."
+        },
+        {
+          "id": "p-sec-5.4.3-4",
+          "text": "Pre-job briefs are conducted and the work procedures or instructions, results of HA, and the required permits and controls necessary to the job are reviewed with the worker. Work is performed by personnel who are trained and qualified to perform their assigned task."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5",
+      "number": "5.5",
+      "title": "Implementation of 10 CFR 851 Requirements",
+      "pages": [
+        33
+      ],
+      "paragraphs": []
+    },
+    {
+      "id": "sec-5.5.1",
+      "number": "5.5.1",
+      "title": "Coordination with Other DOE Contractors",
+      "pages": [
+        33
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.1-1",
+          "text": "NOTE DOE or NNSA contractors and their subcontractors must have a DOE approved WS&H program, when applicable. Upon request, PXD may: 1) provide applicable site ES&H requirements, 2) review their ES&H plan for the work activity (though not approving or rejecting their plan) and 3) authorize work when appropriate. The identity of other contractors to DOE or NNSA is subject to change at any time. PXD will coordinate with PFO to ensure that information is obtained regarding other contractors for coordination purposes."
+        },
+        {
+          "id": "p-sec-5.5.1-2",
+          "text": "Once PXD is informed of additional contractors to whom 10 CFR 851 applies, a coordination agreement may be established when appropriate. Multiple contractors at a covered workplace are required to coordinate with each other to ensure that there are clear roles, responsibilities and procedures to ensure the safety and health of workers at multi-contractor workplaces. Other DOE prime contractors perform work at Pantex but are not necessarily covered by the Pantex ISM/WS&H program, depending on the scope of work performed."
+        },
+        {
+          "id": "p-sec-5.5.1-3",
+          "text": "When appropriate, PXD will enter into coordination agreements with other prime contractors on site in accordance with 10 CFR 851. These coordination agreements will define roles and responsibilities and stop or pause work authority to ensure the safety and health of workers. The coordination agreements will require that each contractor be responsible for the safety and health of its employees and they will follow their company’s worker safety and health program and implementing procedures, unless otherwise specified."
+        },
+        {
+          "id": "p-sec-5.5.1-4",
+          "text": "Each contractor has the responsibility to inform other contractors and their employees of hazards that they may encounter in facilities operated by the respective contractor. Finally, the coordination agreements will reinforce that every employee at a covered workplace has stop work authority regardless of the contractor performing the work."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.2",
+      "number": "5.5.2",
+      "title": "Closure Facilities",
+      "pages": [
+        33
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.2-1",
+          "text": "Within 90 days after identification, PXD will submit to PFO a list of closure facility hazards that cannot be fully abated or controlled in accordance with processes established by this approved program. The submittal will include the proposed hazard controls for review and acceptance by PFO."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.3",
+      "number": "5.5.3",
+      "title": "Bargaining Unit Organizations",
+      "pages": [
+        34
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.3-1",
+          "text": "Bargaining Unit employees at Pantex are represented by three primary labor organizations, including the Metal Trades Council, the Pantex Guards Union, and the West Texas Building and Construction Trades Council. In accordance with 10 CFR 851.11(d), Union Officers and designated representatives will be notified in a timely manner of updates and revisions to the Pantex WS&H program. Notification will be made by email or other correspondence when the document is revised or updated."
+        },
+        {
+          "id": "p-sec-5.5.3-2",
+          "text": "In addition, in accordance with 10 CFR 851.11(b)(3), PXD makes available the approved ISM/WS&H program to affected workers or their designated representatives, primarily via the BRAIN and the ISM webpage. Labor union leaders and representatives work closely with management to encourage teamwork and promote employee involvement seeking to continuously improve worker safety and health. Unions have established Safety Officers and Safety Culture Advocates. These Representatives monitor the workplace environment and assure appropriate corrective action is taken when required."
+        },
+        {
+          "id": "p-sec-5.5.3-3",
+          "text": "They also serve as another conduit between management and employees for the expression of safety and health concerns. These representatives actively support management and employees in identifying and resolving safety and health concerns to encourage employee involvement and reporting."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.4",
+      "number": "5.5.4",
+      "title": "Worker Involvement",
+      "pages": [
+        34
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.4-1",
+          "text": "PXD has established processes to ensure involvement of workers in the development and implementation of the WS&H program and identification and control of hazards. The Pantex Safety Council, including Site Union representatives, meet monthly to discuss safety and health performance trends and issues and establish recommendations for safety and health performance improvement initiatives. In addition, routine HA activities are accomplished through the ISM process, which applies to all jobs, processes, and facilities."
+        },
+        {
+          "id": "p-sec-5.5.4-2",
+          "text": "Implementation of the ISM CFs and GPs throughout Pantex programs have the natural effect of triggering the necessary interaction between programs and personnel to assure work processes are adequately defined, analyzed, controlled, and ultimately safe to conduct. Workers are actively involved in identification, planning, and improvement of work and work practices."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.5",
+      "number": "5.5.5",
+      "title": "Stop Work Authority",
+      "pages": [
+        34,
+        35
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.5-1",
+          "text": "All PXD employees and subcontractors have pause work/stop work authority and pause work/stop work responsibility if they observe any condition that adversely impacts safety, security or quality. Employees and subcontractors are encouraged"
+        },
+        {
+          "id": "p-sec-5.5.5-2",
+          "text": "and expected to exercise pause work or stop work authority in a responsible manner when conditions warrant without fear of punishment or retaliation. Employees and subcontractors have the authority to stop any operation or activity that has actual or potential unsafe working conditions, actual or potential violation of standards or regulations, causes or has potential to cause environmental damage, or produces a deficiency in the quality of production. Site level procedures establish the stop work process."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.6",
+      "number": "5.5.6",
+      "title": "Worker Rights and Responsibilities",
+      "pages": [
+        35
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.6-1",
+          "text": "Workers have the right to work in an environment free from recognized hazards likely to cause serious injury or death. PXD believes that accidents are preventable through attention to hazards and appropriate action by each individual and the responsible organization. As such, it is paramount that workers be informed of their rights relative to 10 CFR 851 and associated OSHA standards. PXD posts the DOE-designed Worker Protection Posters in various work spaces to make worker rights, as delineated in 10 CFR 851, accessible to all workers. Worker Safety and Health information is available on internal webpages."
+        },
+        {
+          "id": "p-sec-5.5.6-2",
+          "text": "PXD informs workers of their rights and responsibilities by various means including training, briefings, other safety documents, and the Worker Protection for DOE Contractor Employees poster. PXD employees are required to comply with the requirements of 10 CFR 851 as well as the Pantex ISM/WS&H Program. In addition, it is the right and responsibility of PXD employees to actively participate in the planning of work activities, as appropriate, to ensure their knowledge and experience improves work performance, and to pause or stop activities. Every PXD employee is directly responsible for assuring his or her own safety."
+        },
+        {
+          "id": "p-sec-5.5.6-3",
+          "text": "As such, worker involvement is an essential part of the Pantex ISM/WS&H Program."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.7",
+      "number": "5.5.7",
+      "title": "Participating on Official Time",
+      "pages": [
+        35
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.7-1",
+          "text": "Employees have the right to participate in activities related to the Pantex ISM/WS&H Program on official time, including exercising all worker rights listed in this document."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.8",
+      "number": "5.5.8",
+      "title": "Access to Information",
+      "pages": [
+        35,
+        36
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.8-1",
+          "text": "PXD ensures that safety and health related documents containing the information needed to perform work safely are available to all workers who need access to the information. The supervisor is responsible for assuring that each worker involved in a work activity has immediate access to the work activity’s applicable procedures and governing documents."
+        },
+        {
+          "id": "p-sec-5.5.8-2",
+          "text": "Workers have the right to have access to the following information: • DOE safety and health publications. • Documents implementing the Pantex ISM/WS&H Program. • Safety and health standards, controls, and procedures applicable to Pantex. • Worker Protection poster for DOE Contractor Employees that informs workers of their rights and responsibilities. • Results of their exposure monitoring. • Results of inspections and accident investigations. • Limited information on any recordkeeping log (OSHA Form 300) with access subject to Freedom of Information Act requirements and restrictions. • DOE Form 5484.3 (DOE equivalent of OSHA Form 301) that lists a worker as injured or ill."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.9",
+      "number": "5.5.9",
+      "title": "Observation and Notification of Monitoring Results",
+      "pages": [
+        36
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.9-1",
+          "text": "Workers have the right to observe monitoring of hazardous agents in the workplace. Workers also have the right to be notified by management when monitoring results indicate they have been over exposed to hazardous materials."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.10",
+      "number": "5.5.10",
+      "title": "Accompany Inspections",
+      "pages": [
+        36
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.10-1",
+          "text": "Workers have the right to a representative authorized by workers to accompany a DOE/NNSA Director or authorized representative during the physical inspection of the workplace for the purpose of aiding the inspection. When no authorized worker representative is available, the DOE/NNSA Director or authorized representative must consult, as appropriate, with workers on matters of worker safety and health."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.11",
+      "number": "5.5.11",
+      "title": "Raising / Reporting / Resolving Worker Concerns",
+      "pages": [
+        36,
+        37
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.11-1",
+          "text": "Employees, subcontractors, and visitors are encouraged to raise concerns without fear of retaliation or reprisal. Multiple processes are available for personnel to raise and submit concerns regarding safety, health or environmental protection; quality; differing professional opinions; ethics; discrimination; harassment; labor; and other various topics. Avenues available for raising concerns include but are not limited to: • Supervision or any level of management • Union representatives • Labor relations • Building/facility managers"
+        },
+        {
+          "id": "p-sec-5.5.11-2",
+          "text": "• Safety & Industrial Hygiene Department • Safety Hotline at (806) 477-4441 • Ethics and Employee Concerns office • Differing Professional Opinions office • Monthly Safety Council meetings • Operations Center at (806) 477-5000 (if imminent danger exists), etc. PXD management is required to promptly respond to workers who raise concerns. If necessary, workers may pursue further action with DOE/NNSA. In addition, PXD has established procedures for workers to report job-related injuries, illnesses, incidents, and hazards, and to make recommendations about appropriate ways to control the hazards."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.12",
+      "number": "5.5.12",
+      "title": "Refusal to Work",
+      "pages": [
+        37
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.12-1",
+          "text": "PXD is committed to ensuring the worker’s right to decline to perform an assigned task because of a reasonable belief that the task poses an imminent risk of serious physical harm or death, coupled with a reasonable belief that there is insufficient time to seek effective redress through normal hazard reporting and abatement procedures."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.13",
+      "number": "5.5.13",
+      "title": "Functional Areas",
+      "pages": [
+        37,
+        38
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.13-1",
+          "text": "PXD has an established approach to ensure that safety and health programs at the site or organization level incorporate the functional areas required by 10 CFR 851.24, including the appropriate program specific standards and provisions of 10 CFR 851, Appendix A. These functional areas/program requirements include: • Construction Safety • Fire Protection • Explosives Safety • Pressure Safety • Firearms Safety • Industrial Hygiene • Occupational Medicine • Motor Vehicle Safety (including mobile equipment) • Electrical Safety"
+        },
+        {
+          "id": "p-sec-5.5.13-2",
+          "text": "Pantex does not currently have any operations requiring implementation of a Biological Safety Program. The implementing documents for these program requirements are captured in Section 7, Implementing Elements."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.14",
+      "number": "5.5.14",
+      "title": "Training and Qualification Program",
+      "pages": [
+        38,
+        39
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.14-1",
+          "text": "The Pantex Training and Qualification Program is a key element of safe operations. Assuring worker competence is commensurate with responsibilities is an ISM GP, and is vital for safe and effective job performance. Safe operations depend on trained and qualified employees who are knowledgeable of operations, facilities and equipment, and who also possess the requisite knowledge, skills and abilities required for competent job/task performance."
+        },
+        {
+          "id": "p-sec-5.5.14-2",
+          "text": "The Pantex Training and Qualification Program requires regular and consistent examination and evaluation of workers to assure the presence of knowledge and skills required for competent, safe job performance. The Pantex Training and Qualification Program is detailed in MNL-352365, Pantex Training and Qualification Program, and is based on a Systematic Approach to Training."
+        },
+        {
+          "id": "p-sec-5.5.14-3",
+          "text": "This approach to training provides the processes that direct and control the analysis of qualification requirements and training needs, the design, development and implementation of training and qualification/requalification activities, and the process for evaluating the effectiveness of training. In addition, as noted in 10 CFR 851.20(a)(2), PXD recognizes the need and assures qualified worker protection staff manage the WS&H program. In addition to various industry qualifications, these employees are also trained and qualified in accordance with Pantex training and qualification program requirements."
+        },
+        {
+          "id": "p-sec-5.5.14-4",
+          "text": "A fundamental precept of the training program is that line management is responsible for assuring the training and qualification needs of its organizations are met and that personnel are competent to perform assigned tasks. The OD&T organization provides processes that support line management in meeting this responsibility. Line managers, OD&T personnel, and SMEs assess jobs activities and identify training needs that assure personnel have or obtain the required knowledge, skills, abilities to perform operations and maintain the facility in a safe and reliable manner."
+        },
+        {
+          "id": "p-sec-5.5.14-5",
+          "text": "Training Program Descriptions or Requirements Profiles are fundamental to capturing the training and qualification requirements of Pantex personnel. However, as noted above, line management is responsible for assuring that training and qualification requirements are properly identified, documented and accomplished, so that personnel are competent to perform assigned tasks. Line management, SMEs, job incumbents, and a design team work together to design task specific training that assures personnel receive the relevant information, knowledge, and skills required for safe performance of job duties and assignments."
+        },
+        {
+          "id": "p-sec-5.5.14-6",
+          "text": "The needs analysis process is utilized to assess shortfalls, and"
+        },
+        {
+          "id": "p-sec-5.5.14-7",
+          "text": "necessary interventions, which could include the creation of new training or modification to existing training. It is a prerequisite to course development. During the needs analysis, course configuration details such as testing requirements, training setting, instructor qualification requirements, etc. are determined for new courses or reviewed for existing courses as needed. In general, courses that instruct task(s) that have the potential to directly impact the personal safety of employees, the public, or the environment, require a qualified instructor."
+        },
+        {
+          "id": "p-sec-5.5.14-8",
+          "text": "The design phase encompasses appointment of the course developer and the establishment of a design team, to include, as applicable, the line manager and SME, as well as course instructor, job incumbents, and training and development support. The design team determines terminal and enabling objectives. The development phase establishes the process for development of lesson plans and training content, identification of needed supporting information, creation of appropriate training aids and materials, determination of training activities, test development, and creation of course completion records."
+        },
+        {
+          "id": "p-sec-5.5.14-9",
+          "text": "All test items, test questions, and test materials are prepared in advance and in writing along with critical content necessary for a satisfactory answer and are reviewed and approved by SMEs, Line Management, and OD&T personnel prior to administration. Visitors and subcontractors are required to complete training prior to beginning work with PXD. Visitors/subcontractors are trained as required for their level of access and/or work assignments. This ensures visitors/subcontractors have a full understanding of PXD requirements. Training and development programs are evaluated by trainees."
+        },
+        {
+          "id": "p-sec-5.5.14-10",
+          "text": "Additionally, internal and external assessments are conducted by the Risk Management & Governance Department, OD&T personnel and DOE/NNSA personnel. The assessment function assures training programs are in compliance with all regulatory requirements and convey all program requirements to the intended training audience."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.15",
+      "number": "5.5.15",
+      "title": "Subcontract Strategy",
+      "pages": [
+        39,
+        40,
+        41
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.15-1",
+          "text": "PXD has established subcontract management program standards and requirements that are used for procured subcontracts and procured service subcontracts. The broad goals of subcontract management are to ensure that PXD- needed work is delivered in a quality manner, is safely and securely executed, and is delivered on schedule. Subcontract management uses a graded approach and will vary from subcontract to subcontract. Factors influencing the degree of subcontract management include the nature and complexity of the work, the type of subcontract, and the experience of the personnel involved."
+        },
+        {
+          "id": "p-sec-5.5.15-2",
+          "text": "Subcontract management involves not only the SA/PR, but also the STR and Industrial Safety, who plays a critical role in the outcome of the subcontract. The STR monitors technical performance while Industrial Safety"
+        },
+        {
+          "id": "p-sec-5.5.15-3",
+          "text": "monitors worker safety and health. Both report any potential or actual problems to the SA/PR. Pantex has established processes and procedures to assure subcontractors comply with their safety and health (S&H) plan including routine safety inspections, periodic management oversight assessments, and tracking/reporting systems for non-compliance issues. These processes include subcontractor and subcontractor employee involvement. S&H non-compliance issues that cannot be immediately corrected are placed in a safe configuration until the issues can be resolved and corrective actions implemented."
+        },
+        {
+          "id": "p-sec-5.5.15-4",
+          "text": "Based on work scope, complexity, and/or associated hazards, specific ES&H submittals may be required before subcontract mobilization. These submittals are coordinated between the SA/PR, the STR and the appropriate ES&H SMEs. (a) Requirements Flow-Down There are several different types of requirements that flow down via the subcontracting process. Terms and Conditions are those standard business rules incorporated into the “boilerplate” legal requirements governing the business relationship between PXD and its subcontractors.",
+          "changeId": "chg-02"
+        },
+        {
+          "id": "p-sec-5.5.15-5",
+          "text": "The Statement of Work (SOW), technical specifications, engineering data sheets, and other technical documents are requirements of the contract. The standard terms and conditions are contractually binding and delineate corporate and personnel safety roles and responsibilities of PXD subcontractors at all tiers. (b) Construction and Service Subcontracts For construction subcontracts, site specific procedures are in place to establish and flow down the applicable ES&H requirements to subcontractors. Project specific ES&H requirements are incorporated in the SOW and Division 1 specifications."
+        },
+        {
+          "id": "p-sec-5.5.15-6",
+          "text": "ES&H requirements for service subcontracts are implemented through a graded approach dependent on the level of hazard and job complexity. The Pantex ES&H organization reviews the work scope and the identified hazards for each subcontract, in accordance with ES&H requirements, and determines the applicable ES&H requirements for the subcontractor work activity. The requirement that the subcontractor flow down their ES&H requirements to their subcontracts (at any tier) to the extent necessary to ensure compliance with the specified ES&H requirements is included in the Safety and Health clause in the standard terms and conditions of subcontracts."
+        },
+        {
+          "id": "p-sec-5.5.15-7",
+          "text": "(c) Implementation of Subcontractor Occupational Medicine Requirements The occupational medicine requirements of 10 CFR 851 apply to subcontractors (at any tier) for workers who are on a DOE site more than 30 days in a rolling calendar year or are enrolled for any length of time in a"
+        },
+        {
+          "id": "p-sec-5.5.15-8",
+          "text": "medical or exposure monitoring program required by this rule and/or any other applicable Federal, State or local regulation. (See Section 2 for additional work activities and scope excluded from 10 CFR 851 requirements). 10 CFR 851.10 requires that the contractors' Worker Safety and Health Program describe how the contractor will comply with the requirements of the regulation (including the occupational medicine requirements) that are applicable to the hazards within their scope of work."
+        },
+        {
+          "id": "p-sec-5.5.15-9",
+          "text": "PXD requires subcontractors to comply with all OSHA medical surveillance requirements, based on the subcontractors’ scope of work, and the OSHA requirements for the treatment of illnesses and injuries. Subcontractors are also subject to the occupational medical requirements for DOE approved Beryllium programs. PXD’s occupational medicine program provides services to subcontract employees who are placed in the Human Reliability Program (HRP). In addition, subcontractors may be provided appropriate triage and stabilization before they are transported to an off-site medical facility."
+        },
+        {
+          "id": "p-sec-5.5.15-10",
+          "text": "PXD requires, through Request for Proposals, contract terms and conditions, and special requirements, that all subcontractors performing work at Pantex, at any tier, have an occupational medicine program under the direction of a licensed physician meeting the credential requirements of 10 CFR 851"
+        }
+      ]
+    },
+    {
+      "id": "sec-a",
+      "number": "A",
+      "title": "Annual Review and Notification Process",
+      "pages": [
+        41,
+        42
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-a-1",
+          "text": "credential requirements of 10 CFR 851 Appendix A.8(c). A written description of the subcontractor's occupational medicine program including proof of staff credentials is required for each applicable subcontract for work at Pantex, and must be submitted upon request. Each subcontractor's occupational medicine program contents are to be determined by its occupational medicine provider and based on the subcontractor's scope of work and associated hazards."
+        },
+        {
+          "id": "p-sec-a-2",
+          "text": "As discussed in DOE G 440.1-1B, the term \"comprehensive\" in 10 CFR 851 Appendix A, Section 8(a) refers to the specific services that the occupational medicine provider determines are appropriate, considering the specific work activities performed by the worker and are necessary for the occupational medicine program to be consistent with DOE requirements, e.g., respiratory protection, and substance-specific standards. The guide also states that all possible services identified in the rule are not necessary for all workers."
+        },
+        {
+          "id": "p-sec-a-3",
+          "text": "In terms of PXD’s subcontractors where the required occupational medicine services are provided by, managed, and administered by the subcontractor’s occupational medicine provider, compliance with the 10 CFR 851 Appendix A.8 requirements will be the responsibility of the subcontractor and/or the subcontractor’s occupational medicine provider."
+        },
+        {
+          "id": "p-sec-a-4",
+          "text": "PXD’s Occupational Medical Director (OMD) is available to provide assistance to the subcontractor’s OMD (or equivalent) regarding determination of the appropriate occupational medicine services based on work scope and hazards. PXD’s OMD may also provide support where a subcontractor’s OMD (or equivalent) is prohibited from accessing an area (due to security requirements) to evaluate job conditions and issues."
+        }
+      ]
+    },
+    {
+      "id": "sec-5.5.16",
+      "number": "5.5.16",
+      "title": "Enforcement",
+      "pages": [
+        42
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-5.5.16-1",
+          "text": "10 CFR 851 Subpart E authorizes the Secretary of Energy to issue citations and civil monetary penalties to NNSA contractors indemnified by the Price-Anderson Amendments Act, including PXD, for violations of DOE worker safety and health requirements. Through a Memorandum of Understanding between the NNSA Administrator and the Director of the Office of Enterprise Assessments, NNSA uses the services of the DOE Office of Enforcement to conduct investigations, identify potential regulatory violations, and make recommendations to the NNSA Administrator regarding enforcement action against NNSA contractors."
+        },
+        {
+          "id": "p-sec-5.5.16-2",
+          "text": "In addition, PXD participates in the voluntary reporting of non-compliances to 10 CFR 851 requirements, and PXD personnel are required to report 10 CFR 851 non-compliances. PXD has an established process for screening and reporting of non-compliances. The process for enforcement coordination, including posting compliance orders as applicable, is documented in MNL-352313, Enforcement Coordination."
+        }
+      ]
+    },
+    {
+      "id": "sec-6",
+      "number": "6",
+      "title": "ISM Feedback and Improvement Processes",
+      "pages": [
+        42,
+        43
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6-1",
+          "text": "A wide range of programs exist to meet the ISM CF regarding feedback and improvement. Mechanisms for determining system effectiveness include assessments, performance measurements, and Federal oversight feedback. The assessment program, lessons learned program, event recovery and notification process, critiques, occurrence reporting, incidents of security concerns, and various oversight programs, provide mechanisms/tools by which line management and workers learn from previous mistakes or feedback from those involved on how work might be accomplished better, more efficiently, and/or more cost effectively in a safe and secure environment."
+        },
+        {
+          "id": "p-sec-6-2",
+          "text": "Monitoring and feedback includes provisions for performance measurement, problem identification, and problem prevention. Fact Findings, Critiques, and Causal Analysis processes are used to evaluate abnormal events to identify areas that may require improvement in processes, procedures, equipment, training and qualification, and/or organizational management systems. Programmatic issues are captured by the issues management system and assigned for disposition. This system is used to assure corrective actions and improvement activities are established and completed."
+        },
+        {
+          "id": "p-sec-6-3",
+          "text": "Causes of process anomalies are determined and resolved at a level corresponding to the risk encountered to prevent recurrence. Controls are applied to assure corrective actions are complete and effective."
+        },
+        {
+          "id": "p-sec-6-4",
+          "text": "Continuous feedback and improvement opportunities are also provided from lessons learned. Pantex has a Lessons Learned Program that is designed to improve operational safety by benefiting from the experience of others. Lessons Learned are prepared and distributed whenever there is an opportunity to share a valuable new work practice or warn others of an adverse practice, experience, or product. Lessons Learned are incorporated into procedure and work package revisions and are shared across facilities via the lessons learned program."
+        },
+        {
+          "id": "p-sec-6-5",
+          "text": "In addition, pre/post-job briefings and other associated processes are used to evaluate the safety, security, and effectiveness of work execution, and the results or lessons learned are used to revise and improve work methods. Associated performance metrics focus on essential parameters and are used to identify areas needing management attention if necessary. The performance metrics are transparent to PFO and shared with employees through various media including distributed reports, online dashboards, virtual and in-person briefings (e.g., all hands and senior leadership meetings)."
+        },
+        {
+          "id": "p-sec-6-6",
+          "text": "Different modes of communication provide vital information on site performance and operations, offer indicators of potential issues and a variety of tools for effectively achieving contractor assurance."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.1",
+      "number": "6.1",
+      "title": "System to Conduct Routine Inspections",
+      "pages": [
+        43
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.1-1",
+          "text": "Numerous organizations conduct various and routine safety and health inspections, observations and surveillances, including ES&H, Pantex Fire Department, facility/building managers, union representatives, managers, supervisors, and other members of the workforce. Anyone can conduct or participate in safety and health observations in the context of their organization. In addition, Senior Management performs walk-throughs, which include safety and health observations."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.2",
+      "number": "6.2",
+      "title": "Assessments",
+      "pages": [
+        43,
+        44
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.2-1",
+          "text": "The Compliance, Assessment and Analysis (CAA) program supports feedback and improvement objectives and is a mandatory and integral part of the Pantex CAS. Independent assessments/surveillances are conducted of programs, facilities, processes and systems for compliance, performance, and/or effectiveness. The results of the CAA program activities provide senior leadership/functional-management with timely feedback to identify and implement improvements within the ISM framework."
+        },
+        {
+          "id": "p-sec-6.2-2",
+          "text": "In addition, this program provides PFO with a shadow function to aid the collaboration between the assessment contact and federal counterpart to specify shadow assessment activities. Management assessments are also utilized to continually improve processes and activities. Findings from Management Assessments are evaluated for trends and are considered in the risk model used to plan annually scheduled assessments. An integrated assessment approach to management assessment relies on the application of assessments, audits, performance indicators, trend analysis, and external oversight to critically review performance."
+        },
+        {
+          "id": "p-sec-6.2-3",
+          "text": "Assessment activities include staff identifying unsafe work concerns, line self-assessments evaluating compliance with requirements, lessons-learned from abnormal operating experiences, program assessments, and comprehensive"
+        },
+        {
+          "id": "p-sec-6.2-4",
+          "text": "independent assessments and audits of performance, controls, and management systems. Assessments consider operational performance data, occurrence reports, nonconformance reports, safety indicators, and business indicators at the facility and activity/task level. Assessment and review results are documented and necessary corrective and preventive actions are identified, entered into a formal tracking system, and performed. Management assures these actions have been implemented and that there is systematic follow-up to assure effectiveness."
+        },
+        {
+          "id": "p-sec-6.2-5",
+          "text": "The Safety & Industrial Hygiene Department periodically survey facilities to identify potential hazards (e.g., chemical, ventilation, noise, heat, laser hazards, etc.) related to the physical condition of facilities and work operations. Historical information related to the facility and its operations is considered during the surveys. Management and independent assessments provide continuous feedback and improvement opportunities regarding compliance, comprehensiveness, and effectiveness of the programs."
+        },
+        {
+          "id": "p-sec-6.2-6",
+          "text": "The CAS and its associated assessment elements, including requirements, implementing documents, risks, controls, metrics, and validations, further facilitate maintenance and effectiveness of the programs."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.3",
+      "number": "6.3",
+      "title": "Feedback and Improvement Reports",
+      "pages": [
+        44
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.3-1",
+          "text": "Feedback and improvement information provides senior line managers with feedback and evaluation mechanisms based on the review, roll-up and flow-down of operational, safety, security and business performance. These various media are generated from sources of performance information and indicators like assessments, site metrics, issues and event management, and performance self-assessments against the PEMP. The process ensures continuous improvement of operational performance."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.4",
+      "number": "6.4",
+      "title": "Senior Management Initiatives",
+      "pages": [
+        44
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.4-1",
+          "text": "PXD senior leaders meet regularly to discuss, review and act upon emerging issues, directives, or trends that may impact operations at the site. Senior leaders review plant operations, including safety, security, quality, schedule, and cost performance, for improvement in managing and operating their facility. An established Safety Council meets monthly with management representatives from the site organizations, including site labor union representatives, to discuss safety concerns requiring multi-organizational support."
+        },
+        {
+          "id": "p-sec-6.4-2",
+          "text": "The Safety Council also discusses current safety and health-related topics including performance trends and issues, recommendations for performance improvement, and campaigns for site-wide implementation."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.5",
+      "number": "6.5",
+      "title": "Culture",
+      "pages": [
+        44,
+        45
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.5-1",
+          "text": "The Department of Energy defines Organizational Culture as a “set of commonly shared beliefs, expectations, and values that influence and guide the thinking and behavior of organizational members, and are reflected in how work is carried out.” Pantex’s culture is one that manages disciplined operations while proactively balancing conduct of operations"
+        },
+        {
+          "id": "p-sec-6.5-2",
+          "text": "in every aspect of executing work. Pantex allocates resources and leadership focus to ensure mission deliverables and desired outcomes are achieved in a timely manner with operations that are safe, secure, and efficient. To achieve this culture, Pantex follows The Pantex Way - a strategic framework that defines our mission, performance outcomes, key initiatives and immutable values – that are the foundation of everything we do. The Pantex Way is located here: https://pxhome.pantex.doe.gov/pxd/pantexway.php “Deliver Today, Optimize for Tomorrow” is our mission at Pantex."
+        },
+        {
+          "id": "p-sec-6.5-3",
+          "text": "It means doing what needs to be done every single day to ensure the readiness of the nation's nuclear stockpile, while working to develop new and innovative ways to make sure we continue delivering on our vital mission for decades to come. Pantex aims to accomplish three outcomes: Mission Delivery, Operational Excellence, and Pantex Citizen. Every action should directly impact these outcomes."
+        },
+        {
+          "id": "p-sec-6.5-4",
+          "text": "This means doing all we can to meet or exceed delivery goals, actively seeking out ways to be more effective and efficient in how we work, and exhibiting the character traits of a Pantexan in how we interact with our coworkers, our families, and our communities. Pantex executes key initiatives which we must focus on to achieve our mission and are the means by which we will attain our desired outcomes. These initiatives require our daily attention and help us know we are doing the right things, the right way, and at the right time — every time. Pantex exhibits three immutable values: Integrity, Competency, and Service."
+        },
+        {
+          "id": "p-sec-6.5-5",
+          "text": "These unwavering, unyielding, and nonnegotiable values are the foundation of everything we do at Pantex. We will always act with the utmost Integrity. We will promote Competency by working to improve our knowledge, skills, abilities, and behaviors as individuals and as an organization. We will continue our legacy of Service to our nation, our community, our employees, and to each other."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.6",
+      "number": "6.6",
+      "title": "Safety-Conscious Work Environment",
+      "pages": [
+        45,
+        46
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.6-1",
+          "text": "A safety-conscious work environment is an environment in which employees feel free to raise safety concerns to management (or a regulator) without fear of retaliation, intimidation, harassment, or discrimination. PXD creates, maintains, and routinely evaluates policies and processes to ensure all employees feel empowered to raise concerns freely. PXD effectively implements policy supporting individuals’ rights and responsibilities to raise safety concerns and does not tolerate harassment, intimidation, retaliation, or discrimination for doing so."
+        },
+        {
+          "id": "p-sec-6.6-2",
+          "text": "Managers and supervisors are trained to take ownership when receiving and responding to concerns, recognizing confidentiality if appropriate, and ensuring the concerns are adequately addressed in a timely manner."
+        },
+        {
+          "id": "p-sec-6.6-3",
+          "text": "In addition, PXD implements processes for raising and resolving concerns that are independent of line management influence. Safety issues may be raised in confidence and are resolved in a timely and effective manner."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.7",
+      "number": "6.7",
+      "title": "Performance Measurement",
+      "pages": [
+        46
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.7-1",
+          "text": "Performance metrics are used to quantitatively judge performance in a wide range of areas, including safety management programs, in addition to production performance and business management. These metrics are continually evaluated for effectiveness and revised as needed. These metrics are also used to monitor the health of business processes, gauge the success of process improvement efforts and drive performance enhancements. The focus of the metric process is continuous improvement through resolution of the questions: (1) How are we performing relative to strategic goals?"
+        },
+        {
+          "id": "p-sec-6.7-2",
+          "text": "(2) What are the causes of the delta between our targets and our performance? (3) What are the specific issues derived from these causes? (4) How do we resolve these issues to improve performance? The metric process, as well as selected individual indicators, is modified as baselines are established, issues are more fully understood, process enhancements are implemented, and goals are refined. Additionally, ISM Safety Performance Objectives, Measures, and Commitments (SPOMCs) are utilized to evaluate ISM program effectiveness in accordance with Appendix A of this document."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.8",
+      "number": "6.8",
+      "title": "Safety Programs",
+      "pages": [
+        46
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.8-1",
+          "text": "Our commitment to employee safety involvement is through interaction. Pantex safety programs encourage employees to achieve mission success by implementing “The Pantex Way.” Our mission is to deliver today and optimize for tomorrow. Pantex mission success is outlined to achieve mission delivery, operational excellence and being a Pantex citizen. The immutable values are unchanging integrity, competency and service that are fundamentals that guide our actions and decisions."
+        },
+        {
+          "id": "p-sec-6.8-2",
+          "text": "Good Catch is a site-wide employee participation and workplace safety recognition program, with the goal to enhance employee engagement by raising safety awareness and recognizing safe actions/behaviors. Managers, supervisors, Safety & Industrial Hygiene professionals, Union leaders, or safety engagement team members can nominate any PXD employee for a Good Catch Award, certificate and specified monetary amount, for observed safety actions that possibly prevent injury, illness, or incident and/or safe behaviors that exceed job requirements."
+        },
+        {
+          "id": "p-sec-6.8-3",
+          "text": "The intent of the program is to engage employees in actively participating and enhancing our safety culture."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.9",
+      "number": "6.9",
+      "title": "Operating Experience Initiatives",
+      "pages": [
+        47
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.9-1",
+          "text": "PXD reviews and analyzes operating experience information. Operating experience is highly valued, gained, and shared routinely by utilizing resources provided internally such as with lessons learned and PFO Assistant Manager for Operations Management monthly reports; and externally from publications/systems such as the Defense Nuclear Facilities Safety Board (DNFSB), DOE Occurrence Reporting Processing System, DOE Operating Experience Summaries, and DOE Lessons Learned. This information is analyzed for application to improve operations and provided to employees for learning purposes."
+        },
+        {
+          "id": "p-sec-6.9-2",
+          "text": "In addition, PXD recognizes that through participation with DOE/NNSA, and other contractors, including forums such as the ISM and Energy Facility Contractor Group workshops, and bench marking, valuable operational experience is obtained and shared. Technical personnel are also involved with applicable professional organizations that provide valuable learning opportunities."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.10",
+      "number": "6.10",
+      "title": "Injury and Illness Trending",
+      "pages": [
+        47
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.10-1",
+          "text": "ES&H personnel track and trend employee injuries and illnesses and brief leadership on injury and illness trends, as well as traffic and construction incidents. Specifics of cases and incidents are discussed including causal analysis results, corrective actions, and recommendations for performance improvement."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.11",
+      "number": "6.11",
+      "title": "Incident Investigations",
+      "pages": [
+        47
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.11-1",
+          "text": "Employees are encouraged to immediately report incidents and events related to occupational injuries and illnesses, property damage, vehicle damage, and near misses to their supervisor. Management of an incident begins immediately when an employee reports an incident or reports to the medical facility for evaluation and treatment of an on-the-job illness or injury. Necessary information is obtained from affected individuals, witnesses, their supervisor, and the incident scene as appropriate."
+        },
+        {
+          "id": "p-sec-6.11-2",
+          "text": "When an investigation is warranted, a safety professional (including Union Safety Officers when appropriate) assists with the investigation and analyzes investigation data. A causal analysis process is utilized to identify the cause of the accident and develop corrective actions designed to prevent recurrence, when appropriate. Corrective actions are tracked to completion by utilizing Tools for Opportunities – Performance Improvement thru Communication (TOPIC). The rigor and detail of the investigation is determined by the significance of the incident."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.12",
+      "number": "6.12",
+      "title": "Radiological Exposure Analysis",
+      "pages": [
+        47,
+        48
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.12-1",
+          "text": "Radiation Safety personnel track and trend radiological exposure data and provide it to senior management in the As Low As Reasonably Achievable (ALARA) and radiation exposure reports, including site level performance metrics. The reports provide goals and cumulative doses by areas and programs, and trends in cumulative dose by functional area and program. Processes are utilized to identify the cause of the dose and develop"
+        },
+        {
+          "id": "p-sec-6.12-2",
+          "text": "corrective actions designed to prevent recurrence, when appropriate. Corrective actions are tracked to completion."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.13",
+      "number": "6.13",
+      "title": "Environmental Program Improvement",
+      "pages": [
+        48
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.13-1",
+          "text": "PXD establishes environmental objectives and targets on an annual basis. The objectives and targets are developed to address significant environmental aspects associated with Pantex activities, services, and products. These objectives seek to improve environmental program management associated with Pantex operations. Objectives are selected considering environmental policy, regulatory compliance, pollution prevention and other relevant factors. The EMS Coordinator tracks the objectives and reports status to PXD senior management on a routine basis."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.14",
+      "number": "6.14",
+      "title": "Risk Management Process",
+      "pages": [
+        48
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.14-1",
+          "text": "The risk management process implements the American National Standards Institute/International Organization for Standardization/Project Management Institute national standards for risk management, project management, program management, and portfolio management. The risk management process is integrated into the management of all aspects of the Annual Controlled Baseline, the Cost Reduction Plan, functional organizational management, and other areas of concern, such us unfunded legacy risk. Risk should be a standard topic in all progress review meetings, ensuring constant management attention, action, and visibility."
+        },
+        {
+          "id": "p-sec-6.14-2",
+          "text": "Risks will be proactively and systematically identified during detailed planning of all work scope activity, including both components of risk – threats and opportunities. Managers are accountable for owning the risks that affect their work scope responsibilities and for systematically working to reduce or eliminate threats and realize opportunities."
+        }
+      ]
+    },
+    {
+      "id": "sec-6.15",
+      "number": "6.15",
+      "title": "Federal Oversight",
+      "pages": [
+        48
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-6.15-1",
+          "text": "PFO provides day-to-day oversight of facility operations. PFO staff review safety documentation, evaluate procedure compliance, audit various ES&H programs, and investigate operational events. PFO provides direct feedback to DOE and/or NNSA management on the performance of PXD and its subcontractors. Other external oversight and assessments, including shadowed assessments, are often conducted and provide feedback on processes and activities. This feedback is used by PXD to improve overall performance."
+        }
+      ]
+    },
+    {
+      "id": "sec-7",
+      "number": "7",
+      "title": "Implementing Elements",
+      "pages": [
+        48
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-7-1",
+          "text": "This section contains a link to a flow-down report from the BRAIN that establishes the implementing documents for the applicable ISM/WS&H Program requirements, including the applicable functional areas cited in 10 CFR 851.24 and 10 CFR 851, Appendix A. The flow-down report is intentionally established as a separately maintained and updated document. Updates to this flow-down report do not require notification and/or submittal to PFO for review or approval. The implementing document flow-down report is located at: RMS Flowdown Report"
+        }
+      ]
+    },
+    {
+      "id": "sec-8",
+      "number": "8",
+      "title": "Document References",
+      "pages": [
+        49
+      ],
+      "paragraphs": []
+    },
+    {
+      "id": "sec-8.1",
+      "number": "8.1",
+      "title": "Governing Documents",
+      "pages": [
+        49
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-8.1-1",
+          "text": "(a) https://webapps.cns.doe.gov/LinksMgr/linksMgr?docStatus=APPROVED&docType=C D&docNum=CD-0039"
+        }
+      ]
+    },
+    {
+      "id": "sec-8.2",
+      "number": "8.2",
+      "title": "Authorizing Documents",
+      "pages": [
+        49
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-8.2-1",
+          "text": "(a) DIR-0001, Roles and Responsibilities for Management and Operation of Pantex Plant"
+        }
+      ]
+    },
+    {
+      "id": "sec-8.3",
+      "number": "8.3",
+      "title": "Related Documents",
+      "pages": [
+        49
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-8.3-1",
+          "text": "(a) MNL-00040, Pantex Plant Conduct of Operations Manual (b) MNL-240176, Department of Energy Explosives Safety Standard Pantex/Lawrence Livermore National Laboratory Version (c) MNL-352313, Enforcement Coordination (d) MNL-352365, Pantex Training and Qualification Program (e) PD 02.01.07.01, Process for the Explosives Safety Program",
+          "changeId": "chg-01"
+        }
+      ]
+    },
+    {
+      "id": "sec-8.4",
+      "number": "8.4",
+      "title": "Records",
+      "pages": [
+        49
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-8.4-1",
+          "text": "Records generated during the course of following this procedure shall be maintained in accordance with MNL-352355, Records Management. Contact Records Analyst for retention requirements before dispositioning any records listed below."
+        },
+        {
+          "id": "p-sec-8.4-2",
+          "text": "(a) Flow-down report from the BRAIN (b) Monthly ISM SPOMCs reports (c) Notification to applicable Union Officers and designated representatives of updates and revisions to the Pantex WS&H program (d) Submittal of applicable closure facility hazards (e) Transmittal of the Pantex ISM/WS&H program for Federal review and approval (f) Transmittal of effectiveness declaration for the Pantex ISM program (g) Transmittal proposing Pantex ISM SPOMCs for Federal review and approval"
+        }
+      ]
+    },
+    {
+      "id": "sec-9",
+      "number": "9",
+      "title": "Appendices",
+      "pages": [
+        49
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-9-1",
+          "text": "APPENDIX A – Annual Review and Notification Process"
+        }
+      ]
+    },
+    {
+      "id": "sec-b",
+      "number": "B",
+      "title": "Workplace Safety and Health Requirements",
+      "pages": [
+        49
+      ],
+      "paragraphs": []
+    },
+    {
+      "id": "sec-c",
+      "number": "C",
+      "title": "Pantex “OSHA+” Implementation",
+      "pages": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "paragraphs": [
+        {
+          "id": "p-sec-c-1",
+          "text": "APPENDIX A Annual Review and Notification Process The management and operating contract between PXD and DOE/NNSA contains 48 CFR 970.5223-1. This DEAR clause requires PXD to initially submit to the applicable DOE/NNSA Contracting Officer documentation of its ISM program for review and approval. This clause also requires PXD, on an annual basis, to review and update, for DOE/NNSA approval, its safety performance objectives; performance measures; and commitments consistent with and in response to DOE’s program and budget execution guidance and direction. The management and operating contract between PXD and DOE/NNSA also contains 10 CFR 851."
+        },
+        {
+          "id": "p-sec-c-2",
+          "text": "10 CFR 851.11 of this Rule requires PXD to submit an updated worker safety and health program, to the appropriate Head of DOE Field Element, for review and approval whenever a significant change or addition to the program is made, or a change in contractors occurs. 10 CFR 851.11, at a minimum, also requires PXD to submit annually to DOE/NNSA a letter stating that no significant programmatic changes are necessary in the currently approved worker safety and health program."
+        },
+        {
+          "id": "p-sec-c-3",
+          "text": "Recognizing PXD’s WS&H program is embedded within the ISM program, this appendix describes how PXD will comply with the above referenced DEAR clause and 10 CFR 851 requirements in terms of providing DOE/NNSA with the appropriate notifications and/or declarations. The types of notifications and/or declarations are as follows: (1) Submittal of the entire PXD ISM/WS&H program for DOE/NNSA review and approval. Other than the initial PXD submittal in FY 2025, this type of notification will primarily be driven by a significant programmatic and/or process change or addition to the program requiring a major revision of the PXD ISM/WS&H Program."
+        },
+        {
+          "id": "p-sec-c-4",
+          "text": "For example, a significant change or addition to the program is defined as a newly recognized or added hazard that is not effectively controlled by measures outlined in the currently approved program. As applicable, PXD will also submit a copy of the approved PXD ISM/WS&H program to the DOE Assistant Secretary for Environment, Safety and Health. (2) Submittal of PXD ISM/WS&H Program page revisions for PFO review. This type of submittal will primarily be driven by non-significant changes that occur as a result of the various feedback and improvement processes and/or administrative and editorial changes."
+        },
+        {
+          "id": "p-sec-c-5",
+          "text": "(3) Annual notification stating no significant programmatic changes are necessary to the PXD ISM/WS&H Program. (4) Annual submittal proposing safety performance objectives, measures, and commitments for DOE/NNSA review and approval. (5) Annual declaration of ISM program effectiveness."
+        },
+        {
+          "id": "p-sec-c-6",
+          "text": "Schedule • Annual notification of program status (Items 1, 2, and 3 above) submitted by October 31 of each calendar year. • Annual submittal proposing SPOMCs (Item 4) by September 30(*) of each Fiscal Year. (*Unless directed otherwise by official correspondence from NNSA HQ and/or PFO.) • Annual fiscal year (October 1 – September 30) declaration of ISM program effectiveness (Item 5) by October 31 of each calendar year. • Submittal of a monthly ISM SPOMCs status report on or before the last day of each month."
+        },
+        {
+          "id": "p-sec-c-7",
+          "text": "Additionally, PXD will notify PFO in writing of any written direction or instruction from DOE/NNSA that contradicts, limits, or compromises the requirements of protecting the public, the worker, and the environment. ISM Program SPOMCs and Effectiveness 48 CFR 970.5223-1 requires contractor’s ISM Systems (Programs) to describe how they will measure system effectiveness. PXD’s ISM SPOMCs are developed and implemented to identify, track, and measure ISM Program effectiveness. ISM SPOMCs include select objectives, measures, and commitments, including performance metrics for each."
+        },
+        {
+          "id": "p-sec-c-8",
+          "text": "The ISM SPOMCs will be submitted annually to PFO for review and approval. Based upon the maturity of the existing Pantex ISM Program and the development and use of performance metrics, ISM Program tools are used to evaluate program effectiveness monthly. The ISM Program tools include a detailed ISM Performance Measure Dashboard depicting existing ES&H and select leading and lagging performance metrics “binned” into the five ISM CFs, creating a snapshot of overall performance and ISM effectiveness. The detailed ISM Performance Measure Dashboard provides color-coded ratings and trend arrows for each of the metrics included."
+        },
+        {
+          "id": "p-sec-c-9",
+          "text": "In addition, an ISM Core Function Dashboard is used to provide a trend of ISM performance for each of the five ISM CFs over time. A report containing the ISM Performance Measure Dashboard and the ISM Core Function Dashboard will be submitted to PFO on a monthly basis. ISM Program Maintenance This ISM Program will be revised when necessary for the purpose of incorporating necessary changes from updates to the PXD Contract; regulatory requirements, including but not limited to, 10 CFR 851; applicable ISM DEAR clauses, applicable DOE ISM Orders, Manuals, and Policies; and PFO’s ISM System description."
+        },
+        {
+          "id": "p-sec-c-10",
+          "text": "Applicable changes, conditions, or workplace safety and health standards directed by DOE consistent with the requirements of 10 CFR 851 and DEAR 970.5204–2, Laws, Regulations and DOE Directives and associated contract clauses will be incorporated in the Pantex ISM Program or its associated implementing documents."
+        },
+        {
+          "id": "p-sec-c-11",
+          "text": "APPENDIX B Workplace Safety and Health Requirements On February 9, 2006 when DOE promulgated 10 CFR 851, it adopted several industry standards to establish the baseline technical safety and health requirements for DOE workplace operations. These standards were already required by DOE Order 440.1A, Worker Protection Management for DOE Federal and Contractor Employees, which established a comprehensive worker protection program that provided the basic framework necessary for contractors to ensure the safety and health of their workforce."
+        },
+        {
+          "id": "p-sec-c-12",
+          "text": "DOE amended the 10 CFR 851 regulations to update the safety and health standards and delete the obsolete directives currently incorporated by reference. DOE replaced the existing references to industry safety and health standards with direct references to the latest versions of the appropriate standards. The 10 CFR 851 Technical Amendment became effective January 17, 2018. Compliance was required starting January 17, 2019."
+        },
+        {
+          "id": "p-sec-c-13",
+          "text": "The 10 CFR 851 Technical Amendment is available here: https://pantex.energy.gov/sites/default/files/10_CFR_851_Technical_Amendment.pdf 10 CFR 851 explicitly references specific editions of national consensus codes and standards. The editions listed may not be the latest published editions that are typically implemented at Pantex to ensure worker safety, or the ones implemented by commercial vendors in providing services and products to PXD."
+        },
+        {
+          "id": "p-sec-c-14",
+          "text": "In general, the organizations that publish national consensus codes and standards intend that the latest editions of their documents be used by industry and these codes/standards are vetted through their approval process to ensure that the latest editions provide equivalent levels of protection when compared to the previous editions. The responsible Pantex organizations will typically follow the latest edition of these codes and standards, following evaluation to ensure a successor version of the 10 CFR 851 referenced version affords the same or better protection to the workers."
+        },
+        {
+          "id": "p-sec-c-15",
+          "text": "It should be noted that nothing in the 10 CFR 851 Rule precludes PXD from taking any additional protective action that is determined to be necessary to protect the safety and health of workers. For the design and construction of new or modified facilities, requirements are established through the development of the Code of Record during the conceptual design phase of a project. The Code of Record will specify the specific editions of the national consensus codes and standards to be used."
+        },
+        {
+          "id": "p-sec-c-16",
+          "text": "The Code of Record is maintained under configuration control through the remainder of a facility’s life, with changes to the Code of Record evaluated by the project on a case-by-case basis. Equivalency Process In addition to compliance with the above listed requirements, Pantex has an established equivalency process in place for Explosives Safety requirements, which have been previously approved by the Federal Field Office at Pantex. Pantex has an approved Explosives Safety Manual, MNL-240176, which establishes the site requirements involving the development, testing, handling and processing of explosives."
+        },
+        {
+          "id": "p-sec-c-17",
+          "text": "MNL-240176 meets or exceeds the existing requirements of 10 CFR 851, including the"
+        },
+        {
+          "id": "p-sec-c-18",
+          "text": "OSHA 1910 requirements and DOE-STD-1212, which was specifically developed to address explosives activities at DOE sites. The equivalency process established for this program ensures that Pantex has an established program or process that clearly provides a level of employee protection equal to or superior to the intent of the 10 CFR 851 required specific codes or regulations. Approval of CD-0039 by PFO indicates continued approval of this equivalency process."
+        },
+        {
+          "id": "p-sec-c-19",
+          "text": "APPENDIX C Pantex “OSHA+” Implementation The purpose of this Appendix is to incorporate by reference a stand-alone addendum titled: Use and Implementation of OSHA+ for Pantex Construction Projects into the overall Pantex Worker Safety and Health Program."
+        },
+        {
+          "id": "p-sec-c-20",
+          "text": "Background: On July 11, 2024, the Cognizant Secretarial Officer for Safety issued a letter titled, Expansion of OSHA+ for Potential Use on all NNSA Construction Projects. The letter referenced an attachment titled, Graded and Tailored Approach for Construction Projects, that provided guidance on implementation of OSHA+ including the requirement that a written description of site processes for use and implementation of OSHA+ for construction projects be included in the Worker Safety and Health Program."
+        },
+        {
+          "id": "p-sec-c-21",
+          "text": "On November 18, 2024, PXD officially submitted correspondence to PFO that provided a written approach, titled Use and Implementation of OSHA+ for Pantex Construction Projects, for Pantex to implement OSHA+ for select construction projects. Additionally, this written approach was proposed as a stand-alone addendum to the Pantex Worker Safety and Health Program and once approved would be incorporated by reference during the next WS&HP document update. In official correspondence dated January 6, 2025, PFO concurred with the Pantex OSHA + Implementation submittal."
+        },
+        {
+          "id": "p-sec-c-22",
+          "text": "The above referenced stand-alone addendum is configuration controlled by the Pantex Safety and Industrial Hygiene Department and is readily available upon request."
+        }
+      ]
+    }
+  ]
+}

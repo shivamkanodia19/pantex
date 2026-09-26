@@ -9,13 +9,13 @@ import {
   type ReactNode,
 } from "react";
 
-import { SECTIONS } from "@/lib/document-data";
-
 import {
   initialReviewState,
   reviewReducer,
   type ReviewAction,
 } from "@/lib/review-state";
+import { resolveReviewPack } from "@/lib/review-packs";
+import type { ImpactJudgement } from "@/lib/impact";
 
 function useDocumentState() {
   const [state, dispatch] = useReducer(
@@ -26,8 +26,13 @@ function useDocumentState() {
   const [mode, setMode] = useState<"view" | "write">("view");
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [reviewView, setReviewView] = useState<"full" | "section">("full");
-  const [sectionId, setSectionId] = useState(SECTIONS[0].id);
+  const [sectionId, setSectionId] = useState(
+    () => state.sections[0]?.id ?? "",
+  );
   const [editors, setEditors] = useState<Record<string, string>>({});
+  /** Optional business-impact triage — cleared when review set reloads. */
+  const [impacts, setImpacts] = useState<Record<string, ImpactJudgement>>({});
+
   const selectChange = useCallback(
     (id: string | null) => {
       setSelectedId(id);
@@ -36,9 +41,11 @@ function useDocumentState() {
     },
     [state.changes],
   );
+
   const setEditor = useCallback((id: string, text: string) => {
     setEditors((prev) => ({ ...prev, [id]: text }));
   }, []);
+
   const clearEditor = useCallback((id: string) => {
     setEditors((prev) => {
       const next = { ...prev };
@@ -48,7 +55,7 @@ function useDocumentState() {
   }, []);
 
   function act(
-    type: ReviewAction["type"],
+    type: Exclude<ReviewAction["type"], "loadPack">,
     label: string,
     extra: Partial<ReviewAction> = {},
   ) {
@@ -58,6 +65,31 @@ function useDocumentState() {
       label,
       snapshotId: crypto.randomUUID(),
       createdAt: new Date().toISOString(),
+    } as ReviewAction);
+  }
+
+  function loadReviewPack(siteId: string, doeFromId: string, doeToId: string) {
+    const pack = resolveReviewPack(siteId, doeFromId, doeToId);
+    setSelectedId(null);
+    setImpacts({});
+    setEditors({});
+    setSectionId(pack.sections[0]?.id ?? "");
+    dispatch({
+      type: "loadPack",
+      label: `Loaded ${pack.meta.docId} · ${pack.doeFromId}→${pack.doeToId}`,
+      snapshotId: crypto.randomUUID(),
+      createdAt: new Date().toISOString(),
+      siteId: pack.siteId,
+      doeFromId: pack.doeFromId,
+      doeToId: pack.doeToId,
+      meta: pack.meta,
+      sections: pack.sections,
+      changes: pack.changes,
+      packNote: pack.note,
+      diffHref: pack.diffHref,
+      sitePdfHref: pack.sitePdfHref,
+      doeFromPdfHref: pack.doeFromPdfHref,
+      doeToPdfHref: pack.doeToPdfHref,
     });
   }
 
@@ -91,6 +123,11 @@ function useDocumentState() {
       act("restore", "Restored snapshot", { id }),
     pushNamedSnapshot: (label: string) => act("snapshot", label),
     getChange: (id: string) => state.changes.find((c) => c.id === id),
+    loadReviewPack,
+    impacts,
+    setImpacts,
+    clearImpacts: () => setImpacts({}),
+    getImpact: (id: string) => impacts[id],
   };
 }
 

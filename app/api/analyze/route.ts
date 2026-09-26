@@ -42,7 +42,6 @@ export async function POST(req: Request) {
     doeExcerpt,
     requirementId,
     seedSummary,
-    seedReasoning,
   } = body;
 
   if (!oldText || !proposedText || !doeExcerpt) {
@@ -53,60 +52,54 @@ export async function POST(req: Request) {
   }
 
   const section = SECTIONS.find((s) => s.id === sectionId);
-  const sectionLabel = section ? `${section.number} ${section.title}` : sectionId ?? "unknown";
+  const sectionLabel = section
+    ? `${section.number} ${section.title}`
+    : (sectionId ?? "unknown");
   const model = process.env.ANTHROPIC_MODEL || "claude-haiku-4-5";
-
   const client = new Anthropic({ apiKey: key });
 
-  const system = `You are a senior DOE / NNSA document-control analyst assisting Pantex procedure reviewers.
-Compare the OLD Pantex clause to the DOE source excerpt and the proposed rewrite.
-Be precise, skeptical, and operational — no marketing language.
-Return ONLY valid JSON with this shape:
+  const system = `You rewrite ONE Pantex procedure clause so it matches the updated DOE excerpt.
+Keep the site voice. Output must be SHORT.
+Return ONLY JSON:
 {
-  "headline": string,           // one tight sentence
+  "headline": string,              // ≤12 words
+  "suggestedText": string,         // the full replacement clause only — no preamble, ≤80 words when possible
   "matchQuality": "strong" | "partial" | "weak",
-  "analysis": string,           // 2-4 short paragraphs: how DOE maps to the old text, what changes, why it matters
-  "gaps": string[],             // 0-3 residual risks or ambiguities if accepted as written
+  "analysis": string,              // ONE sentence max
+  "gaps": string[],                // 0-1 short items, or []
   "recommendedAction": "accept" | "edit" | "defer",
-  "actionRationale": string     // one sentence
-}`;
+  "actionRationale": string        // ≤15 words
+}
+Do not write essays. Prefer tightening the proposed text over inventing new requirements.`;
 
-  const user = `Change id: ${changeId ?? "n/a"}
-Section: ${sectionLabel}
-Requirement id: ${requirementId ?? "n/a"}
-DOE citation: ${doeCitation ?? "n/a"}
+  const user = `Section: ${sectionLabel}
+DOE: ${doeCitation ?? "n/a"} (${requirementId ?? "n/a"})
 
-OLD PANTEX TEXT:
-"""
+OLD:
 ${oldText}
-"""
 
-DOE SOURCE EXCERPT (proof):
-"""
+DOE EXCERPT:
 ${doeExcerpt}
-"""
 
-PROPOSED REPLACEMENT:
-"""
+CURRENT PROPOSAL:
 ${proposedText}
-"""
 
-Seed summary (may be imperfect): ${seedSummary ?? "n/a"}
-Seed reasoning (may be imperfect): ${seedReasoning ?? "n/a"}
+Hint: ${seedSummary ?? "n/a"}
 
-Produce the JSON analysis now.`;
+Return short JSON with suggestedText now.`;
 
   try {
     const message = await client.messages.create({
       model,
-      max_tokens: 900,
+      max_tokens: 400,
       temperature: 0.2,
       system,
       messages: [{ role: "user", content: user }],
     });
 
     const textBlock = message.content.find((b) => b.type === "text");
-    const raw = textBlock && textBlock.type === "text" ? textBlock.text.trim() : "";
+    const raw =
+      textBlock && textBlock.type === "text" ? textBlock.text.trim() : "";
     const jsonMatch = raw.match(/\{[\s\S]*\}/);
     if (!jsonMatch) {
       return NextResponse.json(
@@ -117,6 +110,7 @@ Produce the JSON analysis now.`;
 
     const parsed = JSON.parse(jsonMatch[0]) as {
       headline?: string;
+      suggestedText?: string;
       matchQuality?: string;
       analysis?: string;
       gaps?: string[];
@@ -124,19 +118,34 @@ Produce the JSON analysis now.`;
       actionRationale?: string;
     };
 
+    const suggestedText =
+      typeof parsed.suggestedText === "string" && parsed.suggestedText.trim()
+        ? parsed.suggestedText.trim()
+        : proposedText;
+
     return NextResponse.json({
       model,
       changeId: changeId ?? null,
-      headline: parsed.headline ?? seedSummary ?? "Analysis complete",
+      headline: parsed.headline ?? seedSummary ?? "Suggested wording",
+      suggestedText,
       matchQuality: parsed.matchQuality ?? "partial",
-      analysis: parsed.analysis ?? raw,
-      gaps: Array.isArray(parsed.gaps) ? parsed.gaps : [],
+      analysis:
+        typeof parsed.analysis === "string"
+          ? parsed.analysis.trim().slice(0, 220)
+          : "Aligned to DOE excerpt.",
+      gaps: Array.isArray(parsed.gaps)
+        ? parsed.gaps.filter((g) => typeof g === "string").slice(0, 1)
+        : [],
       recommendedAction: parsed.recommendedAction ?? "edit",
-      actionRationale: parsed.actionRationale ?? "",
+      actionRationale:
+        typeof parsed.actionRationale === "string"
+          ? parsed.actionRationale.trim().slice(0, 120)
+          : "",
       usage: message.usage,
     });
   } catch (err) {
-    const message = err instanceof Error ? err.message : "Anthropic request failed";
+    const message =
+      err instanceof Error ? err.message : "Anthropic request failed";
     return NextResponse.json({ error: message }, { status: 502 });
   }
 }

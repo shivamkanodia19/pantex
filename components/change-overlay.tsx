@@ -3,7 +3,7 @@
 import { useLayoutEffect, useRef, useState } from "react";
 import clsx from "clsx";
 import Link from "next/link";
-import { SECTIONS, type DocChange } from "@/lib/document-data";
+import type { DocChange } from "@/lib/document-data";
 import { useDocStore } from "@/lib/store";
 
 interface Analysis {
@@ -36,6 +36,7 @@ export function DoeAnalysisPanel({
     editors,
     setEditor,
     clearEditor,
+    sections,
   } = useDocStore();
   const editing = Object.prototype.hasOwnProperty.call(editors, change.id);
   const draft = editors[change.id] ?? change.workingText;
@@ -88,7 +89,8 @@ export function DoeAnalysisPanel({
     setNotice("");
     try {
       const context =
-        SECTIONS.find((s) => s.id === change.sectionId)
+        sections
+          .find((s) => s.id === change.sectionId)
           ?.paragraphs.map((p) => p.text)
           .join("\n") ?? change.oldText;
       const response = await fetch(
@@ -356,6 +358,7 @@ export function statusStyles(status: DocChange["status"]) {
     status === "pending" && "bg-doe-muted text-doe",
     status === "accepted" && "bg-accepted-muted text-accepted",
     status === "edited" && "bg-accent-muted text-accent",
-    status === "rejected" && "bg-canvas text-ink-muted",
+    // Declined proposal — keep red so the recommendation stays visible
+    status === "rejected" && "bg-doe-muted text-doe",
   );
 }

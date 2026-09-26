@@ -2,6 +2,18 @@
 
 Notes for the technical slide and post-demo product direction. **Not implemented in the hackathon wireframe** unless marked otherwise.
 
+## Demo pipeline (what the wireframe shows)
+
+```
+483.1B + 483.1C → precomputed diff → look in 483.1C → edit cards on CD-0039
+```
+
+Document tab = real **CD-0039** text. Change cards = derived from the in-repo B→C diff (not a live Haiku call). **Run LLM** is wired for optional re-analysis and does **not** auto-run.
+
+## Optional: business impact triage (Changes tab)
+
+Rough Haiku scoring of change cards for **urgency / business impact** filters. Completely optional — not a risk register, not required for Approve/Revert. Local API only (`/api/impact`).
+
 ## Demo corpus on disk
 
 Shipped under `public/sources/` for Source Search:

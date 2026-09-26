@@ -21,34 +21,32 @@ const base = () => process.env.NEXT_PUBLIC_BASE_PATH || "";
 export function getSourceDocs(): SourceDoc[] {
   return [
     {
-      id: "src-px-ops-2204",
-      format: "procedure",
-      folder: "pantex",
-      kind: "pantex",
-      title:
-        "PX-OPS-2204 — Material Access, Work Control & Emergency Accountability",
-      shortTitle: "PX-OPS-2204",
-      description:
-        "Site baseline procedure under DOE review (Rev. C). Open in Document for full-document or section review.",
-      href: `${base()}/document`,
-      local: true,
-      pages: 20,
-      docId: "PX-OPS-2204 · Rev. C",
-      updatedLabel: "In-app procedure",
-    },
-    {
       id: "src-cd-0039",
-      format: "pdf",
+      format: "procedure",
       folder: "pantex",
       kind: "pantex",
       title: "CD-0039 — PXD Integrated Safety Management Program",
       shortTitle: "CD-0039 ISM Program",
       description:
-        "Pantex Plant Integrated Safety Management (ISM) program document (eDCRO 944519). Site implementing framework for work planning, hazard controls, and feedback.",
+        "Full CD-0039 body (54-page PDF extract, all TOC sections). Open in Document for full or section review.",
+      href: `${base()}/document`,
+      local: true,
+      pages: 54,
+      docId: "CD-0039 / Issue 001",
+      updatedLabel: "In-app · 68 sections",
+    },
+    {
+      id: "src-cd-0039-pdf",
+      format: "pdf",
+      folder: "pantex",
+      kind: "pantex",
+      title: "CD-0039 — PDF (source file)",
+      shortTitle: "CD-0039 PDF",
+      description: "Original 54-page PDF. Preview here or open in Document with the same review cards.",
       href: `${base()}/sources/CD-0039_PXD_Integrated_Safety_Management_Program.pdf`,
       local: true,
       pages: 54,
-      docId: "CD-0039 / eDCRO 944519",
+      docId: "CD-0039 PDF",
       updatedLabel: "PDF · 54 pages",
     },
     {

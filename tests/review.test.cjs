@@ -147,7 +147,10 @@ test("rewrite endpoint handles provider success/failure and missing configuratio
           },
         };
       if (name === "next/server") return { NextResponse: Response };
-      if (name === "@/lib/rewrite-validation")
+      if (
+        name === "@/lib/rewrite-validation" ||
+        name === "./rewrite-validation"
+      )
         return { parseRewriteOutput, validateRewriteInput };
       throw new Error(`Unexpected import ${name}`);
     },
