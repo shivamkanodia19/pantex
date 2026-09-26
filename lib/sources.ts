@@ -2,6 +2,7 @@ import doeLibrary from "@/lib/generated/doe-library.json";
 
 export interface SourceDoc {
   id: string;
+  comparisonTextHref?: string;
   format: "procedure" | "pdf" | "markdown" | "text" | "external";
   folder: "pantex" | "doe";
   kind: "pantex" | "doe";
@@ -65,6 +66,7 @@ function coreSourceDocs(): SourceDoc[] {
     },
     {
       id: "src-doe-483-1b",
+      comparisonTextHref: `${base()}/sources/comparison/DOE_O_483.1B_Chg3_CRADA.json`,
       format: "pdf",
       folder: "doe",
       kind: "doe",
@@ -81,6 +83,7 @@ function coreSourceDocs(): SourceDoc[] {
     },
     {
       id: "src-doe-483-1c",
+      comparisonTextHref: `${base()}/sources/comparison/DOE_O_483.1C_CRADA.json`,
       format: "pdf",
       folder: "doe",
       kind: "doe",

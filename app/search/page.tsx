@@ -1,6 +1,8 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
+import { useComparison } from "@/lib/use-comparison";
+import { ComparisonPreview } from "@/components/comparison-preview";
 import clsx from "clsx";
 import { sourcesByFolder } from "@/lib/sources";
 import { filterSources, visibleSelection } from "@/lib/source-search";
@@ -13,18 +15,32 @@ export default function SourceSearchPage() {
   const [folder, setFolder] = useState<FolderId>("pantex");
   const [query, setQuery] = useState("");
   const [selectedId, setSelectedId] = useState<string | null>(null);
+  const comparison = useComparison();
+  const comparable = folders.doe.filter((doc) => doc.comparisonTextHref);
+  const [olderId, setOlderId] = useState("src-doe-483-1b");
+  const [newerId, setNewerId] = useState("src-doe-483-1c");
+  const compareButton = useRef<HTMLButtonElement>(null);
+  function compare() {
+    const older = comparable.find((d) => d.id === olderId),
+      newer = comparable.find((d) => d.id === newerId);
+    if (!older || !newer || olderId === newerId) return;
+    setSelectedId(null);
+    void comparison.run(older, newer);
+  }
   const list = filterSources(folders[folder], query);
   const selected = visibleSelection(list, selectedId);
   const preview = useRef<HTMLDivElement>(null);
   const resultButtons = useRef(new Map<string, HTMLButtonElement>());
 
   useEffect(() => {
-    if (!selected) return;
+    if (!selected && !comparison.state) return;
     if (window.matchMedia("(max-width: 1023px)").matches)
       preview.current?.scrollIntoView({ block: "start", behavior: "smooth" });
-  }, [selected?.id]);
+  }, [selected?.id, comparison.state?.status]);
 
   function closePreview() {
+    comparison.clear();
+    if (comparison.state) compareButton.current?.focus({ preventScroll: true });
     setSelectedId(null);
     if (selectedId)
       resultButtons.current.get(selectedId)?.focus({ preventScroll: true });
@@ -49,7 +65,7 @@ export default function SourceSearchPage() {
       <div
         className={clsx(
           "grid items-start gap-4",
-          selected
+          selected || comparison.state
             ? "lg:grid-cols-[minmax(300px,0.85fr)_minmax(0,1.15fr)]"
             : "grid-cols-1",
         )}
@@ -73,6 +89,7 @@ export default function SourceSearchPage() {
                   key={id}
                   aria-pressed={folder === id}
                   onClick={() => {
+                    comparison.clear();
                     setFolder(id);
                     setSelectedId(null);
                   }}
@@ -90,6 +107,55 @@ export default function SourceSearchPage() {
             </nav>
           </aside>
           <section className="flex min-w-0 flex-col">
+            {folder === "doe" && (
+              <div className="space-y-3 border-b border-border p-4">
+                <h2 className="text-sm font-semibold">Compare DOE versions</h2>
+                <p className="text-xs text-ink-muted">
+                  Complete-file text comparison · no AI
+                </p>
+                {(
+                  [
+                    ["Older version", olderId, setOlderId],
+                    ["Newer version", newerId, setNewerId],
+                  ] as const
+                ).map(([label, value, setValue]) => (
+                  <label key={label} className="block text-xs">
+                    {label}
+                    <select
+                      value={value}
+                      onChange={(e) => {
+                        comparison.clear();
+                        setValue(e.target.value);
+                      }}
+                      className="mt-1 w-full rounded border border-border bg-surface p-2 text-sm"
+                    >
+                      {comparable.map((doc) => (
+                        <option key={doc.id} value={doc.id}>
+                          {doc.shortTitle}
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+                ))}
+                <button
+                  ref={compareButton}
+                  onClick={compare}
+                  disabled={
+                    olderId === newerId ||
+                    comparison.state?.status === "loading"
+                  }
+                  className="rounded bg-accent px-3 py-2 text-sm font-semibold text-white disabled:opacity-50"
+                >
+                  Find differences
+                </button>
+                {olderId === newerId && (
+                  <p className="text-xs text-ink-muted">
+                    Choose two different versions.
+                  </p>
+                )}
+              </div>
+            )}
+
             <div className="border-b border-border-subtle p-4">
               <label className="sr-only" htmlFor="source-q">
                 Search files
@@ -126,7 +192,10 @@ export default function SourceSearchPage() {
                       aria-controls={
                         selected?.id === doc.id ? "source-preview" : undefined
                       }
-                      onClick={() => setSelectedId(doc.id)}
+                      onClick={() => {
+                        comparison.clear();
+                        setSelectedId(doc.id);
+                      }}
                     >
                       {doc.shortTitle}
                     </button>
@@ -145,7 +214,7 @@ export default function SourceSearchPage() {
             </ul>
           </section>
         </div>
-        {selected && (
+        {(selected || comparison.state) && (
           <div
             ref={preview}
             id="source-preview"
@@ -157,11 +226,21 @@ export default function SourceSearchPage() {
               }
             }}
           >
-            <SourcePreview
-              key={selected.id}
-              doc={selected}
-              onClose={closePreview}
-            />
+            {comparison.state ? (
+              <ComparisonPreview
+                state={comparison.state}
+                onClose={closePreview}
+                onRetry={compare}
+              />
+            ) : (
+              selected && (
+                <SourcePreview
+                  key={selected.id}
+                  doc={selected}
+                  onClose={closePreview}
+                />
+              )
+            )}
           </div>
         )}
       </div>

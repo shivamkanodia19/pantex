@@ -54,6 +54,8 @@ try {
     "source-search",
     "section-navigation",
     "impact",
+    "document-diff",
+    "diff-report",
   ]) {
     transpileLib(name);
   }

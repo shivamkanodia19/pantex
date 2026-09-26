@@ -269,3 +269,43 @@ test("section search ranks real numbers and searches approved text without propo
   for(const q of ["obsolete","secret","missing","section"]) assert.equal(searchSections(sections,changes,q).length,0);
   assert.equal(searchSections(Array.from({length:12},(_,i)=>({...sections[0],id:String(i)})),changes,"training").length,8);
 });
+
+const { compareDocuments, tokenize, validateAsset } = require(path.join(process.env.PANTEX_TEST_MODULES, 'document-diff.js'));
+const { renderReport } = require(path.join(process.env.PANTEX_TEST_MODULES, 'diff-report.js'));
+function diffSource(text, id='old') {return {id,title:id,href:'https://example.test/'+id+'.pdf',asset:{schemaVersion:1,extractionVersion:'test',extractor:'test',sourceFile:id+'.pdf',sha256:'a'.repeat(64),pages:[{page:1,text,omittedLines:[]}]}};}
+function assertReconstruction(result) {
+  assert.deepEqual(result.runs.flatMap(r=>r.old),tokenize(result.older.asset));
+  assert.deepEqual(result.runs.flatMap(r=>r.next),tokenize(result.newer.asset));
+}
+test('deterministic diff ignores whitespace but preserves meaningful textual changes',()=>{
+  const unchanged=compareDocuments(diffSource('shall\n  do\u00a0this'),diffSource('shall do this','new'));
+  assert.equal(unchanged.groups,0); assertReconstruction(unchanged);
+  for(const [old,next] of [['shall do this','shall not do this'],['within 30 days.','within 3 days!'],['a-b','ab'],['Safety','safety'],['one two',''],['','added'],['a b a b a','b a b a b'],['first block here second block there','second block there first block here']]) {
+    const r=compareDocuments(diffSource(old),diffSource(next,'new'));
+    assert.ok(r.groups>0); assertReconstruction(r);
+    assert.deepEqual(r,compareDocuments(diffSource(old),diffSource(next,'new')));
+  }
+});
+test('bounded alignment retains all content and reports coarse replacements',()=>{
+  const r=compareDocuments(diffSource('one two three'),diffSource('four five six','new'),0);
+  assert.equal(r.coarseBlocks,1); assertReconstruction(r);
+  assert.match(renderReport(r),/Whole-block replacement/);
+});
+test('HTML report escapes source text and retains collapsed content',()=>{
+  const r=compareDocuments(diffSource('<script>alert("x")</script> '+ 'old '.repeat(140)),diffSource('<img src=x onerror=alert(1)>','new'));
+  const html=renderReport(r);
+  assert.ok(!html.includes('<script>'));assert.ok(!html.includes('<img'));
+  assert.match(html,/&lt;script&gt;/);assert.match(html,/<details>/);assert.match(html,/PDF page 1/);
+  assert.throws(()=>validateAsset({pages:[]}),/Invalid comparison/);
+});
+test('complete bundled comparison reconstructs every page and matches PDF hashes',()=>{
+  const fs=require('node:fs'),crypto=require('node:crypto');
+  const sources=['DOE_O_483.1B_Chg3_CRADA','DOE_O_483.1C_CRADA'].map((name,i)=>{
+    const asset=JSON.parse(fs.readFileSync(`public/sources/comparison/${name}.json`,'utf8'));
+    assert.equal(asset.sha256,crypto.createHash('sha256').update(fs.readFileSync(`public/sources/${name}.pdf`)).digest('hex'));
+    return {...diffSource('',String(i)),asset};
+  });
+  assert.equal(sources[0].asset.pages.length,100);assert.equal(sources[1].asset.pages.length,15);
+  const r=compareDocuments(...sources);assertReconstruction(r);assert.ok(r.groups>0);
+  assert.ok(r.runs.some(run=>run.old.some(t=>t.page===100)));
+});
