@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-canvas text-ink antialiased;
+  font-feature-settings: "kern" 1, "liga" 1;
+}
+
+@layer utilities {
+  .pressable {
+    @apply transition-[transform,opacity,border-color,background-color,color] duration-150 ease-out;
+  }
+  .pressable:active {
+    transform: translateY(1px);
+    opacity: 0.92;
+  }
+}
+
+@layer components {
+  .sheet-backdrop {
+    animation: sheet-fade-in 160ms ease-out;
+  }
+  .overlay-card {
+    animation: overlay-rise 180ms ease-out;
+  }
+  .doe-gradient {
+    background: linear-gradient(135deg, #ffffff 0%, #e6f5fb 48%, #fde8e9 100%);
+  }
+}
+
+@keyframes sheet-fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes overlay-rise {
+  from {
+    transform: translateY(6px);
+    opacity: 0.85;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sheet-backdrop,
+  .overlay-card,
+  .pressable {
+    animation: none !important;
+    transition: none !important;
+  }
+  .pressable:active {
+    transform: none;
+  }
+}
