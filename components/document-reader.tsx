@@ -54,13 +54,14 @@ export function DocumentReader() {
 
   return (
     <div>
-      <DocumentFilePicker />
-
       <div className="mb-5 flex flex-wrap items-end justify-between gap-3">
-        <div>
-          <p className="text-xs text-ink-muted">
-            {meta.docId} · {meta.revision}
-          </p>
+        <div className="min-w-0 flex-1">
+          <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
+            <p className="text-xs text-ink-muted">
+              {meta.docId} · {meta.revision}
+            </p>
+            <DocumentFilePicker compact />
+          </div>
           <h1 className="mt-1 text-2xl font-medium">
             {reviewView === "full" ? meta.title : "Section review"}
           </h1>

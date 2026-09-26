@@ -33,7 +33,8 @@ export interface ResolvedReviewPack {
 const base = () => process.env.NEXT_PUBLIC_BASE_PATH || "";
 
 export const DEFAULT_PACK_IDS = {
-  siteId: "src-cd-0039",
+  /** Official Pantex CD-0039 source PDF (full parse). */
+  siteId: "src-cd-0039-pdf",
   doeFromId: "src-doe-483-1b",
   doeToId: "src-doe-483-1c",
 } as const;
@@ -42,14 +43,14 @@ function src(id: string): SourceDoc | undefined {
   return getSourceDocs().find((d) => d.id === id);
 }
 
-/** Both the structured pack id and the PDF source id load the full CD-0039 body. */
+/** CD-0039 catalog ids (PDF or sectioned alias) load the full extracted body. */
 export function isCd0039Site(siteId: string) {
   return siteId === "src-cd-0039" || siteId === "src-cd-0039-pdf";
 }
 
-/** Site docs for the Document picker. */
+/** Pantex site docs available in the Document picker. */
 export function siteDocOptions(): SourceDoc[] {
-  return getSourceDocs().filter((d) => d.id === "src-cd-0039");
+  return getSourceDocs().filter((d) => d.id === "src-cd-0039-pdf");
 }
 
 /** DOE docs selectable as baseline / incoming. */
@@ -108,18 +109,12 @@ export function resolveReviewPack(
       meta: {
         ...DOCUMENT_META,
         totalPages: DOCUMENT_META.totalPages,
-        title:
-          siteId === "src-cd-0039-pdf"
-            ? `${DOCUMENT_META.title} (PDF extract)`
-            : DOCUMENT_META.title,
       },
       sections,
       changes: hasDemoCards ? cloneChanges(SEED_CHANGES) : [],
       note: hasDemoCards
-        ? siteId === "src-cd-0039-pdf"
-          ? `PDF viewer mode — original CD-0039 file on the left (${sections.length} sections / ${DOCUMENT_META.totalPages} pp). Precomputed B→C cards stay in the analysis pane.`
-          : `Section review — full CD-0039 text (${sections.length} sections from PDF) with precomputed cards from DOE 483.1B→483.1C. LLM not auto-run.`
-        : `Loaded full CD-0039 (${sections.length} sections) against ${from?.shortTitle ?? doeFromId} → ${to?.shortTitle ?? doeToId}. No precomputed cards for this DOE pair (demo cards are B→C only).`,
+        ? `Official CD-0039 PDF fully parsed (${sections.length} sections / ${DOCUMENT_META.totalPages} pp). Change cards from DOE 483.1B→483.1C.`
+        : `Loaded CD-0039 (${sections.length} sections) against ${from?.shortTitle ?? doeFromId} → ${to?.shortTitle ?? doeToId}.`,
     };
   }
 
