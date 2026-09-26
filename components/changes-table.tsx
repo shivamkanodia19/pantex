@@ -22,11 +22,15 @@ export function ChangesTable() {
   return (
     <div>
       <div className="mb-6">
-        <p className="text-[11px] font-medium uppercase tracking-[0.06em] text-ink-faint">Screen 3</p>
-        <h1 className="mt-1.5 text-[26px] font-medium tracking-tight text-ink">Recommended changes</h1>
+        <p className="text-[11px] font-medium uppercase tracking-[0.06em] text-ink-faint">
+          Screen 3
+        </p>
+        <h1 className="mt-1.5 text-[26px] font-medium tracking-tight text-ink">
+          Recommended changes
+        </h1>
         <p className="mt-1.5 text-[13px] text-ink-muted">
-          Accordion detail for every DOE recommendation. Showing {slice.length} of {changes.length} — lazy load{" "}
-          {PAGE_SIZE} at a time.
+          Accordion detail for every DOE recommendation. Showing {slice.length}{" "}
+          of {changes.length} — show {PAGE_SIZE} at a time.
         </p>
       </div>
 
@@ -51,10 +55,18 @@ export function ChangesTable() {
                   onClick={() => setOpenId(open ? null : ch.id)}
                   aria-expanded={open}
                 >
-                  <span className="text-[12.5px] font-medium text-ink">{sectionTitle(ch.sectionId)}</span>
-                  <span className="line-clamp-2 text-[12px] text-ink-muted max-lg:hidden">{ch.oldText}</span>
-                  <span className="line-clamp-2 text-[12px] text-ink max-lg:hidden">{ch.workingText}</span>
-                  <span className="line-clamp-2 text-[12px] text-ink-muted max-lg:hidden">{ch.summary}</span>
+                  <span className="text-[12.5px] font-medium text-ink">
+                    {sectionTitle(ch.sectionId)}
+                  </span>
+                  <span className="line-clamp-2 text-[12px] text-ink-muted max-lg:hidden">
+                    {ch.oldText}
+                  </span>
+                  <span className="line-clamp-2 text-[12px] text-ink max-lg:hidden">
+                    {ch.workingText}
+                  </span>
+                  <span className="line-clamp-2 text-[12px] text-ink-muted max-lg:hidden">
+                    {ch.summary}
+                  </span>
                   <span className="text-right font-mono text-[11px] tabular-nums text-ink-faint max-lg:hidden">
                     +{ch.lineCount}/−{ch.lineCount}
                   </span>
@@ -68,20 +80,30 @@ export function ChangesTable() {
                     <div className="grid gap-4 sm:grid-cols-2">
                       <div>
                         <p className="text-[11px] text-ink-faint">Old text</p>
-                        <p className="mt-1 text-[12.5px] leading-relaxed text-ink-muted">{ch.oldText}</p>
+                        <p className="mt-1 text-[12.5px] leading-relaxed text-ink-muted">
+                          {ch.oldText}
+                        </p>
                       </div>
                       <div>
-                        <p className="text-[11px] text-ink-faint">DOE proposed (working)</p>
-                        <p className="mt-1 text-[12.5px] leading-relaxed text-ink">{ch.workingText}</p>
+                        <p className="text-[11px] text-ink-faint">
+                          DOE proposed (working)
+                        </p>
+                        <p className="mt-1 text-[12.5px] leading-relaxed text-ink">
+                          {ch.workingText}
+                        </p>
                       </div>
                     </div>
                     <div>
                       <p className="text-[11px] text-ink-faint">Summary</p>
-                      <p className="mt-1 text-[12.5px] text-ink">{ch.summary}</p>
+                      <p className="mt-1 text-[12.5px] text-ink">
+                        {ch.summary}
+                      </p>
                     </div>
                     <div>
                       <p className="text-[11px] text-ink-faint">Reasoning</p>
-                      <p className="mt-1 text-[12.5px] leading-relaxed text-ink-muted">{ch.reasoning}</p>
+                      <p className="mt-1 text-[12.5px] leading-relaxed text-ink-muted">
+                        {ch.reasoning}
+                      </p>
                     </div>
                     <div className="rounded-card border border-accent/20 bg-accent-muted/50 px-3 py-2.5">
                       <a
@@ -92,7 +114,12 @@ export function ChangesTable() {
                       >
                         {ch.doe.citation} ↗
                       </a>
-                      <p className="mt-1 text-[12px] leading-relaxed text-ink">{ch.doe.excerpt}</p>
+                      <p className="mt-1 text-[10px] text-ink-muted">
+                        Demo evidence · not independently verified
+                      </p>
+                      <p className="mt-1 text-[12px] leading-relaxed text-ink">
+                        {ch.doe.excerpt}
+                      </p>
                       <a
                         href={ch.doe.url}
                         target="_blank"
@@ -104,7 +131,8 @@ export function ChangesTable() {
                     </div>
                     <div className="flex flex-wrap items-center gap-3">
                       <span className="font-mono text-[11px] text-ink-faint">
-                        p.{ch.page} · L{ch.lineStart}–L{ch.lineStart + ch.lineCount - 1}
+                        p.{ch.page} · L{ch.lineStart}–L
+                        {ch.lineStart + ch.lineCount - 1}
                       </span>
                       <button
                         type="button"
@@ -133,13 +161,18 @@ export function ChangesTable() {
             className={clsx(
               "pressable rounded-md border border-border bg-surface px-4 py-2 text-[13px] font-semibold text-ink",
             )}
-            onClick={() => setVisible((v) => Math.min(v + PAGE_SIZE, changes.length))}
+            onClick={() =>
+              setVisible((v) => Math.min(v + PAGE_SIZE, changes.length))
+            }
           >
-            Load next miniscreen ({Math.min(PAGE_SIZE, changes.length - visible)} more)
+            Load next miniscreen (
+            {Math.min(PAGE_SIZE, changes.length - visible)} more)
           </button>
         </div>
       ) : (
-        <p className="mt-4 text-center text-[12px] text-ink-faint">All changes loaded</p>
+        <p className="mt-4 text-center text-[12px] text-ink-faint">
+          All changes loaded
+        </p>
       )}
     </div>
   );

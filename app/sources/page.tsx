@@ -11,7 +11,7 @@ export default function SourcesPage() {
         <p className="text-[11px] font-medium uppercase tracking-[0.06em] text-ink-faint">Reference corpus</p>
         <h1 className="mt-1.5 text-[26px] font-medium tracking-tight text-ink">Sources</h1>
         <p className="mt-1.5 max-w-2xl text-[13px] text-ink-muted">
-          Documents Haiku and reviewers use when matching DOE / site requirements to the Pantex procedure.
+          Reference links for reviewers. These documents are not automatically read by AI analysis.
           Open either source below — the PDF is hosted with this app; the Delegations Library is the live DOE site.
         </p>
       </div>
