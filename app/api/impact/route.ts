@@ -62,6 +62,7 @@ export async function POST(req: Request) {
 Judge OPTIONAL business / mission impact if each proposed clause change were delayed or mishandled.
 This is NOT legal advice, NOT a compliance determination, and NOT a risk register entry.
 Be conservative: prefer "medium" when unsure. Prefer "high" only for clear safety, security, regulatory enforcement, or stop-work / mission-blocking exposure. Prefer "low" for citation housekeeping, related-docs lists, or narrow admin wording.
+Keep every rationale to ONE short sentence (≤20 words).
 Return ONLY valid JSON:
 {
   "judgements": [
@@ -69,7 +70,7 @@ Return ONLY valid JSON:
       "changeId": string,
       "level": "high" | "medium" | "low",
       "urgency": number,   // 1-5 integer, 5 = address soonest
-      "rationale": string   // one short sentence, hedge that this is rough LLM triage
+      "rationale": string   // one short sentence
     }
   ]
 }
@@ -79,20 +80,21 @@ Include every input changeId exactly once.`;
     const response = await client.messages.create(
       {
         model,
-        max_tokens: 2000,
+        max_tokens: 900,
+        temperature: 0.2,
         system,
         messages: [
           {
             role: "user",
             content: JSON.stringify({
-              task: "Rough optional business-impact triage",
+              task: "Rough optional business-impact triage — be brief",
               items: items.map((it) => ({
                 changeId: it.changeId,
                 sectionId: it.sectionId ?? null,
-                summary: (it.summary ?? "").slice(0, 500),
-                oldText: (it.oldText ?? "").slice(0, 1200),
-                proposedText: (it.proposedText ?? "").slice(0, 1200),
-                doeCitation: (it.doeCitation ?? "").slice(0, 300),
+                summary: (it.summary ?? "").slice(0, 280),
+                oldText: (it.oldText ?? "").slice(0, 500),
+                proposedText: (it.proposedText ?? "").slice(0, 500),
+                doeCitation: (it.doeCitation ?? "").slice(0, 200),
               })),
             }),
           },
@@ -126,7 +128,7 @@ Include every input changeId exactly once.`;
         urgency: Math.min(5, Math.max(1, Math.round(urgency))),
         rationale:
           typeof r.rationale === "string" && r.rationale.trim()
-            ? r.rationale.trim().slice(0, 400)
+            ? r.rationale.trim().slice(0, 160)
             : "Rough LLM triage only.",
       });
     }

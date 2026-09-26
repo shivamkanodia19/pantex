@@ -139,6 +139,7 @@ export function reviewReducer(
       if (action.type === "approve")
         return { ...c, approvedText: c.workingText, status: "accepted" };
       if (action.type === "reject")
+        // Decline proposal: document keeps original text; recommendation stays (red).
         return { ...c, approvedText: undefined, status: "rejected" };
       return { ...c, workingText: action.text!.trim(), status: "edited" };
     });

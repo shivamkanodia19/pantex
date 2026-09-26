@@ -11,6 +11,7 @@ export function statusStyles(status: DocChange["status"]) {
     status === "pending" && "bg-doe-muted text-doe",
     status === "accepted" && "bg-accepted-muted text-accepted",
     status === "edited" && "bg-accent-muted text-accent",
-    status === "rejected" && "bg-canvas text-ink-muted",
+    // Declined proposal — keep red so the recommendation stays visible
+    status === "rejected" && "bg-doe-muted text-doe",
   );
 }

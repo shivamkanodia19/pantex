@@ -5,7 +5,6 @@ import clsx from "clsx";
 import Link from "next/link";
 
 import type { DocChange } from "@/lib/document-data";
-import { getSourceDocs } from "@/lib/sources";
 import { useDocStore } from "@/lib/store";
 import { statusStyles } from "@/components/change-overlay";
 import { DocumentFilePicker } from "@/components/document-file-picker";
@@ -13,6 +12,7 @@ import { DocumentFilePicker } from "@/components/document-file-picker";
 interface LlmAnalysis {
   model: string;
   headline: string;
+  suggestedText?: string;
   matchQuality: string;
   analysis: string;
   gaps: string[];
@@ -306,7 +306,7 @@ export function DocumentReader() {
                         "bg-accepted-muted/70 ring-1 ring-accepted/20",
                       showMarks &&
                         change?.status === "rejected" &&
-                        "bg-canvas ring-1 ring-border",
+                        "bg-doe-muted/70 ring-1 ring-doe/25",
                       isSelected && "ring-2 ring-accent",
                       change && "pressable cursor-pointer hover:brightness-[0.98]",
                       !change && "cursor-default",
@@ -425,14 +425,13 @@ export function DocumentReader() {
                     className="pressable w-full rounded-md border border-accent/40 bg-canvas px-3 py-2.5 text-[13px] font-semibold text-accent disabled:opacity-60"
                   >
                     {llmLoading
-                      ? "Running Haiku…"
+                      ? "Suggesting wording…"
                       : llm
-                        ? "Re-run LLM"
-                        : "Run LLM (optional · local)"}
+                        ? "Re-suggest wording"
+                        : "Suggest DOE-aligned text (LLM)"}
                   </button>
                   <p className="text-[11px] text-ink-faint">
-                    Change cards above are precomputed from the B→C DOE diff. LLM is set up for
-                    live re-analysis; it does not run until you click.
+                    Optional: Haiku returns a short replacement clause consistent with the DOE excerpt.
                   </p>
 
                   {offline ? (
@@ -475,21 +474,28 @@ export function DocumentReader() {
                           {llm.recommendedAction}
                         </span>
                       </div>
-                      <p className="whitespace-pre-wrap text-[12.5px] leading-relaxed text-ink">
-                        {llm.analysis}
+                      <p className="text-[11px] tracking-wide text-ink-faint">Suggested wording</p>
+                      <p className="text-[12.5px] leading-relaxed text-ink">
+                        {llm.suggestedText || llm.analysis}
                       </p>
-                      {llm.actionRationale ? (
-                        <p className="text-[12px] text-ink-muted">
-                          <span className="font-medium text-ink">Action: </span>
-                          {llm.actionRationale}
-                        </p>
+                      {llm.analysis ? (
+                        <p className="text-[12px] text-ink-muted">{llm.analysis}</p>
                       ) : null}
-                      {llm.gaps.length > 0 ? (
-                        <ul className="list-disc space-y-1 pl-4 text-[12px] text-ink-muted">
-                          {llm.gaps.map((g) => (
-                            <li key={g}>{g}</li>
-                          ))}
-                        </ul>
+                      {llm.actionRationale ? (
+                        <p className="text-[12px] text-ink-muted">{llm.actionRationale}</p>
+                      ) : null}
+                      {llm.suggestedText ? (
+                        <button
+                          type="button"
+                          className="pressable rounded-md bg-accent px-2.5 py-1.5 text-[11px] font-semibold text-surface"
+                          onClick={() => {
+                            editChange(focusedChange.id, llm.suggestedText!);
+                            setDraft(llm.suggestedText!);
+                            setEditing(false);
+                          }}
+                        >
+                          Use this wording
+                        </button>
                       ) : null}
                       <p className="font-mono text-[10px] text-ink-faint">{llm.model}</p>
                     </div>
@@ -514,78 +520,57 @@ export function DocumentReader() {
                       {focusedChange.doe.requirementId}
                     </p>
                   </div>
-
-                  <div className="rounded-card border border-border bg-canvas px-3 py-3">
-                    <p className="text-[10px] font-semibold uppercase tracking-[0.1em] text-ink-faint">
-                      Reference corpus
-                    </p>
-                    <ul className="mt-2 space-y-1.5">
-                      {getSourceDocs()
-                        .slice(0, 4)
-                        .map((src) => (
-                          <li key={src.id}>
-                            <a
-                              href={src.href}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="pressable text-[12px] font-medium text-accent hover:underline"
-                            >
-                              {src.shortTitle} ↗
-                            </a>
-                          </li>
-                        ))}
-                    </ul>
-                    <Link
-                      href="/search"
-                      className="pressable mt-2 inline-block text-[11px] font-semibold text-ink-muted hover:text-accent"
-                    >
-                      Source Search →
-                    </Link>
-                  </div>
                 </>
               ) : null}
             </div>
 
             {focusedChange ? (
-              <div className="flex flex-wrap gap-2 border-t border-border-subtle bg-canvas px-4 py-2.5">
-                <button
-                  type="button"
-                  disabled={busy || dirty || focusedChange.status === "accepted"}
-                  onClick={() => approveChange(focusedChange.id)}
-                  className="pressable rounded-md border border-border bg-surface px-3 py-1.5 text-[12px] font-semibold text-accepted disabled:opacity-50"
-                >
-                  ✓ Approve
-                </button>
-                <button
-                  type="button"
-                  disabled={busy || focusedChange.status === "rejected"}
-                  onClick={() => rejectChange(focusedChange.id)}
-                  className="pressable rounded-md border border-border bg-surface px-3 py-1.5 text-[12px] font-semibold text-doe disabled:opacity-50"
-                >
-                  ✕ Revert
-                </button>
-                <button
-                  type="button"
-                  disabled={offline || busy || dirty}
-                  onClick={() => void runRewrite()}
-                  className="pressable rounded-md border border-border bg-surface px-3 py-1.5 text-[12px] font-semibold text-accent disabled:opacity-50"
-                >
-                  ↻ Reword
-                </button>
-                <button
-                  type="button"
-                  disabled={!canUndo}
-                  onClick={undo}
-                  className="pressable rounded-md border border-border bg-surface px-3 py-1.5 text-[12px] font-semibold text-ink-muted disabled:opacity-50"
-                >
-                  Undo
-                </button>
-                <Link
-                  href={`/changes#${focusedChange.id}`}
-                  className="pressable ml-auto self-center text-[12px] font-semibold text-accent hover:underline"
-                >
-                  Extended view →
-                </Link>
+              <div className="border-t border-border-subtle bg-canvas px-4 py-2.5">
+                <div className="flex flex-wrap gap-2">
+                  <button
+                    type="button"
+                    disabled={busy || dirty || focusedChange.status === "accepted"}
+                    onClick={() => approveChange(focusedChange.id)}
+                    className="pressable rounded-md border border-border bg-surface px-3 py-1.5 text-[12px] font-semibold text-accepted disabled:opacity-50"
+                  >
+                    ✓ Approve
+                  </button>
+                  <button
+                    type="button"
+                    disabled={busy || dirty}
+                    onClick={() => rejectChange(focusedChange.id)}
+                    className="pressable rounded-md border border-border bg-surface px-3 py-1.5 text-[12px] font-semibold text-doe disabled:opacity-50"
+                  >
+                    ✕ Reject
+                  </button>
+                  <button
+                    type="button"
+                    disabled={offline || busy || dirty}
+                    onClick={() => void runRewrite()}
+                    className="pressable rounded-md border border-border bg-surface px-3 py-1.5 text-[12px] font-semibold text-accent disabled:opacity-50"
+                  >
+                    ↻ Reword proposal
+                  </button>
+                  <button
+                    type="button"
+                    disabled={!canUndo}
+                    onClick={undo}
+                    className="pressable rounded-md border border-border bg-surface px-3 py-1.5 text-[12px] font-semibold text-ink-muted disabled:opacity-50"
+                  >
+                    Undo
+                  </button>
+                  <Link
+                    href={`/changes#${focusedChange.id}`}
+                    className="pressable ml-auto self-center text-[12px] font-semibold text-accent hover:underline"
+                  >
+                    Extended view →
+                  </Link>
+                </div>
+                <p className="mt-2 text-[11px] leading-snug text-ink-faint">
+                  Approve = put proposed text in the doc (green). Reject = keep original text, leave
+                  this recommendation marked red. Reword = AI edits the proposal only (not applied
+                  until Approve).
+                </p>
               </div>
             ) : null}
           </div>
