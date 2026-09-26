@@ -19,6 +19,8 @@ export interface DocChange {
   proposedText: string;
   /** Mutable working copy of the proposed text (write-mode edits). */
   workingText: string;
+  /** Last explicitly approved wording; proposals never overwrite this. */
+  approvedText?: string;
   summary: string;
   reasoning: string;
   doe: DoeSource;

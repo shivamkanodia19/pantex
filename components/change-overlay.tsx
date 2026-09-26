@@ -1,416 +1,351 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import clsx from "clsx";
 import Link from "next/link";
-
-import type { DocChange } from "@/lib/document-data";
-import { sectionTitle } from "@/lib/document-data";
-import { getSourceDocs } from "@/lib/sources";
+import { SECTIONS, type DocChange } from "@/lib/document-data";
 import { useDocStore } from "@/lib/store";
 
-interface LlmAnalysis {
-  model: string;
-  headline: string;
-  matchQuality: string;
+interface Analysis {
   analysis: string;
-  gaps: string[];
+  matchQuality: string;
   recommendedAction: string;
   actionRationale: string;
+  gaps: string[];
 }
+const analysisCache = new Map<string, Analysis>();
+const offline = process.env.NEXT_PUBLIC_STATIC_EXPORT === "true";
+const control =
+  "rounded-md border border-border bg-surface px-3 py-2 text-[12px] font-semibold disabled:opacity-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-accent";
 
-/** Right-hand analysis screen for Write mode — separate from the document. */
-export function DoeAnalysisPanel({ change }: { change: DocChange | null }) {
+export function DoeAnalysisPanel({
+  change,
+  onClose,
+}: {
+  change: DocChange;
+  onClose: () => void;
+}) {
   const {
-    closeOverlay,
-    requestAccept,
-    confirmAcceptId,
-    confirmAccept,
-    cancelAccept,
+    approveChange,
+    rejectChange,
     editChange,
+    rewriteChange,
+    revision,
+    undo,
+    canUndo,
   } = useDocStore();
+  const [draft, setDraft] = useState(change.workingText);
   const [editing, setEditing] = useState(false);
-  const [draft, setDraft] = useState(change?.workingText ?? "");
-  const [llm, setLlm] = useState<LlmAnalysis | null>(null);
-  const [llmLoading, setLlmLoading] = useState(false);
-  const [llmError, setLlmError] = useState<string | null>(null);
+  const [busy, setBusy] = useState<"rewrite" | "analysis" | null>(null);
+  const [error, setError] = useState<string | null>(null);
+  const [notice, setNotice] = useState("");
+  const [analysis, setAnalysis] = useState<Analysis | null>(null);
+  const controller = useRef<AbortController | null>(null);
+  const rewriteNotice = useRef("");
+  const generation = useRef(0);
+  const currentRevision = useRef(revision);
+  currentRevision.current = revision;
+  const key = JSON.stringify([
+    change.id,
+    change.oldText,
+    change.workingText,
+    change.doe,
+    change.summary,
+    change.reasoning,
+  ]);
 
+  function cancelRequest() {
+    generation.current += 1;
+    controller.current?.abort();
+    setBusy(null);
+  }
   useEffect(() => {
-    setDraft(change?.workingText ?? "");
+    setDraft(change.workingText);
     setEditing(false);
-  }, [change?.id, change?.workingText]);
+    setAnalysis(analysisCache.get(key) ?? null);
+    setNotice(rewriteNotice.current);
+    rewriteNotice.current = "";
+    setError(null);
+    cancelRequest();
+    return () => {
+      generation.current += 1;
+      controller.current?.abort();
+    };
+  }, [key, revision, change.workingText]);
 
-  useEffect(() => {
-    if (!change) {
-      setLlm(null);
-      setLlmError(null);
-      setLlmLoading(false);
-      return;
-    }
-
-    const controller = new AbortController();
-    let cancelled = false;
-
-    async function run() {
-      setLlmLoading(true);
-      setLlmError(null);
-      setLlm(null);
-      try {
-        const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/api/analyze`, {
+  async function request(kind: "rewrite" | "analysis") {
+    cancelRequest();
+    const requestId = generation.current;
+    const expectedRevision = revision;
+    const abort = new AbortController();
+    controller.current = abort;
+    setBusy(kind);
+    setError(null);
+    setNotice("");
+    try {
+      const context =
+        SECTIONS.find((s) => s.id === change.sectionId)
+          ?.paragraphs.map((p) => p.text)
+          .join("\n") ?? change.oldText;
+      const response = await fetch(
+        `${process.env.NEXT_PUBLIC_BASE_PATH || ""}/api/${kind === "rewrite" ? "rewrite" : "analyze"}`,
+        {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          signal: controller.signal,
+          signal: abort.signal,
           body: JSON.stringify({
-            changeId: change!.id,
-            sectionId: change!.sectionId,
-            oldText: change!.oldText,
-            proposedText: change!.workingText,
-            doeCitation: change!.doe.citation,
-            doeExcerpt: change!.doe.excerpt,
-            requirementId: change!.doe.requirementId,
-            seedSummary: change!.summary,
-            seedReasoning: change!.reasoning,
+            changeId: change.id,
+            sectionId: change.sectionId,
+            oldText: change.oldText,
+            proposedText: change.workingText,
+            doeCitation: change.doe.citation,
+            doeExcerpt: change.doe.excerpt,
+            requirementId: change.doe.requirementId,
+            seedSummary: change.summary,
+            seedReasoning: change.reasoning,
+            context,
           }),
-        });
-        const data = (await res.json()) as LlmAnalysis & { error?: string };
-        if (!res.ok) throw new Error(data.error || `Analyze failed (${res.status})`);
-        if (!cancelled) setLlm(data);
-      } catch (err) {
-        if (cancelled || (err instanceof DOMException && err.name === "AbortError")) return;
-        setLlmError(err instanceof Error ? err.message : "Analysis failed");
-      } finally {
-        if (!cancelled) setLlmLoading(false);
+        },
+      );
+      const result = await response.json();
+      if (!response.ok)
+        throw new Error(result.error || "Request failed. Try again.");
+      if (
+        requestId !== generation.current ||
+        currentRevision.current !== expectedRevision
+      )
+        return;
+      if (kind === "rewrite") {
+        if (
+          result.changeId !== change.id ||
+          typeof result.proposedText !== "string" ||
+          !result.proposedText.trim() ||
+          typeof result.explanation !== "string"
+        )
+          throw new Error(
+            "Invalid rewrite response. Your proposal has not changed.",
+          );
+        rewriteNotice.current = result.explanation;
+        rewriteChange(change.id, result.proposedText, expectedRevision);
+        // The new proposal remains unapproved; its explanation is retained below.
+        setNotice(result.explanation);
+      } else {
+        if (
+          typeof result.analysis !== "string" ||
+          typeof result.matchQuality !== "string" ||
+          typeof result.recommendedAction !== "string" ||
+          typeof result.actionRationale !== "string" ||
+          !Array.isArray(result.gaps) ||
+          !result.gaps.every((g: unknown) => typeof g === "string")
+        )
+          throw new Error("Invalid analysis response. Try again.");
+        analysisCache.set(key, result);
+        setAnalysis(result);
       }
-    }
-
-    void run();
-    return () => {
-      cancelled = true;
-      controller.abort();
-    };
-  }, [change]);
-
-  if (!change) {
-    return (
-      <aside className="flex h-full min-h-[320px] flex-col rounded-card border border-dashed border-border bg-surface/80 px-4 py-5">
-        <p className="text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-faint">
-          DOE analysis
-        </p>
-        <p className="mt-3 text-[13px] leading-relaxed text-ink-muted">
-          Select a highlighted clause in the document to open Haiku match analysis here.
-        </p>
-        <div className="mt-5 space-y-2 border-t border-border-subtle pt-4">
-          <p className="text-[10px] font-semibold uppercase tracking-[0.1em] text-ink-faint">
-            Reference corpus
-          </p>
-          {getSourceDocs().map((src) => (
-            <a
-              key={src.id}
-              href={src.href}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="pressable block text-[12px] font-medium text-accent hover:underline"
-            >
-              {src.shortTitle} ↗
-            </a>
-          ))}
-        </div>
-        <p className="mt-auto pt-6 text-[11px] text-ink-faint">
-          Screen 2 of Write · Claude Haiku
-        </p>
-      </aside>
-    );
-  }
-
-  const confirming = confirmAcceptId === change.id;
-
-  function saveEdit() {
-    editChange(change!.id, draft);
-    setEditing(false);
-  }
-
-  async function rerun() {
-    if (!change) return;
-    setLlmLoading(true);
-    setLlmError(null);
-    try {
-      const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/api/analyze`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          changeId: change.id,
-          sectionId: change.sectionId,
-          oldText: change.oldText,
-          proposedText: draft || change.workingText,
-          doeCitation: change.doe.citation,
-          doeExcerpt: change.doe.excerpt,
-          requirementId: change.doe.requirementId,
-          seedSummary: change.summary,
-          seedReasoning: change.reasoning,
-        }),
-      });
-      const data = (await res.json()) as LlmAnalysis & { error?: string };
-      if (!res.ok) throw new Error(data.error || `Analyze failed (${res.status})`);
-      setLlm(data);
     } catch (err) {
-      setLlmError(err instanceof Error ? err.message : "Analysis failed");
+      if (requestId === generation.current && !abort.signal.aborted)
+        setError(
+          err instanceof Error ? err.message : "Request failed. Try again.",
+        );
     } finally {
-      setLlmLoading(false);
+      if (requestId === generation.current) setBusy(null);
     }
   }
-
+  const dirty = draft !== change.workingText;
   return (
-    <aside className="flex h-full min-h-[420px] max-h-[calc(100vh-6rem)] flex-col overflow-hidden rounded-card border border-border bg-surface">
-      <div className="flex items-start justify-between gap-2 border-b border-border-subtle px-4 py-3">
-        <div className="min-w-0">
-          <p className="text-[11px] font-semibold uppercase tracking-[0.08em] text-accent">
-            DOE analysis · Haiku
-          </p>
-          <p className="mt-1 text-[13px] font-medium leading-snug text-ink">
-            {llm?.headline ?? change.summary}
-          </p>
-          <p className="mt-1 font-mono text-[10px] text-ink-faint">
-            {sectionTitle(change.sectionId)} · p.{change.page} · L{change.lineStart}–
-            {change.lineStart + change.lineCount - 1}
-          </p>
+    <div className="flex max-h-[inherit] flex-col overflow-hidden rounded-lg border border-border bg-surface shadow-2xl">
+      <header className="flex items-start justify-between gap-3 border-b border-border p-4">
+        <div>
+          <h2
+            id={`review-title-${change.id}`}
+            className="text-sm font-semibold"
+          >
+            Review proposed change
+          </h2>
+          <span className={statusStyles(change.status)}>{change.status}</span>
         </div>
         <button
-          type="button"
-          aria-label="Close analysis"
-          className="pressable shrink-0 rounded-md p-1.5 text-ink-faint hover:bg-canvas hover:text-ink"
-          onClick={closeOverlay}
+          className={control}
+          onClick={onClose}
+          aria-label="Close review popup"
         >
-          <svg width="16" height="16" viewBox="0 0 18 18" fill="none" aria-hidden>
-            <path d="M4 4L14 14M14 4L4 14" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
-          </svg>
+          Close
         </button>
-      </div>
-
-      <div className="flex-1 space-y-4 overflow-y-auto px-4 py-4">
-        <div>
-          <p className="text-[11px] tracking-wide text-ink-faint">Old Pantex</p>
-          <p className="mt-1 text-[12.5px] leading-relaxed text-ink-muted line-through decoration-doe/45">
-            {change.oldText}
+      </header>
+      <div className="min-h-0 space-y-4 overflow-y-auto p-4 text-[13px] leading-relaxed">
+        <section className="rounded-md border border-accent/20 bg-accent-muted p-3">
+          <p className="text-[11px] font-semibold text-ink-muted">
+            DEMO EVIDENCE · NOT INDEPENDENTLY VERIFIED
           </p>
-        </div>
-
-        <div>
-          <div className="flex items-center justify-between gap-2">
-            <p className="text-[11px] tracking-wide text-ink-faint">DOE proposed</p>
+          <a
+            className="font-semibold text-accent underline"
+            href={change.doe.url}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {change.doe.citation} ↗
+          </a>
+          <p className="mt-2">{change.doe.excerpt}</p>
+          <p className="mt-1 font-mono text-[10px]">
+            {change.doe.requirementId}
+          </p>
+        </section>
+        <section>
+          <h3 className="font-semibold">Why this change is proposed</h3>
+          <p>{change.reasoning}</p>
+        </section>
+        <section>
+          <h3 className="font-semibold">Before · original Pantex text</h3>
+          <p className="text-ink-muted">{change.oldText}</p>
+        </section>
+        {change.approvedText !== undefined &&
+          change.approvedText !== change.workingText && (
+            <section>
+              <h3 className="font-semibold">Currently approved text</h3>
+              <p>{change.approvedText}</p>
+            </section>
+          )}
+        <section>
+          <div className="flex items-center justify-between">
+            <h3 className="font-semibold">After · proposed Pantex wording</h3>
             <button
-              type="button"
-              className="pressable text-[11px] font-semibold text-accent hover:underline"
-              onClick={() => setEditing((v) => !v)}
+              className="text-accent underline"
+              onClick={() => {
+                cancelRequest();
+                setEditing(!editing);
+              }}
             >
-              {editing ? "Done" : "Edit"}
+              Edit wording
             </button>
           </div>
           {editing ? (
-            <div className="mt-1 space-y-2">
+            <div className="mt-2 space-y-2">
               <textarea
-                value={draft}
-                onChange={(e) => setDraft(e.target.value)}
+                aria-label="Proposed Pantex wording"
+                className="w-full rounded border border-border p-2"
                 rows={5}
-                className="w-full rounded-card border border-accent/40 bg-canvas px-3 py-2 text-[12.5px] leading-relaxed text-ink outline-none focus:border-accent"
+                value={draft}
+                onChange={(e) => {
+                  cancelRequest();
+                  setDraft(e.target.value);
+                }}
               />
               <div className="flex gap-2">
                 <button
-                  type="button"
-                  className="pressable rounded-md bg-accent px-2.5 py-1 text-[11px] font-semibold text-surface"
-                  onClick={saveEdit}
+                  className={control}
+                  disabled={!draft.trim() || !dirty}
+                  onClick={() => {
+                    editChange(change.id, draft);
+                    setEditing(false);
+                  }}
                 >
-                  Save edit
+                  Save proposal
                 </button>
                 <button
-                  type="button"
-                  className="pressable rounded-md border border-border px-2.5 py-1 text-[11px] font-semibold text-ink-muted"
-                  onClick={() => void rerun()}
+                  className={control}
+                  onClick={() => {
+                    setDraft(change.workingText);
+                    setEditing(false);
+                  }}
                 >
-                  Re-run Haiku
+                  Cancel edit
                 </button>
               </div>
             </div>
           ) : (
-            <p className="mt-1 text-[12.5px] leading-relaxed text-ink">{change.workingText}</p>
+            <p>{change.workingText}</p>
           )}
-        </div>
-
-        <div className="rounded-card border border-border-subtle bg-canvas px-3 py-3">
+          <p className="mt-1 text-[11px] text-ink-muted">
+            Only approval applies proposed wording to the document.
+          </p>
+        </section>
+        <section>
           <div className="flex items-center justify-between gap-2">
-            <p className="text-[10px] font-semibold uppercase tracking-[0.1em] text-ink-faint">
-              LLM match analysis
-            </p>
+            <h3 className="font-semibold">Optional AI analysis</h3>
             <button
-              type="button"
-              disabled={llmLoading}
-              className="pressable text-[11px] font-semibold text-accent enabled:hover:underline disabled:opacity-50"
-              onClick={() => void rerun()}
+              className={control}
+              disabled={offline || !!busy || dirty}
+              onClick={() => void request("analysis")}
             >
-              {llmLoading ? "Running…" : "Re-run"}
+              {busy === "analysis"
+                ? "Analyzing…"
+                : analysis
+                  ? "Re-analyze"
+                  : "Analyze"}
             </button>
           </div>
-
-          {llmLoading ? (
-            <p className="mt-2 text-[12.5px] text-ink-muted">Haiku is comparing DOE proof to old Pantex…</p>
-          ) : null}
-
-          {llmError ? (
-            <p className="mt-2 text-[12.5px] text-doe">{llmError}</p>
-          ) : null}
-
-          {llm && !llmLoading ? (
+          {analysis && (
             <div className="mt-2 space-y-2">
-              <div className="flex flex-wrap items-center gap-2">
-                <span
-                  className={clsx(
-                    "rounded-md px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide",
-                    llm.matchQuality === "strong" && "bg-accepted-muted text-accepted",
-                    llm.matchQuality === "partial" && "bg-accent-muted text-accent",
-                    llm.matchQuality === "weak" && "bg-doe-muted text-doe",
-                    !["strong", "partial", "weak"].includes(llm.matchQuality) &&
-                      "bg-canvas text-ink-muted",
-                  )}
-                >
-                  {llm.matchQuality} match
-                </span>
-                <span className="rounded-md bg-surface px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-ink-muted ring-1 ring-border">
-                  {llm.recommendedAction}
-                </span>
-              </div>
-              <p className="whitespace-pre-wrap text-[12.5px] leading-relaxed text-ink">{llm.analysis}</p>
-              {llm.actionRationale ? (
-                <p className="text-[12px] text-ink-muted">
-                  <span className="font-medium text-ink">Action: </span>
-                  {llm.actionRationale}
-                </p>
-              ) : null}
-              {llm.gaps.length > 0 ? (
-                <ul className="list-disc space-y-1 pl-4 text-[12px] text-ink-muted">
-                  {llm.gaps.map((g) => (
-                    <li key={g}>{g}</li>
-                  ))}
-                </ul>
-              ) : null}
-              <p className="font-mono text-[10px] text-ink-faint">{llm.model}</p>
+              <p className="text-xs text-ink-muted">
+                {analysis.matchQuality} match · Suggested action:{" "}
+                {analysis.recommendedAction}
+              </p>
+              <p className="whitespace-pre-wrap">{analysis.analysis}</p>
+              <p>{analysis.actionRationale}</p>
+              <ul className="list-disc pl-4">
+                {analysis.gaps.map((g, i) => (
+                  <li key={i}>{g}</li>
+                ))}
+              </ul>
             </div>
-          ) : null}
-
-          {!llm && !llmLoading && !llmError ? (
-            <p className="mt-2 text-[12.5px] text-ink-muted">{change.reasoning}</p>
-          ) : null}
-        </div>
-
-        <div className="rounded-card border border-accent/25 bg-accent-muted/60 px-3 py-3">
-          <p className="text-[10px] font-semibold uppercase tracking-[0.1em] text-accent">
-            DOE source · proof
+          )}
+        </section>
+        {offline && (
+          <p className="text-xs text-ink-muted">
+            Static demo: AI analysis and rewording require the local/server app.
+            Approval, revert, and manual editing are available.
           </p>
-          <a
-            href={change.doe.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="pressable mt-1.5 block text-[12px] font-medium text-accent hover:underline"
-          >
-            {change.doe.citation}
-            <span className="ml-1 font-normal text-ink-faint" aria-hidden>
-              ↗
-            </span>
-          </a>
-          <p className="mt-0.5 font-mono text-[10px] text-ink-faint">{change.doe.requirementId}</p>
-          <p className="mt-2 text-[12.5px] leading-relaxed text-ink">{change.doe.excerpt}</p>
-          <a
-            href={change.doe.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="pressable mt-3 inline-flex items-center gap-1 rounded-md border border-accent/30 bg-surface px-2.5 py-1.5 text-[11px] font-semibold text-accent hover:bg-accent-muted"
-          >
-            Open DOE order
-            <span aria-hidden>↗</span>
-          </a>
-        </div>
-
-        <div className="rounded-card border border-border bg-canvas px-3 py-3">
-          <p className="text-[10px] font-semibold uppercase tracking-[0.1em] text-ink-faint">
-            Reference corpus
-          </p>
-          <ul className="mt-2 space-y-2">
-            {getSourceDocs().map((src) => (
-              <li key={src.id}>
-                <a
-                  href={src.href}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="pressable block text-[12px] font-medium text-accent hover:underline"
-                >
-                  {src.shortTitle}
-                  <span className="ml-1 font-normal text-ink-faint" aria-hidden>
-                    ↗
-                  </span>
-                </a>
-                <p className="mt-0.5 text-[11px] leading-snug text-ink-muted">{src.docId}</p>
-              </li>
-            ))}
-          </ul>
-          <Link
-            href="/sources"
-            className="pressable mt-3 inline-block text-[11px] font-semibold text-ink-muted hover:text-accent"
-          >
-            All sources →
-          </Link>
-        </div>
-
-        <p className="font-mono text-[11px] text-ink-faint">
-          +{change.lineCount} −{change.lineCount} lines · status {change.status}
-        </p>
-      </div>
-
-      <div className="flex flex-wrap items-center justify-between gap-2 border-t border-border-subtle px-4 py-2.5">
-        <Link
-          href={`/changes#${change.id}`}
-          className="pressable text-[12px] font-semibold text-accent hover:underline"
-        >
-          Extended view →
-        </Link>
-        {confirming ? (
-          <div className="flex items-center gap-2">
-            <span className="text-[12px] text-ink-muted">Accept?</span>
-            <button
-              type="button"
-              className="pressable rounded-md bg-accepted px-2.5 py-1 text-[11px] font-semibold text-surface"
-              onClick={confirmAccept}
-            >
-              Confirm
-            </button>
-            <button
-              type="button"
-              className="pressable rounded-md px-2.5 py-1 text-[11px] font-semibold text-ink-muted"
-              onClick={cancelAccept}
-            >
-              Cancel
-            </button>
-          </div>
-        ) : (
-          <button
-            type="button"
-            className={clsx(
-              "pressable rounded-md px-3 py-1.5 text-[12px] font-semibold",
-              change.status === "accepted"
-                ? "border border-border bg-canvas text-ink-muted"
-                : "bg-accent text-surface",
-            )}
-            onClick={() => requestAccept(change.id)}
-            disabled={change.status === "accepted"}
-          >
-            {change.status === "accepted" ? "Accepted" : "Accept"}
-          </button>
         )}
+        {dirty && (
+          <p className="text-xs text-ink-muted">
+            Save or cancel your edit before approving or rewording.
+          </p>
+        )}
+        {error && (
+          <p role="alert" className="text-doe">
+            {error}
+          </p>
+        )}
+        <p role="status" className="text-xs text-ink-muted">
+          {busy === "rewrite" ? "Rewording proposal…" : notice}
+        </p>
+        <div className="flex gap-4 text-xs text-accent">
+          <Link href={`/changes#${change.id}`}>Extended view →</Link>
+          <Link href="/sources">All sources →</Link>
+        </div>
       </div>
-    </aside>
+      <footer className="flex flex-wrap gap-2 border-t border-border bg-canvas p-3">
+        <button
+          className={control + " text-accepted"}
+          disabled={!!busy || dirty || change.status === "accepted"}
+          onClick={() => approveChange(change.id)}
+        >
+          ✓ Approve
+        </button>
+        <button
+          className={control + " text-doe"}
+          disabled={!!busy || change.status === "rejected"}
+          onClick={() => rejectChange(change.id)}
+        >
+          ✕ Revert
+        </button>
+        <button
+          className={control + " text-accent"}
+          disabled={offline || !!busy || dirty}
+          onClick={() => void request("rewrite")}
+        >
+          ↻ Reword
+        </button>
+        <button className={control} disabled={!canUndo} onClick={undo}>
+          Undo
+        </button>
+      </footer>
+    </div>
   );
 }
-
 export function statusStyles(status: DocChange["status"]) {
   return clsx(
-    "inline-block rounded-md px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide",
+    "inline-block rounded px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide",
     status === "pending" && "bg-doe-muted text-doe",
     status === "accepted" && "bg-accepted-muted text-accepted",
     status === "edited" && "bg-accent-muted text-accent",
