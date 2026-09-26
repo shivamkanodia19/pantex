@@ -42,13 +42,16 @@ function src(id: string): SourceDoc | undefined {
   return getSourceDocs().find((d) => d.id === id);
 }
 
-function normalizeSiteId(siteId: string) {
-  return siteId === "src-cd-0039-pdf" ? "src-cd-0039" : siteId;
+/** Both the structured pack id and the PDF source id load the full CD-0039 body. */
+export function isCd0039Site(siteId: string) {
+  return siteId === "src-cd-0039" || siteId === "src-cd-0039-pdf";
 }
 
-/** Site docs for the Document picker (one row per analyzable site file). */
+/** Site docs for the Document picker. */
 export function siteDocOptions(): SourceDoc[] {
-  return getSourceDocs().filter((d) => d.id === "src-cd-0039");
+  return getSourceDocs().filter(
+    (d) => d.id === "src-cd-0039" || d.id === "src-cd-0039-pdf",
+  );
 }
 
 /** DOE docs selectable as baseline / incoming. */
@@ -75,13 +78,12 @@ export function resolveReviewPack(
   doeFromId: string,
   doeToId: string,
 ): ResolvedReviewPack {
-  const site = src(normalizeSiteId(siteId)) ?? src(siteId);
+  const site = src(siteId);
   const from = src(doeFromId);
   const to = src(doeToId);
-  const siteNorm = normalizeSiteId(siteId);
 
   const shared = {
-    siteId: siteNorm,
+    siteId,
     doeFromId,
     doeToId,
     sitePdfHref:
@@ -95,21 +97,31 @@ export function resolveReviewPack(
         : undefined,
   };
 
-  const isCd0039 = siteNorm === "src-cd-0039";
+  const isCd0039 = isCd0039Site(siteId);
   const hasDemoCards =
     isCd0039 &&
     doeFromId === "src-doe-483-1b" &&
     doeToId === "src-doe-483-1c";
 
   if (isCd0039) {
+    const sections = cd0039Sections();
     return {
       ...shared,
-      meta: { ...DOCUMENT_META },
-      sections: cd0039Sections(),
+      meta: {
+        ...DOCUMENT_META,
+        totalPages: DOCUMENT_META.totalPages,
+        title:
+          siteId === "src-cd-0039-pdf"
+            ? `${DOCUMENT_META.title} (PDF extract)`
+            : DOCUMENT_META.title,
+      },
+      sections,
       changes: hasDemoCards ? cloneChanges(SEED_CHANGES) : [],
       note: hasDemoCards
-        ? "Loaded CD-0039 with precomputed cards from DOE 483.1B→483.1C. LLM not auto-run."
-        : `Loaded CD-0039 against ${from?.shortTitle ?? doeFromId} → ${to?.shortTitle ?? doeToId}. No precomputed cards for this DOE pair (demo cards are B→C only). PDFs still open below.`,
+        ? siteId === "src-cd-0039-pdf"
+          ? `PDF viewer mode — original CD-0039 file on the left (${sections.length} sections / ${DOCUMENT_META.totalPages} pp). Precomputed B→C cards stay in the analysis pane.`
+          : `Section review — full CD-0039 text (${sections.length} sections from PDF) with precomputed cards from DOE 483.1B→483.1C. LLM not auto-run.`
+        : `Loaded full CD-0039 (${sections.length} sections) against ${from?.shortTitle ?? doeFromId} → ${to?.shortTitle ?? doeToId}. No precomputed cards for this DOE pair (demo cards are B→C only).`,
     };
   }
 

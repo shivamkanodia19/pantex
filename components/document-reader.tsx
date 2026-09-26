@@ -43,8 +43,11 @@ export function DocumentReader() {
     revision,
     meta,
     sections,
+    siteId,
+    sitePdfHref,
   } = useDocStore();
 
+  const pdfViewerMode = siteId === "src-cd-0039-pdf";
   const [sectionIndex, setSectionIndex] = useState(0);
   const section = sections[sectionIndex] ?? sections[0];
 
@@ -54,7 +57,10 @@ export function DocumentReader() {
   );
 
   const focusedChange =
-    (selectedId && sectionChanges.find((c) => c.id === selectedId)) || sectionChanges[0] || null;
+    (selectedId && changes.find((c) => c.id === selectedId)) ||
+    (selectedId && sectionChanges.find((c) => c.id === selectedId)) ||
+    sectionChanges[0] ||
+    null;
   const changeIndex = Math.max(
     0,
     sectionChanges.findIndex((c) => c.id === focusedChange?.id),
@@ -80,12 +86,32 @@ export function DocumentReader() {
     });
   }
 
+  function jumpToChange(change: DocChange) {
+    const sIdx = sections.findIndex((s) => s.id === change.sectionId);
+    if (sIdx >= 0) setSectionIndex(sIdx);
+    markViewed(change.id);
+    selectChange(change.id);
+    setLlm(null);
+    setLlmError(null);
+  }
+
+  // Pack / view-mode change: land on first DOE card so the switch is obvious.
   useEffect(() => {
-    setSectionIndex(0);
     setLlm(null);
     setLlmError(null);
     setViewedIds(new Set());
-  }, [meta.docId, sections.length]);
+    const first = changes[0];
+    if (first) {
+      const sIdx = sections.findIndex((s) => s.id === first.sectionId);
+      setSectionIndex(sIdx >= 0 ? sIdx : 0);
+      selectChange(first.id);
+      markViewed(first.id);
+    } else {
+      setSectionIndex(0);
+      closeOverlay();
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [siteId, meta.docId, sections.length, changes.length]);
 
   useEffect(() => {
     setLlm(null);
@@ -121,13 +147,7 @@ export function DocumentReader() {
     if (ordered.length === 0) return;
     const idx = ordered.findIndex((c) => c.id === focusedChange?.id);
     const nextIdx = Math.min(ordered.length - 1, Math.max(0, (idx < 0 ? 0 : idx) + delta));
-    const next = ordered[nextIdx];
-    const sIdx = sections.findIndex((s) => s.id === next.sectionId);
-    if (sIdx >= 0) setSectionIndex(sIdx);
-    markViewed(next.id);
-    selectChange(next.id);
-    setLlm(null);
-    setLlmError(null);
+    jumpToChange(ordered[nextIdx]);
   }
 
   async function runLlm() {
@@ -216,10 +236,13 @@ export function DocumentReader() {
             {meta.docId} · {meta.revision}
           </p>
           <h1 className="mt-1.5 max-w-2xl text-[22px] font-medium tracking-tight text-ink sm:text-[26px]">
-            Section review
+            {pdfViewerMode ? "PDF review" : "Section review"}
           </h1>
           <p className="mt-1.5 max-w-2xl text-[13px] text-ink-muted">
-            {meta.docId} · {pendingCount} open items · Run LLM is optional (local only; not auto-run).
+            {meta.docId} · {pendingCount} open items ·{" "}
+            {pdfViewerMode
+              ? "Left pane is the original PDF — use Prev/Next change to jump pages."
+              : "Run LLM is optional (local only; not auto-run)."}
           </p>
         </div>
         <button
@@ -253,6 +276,41 @@ export function DocumentReader() {
 
       <SplitPane
         main={
+        pdfViewerMode && sitePdfHref ? (
+          <div className="overflow-hidden rounded-card border border-border bg-surface">
+            <div className="flex flex-wrap items-center justify-between gap-2 border-b border-border-subtle px-4 py-2.5">
+              <p className="text-[12px] font-medium text-ink">
+                Original PDF
+                {focusedChange ? (
+                  <span className="ml-2 font-mono text-[11px] text-ink-faint">
+                    p.{focusedChange.page} · {focusedChange.id}
+                  </span>
+                ) : section ? (
+                  <span className="ml-2 font-mono text-[11px] text-ink-faint">
+                    pp. {section.pages[0]}
+                    {section.pages.length > 1
+                      ? `–${section.pages[section.pages.length - 1]}`
+                      : ""}
+                  </span>
+                ) : null}
+              </p>
+              <a
+                href={sitePdfHref}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="pressable text-[11px] font-semibold text-accent hover:underline"
+              >
+                Open in new tab ↗
+              </a>
+            </div>
+            <iframe
+              key={`${sitePdfHref}#${focusedChange?.page ?? section?.pages[0] ?? 1}`}
+              title="CD-0039 PDF"
+              src={`${sitePdfHref}#page=${focusedChange?.page ?? section?.pages[0] ?? 1}`}
+              className="h-[min(78vh,820px)] w-full bg-canvas"
+            />
+          </div>
+        ) : (
         <article className="rounded-card border border-border bg-surface px-5 py-5 sm:px-6 sm:py-6">
           {!section ? (
             <p className="text-[13px] text-ink-muted">Load a review set to begin.</p>
@@ -286,10 +344,7 @@ export function DocumentReader() {
                     disabled={!change}
                     onClick={() => {
                       if (!change) return;
-                      markViewed(change.id);
-                      selectChange(change.id);
-                      setLlm(null);
-                      setLlmError(null);
+                      jumpToChange(change);
                     }}
                     className={clsx(
                       "w-full rounded-md px-2.5 py-2 text-left text-[13.5px] leading-[1.65] transition-colors text-ink",
@@ -321,6 +376,7 @@ export function DocumentReader() {
             </>
           )}
         </article>
+        )
         }
         aside={
         <aside className="w-full">

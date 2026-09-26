@@ -151,7 +151,7 @@ function FilePreview({ doc }: { doc: SourceDoc }) {
 
   const analyzeHref =
     doc.folder === "pantex"
-      ? `/document?site=${doc.id === "src-cd-0039-pdf" ? "src-cd-0039" : doc.id}&from=src-doe-483-1b&to=src-doe-483-1c`
+      ? `/document?site=${doc.id}&from=src-doe-483-1b&to=src-doe-483-1c`
       : `/document?site=src-cd-0039&from=${doc.id === "src-doe-483-1c" ? "src-doe-483-1b" : doc.id}&to=${doc.id === "src-doe-483-1b" ? "src-doe-483-1c" : doc.id}`;
 
   return (
