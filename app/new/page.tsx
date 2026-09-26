@@ -1,7 +1,6 @@
-"use client";
+import { redirect } from "next/navigation";
 
-import { NewDocumentView } from "@/components/new-document-view";
-
-export default function NewPage() {
-  return <NewDocumentView />;
+/** New Document removed from IA — residual markup lives in Document after accepts. */
+export default function NewRedirect() {
+  redirect("/document");
 }

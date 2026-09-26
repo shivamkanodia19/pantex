@@ -1,0 +1,559 @@
+AVAILABLE ONLINE AT: INITIATED BY: 
+www.directives.doe.gov Office of General Counsel  
+U.S. Department of Energy ORDER 
+ Washington, D.C.  
+Approved: 08-05-2026 
+ 
+SUBJECT: DOE COOPERATIVE RESEARCH AND DEVELOPMENT AGREEMENTS 
+1. PURPOSE. 
+a. To establish United States (U.S.) Department of Energy’s (DOE’s) policy 
+requirements and oversight responsibilities governing Cooperative Research and 
+Development Agreements (CRADAs) entered into pursuant to 15 United States 
+Code (U.S.C.) § 3710a, Utilization of Federal Technology. 
+b. Ensure that CRADA activities are conducted in compliance with: 
+(1) The statutes, regulations, Executive Orders, and other authorities 
+identified in section 6, References, of this Order; and 
+(2) The applicable facility contractor DOE prime contract, including the 
+Management and Operating (M&O) contract and incorporated Department 
+of Energy Acquisition Requirement (DEAR) and Federal Acquisition 
+Requirement clauses. 
+c. Establish a risk-based oversight framework (governance vs. compliance) 
+under which: 
+(1) CRADA activities that present low statutory, financial, human or animal 
+subject, or national security risk and use a prior DOE-approved scope of 
+work such as the Master Scope of Work (MSW) as set forth in section 4.g, 
+may be executed under delegated authority at the facility contractor level; 
+(2) Substitution of preapproved alternate clauses and legally sufficient 
+changes to non-double underlined clauses may be incorporated in CRADA 
+agreements and such agreements may be approved under an MSW or 
+delegated authority at the federal contractor level as described in 
+section 4; and 
+(3) CRADAs presenting elevated risk factors or that are not using a prior 
+DOE-approved scope of work such as a MSW, as set forth in section 4.g, 
+require DOE review consistent with the referenced authorities and 
+applicable contract provisions. 
+d. Clarify that DOE oversight shall be proportionate to risk and complexity 
+while ensuring: 
+(1) Protection of national security interests; 
+DOE O 483.1C 
+2 DOE O 483.1C 
+ 08-05-2026 
+(2) Adherence to U.S. competitiveness requirements; 
+(3) Stewardship of federally funded intellectual property and data; and 
+(4) Timely and efficient execution of technology transfer and partnership 
+activities consistent with DOE mission objectives. 
+2. CANCELS/SUPERSEDES.  DOE Order (O) 483.1B, DOE Cooperative Research and 
+Development Agreements, dated October 28, 2024. 
+Cancellation of a directive does not, by itself, modify or otherwise affect any contractual 
+or regulatory obligation to comply with the directive.  Contractor Requirements 
+Documents (CRDs) that have been incorporated into a contract remain in effect 
+throughout the term of the contract unless and until the contract or regulatory 
+commitment is modified to either eliminate requirements that are no longer applicable or 
+substitute a new set of requirements. 
+3. APPLICABILITY. 
+a. Departmental Applicability. 
+(1) Except for equivalencies/exemptions processed under paragraph c of this 
+section, this Order applies to facility contractors negotiating and entering 
+into CRADAs. 
+(2) Government-owned, contractor-operated (GOCO) facility contractors 
+including M&O contractors (or DOE facility contractors) are authorized to 
+enter into CRADAs by inclusion of DEAR 970.5227-3, Technology 
+Transfer Mission, in the facility contract. 
+(3) Government-owned, government-operated (GOGO) facilities are 
+authorized to enter into CRADAs consistent with applicable statutory and 
+regulatory requirements. 
+b. DOE Facility Contractors.  DOE facility contractor obligations arising under this 
+Order shall be implemented through the applicable M&O contract via a CRD 
+which sets forth requirements of this Orde r that apply to contracts included in the 
+CRD.  The CRD must be included in all DOE facility M&O contracts under 
+which contractors negotiate and enter into CRADAs under the National 
+Competitiveness Technology Transfer Act of 1989. 
+c. Equivalencies/Exemptions for DOE O 483.1C.  Equivalencies and exemptions to 
+this Order are processed in accordance with DOE O 251.1D, Departmental 
+Directives Program, and its successors. 
+DOE O 483.1C 3 
+08-05-2026 
+4. REQUIREMENTS.  The following policies and requirements must be applied in carrying 
+out the CRADA programs: 
+a. The proposed work is expected to result in a benefit consistent with the program 
+missions at the facility and the facility’s mission as established by the Cognizant 
+Secretarial Officer (CSO).  The proposed work will not adversely impact 
+DOE/National Nuclear Security Administration (NNSA) programs assigned to 
+the facility. 
+b. One or more non-federal collaborating parties must provide funds, personnel, 
+services, facilities, equipment, intellectual property, or other resources toward the 
+conduct of specified research or development efforts which are consistent with the 
+missions of the laboratory. 
+c. Activities must be conducted in a manner that does not compromise the national 
+security, economic, or environmental interests of the United States. 
+d. Export control reviews must be performed in accordance with facility contracts 
+and DOE policy.  CRADA activities can result in information and technologies 
+that may be subject to export controls.  This export-controlled information may or 
+may not also fall under such categories as classified information or unclassified 
+controlled nuclear information.  Consistent with applicable statutes, such 
+information may be considered for protection from public dissemination, for a 
+period not to exceed 30 years after development of information, to retain its 
+commercial value and provide an incentive for its commercial application.  Any 
+protectable information generated or exchanged as a result of a CRADA will be 
+marked, handled, and safeguarded in accordance with all applicable federal laws, 
+rules, regulations and DOE Orders or Directives, including, but not limited to, the 
+Trade Secrets Act (18 U.S.C. § 1905), the Freedom of Information Act (FOIA) 
+(5 U.S.C. § 552), DOE’s implementing FOIA regulations at 10 Code of Federal 
+Regulations (CFR) § 1004, the Federal Technology Transfer Act (15 U.S.C. 
+§ 3710a[c]), and DOE O 471.7, Controlled Unclassified Information.  In 
+accordance with these rules, certain information transmitted pursuant to a 
+CRADA may qualify for protection from disclosure under FOIA. 
+e. DOE employees, in accordance with applicable law and the provisions of facility 
+contracts, must protect properly marked proprietary information and data 
+provided by private-sector collaborators and non-federal parties in the conduct of 
+CRADA activities. 
+f. Non-federal parties (also referred to as “participants”) are permitted to use funds 
+previously obtained from federal sources as their contribution to fund a project, 
+provided such use is consistent with the underlying funding agreement and 
+aligned with the facility contractor’s M&O contract. 
+4 DOE O 483.1C 
+ 08-05-2026 
+g. Master Scope of Work Process.  With approval from the cognizant Head of Field 
+Element, the cognizant contracting officer may approve an MSW for work with 
+non-federal parties (e.g., participants).  If the DOE facility contractor and the 
+contracting officer agree upon an MSW, individual project transactional approval 
+by the contracting officer is not required if the DOE facility contractor determines 
+that the proposed transaction falls within the approved MSW.  Rather, the DOE 
+facility contractor applies the contracting officer’s MSW written certification and 
+approval to the transaction.  The DOE facility contractor must provide to the 
+contracting officer a written determination of its decision that the project falls 
+within the MSW, subject to contracting officer review and oversight.  The 
+contracting officer is still responsible for placing the work and funding onto the 
+contract as required for all work at the facility using standard contracting 
+procedures and consistent with the DOE Chief Financial Officer’s guidance.  Any 
+proposed work that has specific requirements (e.g., a foreign engagement [DOE 
+Policy 485.1, Foreign Engagements with DOE National Laboratories, current 
+version]) or work involving animal subjects must receive the necessary approvals 
+for such requirements before the proposed work can enter or reenter the MSW 
+process.  The MSW process may only be authorized or utilized for any type of 
+classified or other work requiring classification guidance with specific approval 
+from the Officially Designated Federal Security Authority and, if appropriate, the 
+contracting officer under the MSW. 
+h. All proposed CRADA projects with Countries of Risk must first be reviewed by 
+the cognizant DOE/NNSA field element, in coordination with the laboratory, to 
+determine whether the engagement is in an area identified as restricted in the 
+current Science and Technology (S&T) Risk Matrix.  Such projects within an area 
+identified as restricted are not pursued further unless the cognizant DOE Field 
+Element agrees to pursue an exemption, as described in section 5. 
+i. Contracting Officer Delegation of Authority.  With approval from the cognizant 
+Head of Field Element, the cognizant contracting officer may grant the facility 
+contractor delegated approval authority for CRADAs according to terms based on 
+predefined (e.g., low risk) activities, as described in section 1.c and only for prior 
+DOE-approved scopes of work, such as an MSW. 
+5. RESPONSIBILITIES. 
+a. Under Secretary of Energy, Under Secretary for Science, or their designees, in 
+consultation with the Under Secretary for Nuclear Security, or his/her designee, 
+as appropriate. 
+(1) Recommend, establish, and coordinate policy and provide overall 
+guidance, subject to the Secretary’s direction, for CRADA activities, and 
+recommend appropriate delegations of authority for carrying out such 
+policy and guidance. 
+DOE O 483.1C 5 
+08-05-2026 
+(2) Serve as the focal point and provide leadership for developing policies and 
+procedures, resolving CRADA partnering issues, and ensuring effective 
+implementation of existing policies. 
+(3) Approve/disapprove exemption requests based on the current S&T 
+Risk Matrix. 
+b. Chief Commercialization Officer, or Designee, in Consultation with the 
+Technology Transfer Policy Board. 
+(1) Develop policy and recommend procedures for the conduct, and be 
+responsible for the coordination of CRADA activities at DOE facilities. 
+(2) Provide an interagency coordination point for CRADA activities at DOE 
+facilities, as appropriate. 
+(3) Provide guidance to CSOs for the preparation and submission of reports, 
+such as the annual DOE report to Congress on technology partnering 
+program activities. 
+(4) Coordinate the preparation of annual facility technology partnering 
+program reports. 
+(5) Coordinate and conduct training, in coordination with the Head of Field 
+Element, of DOE field personnel responsible for oversight of the DOE 
+facility contractors’ technology transfer programs to ensure consistent 
+development and application of policy and procedures in planning and 
+conducting CRADA activities at DOE facilities. 
+c. Office of Management. 
+(1) Develop, maintain, and update the standard CRADA agreements in a 
+guide for non-federal participants. 
+d. Cognizant Secretarial Officers. 
+(1) Exercise primary oversight, management, and administrative 
+responsibility for CRADA activities at facilities under their cognizance. 
+(2) For facilities under their cognizance, provide general guidance in 
+accordance with the terms of the facility contract or delegation 
+of authority. 
+(3) Ensure the availability of timely and accurate data and information about 
+CRADAs from facilities under their cognizance for satisfying DOE 
+reporting and information requirement. 
+6 DOE O 483.1C 
+ 08-05-2026 
+(4) Ensure that Heads of Field Element complete an appraisal of the 
+performance of the CRADA activities under their cognizance on an 
+established periodicity. 
+(5) Review and concur on exemption requests for CRADA projects with 
+foreign entities from Countries of Risk that are in areas identified as 
+restricted in the current S&T Risk Matrix. 
+e. Program Secretarial Officers (PSOs). 
+(1) Exercise primary programmatic responsibility for the implementation of 
+CRADA activities for their programs. 
+(2) Support the CSO in the execution of the CSO’s institutional 
+responsibilities by providing programmatic, mission area, and technical 
+expertise in the resolution of CRADA issues. 
+(3) Review and concur on exemption requests for CRADA projects with 
+foreign entities from Countries of Risk, which are in areas identified as 
+restricted in the current S&T Risk Matrix. 
+f. Assistant General Counsel for Technology Transfer and Intellectual Property. 
+(1) Provide legal counsel to departmental elements on all matters relating to 
+intellectual property (including patents, copyrights, and technical data) and 
+transfer of those rights to the private sector in accordance with established 
+legal authorities, including from department laboratories, and provides 
+legal counsel on issues related to the CRADA program including 
+questions regarding the various requirements presented in this Order. 
+(2) Establish policy on intellectual property rights, advises and provides 
+guidance on intellectual property provisions for CRADAs, and approves 
+waivers of patent rights and of any disposition of other intellectual 
+property rights. 
+g. Heads of DOE Field Elements. 
+(1) Oversee CRADA activities conducted in DOE facilities under their 
+purview.  In this capacity, Heads of Field Elements are accountable to 
+the CSO. 
+(2) Ensure that federal staff and the contractors under their purview 
+effectively carry out appropriate CRADA activities in accordance with 
+applicable laws, regulations, departmental directives and delegations 
+of authority. 
+(3) Develop and implement local procedures for the review and approval of 
+CRADA activities consistent with legislation, departmental directives, and 
+contractual commitments and objectives. 
+DOE O 483.1C 7 
+08-05-2026 
+(4) In coordination with the CSO and PSOs, conduct reviews and appraisals of 
+CRADA activities under their cognizance, including review of the use of 
+any delegated signature authority pursuant to section 4.i, and immediately 
+rescind the delegation upon making a determination that the delegated 
+signature authority has been improperly used. 
+(5) Notify appropriate Headquarters elements of higher risk 
+CRADA activities. 
+(6) Ensure adequate contractor review and appropriate DOE engagement in 
+proposed CRADA activities involving human and/or animal subjects for 
+compliance with the established regulations and departmental directives 
+for protection of these subjects, as appropriate. 
+(7) Ensure that CRADA activities under their purview are effectively 
+conducted in accordance with applicable security, safeguards, and 
+classification and controlled unclassified information policies, 
+as appropriate. 
+(8) Ensure the contractor appropriately notifies the Office of Intelligence and 
+Counterintelligence of any CRADA agreements involving 
+intelligence activities. 
+(9) Ensure adequate DOE and contractor review of CRADA activities for 
+compliance with applicable environmental, safety, and health 
+requirements, including requirements of the National Environmental 
+Protection Act, as appropriate, and to determine the applicability of 
+10 CFR § 851, Worker Safety and Health Program, to CRADA activities. 
+(10) Consistent with the policies and procedures of the Department regarding 
+CRADA activities, establish performance goals and measures to assess 
+performance and effectiveness of local CRADA processes and impacts of 
+subsequent improvements and/or additional requirements. 
+(11) Ensure periodic review and appraisal of CRADA activities. 
+(12) Ensure that summary information is maintained sufficient to respond to 
+reporting requirements and to respond to requests for information from 
+DOE Headquarters or outside entities. 
+(13) In coordination with the cognizant contractor, determine whether a 
+proposed CRADA project with a foreign entity from a Country of Risk 
+is in an area identified as restricted in the current S&T Risk Matrix and, 
+as appropriate, prepare exemption requests for cognizant Under 
+Secretarial approval. 
+8 DOE O 483.1C 
+ 08-05-2026 
+h. Office of Intelligence and Counterintelligence. 
+(1) Establish procedures for the review of all CRADA activities concerning 
+intelligence and intelligence-related programs. 
+(2) Approve all CRADA activities for intelligence-related programs. 
+(3) Establish procedures for the review of CRADA activities involving 
+classified and/or controlled unclassified technology.  The list of sensitive 
+subjects is maintained by the Office of Defense Nuclear Nonproliferation. 
+(4) Establish procedures for the review of CRADA activities involving 
+foreign participants. 
+i. Contracting Officers.  Once notified, incorporate the CRD into the 
+affected contracts. 
+6. REFERENCES. 
+a. Stevenson-Wydler Technology Innovation Act of 1980, P.L. 96-480 (15 U.S.C. 
+§ 3701 et seq.), established Offices of Research and Technology Applications 
+(ORTAs) at federal laboratories. 
+b. Bayh-Dole Act of 1980, P.L. 96-517 (35 U.S.C. § 200 et seq.), gives small 
+businesses and nonprofit contractors the right to elect title to inventions made 
+under funding agreements, with the government retaining a license; provides for 
+march-in rights and U.S. preference; and contains provisions relating to licensing 
+of inventions. 
+c. The Atomic Energy Act of 1954, P.L. 83-703 (42 U.S.C. 2182), §§ 31, 32, and 33, 
+which authorize the conduct of research and development and certain training 
+activities for non-DOE/non-NNSA entities, provided that private facilities or 
+laboratories are inadequate for that purpose.  It authorizes such charges as may 
+be appropriate for the conduct of those activities.  Furthermore, § 152 addresses 
+the disposition of title to inventions useful in the production or utilization of 
+special nuclear material or atomic energy made under DOE contracts, etc., and the 
+process for waiving title to such inventions to contractors, and 
+§ 31 (42 U.S.C. §2051) provides for the dissemination of scientific and 
+technical information. 
+d. Section 9 of the Federal Nonnuclear Energy Research and Development Act of 
+1974, P.L. 93-577 (42 U.S.C. § 5908), addresses the disposition of title to 
+nonnuclear inventions made under DOE contracts, etc., and the process for 
+waiving title to such inventions to contractors. 
+DOE O 483.1C 9 
+08-05-2026 
+e. Executive Order 12591, Facilitating Access to Science and Technology, dated 
+April 10, 1987, requires that Executive departments and agencies, to the extent 
+permitted by law, transfer federally funded technology to the commercial sector 
+and specifically addresses GOGOs entering into CRADAs and licensing, 
+assigning, and waiving intellectual property developed under such CRADAs. 
+f. Freedom of Information Act, P.L. 89-487 (5 U.S.C. §552 et seq.), provides for 
+public access to federal agency records, which would include records containing 
+scientific and technical information created with federal funding. 
+g. P.L. 98-620 extended the contractors’ right to elect title to inventions provided by 
+the Bayh-Dole Act to DOE’s facility contractors. 
+h. Federal Technology Transfer Act of 1986, P.L. 99-502, authorizes CRADAs for 
+GOGOs, establishes the Federal Laboratory Consortium for Technology Transfer, 
+and allows GOGO laboratories to negotiate licensing agreements for inventions 
+made at its laboratories. 
+i. Department of Energy Financial Management Handbook, current version, 
+Chapter 13, Reimbursable Work, Revenues, and Other Collections, establishes 
+DOE/NNSA-wide financial policy and procedural guidance for certain 
+interagency reimbursable actions and reimbursable actions with non-DOE/non-
+NNSA entities. 
+j. National Competitiveness Technology Transfer Act of 1989, P.L. 101-189, 
+establishes technology transfer as a laboratory mission and permits GOCOs to 
+enter into CRADAs. 
+k. National Technology Transfer and Advancement Act of 1995, P.L. 104-113, 
+provides the CRADA collaborating party an option for reasonable compensation 
+when appropriate to choose an exclusive license for a pre-negotiated field of use 
+in any invention made, in whole or in part, by a laboratory employee under the 
+CRADA. 
+l. National Defense Authorization Act of 1999, P.L. 105-261, provides for the 
+Secretary of Energy to impose a federal administrative charge (which includes 
+any depreciation and imputed interest charges) in an amount not to exceed 3% of 
+the full cost incurred in carrying out the research and activities on behalf of non-
+departmental persons and entities. 
+m. Technology Transfer Commercialization Act of 2000, P.L. 106-404, directs the 
+Secretary of Energy to require the contractors to appoint a technology partnership 
+ombudsman to hear and help resolve complaints from outside organizations 
+regarding the policies and actions of the laboratory with respect to 
+technology partnerships. 
+10 DOE O 483.1C 
+ 08-05-2026 
+n. Title X, section 1001 of Energy Policy Act of 2005 (EPACT 2005) (P.L. 109-58) 
+calls for the appointment of the Technology Transfer Coordinator to serve as the 
+principal advisor to the Secretary of Energy on all matters relating to the 
+technology transfer and commercialization.  EPACT 2005 also stipulates that the 
+Secretary shall establish a Technology Transfer Working Group to coordinate 
+technology transfer activities occurring at the national laboratories and single-
+purpose research facilities. 
+o. On February 28, 2011, the Secretary of Energy signed a Secretarial Policy 
+Statement on Technology Transfer at DOE facilities.  The Policy Statement is 
+designed to help guide and strengthen DOE’s technology transfer efforts and to 
+heighten awareness of the importance of technology transfer activities throughout 
+DOE.  DOE may issue updated Policy Statements from time to time. 
+p. Section 3196(a) of the Floyd D. Spence National Defense Authorization Act for 
+Fiscal Year 2001, P.L. 106-398, streamlines the approval process for CRADAs at 
+GOCO facilities by authorizing federal agencies to substitute an annual strategic 
+plan for individual joint work statements. 
+q. Presidential Memorandum—Accelerating Technology Transfer and 
+Commercialization of Federal Research in Support of High-Growth Businesses, 
+October 28, 2011. 
+r. Section 3120 of the National Defense Authorization Act for Fiscal Year 2013, 
+directs the Secretary of Energy and the Administrator of NNSA, to the extent 
+practicable, to streamline the approval process for CRADAs. 
+s. DOE O 241.1, Scientific and Technical Information Management, current version, 
+provides requirements and responsibilities for the appropriate management and 
+reporting of scientific and technical information. 
+t. DOE O 471.3, Identifying and Protecting Official Use Only Information, current 
+version, and DOE Manual 471.3-1, Manual for Identifying and Protecting Official 
+Use Only Information, current version, establish requirements for DOE program 
+to identify, mark, and protect documents containing such information. 
+u. 10 CFR § 1045, Nuclear Classification and Declassification, establishes the 
+government-wide policies and procedures for implementing Sections 141 and 142 
+of the Atomic Energy Act of 1954 for classifying and declassifying restricted data 
+(RD) and formerly restricted data (FRD) and implements those requirements of 
+Executive Order 13526, “Classified National Security Information,” that affect 
+the public. 
+v. Executive Order 13526, “Classified National Security Information,” prescribes the 
+government-wide system for classifying, safeguarding, and declassifying National 
+Security Information. 
+DOE O 483.1C 11 
+08-05-2026 
+w. DOE O 475.2, Identifying Classified Information, current version, establishes 
+requirements for managing the DOE program including details for classifying and 
+declassifying information, documents, and material classified under the Atomic 
+Energy Act (RD, FRD, and Transclassified Foreign Nuclear Information) or 
+under Executive Order 13526 so that it can be protected against 
+unauthorized dissemination. 
+x. 10 CFR § 1017, Identification and Protection of Unclassified Controlled Nuclear 
+Information, establishes government-wide policies and procedures for 
+implementing the requirements of section 148 of the Atomic Energy Act of 1954 
+concerning the identification and protection of certain unclassified but sensitive 
+government information concerning atomic energy defense programs. 
+y. DOE O 471.1, Identification and Protection of Unclassified Controlled Nuclear 
+Information, current version, establishes requirements for managing the DOE 
+program for identifying and protecting unclassified controlled 
+nuclear information. 
+7. DEFINITIONS. 
+a. Cognizant Secretarial Officer.  Headquarters Assistant Secretaries, Deputy 
+Administrators, and Directors responsible for oversight or institutional 
+management of DOE/NNSA facilities. 
+b. Cooperative Research and Development Agreement (CRADA).  Any agreement 
+between one or more federal facilities and one or more non-federal parties under 
+which the government, through its facilities, provides personnel, services, 
+facilities, equipment, intellectual property, or other resources with or without 
+reimbursement (but not funds to non-federal parties) and the non-federal parties 
+provide funds, personnel, services, facilities, equipment, intellectual property, or 
+other resources toward the conduct of specified research or development efforts 
+which are consistent with the mission of the facility; except that such terms do not 
+include a procurement contract or cooperative agreement. 
+c. DOE Facility.  Government-owned laboratory or production facility or other 
+facility operated under DOE program cognizance. 
+d. DOE Facility Contractor.  Entity that operates and maintains a DOE facility under 
+contract with, and for the benefit of, DOE and has the responsibility and authority 
+to conduct technology partnering activities. 
+e. Heads of Field Elements.  Federal managers of Field Elements and Directors of 
+DOE facility contractor.  Heads of Field Elements have line accountability for all 
+site program/project execution and contract management.  “Field Element” can 
+refer to operations office, integrated support center, field office or site office. 
+12 DOE O 483.1C 
+ 08-05-2026 
+f. Program Secretarial Officer (PSO).  Headquarters Assistant Secretaries, Deputy 
+Administrators, and Directors who have management responsibility for program 
+planning, budgeting, and execution of DOE/NNSA mission program activities.  
+For purposes of this Order, the PSO funds work at a particular site or laboratory 
+via a “customer” relationship with the Field Element. 
+g. Technology Transfer Coordinator.  Principal advisor to the Secretary on all 
+matters relating to technology transfer and commercialization.  This office was 
+created under Title X, Section 1001 of the Energy Policy Act of 2005. 
+h. Technology Transfer Policy Board.  Board consisting of representatives of DOE 
+Program Offices, the Office of General Counsel, and other parts of DOE that, in 
+consultation with the Technology Transfer Coordinator, develop DOE policy on 
+technology transfer. 
+8. CONTACT.  For information about this Order, contact the Office of the Assistant 
+General Counsel for Technology Transfer and Intellectual Property at (202) 586-2802. 
+BY ORDER OF THE SECRETARY OF ENERGY: 
+ 
+JAMES P. DANLY 
+Deputy Secretary 
+ 
+ 
+
+DOE O 483.1C Attachment 1 – CRD, Contractors Only 
+08-05-2026 Page 1-1 
+ATTACHMENT 1 
+CONTRACTOR REQUIREMENTS DOCUMENT 
+DOE O 483.1C, DOE COOPERATIVE RESEARCH AND 
+DEVELOPMENT AGREEMENTS 
+Regardless of the performer of the work, the contractor is responsible for complying with the 
+requirements of this Contractor Requirements Document (CRD).  The contractor is responsible 
+for flowing down the requirements of this CRD to subcontractors at any tier to the extent 
+necessary to ensure the contractor’s compliance with the requirements. 
+Contractors must: 
+1. Comply with 15 United States Code (U.S.C.) § 3710a: 
+a. A Cooperative Research and Development Agreement (CRADA): defined as a 
+contract between at least one federal laboratory and at least one non-
+federal entity. 
+b. Government use rights on any intellectual property developed during performance 
+of the CRADA. 
+c. A CRADA participant’s right to exercise an option to any laboratory 
+subject inventions. 
+d. A preclusion to the lab sending funds to a CRADA participant via or in support of 
+a CRADA. 
+e. Proper handling of proprietary information. 
+f. Special consideration for small businesses. 
+g. Preference to U.S.-owned businesses. 
+h. Records maintained of CRADAs executed under this legislation. 
+i. A joint work statement (statement of work) that contains: (1) purpose, (2) scope, 
+(3) description of responsibilities, and (4) funding. 
+2. Include the U.S. competitiveness provision (or any justified modifications approved by 
+the contracting officer, cognizant funding program, and cognizant DOE Patent Counsel) 
+and follow requirements included in their Management and Operating (M&O) contract, 
+such as fairness of opportunity. 
+3. Extended protection for protected CRADA information (PCI).  As authorized by 
+15 U.S.C. § 3710a(c)(7)(B) and any other available authority, a facility contractor and a 
+CRADA participant may request PCI extended data protection for up to 30 years for 
+commercialization purposes.  Such requests may be approved as part of a Master Scope 
+of Work (MSW), delegated authority, copyright assertion request under the prime 
+contract data clause (e.g., Department of Energy Acquisition Requirement 
+Attachment 1 – CRD, Contractors Only DOE O 483.1C 
+Page 1-2 08-05-2026 
+[DEAR] 970.5227-2) or comparable process in coordination with the cognizant 
+contracting officer and DOE Patent Counsel.  The written request must justify that the 
+nature of the information (e.g., its technology maturity, development timeline, or national 
+security implications) could reasonably require the requested period to reach 
+commercialization.  DOE’s statutory determination and approval is made with 
+concurrence from the contracting officer and DOE Patent Counsel that the written 
+justification is sufficient. 
+4. Establish and maintain a management system, including policy and procedures that 
+ensure CRADA activity requirements are satisfied. 
+5. If the contractor is not using an approved MSW or approval authority delegation subject 
+to DOE conditions, the contractor must submit to the DOE contracting officer CRADAs 
+and joint work statements for review and approval, or in the alternative, appropriate 
+certification for a request for a preliminary determination to work at the contractor’s own 
+risk.  For an MSW or approval authority delegation, the contractor shall provide a report 
+of all CRADAs approved by the contractor in the last period (e.g., month). 
+6. Ensure proposed work involving human and/or animal subjects is in compliance with 
+established regulations as well as coordinated in accordance with program and 
+contractual requirements for protection of these subjects. 
+7. Ensure projects are in compliance with DOE environmental, safety, and health 
+requirements, including the National Environmental Protection Act, and 10 CFR § 851, 
+if applicable. 
+8. Ensure projects are protected in accordance with applicable security, safeguards, and 
+classification and controlled unclassified information policies and procedures, including 
+the site security plan or supplemental security plan specific to a project, as well as CRDs 
+for other departmental directives governing the identification and protection of classified 
+and controlled unclassified information. 
+9. Ensure contractor employees protect proprietary information and data provided by 
+private-sector collaborators and participants in the conduct of CRADA activities as well 
+as any generated data marked in accordance with the CRADA provisions.  Any 
+protectable data generated or exchanged as a result of this CRADA and will be marked, 
+handled, and safeguarded in accordance with all applicable federal laws, rules, 
+regulations and DOE Orders or Directives, including but not limited to, the Trade Secrets 
+Act (18 U.S.C. § 1905), the Freedom of Information Act (FOIA) (5 U.S.C. § 552), DOE’s 
+implementing FOIA regulations at 10 CFR § 1004, the Federal Technology Transfer Act 
+(15 U.S.C. § 3710a(c)), and DOE O 471.7, Controlled Unclassified Information. 
+10. Provide a final technical report, appropriately marked, to DOE’s Office of Scientific and 
+Technical Information, at the completion or termination of the CRADA. 
+11. Submit information on CRADAs as part of the annual technology transfer report. 
+12. For CRADAs involving foreign participation, consult with the U.S. Trade Representative 
+as contractually required. 
+DOE O 483.1C Attachment 1 – CRD, Contractors Only 
+08-05-2026 Page 1-3 
+13. Non-federal parties (also referred to as “participants”) are permitted to use funds 
+previously obtained from federal sources to finance a project.  However, when federal 
+funds are being used by a non-federal party, such use must be consistent with the 
+underlying funding agreement and special considerations must be taken into 
+account including: 
+a. Whether the non-federal party’s previous award contains authority for special data 
+protection that justifies enhanced protection of information generated under the 
+CRADA (i.e., protection of protected CRADA information) or, in the alternative, 
+limits data protection to a period of protection less than that provided under 
+15 U.S.C. § 3710a; 
+b. Any potential inconsistencies in the U.S. Competitiveness clauses between the 
+non-federal party’s award and the DOE model CRADA language; 
+c. In case of inconsistencies between the non-federal party’s award and the CRADA, 
+include a statement that indicates which agreement controls or ensure that such 
+inconsistencies are addressed during negotiations; and 
+d. Whether the non-federal party has clear election rights to inventions made under 
+its previous award. 
+e. In the event that the terms of the federal funding award include terms that are 
+inconsistent with the terms of the M&O contract, the M&O contract terms will 
+prevail unless specifically waived with DOE approval. 
+14. Liability and Indemnification Management.  The contractor must manage liability risks 
+associated with CRADA activities.  Unless an exception is documented and approved by 
+the contracting officer, the contractor shall ensure that agreements include provisions 
+requiring the non-federal party to indemnify the government and the contractor against 
+general and product liability claims arising from the agreement. 
+The contractor is authorized to negotiate or reserve indemnification provisions based on a 
+risk assessment that considers factors, such as: 
+a. The participant’s legal inability to indemnify (e.g., a U.S. state agency); or 
+b. The non-commercial, public-domain nature of the work 
+Any deviation (e.g., other factors that present a low risk to the contractor and the 
+government) from standard indemnification, especially when liability could revert to the 
+contractor, requires specific documented approval from the contracting officer, with 
+concurrence from Field Counsel, which may be included in an MSW or 
+delegated authority. 

@@ -19,6 +19,8 @@ export interface DocChange {
   proposedText: string;
   /** Mutable working copy of the proposed text (write-mode edits). */
   workingText: string;
+  /** Applied to the document only after Approve. */
+  approvedText?: string;
   summary: string;
   reasoning: string;
   doe: DoeSource;

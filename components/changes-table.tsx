@@ -12,7 +12,7 @@ const PAGE_SIZE = 8;
 
 export function ChangesTable() {
   const router = useRouter();
-  const { changes, selectChange, setMode } = useDocStore();
+  const { changes, selectChange } = useDocStore();
   const [openId, setOpenId] = useState<string | null>(changes[0]?.id ?? null);
   const [visible, setVisible] = useState(PAGE_SIZE);
 
@@ -110,7 +110,6 @@ export function ChangesTable() {
                         type="button"
                         className="pressable text-[12px] font-semibold text-accent hover:underline"
                         onClick={() => {
-                          setMode("write");
                           selectChange(ch.id);
                           router.push("/document");
                         }}

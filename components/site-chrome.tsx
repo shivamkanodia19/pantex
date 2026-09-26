@@ -6,10 +6,9 @@ import { usePathname } from "next/navigation";
 import { APP_NAME } from "@/lib/brand";
 
 const NAV = [
+  { href: "/search", label: "Source Search", match: (p: string) => p.startsWith("/search") || p.startsWith("/sources") },
   { href: "/document", label: "Document", match: (p: string) => p.startsWith("/document") },
-  { href: "/new", label: "New Document", match: (p: string) => p.startsWith("/new") },
   { href: "/changes", label: "Changes", match: (p: string) => p.startsWith("/changes") },
-  { href: "/sources", label: "Sources", match: (p: string) => p.startsWith("/sources") },
 ] as const;
 
 export function SiteChrome({ children }: { children: React.ReactNode }) {
@@ -20,7 +19,7 @@ export function SiteChrome({ children }: { children: React.ReactNode }) {
       <header className="sticky top-0 z-40 border-b border-border/80 bg-surface/90 backdrop-blur-md">
         <div className="mx-auto flex h-12 max-w-7xl items-center justify-between gap-6 px-4 sm:px-6">
           <div className="flex min-w-0 items-center gap-6">
-            <Link href="/document" className="pressable shrink-0 text-[15px] font-semibold tracking-tight text-ink">
+            <Link href="/search" className="pressable shrink-0 text-[15px] font-semibold tracking-tight text-ink">
               {APP_NAME}
             </Link>
             <nav className="flex items-center gap-5 text-[13px]" aria-label="Primary">
@@ -42,7 +41,7 @@ export function SiteChrome({ children }: { children: React.ReactNode }) {
             </nav>
           </div>
           <span className="shrink-0 rounded-md border border-border bg-canvas px-2 py-0.5 font-mono text-[10px] uppercase tracking-[0.14em] text-ink-faint">
-            UI wireframe · DOE review
+            Local Haiku · section review
           </span>
         </div>
       </header>
