@@ -1,5 +1,8 @@
 "use client";
 
+import { useLayoutEffect, useRef } from "react";
+import { SectionSearch } from "@/components/section-search";
+import { chapterLinks, chapterKey } from "@/lib/section-navigation";
 import { useDocStore } from "@/lib/store";
 import { FullDocumentReader } from "@/components/full-document-reader";
 import { DoeAnalysisPanel, statusStyles } from "@/components/change-overlay";
@@ -14,7 +17,8 @@ export function DocumentReader() {
     reviewView,
     setReviewView,
     sectionId,
-    setSectionId,
+    navigateSection,
+    sectionNavigation,
     selectedId,
     selectChange,
     changes,
@@ -39,11 +43,17 @@ export function DocumentReader() {
   const changeIndex = sectionChanges.findIndex((c) => c.id === focused?.id);
   const globalIndex = changes.findIndex((c) => c.id === focused?.id);
 
+  const sectionHeading = useRef<HTMLHeadingElement>(null);
+  useLayoutEffect(() => {
+    if (reviewView !== "section" || !sectionNavigation) return;
+    sectionHeading.current?.scrollIntoView({ block: "start" });
+    sectionHeading.current?.focus({ preventScroll: true });
+  }, [sectionNavigation, reviewView]);
+
   function goSection(index: number) {
     const next = sections[index];
     if (!next) return;
-    setSectionId(next.id);
-    selectChange(changes.find((c) => c.sectionId === next.id)?.id ?? null);
+    navigateSection(next.id);
   }
 
   function switchView(next: "full" | "section") {
@@ -152,6 +162,7 @@ export function DocumentReader() {
             panel to restore the full document width.
           </p>
         )}
+        <SectionSearch />
       </div>
 
       {reviewView === "full" ? (
@@ -162,47 +173,93 @@ export function DocumentReader() {
         </p>
       ) : (
         <div className="grid items-start gap-5 lg:grid-cols-[minmax(0,1fr)_min(400px,40%)]">
-          <article className="rounded-card border border-border bg-surface p-5">
-            <h2 className="mb-4 border-b border-border pb-3 font-semibold">
-              {section.number} {section.title}
-            </h2>
-            <div className="space-y-3">
-              {section.paragraphs.map((p) => {
-                const change = p.changeId ? getChange(p.changeId) : undefined;
-                if (!change)
+          <div className="min-w-0">
+            <article className="rounded-card border border-border bg-surface p-5">
+              <h2
+                ref={sectionHeading}
+                tabIndex={-1}
+                className="scroll-mt-16 mb-4 border-b border-border pb-3 font-semibold"
+              >
+                {section.number} {section.title}
+              </h2>
+              <div className="space-y-3">
+                {section.paragraphs.map((p) => {
+                  const change = p.changeId ? getChange(p.changeId) : undefined;
+                  if (!change)
+                    return (
+                      <p key={p.id} className="p-2 text-sm leading-relaxed">
+                        {p.text}
+                      </p>
+                    );
                   return (
-                    <p key={p.id} className="p-2 text-sm leading-relaxed">
-                      {p.text}
-                    </p>
-                  );
-                return (
-                  <button
-                    key={p.id}
-                    data-change-id={change.id}
-                    onClick={() => selectChange(change.id)}
-                    className={clsx(
-                      "block w-full rounded border p-3 text-left text-sm leading-relaxed focus-visible:outline-accent",
-                      focused?.id === change.id
-                        ? "border-accent"
-                        : "border-border",
-                      change.status === "accepted"
-                        ? "bg-accepted-muted"
-                        : change.status === "rejected"
-                          ? "bg-canvas"
-                          : "bg-doe-muted/50",
-                    )}
-                  >
-                    {change.approvedText ?? p.text}
-                    <span className="mt-2 block">
-                      <span className={statusStyles(change.status)}>
-                        {change.status}
+                    <button
+                      key={p.id}
+                      data-change-id={change.id}
+                      onClick={() => selectChange(change.id)}
+                      className={clsx(
+                        "block w-full rounded border p-3 text-left text-sm leading-relaxed focus-visible:outline-accent",
+                        focused?.id === change.id
+                          ? "border-accent"
+                          : "border-border",
+                        change.status === "accepted"
+                          ? "bg-accepted-muted"
+                          : change.status === "rejected"
+                            ? "bg-canvas"
+                            : "bg-doe-muted/50",
+                      )}
+                    >
+                      {change.approvedText ?? p.text}
+                      <span className="mt-2 block">
+                        <span className={statusStyles(change.status)}>
+                          {change.status}
+                        </span>
                       </span>
-                    </span>
+                    </button>
+                  );
+                })}
+              </div>
+            </article>
+            <nav aria-label="Section navigation" className="mt-4 space-y-3">
+              <div className="flex justify-between gap-2">
+                <button
+                  className={navButton}
+                  disabled={sectionIndex === 0}
+                  onClick={() => goSection(sectionIndex - 1)}
+                >
+                  ← Previous section
+                </button>
+                <button
+                  className={navButton}
+                  disabled={sectionIndex >= sections.length - 1}
+                  onClick={() => goSection(sectionIndex + 1)}
+                >
+                  Next section →
+                </button>
+              </div>
+              <div className="flex flex-wrap justify-center gap-2">
+                {chapterLinks(sections).map((chapter) => (
+                  <button
+                    key={chapter.label}
+                    aria-label={`Chapter ${chapter.label}`}
+                    aria-current={
+                      chapterKey(section.number) === chapter.label
+                        ? "location"
+                        : undefined
+                    }
+                    className={clsx(
+                      navButton.replace("bg-surface", ""),
+                      chapterKey(section.number) === chapter.label
+                        ? "bg-accent text-white"
+                        : "bg-surface",
+                    )}
+                    onClick={() => navigateSection(chapter.sectionId)}
+                  >
+                    {chapter.label}
                   </button>
-                );
-              })}
-            </div>
-          </article>
+                ))}
+              </div>
+            </nav>
+          </div>
           <aside
             aria-label="Section analysis"
             className="max-h-[calc(100dvh-6rem)] lg:sticky lg:top-16"

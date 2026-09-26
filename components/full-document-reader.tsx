@@ -12,7 +12,8 @@ import { useDocStore } from "@/lib/store";
 import { DoeAnalysisPanel, statusStyles } from "@/components/change-overlay";
 
 export function FullDocumentReader() {
-  const { selectedId, selectChange, getChange, sections } = useDocStore();
+  const { selectedId, selectChange, getChange, sections, sectionNavigation } =
+    useDocStore();
   const selected = selectedId ? getChange(selectedId) : undefined;
   const [panelOpen, setPanelOpen] = useState(Boolean(selectedId));
   const panel = useRef<HTMLDivElement>(null);
@@ -54,6 +55,16 @@ export function FullDocumentReader() {
     return () => window.removeEventListener("resize", revealSelection);
   }, [revealSelection]);
 
+  useLayoutEffect(() => {
+    if (!sectionNavigation || selectedId) return;
+    setPanelOpen(false);
+    const heading = document.getElementById(
+      `heading-${sectionNavigation.sectionId}`,
+    );
+    heading?.scrollIntoView({ block: "start" });
+    heading?.focus({ preventScroll: true });
+  }, [sectionNavigation]);
+
   return (
     <div
       className={clsx(
@@ -79,11 +90,15 @@ export function FullDocumentReader() {
               className="rounded-card border border-border bg-surface p-5 sm:p-6"
             >
               <header className="mb-4 flex flex-wrap justify-between gap-2 border-b border-border-subtle pb-3">
-                <h2 className="text-[15px] font-semibold">
+                <h2
+                  id={`heading-${section.id}`}
+                  tabIndex={-1}
+                  className="scroll-mt-16 text-[15px] font-semibold"
+                >
                   <span className="text-accent">{section.number}</span>{" "}
                   {section.title}
                 </h2>
-                <p className="text-[10px] text-ink-muted">
+                <p className="ml-auto shrink-0 rounded border border-current px-3 py-2 text-xs font-semibold text-accent">
                   pp. {section.pages.join("–")}
                 </p>
               </header>
@@ -146,8 +161,8 @@ export function FullDocumentReader() {
                             ? "rejected · original restored"
                             : change.status}
                         </span>
-                        <span className="text-[10px] text-ink-muted">
-                          Review change{active ? " · selected" : ""}
+                        <span className="ml-auto shrink-0 rounded border border-current px-3 py-2 text-xs font-semibold text-accent">
+                          {active ? "Review open" : "View review"}
                         </span>
                       </span>
                     </button>

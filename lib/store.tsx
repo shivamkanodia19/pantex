@@ -26,8 +26,26 @@ function useDocumentState() {
   const [mode, setMode] = useState<"view" | "write">("view");
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [reviewView, setReviewView] = useState<"full" | "section">("full");
-  const [sectionId, setSectionId] = useState(
-    () => state.sections[0]?.id ?? "",
+  const [sectionId, setSectionId] = useState(() => state.sections[0]?.id ?? "");
+  const [sectionNavigation, setSectionNavigation] = useState<{
+    sectionId: string;
+    requestId: number;
+  } | null>(null);
+  const navigateSection = useCallback(
+    (id: string) => {
+      if (!state.sections.some((s) => s.id === id)) return;
+      setSectionId(id);
+      setSelectedId(
+        reviewView === "section"
+          ? (state.changes.find((c) => c.sectionId === id)?.id ?? null)
+          : null,
+      );
+      setSectionNavigation((prev) => ({
+        sectionId: id,
+        requestId: (prev?.requestId ?? 0) + 1,
+      }));
+    },
+    [state.sections, state.changes, reviewView],
   );
   const [editors, setEditors] = useState<Record<string, string>>({});
   /** Optional business-impact triage — cleared when review set reloads. */
@@ -71,6 +89,7 @@ function useDocumentState() {
   function loadReviewPack(siteId: string, doeFromId: string, doeToId: string) {
     const pack = resolveReviewPack(siteId, doeFromId, doeToId);
     setSelectedId(null);
+    setSectionNavigation(null);
     setImpacts({});
     setEditors({});
     setSectionId(pack.sections[0]?.id ?? "");
@@ -97,6 +116,8 @@ function useDocumentState() {
     ...state,
     reviewView,
     setReviewView,
+    sectionNavigation,
+    navigateSection,
     sectionId,
     setSectionId,
     editors,

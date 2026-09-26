@@ -43,6 +43,7 @@ try {
     "rewrite-validation",
     "sources",
     "source-search",
+    "section-navigation",
     "impact",
   ]) {
     transpileLib(name);

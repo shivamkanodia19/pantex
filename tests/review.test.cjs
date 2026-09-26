@@ -243,3 +243,27 @@ test("catalog preserves libraries and gives every source an explicit preview for
     if (doc.format === "external") assert.equal(doc.local, false);
   }
 });
+
+test("chapter navigation preserves document order, missing chapters and named sections", () => {
+  const { chapterLinks } = require(path.join(process.env.PANTEX_TEST_MODULES, "section-navigation.js"));
+  const sections = ["Intro", "1.2", "1.4", "3", "3.1", "Appendix A"].map((number,i) => ({id:String(i), number}));
+  assert.deepEqual(chapterLinks(sections), [
+    {label:"Intro",sectionId:"0"}, {label:"1",sectionId:"1"},
+    {label:"3",sectionId:"3"}, {label:"Appendix A",sectionId:"5"}
+  ]);
+});
+
+test("section search ranks real numbers and searches approved text without proposals", () => {
+  const { searchSections } = require(path.join(process.env.PANTEX_TEST_MODULES, "section-navigation.js"));
+  const sections = [
+    {id:"a",number:"2.1",title:"Training",paragraphs:[{id:"p",text:"original obsolete",changeId:"c"}]},
+    {id:"b",number:"2",title:"Safety",paragraphs:[]},
+    {id:"c",number:"4",title:"Training and safety",paragraphs:[]}
+  ];
+  const changes = [{id:"c",approvedText:"Current emergency accountability",workingText:"Unapproved secret proposal"}];
+  for (const query of ["2", "section 2", " § 2 "]) assert.deepEqual(searchSections(sections,changes,query).map(r=>r.section.id),["b","a"]);
+  assert.equal(searchSections(sections,changes,"train")[0].section.id,"a");
+  assert.match(searchSections(sections,changes,"emergency")[0].excerpt,/emergency/);
+  for(const q of ["obsolete","secret","missing","section"]) assert.equal(searchSections(sections,changes,q).length,0);
+  assert.equal(searchSections(Array.from({length:12},(_,i)=>({...sections[0],id:String(i)})),changes,"training").length,8);
+});
