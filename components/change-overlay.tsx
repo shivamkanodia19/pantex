@@ -183,9 +183,6 @@ export function DoeAnalysisPanel({
       </header>
       <div className="min-h-0 space-y-4 overflow-y-auto p-4 text-[13px] leading-relaxed">
         <section className="rounded-md border border-accent/20 bg-accent-muted p-3">
-          <p className="text-[11px] font-semibold text-ink-muted">
-            DEMO EVIDENCE · NOT INDEPENDENTLY VERIFIED
-          </p>
           <a
             className="font-semibold text-accent underline"
             href={change.doe.url}
@@ -203,10 +200,6 @@ export function DoeAnalysisPanel({
           <h3 className="font-semibold">Why this change is proposed</h3>
           <p>{change.reasoning}</p>
         </section>
-        <section>
-          <h3 className="font-semibold">Before · original Pantex text</h3>
-          <p className="text-ink-muted">{change.oldText}</p>
-        </section>
         {change.approvedText !== undefined &&
           change.approvedText !== change.workingText && (
             <section>
@@ -216,7 +209,7 @@ export function DoeAnalysisPanel({
           )}
         <section>
           <div className="flex items-center justify-between">
-            <h3 className="font-semibold">After · proposed Pantex wording</h3>
+            <h3 className="font-semibold">Proposed Pantex wording</h3>
             <button
               className="text-accent underline"
               onClick={() => {

@@ -309,3 +309,18 @@ test('complete bundled comparison reconstructs every page and matches PDF hashes
   const r=compareDocuments(...sources);assertReconstruction(r);assert.ok(r.groups>0);
   assert.ok(r.runs.some(run=>run.old.some(t=>t.page===100)));
 });
+test('every comparable DOE doc has a hash-matched extract and a same-family partner',()=>{
+  const fs=require('node:fs'),crypto=require('node:crypto');
+  const {getSourceDocs}=require(path.join(process.env.PANTEX_TEST_MODULES,'sources.js'));
+  const comparable=getSourceDocs().filter(d=>d.comparisonTextHref);
+  const families=new Map();
+  for(const d of comparable){
+    assert.ok(d.family,`${d.id} has no family`);
+    families.set(d.family,(families.get(d.family)??0)+1);
+    const asset=JSON.parse(fs.readFileSync(`public${d.comparisonTextHref}`,'utf8'));
+    assert.equal(asset.sha256,crypto.createHash('sha256').update(fs.readFileSync(`public${d.href}`)).digest('hex'),d.id);
+  }
+  assert.ok(families.size>=20,`only ${families.size} families`);
+  for(const [f,n] of families) assert.ok(n>=2,`${f} has one version`);
+  assert.equal(families.get('DOE O 413.3'),2);
+});

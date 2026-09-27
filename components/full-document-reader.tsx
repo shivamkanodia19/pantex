@@ -10,6 +10,7 @@ import {
 import clsx from "clsx";
 import { useDocStore } from "@/lib/store";
 import { DoeAnalysisPanel, statusStyles } from "@/components/change-overlay";
+import { sectionLabel } from "@/lib/section-navigation";
 
 export function FullDocumentReader() {
   const { selectedId, selectChange, getChange, sections, sectionNavigation } =
@@ -94,8 +95,7 @@ export function FullDocumentReader() {
                   tabIndex={-1}
                   className="scroll-mt-16 text-[15px] font-semibold"
                 >
-                  <span className="text-accent">{section.number}</span>{" "}
-                  {section.title}
+                  {sectionLabel(section)}
                 </h2>
                 <p className="ml-auto shrink-0 rounded border border-current px-3 py-2 text-xs font-semibold text-accent">
                   pp. {section.pages.join("–")}

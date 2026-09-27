@@ -2,7 +2,7 @@
 
 import { useLayoutEffect, useRef, useState } from "react";
 import { SectionSearch } from "@/components/section-search";
-import { chapterLinks, chapterKey } from "@/lib/section-navigation";
+import { chapterLinks, chapterKey, sectionLabel } from "@/lib/section-navigation";
 import { useDocStore } from "@/lib/store";
 import type { DocChange } from "@/lib/document-data";
 import { FullDocumentReader } from "@/components/full-document-reader";
@@ -92,11 +92,9 @@ export function DocumentReader() {
     setScanProgress({ current: 0, total });
 
     let merged = 0;
-    for (let i = 0; i < sections.length; i++) {
-      if (scanAbort.current) break;
-      const sec = sections[i];
-      setScanProgress({ current: i + 1, total });
-
+    let started = 0;
+    let done = 0;
+    const scanOne = async (sec: (typeof sections)[number]) => {
       try {
         const res = await fetch(`${BASE}/api/scan-section`, {
           method: "POST",
@@ -108,7 +106,7 @@ export function DocumentReader() {
             paragraphs: sec.paragraphs.map((p) => ({ id: p.id, text: p.text })),
           }),
         });
-        if (!res.ok) continue;
+        if (!res.ok) return;
         const data = (await res.json()) as {
           change?: DocChange | null;
           skipped?: boolean;
@@ -124,7 +122,16 @@ export function DocumentReader() {
       } catch {
         // Continue remaining sections on network/parse errors.
       }
-    }
+    };
+    await Promise.all(
+      Array.from({ length: 4 }, async () => {
+        while (started < total && !scanAbort.current) {
+          const sec = sections[started++];
+          await scanOne(sec);
+          setScanProgress({ current: ++done, total });
+        }
+      }),
+    );
 
     setScanProgress(null);
     if (scanAbort.current) {
@@ -246,19 +253,32 @@ export function DocumentReader() {
             </button>
             <button
               className={navButton}
-              disabled={globalIndex <= 0 || changes.length === 0}
-              onClick={() =>
-                selectChange(changes[Math.max(0, globalIndex - 1)].id)
-              }
+              disabled={changes.length === 0 || globalIndex === 0}
+              onClick={() => {
+                if (changes.length === 0) return;
+                const next =
+                  globalIndex < 0
+                    ? changes[changes.length - 1]
+                    : changes[globalIndex - 1];
+                if (next) selectChange(next.id);
+              }}
             >
-              Prev change (doc)
+              Prev change
             </button>
             <button
               className={navButton}
-              disabled={globalIndex < 0 || globalIndex >= changes.length - 1}
-              onClick={() => selectChange(changes[globalIndex + 1].id)}
+              disabled={
+                changes.length === 0 ||
+                (globalIndex >= 0 && globalIndex >= changes.length - 1)
+              }
+              onClick={() => {
+                if (changes.length === 0) return;
+                const next =
+                  globalIndex < 0 ? changes[0] : changes[globalIndex + 1];
+                if (next) selectChange(next.id);
+              }}
             >
-              Next change (doc)
+              Next change
             </button>
             <span className="ml-auto text-xs text-ink-muted">
               § {sections.length ? sectionIndex + 1 : 0}/{sections.length} ·{" "}
@@ -267,12 +287,7 @@ export function DocumentReader() {
                 : "No DOE items"}
             </span>
           </>
-        ) : (
-          <p className="text-xs text-ink-muted">
-            Click a highlighted passage to open its review panel. Close the
-            panel to restore the full document width.
-          </p>
-        )}
+        ) : null}
         <SectionSearch />
       </div>
 
@@ -291,7 +306,7 @@ export function DocumentReader() {
                 tabIndex={-1}
                 className="scroll-mt-16 mb-4 border-b border-border pb-3 font-semibold"
               >
-                {section.number} {section.title}
+                {sectionLabel(section)}
               </h2>
               <div className="space-y-3">
                 {section.paragraphs.map((p) => {
@@ -379,8 +394,7 @@ export function DocumentReader() {
               <DoeAnalysisPanel key={focused.id} change={focused} />
             ) : (
               <p className="rounded border border-border bg-surface p-5 text-sm text-ink-muted">
-                This section has no proposed changes. Continue to another
-                section or the next document change.
+                No proposed changes in this section.
               </p>
             )}
           </aside>

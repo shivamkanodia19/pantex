@@ -93,128 +93,104 @@ export function ChangesTable() {
   return (
     <div>
       <div className="mb-6">
-        <p className="text-[11px] font-medium uppercase tracking-[0.06em] text-ink-faint">Screen 3</p>
-        <h1 className="mt-1.5 text-[26px] font-medium tracking-tight text-ink">Recommended changes</h1>
-        <p className="mt-1.5 max-w-2xl text-[13px] text-ink-muted">
-          Accordion detail for every DOE recommendation. Showing {slice.length} of {filtered.length}
-          {filtered.length !== changes.length ? ` (filtered from ${changes.length})` : ""} — lazy load{" "}
-          {PAGE_SIZE} at a time.
-        </p>
+        <h1 className="text-[26px] font-medium tracking-tight text-ink">
+          Recommended changes
+        </h1>
       </div>
 
-      {/* Optional impact tool */}
-      <div className="mb-5 rounded-card border border-dashed border-border bg-canvas/50 px-4 py-3">
-        <div className="flex flex-wrap items-start justify-between gap-3">
-          <div className="min-w-0 max-w-xl">
-            <p className="text-[10px] font-semibold uppercase tracking-[0.1em] text-ink-faint">
-              Optional tool · business impact
-            </p>
-            <p className="mt-1 text-[12.5px] leading-relaxed text-ink-muted">
-              Rough Haiku triage for urgency sorting — not a risk register, not required for review.
-              Ignore this entire block if you do not need it.
-            </p>
-          </div>
-          <div className="flex flex-wrap gap-2">
-            <button
-              type="button"
-              disabled={offline || scoring || changes.length === 0}
-              onClick={() => void runImpactTriage()}
-              className="pressable rounded-md border border-border bg-surface px-3 py-1.5 text-[12px] font-semibold text-accent disabled:opacity-40"
-            >
-              {scoring ? "Scoring…" : scoredCount ? "Re-score impact" : "Score impact (LLM)"}
-            </button>
-            {scoredCount > 0 ? (
-              <button
-                type="button"
-                onClick={() => {
-                  clearImpacts();
-                  setFilter("all");
-                  setSortMode("default");
-                }}
-                className="pressable rounded-md px-3 py-1.5 text-[12px] font-semibold text-ink-muted hover:text-ink"
-              >
-                Clear scores
-              </button>
-            ) : null}
-          </div>
-        </div>
-
+      <div className="mb-5 flex flex-wrap items-center gap-2">
+        <button
+          type="button"
+          disabled={offline || scoring || changes.length === 0}
+          onClick={() => void runImpactTriage()}
+          className="pressable rounded-md border border-border bg-surface px-3 py-1.5 text-[12px] font-semibold text-accent disabled:opacity-40"
+        >
+          {scoring ? "Scoring…" : scoredCount ? "Re-score impact" : "Score impact"}
+        </button>
+        {scoredCount > 0 ? (
+          <button
+            type="button"
+            onClick={() => {
+              clearImpacts();
+              setFilter("all");
+              setSortMode("default");
+            }}
+            className="pressable rounded-md px-3 py-1.5 text-[12px] font-semibold text-ink-muted hover:text-ink"
+          >
+            Clear scores
+          </button>
+        ) : null}
+        {(
+          [
+            ["all", "All"],
+            ["high", "High"],
+            ["medium", "Medium"],
+            ["low", "Low"],
+            ["unscored", "Unscored"],
+          ] as const
+        ).map(([id, label]) => (
+          <button
+            key={id}
+            type="button"
+            onClick={() => {
+              setFilter(id);
+              setVisible(PAGE_SIZE);
+            }}
+            className={clsx(
+              "pressable rounded-md px-2.5 py-1 text-[11px] font-semibold",
+              filter === id
+                ? "bg-accent text-surface"
+                : "border border-border bg-surface text-ink-muted hover:text-ink",
+            )}
+          >
+            {label}
+            {id !== "all" && id !== "unscored"
+              ? ` · ${changes.filter((c) => impacts[c.id]?.level === id).length}`
+              : id === "unscored"
+                ? ` · ${changes.filter((c) => !impacts[c.id]).length}`
+                : ""}
+          </button>
+        ))}
+        <button
+          type="button"
+          onClick={() => setSortMode("default")}
+          className={clsx(
+            "pressable rounded-md px-2.5 py-1 text-[11px] font-semibold",
+            sortMode === "default"
+              ? "bg-surface text-ink ring-1 ring-border"
+              : "text-ink-muted hover:text-ink",
+          )}
+        >
+          Default
+        </button>
+        <button
+          type="button"
+          onClick={() => setSortMode("urgency")}
+          disabled={scoredCount === 0}
+          className={clsx(
+            "pressable rounded-md px-2.5 py-1 text-[11px] font-semibold disabled:opacity-40",
+            sortMode === "urgency"
+              ? "bg-surface text-ink ring-1 ring-border"
+              : "text-ink-muted hover:text-ink",
+          )}
+        >
+          By urgency
+        </button>
         {offline ? (
-          <p className="mt-2 text-[11px] text-ink-faint">
+          <p className="w-full text-[11px] text-ink-faint">
             Static demo: impact scoring needs local `npm run dev` + API key.
           </p>
         ) : null}
-        {scoreError ? <p className="mt-2 text-[12px] text-doe">{scoreError}</p> : null}
-
-        <div className="mt-3 flex flex-wrap items-center gap-2">
-          <span className="text-[11px] text-ink-faint">Filter</span>
-          {(
-            [
-              ["all", "All"],
-              ["high", "High"],
-              ["medium", "Medium"],
-              ["low", "Low"],
-              ["unscored", "Unscored"],
-            ] as const
-          ).map(([id, label]) => (
-            <button
-              key={id}
-              type="button"
-              onClick={() => {
-                setFilter(id);
-                setVisible(PAGE_SIZE);
-              }}
-              className={clsx(
-                "pressable rounded-md px-2.5 py-1 text-[11px] font-semibold",
-                filter === id
-                  ? "bg-accent text-surface"
-                  : "border border-border bg-surface text-ink-muted hover:text-ink",
-              )}
-            >
-              {label}
-              {id !== "all" && id !== "unscored"
-                ? ` · ${changes.filter((c) => impacts[c.id]?.level === id).length}`
-                : id === "unscored"
-                  ? ` · ${changes.filter((c) => !impacts[c.id]).length}`
-                  : ""}
-            </button>
-          ))}
-          <span className="ml-2 text-[11px] text-ink-faint">Sort</span>
-          <button
-            type="button"
-            onClick={() => setSortMode("default")}
-            className={clsx(
-              "pressable rounded-md px-2.5 py-1 text-[11px] font-semibold",
-              sortMode === "default"
-                ? "bg-surface text-ink ring-1 ring-border"
-                : "text-ink-muted hover:text-ink",
-            )}
-          >
-            Default
-          </button>
-          <button
-            type="button"
-            onClick={() => setSortMode("urgency")}
-            disabled={scoredCount === 0}
-            className={clsx(
-              "pressable rounded-md px-2.5 py-1 text-[11px] font-semibold disabled:opacity-40",
-              sortMode === "urgency"
-                ? "bg-surface text-ink ring-1 ring-border"
-                : "text-ink-muted hover:text-ink",
-            )}
-          >
-            By urgency
-          </button>
-        </div>
+        {scoreError ? <p className="w-full text-[12px] text-doe">{scoreError}</p> : null}
       </div>
 
       <div className="overflow-hidden rounded-card border border-border bg-surface">
-        <div className="grid grid-cols-[minmax(0,1.1fr)_minmax(0,1.4fr)_minmax(0,1.4fr)_minmax(0,1fr)_72px_88px] gap-2 border-b border-border-subtle px-4 py-2.5 text-[11px] font-medium tracking-wide text-ink-faint max-lg:hidden">
+        <div className="grid grid-cols-[minmax(0,1.2fr)_minmax(0,1.6fr)_minmax(0,1.4fr)_88px_72px_88px] gap-2 border-b border-border-subtle px-4 py-2.5 text-[11px] font-medium tracking-wide text-ink-faint max-lg:hidden">
           <span>Section</span>
-          <span>Old text</span>
-          <span>DOE proposed</span>
+          <span>Business impact</span>
+          <span>If delayed</span>
+          <span>Urgency</span>
           <span>Summary</span>
-          <span className="text-right">Lines</span>
           <span>Status</span>
         </div>
 
@@ -231,7 +207,7 @@ export function ChangesTable() {
               <li key={ch.id} id={ch.id}>
                 <button
                   type="button"
-                  className="pressable grid w-full grid-cols-1 gap-2 px-4 py-3 text-left hover:bg-canvas/80 lg:grid-cols-[minmax(0,1.1fr)_minmax(0,1.4fr)_minmax(0,1.4fr)_minmax(0,1fr)_72px_88px]"
+                  className="pressable grid w-full grid-cols-1 gap-2 px-4 py-3 text-left hover:bg-canvas/80 lg:grid-cols-[minmax(0,1.2fr)_minmax(0,1.6fr)_minmax(0,1.4fr)_88px_72px_88px]"
                   onClick={() => setOpenId(open ? null : ch.id)}
                   aria-expanded={open}
                 >
@@ -243,11 +219,17 @@ export function ChangesTable() {
                       </span>
                     ) : null}
                   </span>
-                  <span className="line-clamp-2 text-[12px] text-ink-muted max-lg:hidden">{ch.oldText}</span>
-                  <span className="line-clamp-2 text-[12px] text-ink max-lg:hidden">{ch.workingText}</span>
-                  <span className="line-clamp-2 text-[12px] text-ink-muted max-lg:hidden">{ch.summary}</span>
-                  <span className="text-right font-mono text-[11px] tabular-nums text-ink-faint max-lg:hidden">
-                    +{ch.lineCount}/−{ch.lineCount}
+                  <span className="line-clamp-2 text-[12px] text-ink max-lg:hidden">
+                    {impact?.businessImpact ?? "Score impact to see mission / ops consequence."}
+                  </span>
+                  <span className="line-clamp-2 text-[12px] text-ink-muted max-lg:hidden">
+                    {impact?.delayRisk ?? "—"}
+                  </span>
+                  <span className="font-mono text-[11px] tabular-nums text-ink-faint max-lg:hidden">
+                    {impact ? `${impact.urgency}/5` : "—"}
+                  </span>
+                  <span className="line-clamp-2 text-[12px] text-ink-muted max-lg:hidden">
+                    {ch.summary}
                   </span>
                   <span className="max-lg:mt-1">
                     <span className={statusStyles(ch.status)}>{ch.status}</span>
@@ -257,36 +239,60 @@ export function ChangesTable() {
                 {open ? (
                   <div className="space-y-3 border-t border-border-subtle bg-canvas/60 px-4 py-4">
                     {impact ? (
-                      <div className="rounded-card border border-border bg-surface px-3 py-2.5">
+                      <div className="rounded-card border border-border bg-surface px-3 py-3">
                         <div className="flex flex-wrap items-center gap-2">
                           <ImpactChip impact={impact} />
                           <span className="font-mono text-[10px] text-ink-faint">
-                            urgency {impact.urgency}/5 · optional triage
+                            urgency {impact.urgency}/5
                           </span>
                         </div>
-                        <p className="mt-1.5 text-[12px] leading-relaxed text-ink-muted">
-                          {impact.rationale}
-                        </p>
+                        <div className="mt-3 grid gap-3 sm:grid-cols-2">
+                          <div>
+                            <p className="text-[11px] font-semibold text-ink">
+                              Business impact
+                            </p>
+                            <p className="mt-1 text-[12.5px] leading-relaxed text-ink">
+                              {impact.businessImpact}
+                            </p>
+                          </div>
+                          <div>
+                            <p className="text-[11px] font-semibold text-ink">
+                              If delayed
+                            </p>
+                            <p className="mt-1 text-[12.5px] leading-relaxed text-ink-muted">
+                              {impact.delayRisk}
+                            </p>
+                          </div>
+                        </div>
                       </div>
-                    ) : null}
-                    <div className="grid gap-4 sm:grid-cols-2">
-                      <div>
-                        <p className="text-[11px] text-ink-faint">Old text</p>
-                        <p className="mt-1 text-[12.5px] leading-relaxed text-ink-muted">{ch.oldText}</p>
-                      </div>
-                      <div>
-                        <p className="text-[11px] text-ink-faint">DOE proposed (working)</p>
-                        <p className="mt-1 text-[12.5px] leading-relaxed text-ink">{ch.workingText}</p>
-                      </div>
-                    </div>
+                    ) : (
+                      <p className="text-[12.5px] text-ink-muted">
+                        Run Score impact to generate mission / ops triage for this change.
+                      </p>
+                    )}
                     <div>
-                      <p className="text-[11px] text-ink-faint">Summary</p>
+                      <p className="text-[11px] text-ink-faint">Change summary</p>
                       <p className="mt-1 text-[12.5px] text-ink">{ch.summary}</p>
                     </div>
-                    <div>
-                      <p className="text-[11px] text-ink-faint">Reasoning</p>
-                      <p className="mt-1 text-[12.5px] leading-relaxed text-ink-muted">{ch.reasoning}</p>
-                    </div>
+                    <details className="rounded-card border border-border bg-surface px-3 py-2">
+                      <summary className="cursor-pointer text-[12px] font-semibold text-ink">
+                        Proposed wording
+                      </summary>
+                      <div className="mt-3 grid gap-4 sm:grid-cols-2">
+                        <div>
+                          <p className="text-[11px] text-ink-faint">Current</p>
+                          <p className="mt-1 text-[12.5px] leading-relaxed text-ink-muted">
+                            {ch.oldText}
+                          </p>
+                        </div>
+                        <div>
+                          <p className="text-[11px] text-ink-faint">Proposed</p>
+                          <p className="mt-1 text-[12.5px] leading-relaxed text-ink">
+                            {ch.workingText}
+                          </p>
+                        </div>
+                      </div>
+                    </details>
                     <div className="rounded-card border border-accent/20 bg-accent-muted/50 px-3 py-2.5">
                       <a
                         href={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}${ch.doe.url}`}
@@ -296,19 +302,14 @@ export function ChangesTable() {
                       >
                         {ch.doe.citation} ↗
                       </a>
-                      <p className="mt-1 text-[12px] leading-relaxed text-ink">{ch.doe.excerpt}</p>
-                      <a
-                        href={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}${ch.doe.url}`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="pressable mt-2 inline-block text-[11px] font-semibold text-accent hover:underline"
-                      >
-                        Open DOE order →
-                      </a>
+                      <p className="mt-1 text-[12px] leading-relaxed text-ink">
+                        {ch.doe.excerpt}
+                      </p>
                     </div>
                     <div className="flex flex-wrap items-center gap-3">
                       <span className="font-mono text-[11px] text-ink-faint">
-                        p.{ch.page} · L{ch.lineStart}–L{ch.lineStart + ch.lineCount - 1}
+                        p.{ch.page} · L{ch.lineStart}–L
+                        {ch.lineStart + ch.lineCount - 1}
                       </span>
                       <button
                         type="button"

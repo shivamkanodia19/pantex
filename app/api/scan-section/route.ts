@@ -7,6 +7,7 @@ import {
   retrieveDiffContext,
   retrieveDoeChunks,
 } from "@/lib/doe-rag";
+import { findSupersededCitations, libraryPdfFor } from "@/lib/doe-currency";
 
 export const runtime = "nodejs";
 
@@ -49,12 +50,16 @@ export async function POST(req: Request) {
 
   const sectionLabel = `${body.sectionNumber ?? ""} ${body.sectionTitle ?? sectionId}`.trim();
   const sectionText = paragraphs.map((p) => p.text).join("\n\n").slice(0, 6000);
-  const hits = retrieveDoeChunks(sectionText, 4);
+  const superseded = findSupersededCitations(sectionText);
+  const hits = retrieveDoeChunks(
+    [sectionText, ...superseded.map((s) => s.current.title)].join("\n"),
+    5,
+  );
   const deltas = retrieveDiffContext(sectionText, 2);
-  const digest = getDiffDigest(1800);
+  const digest = getDiffDigest(1200);
 
   // No retrieval signal → skip (cheap) rather than inventing a change.
-  if (hits.length === 0 && deltas.length === 0) {
+  if (hits.length === 0 && deltas.length === 0 && superseded.length === 0) {
     return NextResponse.json({
       skipped: true,
       reason: "no_doe_overlap",
@@ -75,8 +80,12 @@ export async function POST(req: Request) {
   const model = process.env.ANTHROPIC_MODEL || "claude-haiku-4-5";
   const client = new Anthropic({ apiKey: key });
 
-  const system = `You are a temporary demo RAG reviewer for Pantex site procedures vs DOE CRADA orders (483.1B→483.1C).
-Given ONE Pantex section and retrieved DOE evidence, decide if a site wording change is warranted.
+  const system = `You review ONE section of a Pantex site procedure (CD-0039, Integrated Safety Management) against current DOE directives and regulations.
+Given the section and retrieved DOE evidence, decide if a site wording change is warranted. Flag a change when:
+- the section cites a DOE directive that has been superseded (SUPERSEDED CITATIONS lists these — always propose updating them);
+- the section's wording conflicts with, omits, or is out of step with a requirement shown in the evidence (e.g. 483.1B→483.1C CRADA changes, 10 CFR 830/851, DOE O 414.1, 420.1, 426.2, 450.2, 470.4);
+- the section should cite a current DOE directive that governs what it describes.
+Propose at most one change: the single most important one.
 Return ONLY JSON:
 {
   "needsChange": boolean,
@@ -91,13 +100,22 @@ Return ONLY JSON:
   "requirementId": string,
   "matchQuality": "strong" | "partial" | "weak"
 }
-If the section is unrelated to CRADA / 483.1 / collaborative R&D / subcontract flow-down of DOE Orders, set needsChange=false and leave texts empty.
-Do not invent DOE requirements not supported by the evidence.`;
+If the section is purely administrative (definitions, signatures, revision log) or the evidence does not support a concrete change, set needsChange=false and leave texts empty.
+Do not invent DOE requirements not supported by the evidence. oldText must be copied from the Pantex text.`;
 
   const user = `SECTION: ${sectionLabel} (${sectionId})
 
 PANTEX TEXT:
 ${sectionText}
+
+SUPERSEDED CITATIONS:
+${
+    superseded.length
+      ? superseded
+          .map((s) => `- Section cites ${s.cited}; current version is ${s.current.oid} (${s.current.title})`)
+          .join("\n")
+      : "(none found)"
+  }
 
 B→C DIFF DIGEST (excerpt):
 ${digest}
@@ -148,6 +166,7 @@ Paragraph ids: ${paragraphs.map((p) => p.id).join(", ")}`;
         reason: "no_change",
         change: null,
         matchQuality: parsed.matchQuality ?? "weak",
+        usage: msg.usage,
       });
     }
 
@@ -173,16 +192,19 @@ Paragraph ids: ${paragraphs.map((p) => p.id).join(", ")}`;
         120,
       ),
       reasoning: (
-        parsed.reasoning ||
-        "Lightweight RAG scan against DOE 483.1B→483.1C corpus."
+        parsed.reasoning || "RAG scan against the local DOE directive corpus."
       ).slice(0, 400),
       doe: {
         citation:
           parsed.doeCitation ||
+          superseded[0]?.current.oid ||
           (top ? `${top.docId}` : "DOE O 483.1C"),
         excerpt: (parsed.doeExcerpt || top?.text || digest).slice(0, 400),
-        requirementId: parsed.requirementId || "DOE-483.1C-RAG",
-        url: "/sources/DOE_O_483.1C_CRADA.pdf",
+        requirementId: parsed.requirementId || "DOE-RAG",
+        url:
+          (superseded[0] && libraryPdfFor(superseded[0].current.id)) ||
+          (top && libraryPdfFor(top.docId)) ||
+          "/sources/DOE_O_483.1C_CRADA.pdf",
       },
       status: "pending",
     };
@@ -195,6 +217,7 @@ Paragraph ids: ${paragraphs.map((p) => p.id).join(", ")}`;
       change,
       evidenceCount: hits.length,
       diffHits: deltas.length,
+      usage: msg.usage,
       model,
     });
   } catch (err) {

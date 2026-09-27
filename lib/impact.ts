@@ -6,7 +6,10 @@ export interface ImpactJudgement {
   level: ImpactLevel;
   /** 1–5, higher = sooner. */
   urgency: number;
-  rationale: string;
+  /** Mission / ops / compliance consequence if the change is needed. */
+  businessImpact: string;
+  /** What happens if the change is delayed or mishandled. */
+  delayRisk: string;
   model?: string;
 }
 

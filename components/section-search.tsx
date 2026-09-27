@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useId, useRef, useState } from "react";
 import { useDocStore } from "@/lib/store";
-import { searchSections } from "@/lib/section-navigation";
+import { searchSections, sectionLabel } from "@/lib/section-navigation";
 
 export function SectionSearch() {
   const { sections, changes, navigateSection } = useDocStore();
@@ -42,7 +42,7 @@ export function SectionSearch() {
         if (!e.currentTarget.contains(e.relatedTarget)) setOpen(false);
       }}
     >
-      <label htmlFor={id} className="mb-1 block text-xs text-ink-muted">
+      <label htmlFor={id} className="sr-only">
         Find section
       </label>
       <input
@@ -104,7 +104,7 @@ export function SectionSearch() {
                 onClick={() => choose(result.section.id)}
               >
                 <span className="block font-medium">
-                  {result.section.number} {result.section.title}
+                  {sectionLabel(result.section)}
                 </span>
                 {result.excerpt && (
                   <span className="mt-1 block text-xs text-ink-muted">

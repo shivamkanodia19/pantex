@@ -18,11 +18,17 @@ interface ImpactItemOut {
   changeId: string;
   level: ImpactLevel;
   urgency: number;
-  rationale: string;
+  businessImpact: string;
+  delayRisk: string;
 }
 
 function isLevel(v: unknown): v is ImpactLevel {
   return v === "high" || v === "medium" || v === "low";
+}
+
+function sentence(v: unknown, fallback: string, max = 160): string {
+  if (typeof v !== "string" || !v.trim()) return fallback;
+  return v.trim().slice(0, max);
 }
 
 export async function POST(req: Request) {
@@ -41,7 +47,7 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: "Invalid JSON body" }, { status: 400 });
   }
 
-  const items = Array.isArray(body.items) ? body.items.slice(0, 24) : [];
+  const items = Array.isArray(body.items) ? body.items.slice(0, 80) : [];
   if (items.length === 0) {
     return NextResponse.json(
       { error: "Provide items[] with at least one change." },
@@ -58,42 +64,46 @@ export async function POST(req: Request) {
   const model = process.env.ANTHROPIC_MODEL || "claude-haiku-4-5";
   const client = new Anthropic({ apiKey: key });
 
-  const system = `You are a rough triage assistant for DOE/NNSA site document reviewers at a production plant (Pantex).
-Judge OPTIONAL business / mission impact if each proposed clause change were delayed or mishandled.
-This is NOT legal advice, NOT a compliance determination, and NOT a risk register entry.
-Be conservative: prefer "medium" when unsure. Prefer "high" only for clear safety, security, regulatory enforcement, or stop-work / mission-blocking exposure. Prefer "low" for citation housekeeping, related-docs lists, or narrow admin wording.
-Keep every rationale to ONE short sentence (≤20 words).
+  const system = `You are a business-impact triage assistant for DOE/NNSA production-plant document reviewers (Pantex).
+For each proposed clause change, judge OPTIONAL mission / operations / compliance BUSINESS IMPACT — not a rewrite of the text change itself.
+
+Do NOT restate the old wording, proposed wording, or DOE citation as the answer.
+Focus on: who is affected, what work/mission path is blocked or exposed, and what happens if the update is delayed.
+
+Be conservative: prefer "medium" when unsure. Prefer "high" only for clear safety, security, regulatory enforcement, stop-work, or mission-blocking exposure. Prefer "low" for citation housekeeping or narrow admin wording.
+
 Return ONLY valid JSON:
 {
   "judgements": [
     {
       "changeId": string,
       "level": "high" | "medium" | "low",
-      "urgency": number,   // 1-5 integer, 5 = address soonest
-      "rationale": string   // one short sentence
+      "urgency": number,            // 1-5 integer, 5 = address soonest
+      "businessImpact": string,     // ≤28 words: mission/ops/compliance consequence
+      "delayRisk": string           // ≤22 words: what goes wrong if delayed
     }
   ]
 }
 Include every input changeId exactly once.`;
 
-  try {
+  async function scoreBatch(batch: ImpactItemIn[]): Promise<unknown[]> {
     const response = await client.messages.create(
       {
         model,
-        max_tokens: 900,
+        max_tokens: 250 * batch.length + 200,
         temperature: 0.2,
         system,
         messages: [
           {
             role: "user",
             content: JSON.stringify({
-              task: "Rough optional business-impact triage — be brief",
-              items: items.map((it) => ({
+              task: "Score business impact for each change — do not paraphrase the clause text",
+              items: batch.map((it) => ({
                 changeId: it.changeId,
                 sectionId: it.sectionId ?? null,
                 summary: (it.summary ?? "").slice(0, 280),
-                oldText: (it.oldText ?? "").slice(0, 500),
-                proposedText: (it.proposedText ?? "").slice(0, 500),
+                oldText: (it.oldText ?? "").slice(0, 400),
+                proposedText: (it.proposedText ?? "").slice(0, 400),
                 doeCitation: (it.doeCitation ?? "").slice(0, 200),
               })),
             }),
@@ -102,21 +112,31 @@ Include every input changeId exactly once.`;
       },
       { signal: req.signal },
     );
-
     const raw = response.content
       .filter((b) => b.type === "text")
       .map((b) => b.text)
-      .join("\n")
-      .trim()
-      .replace(/^```(?:json)?\s*|\s*```$/g, "");
+      .join("\n");
+    const json = raw.match(/\{[\s\S]*\}/)?.[0];
+    if (!json) throw new Error("No JSON");
+    const parsed = JSON.parse(json) as { judgements?: unknown };
+    if (!Array.isArray(parsed?.judgements)) throw new Error("Invalid shape");
+    return parsed.judgements;
+  }
 
-    const parsed = JSON.parse(raw) as { judgements?: unknown };
-    if (!parsed || !Array.isArray(parsed.judgements)) {
-      throw new Error("Invalid shape");
-    }
+  const BATCH = 8;
+  const batches: ImpactItemIn[][] = [];
+  for (let i = 0; i < items.length; i += BATCH)
+    batches.push(items.slice(i, i + BATCH));
+
+  try {
+    const results = await Promise.allSettled(
+      batches.map((b) => scoreBatch(b).catch(() => scoreBatch(b))),
+    );
+    if (results.every((r) => r.status === "rejected")) throw new Error("All batches failed");
+    const rows = results.flatMap((r) => (r.status === "fulfilled" ? r.value : []));
 
     const byId = new Map<string, ImpactItemOut>();
-    for (const row of parsed.judgements) {
+    for (const row of rows) {
       if (!row || typeof row !== "object") continue;
       const r = row as Record<string, unknown>;
       if (typeof r.changeId !== "string" || !isLevel(r.level)) continue;
@@ -126,10 +146,12 @@ Include every input changeId exactly once.`;
         changeId: r.changeId,
         level: r.level,
         urgency: Math.min(5, Math.max(1, Math.round(urgency))),
-        rationale:
-          typeof r.rationale === "string" && r.rationale.trim()
-            ? r.rationale.trim().slice(0, 160)
-            : "Rough LLM triage only.",
+        businessImpact: sentence(
+          r.businessImpact ?? r.rationale,
+          "Business impact not specified.",
+          220,
+        ),
+        delayRisk: sentence(r.delayRisk, "Delay risk not specified.", 180),
       });
     }
 
@@ -140,7 +162,8 @@ Include every input changeId exactly once.`;
           changeId: it.changeId,
           level: "medium" as const,
           urgency: 3,
-          rationale: "Model omitted this id — defaulted to medium (rough triage).",
+          businessImpact: "Not scored this run — click Score impact again.",
+          delayRisk: "—",
         }
       );
     });

@@ -3,6 +3,10 @@ import doeLibrary from "@/lib/generated/doe-library.json";
 export interface SourceDoc {
   id: string;
   comparisonTextHref?: string;
+  /** Order number without revision letter, e.g. "DOE O 413.3" — only versions of one family are compared. */
+  family?: string;
+  /** Revision letter ("" for the original issue); sorts oldest → newest. */
+  revision?: string;
   format: "procedure" | "pdf" | "markdown" | "text" | "external";
   folder: "pantex" | "doe";
   kind: "pantex" | "doe";
@@ -67,6 +71,8 @@ function coreSourceDocs(): SourceDoc[] {
     {
       id: "src-doe-483-1b",
       comparisonTextHref: `${base()}/sources/comparison/DOE_O_483.1B_Chg3_CRADA.json`,
+      family: "DOE O 483.1",
+      revision: "B",
       format: "pdf",
       folder: "doe",
       kind: "doe",
@@ -84,6 +90,8 @@ function coreSourceDocs(): SourceDoc[] {
     {
       id: "src-doe-483-1c",
       comparisonTextHref: `${base()}/sources/comparison/DOE_O_483.1C_CRADA.json`,
+      family: "DOE O 483.1",
+      revision: "C",
       format: "pdf",
       folder: "doe",
       kind: "doe",
@@ -164,17 +172,36 @@ const CORE_OID_PREFIXES = [
   "DOE M 483.1-1",
 ];
 
+/** Mirrors order_family() in scripts/extract-doe-comparison.py. */
+export function orderFamily(oid: string) {
+  const m = oid.trim().match(/^(DOE [OMGP] \d+\.\d+(?:-\d+)?)([A-Z]?)$/);
+  return m ? { family: m[1], revision: m[2] } : null;
+}
+
 function librarySourceDocs(): SourceDoc[] {
-  const docs = (doeLibrary as { docs: DoeLibraryDoc[] }).docs;
+  const docs = (doeLibrary as { docs: DoeLibraryDoc[] }).docs.filter(
+    (d) =>
+      !CORE_OID_PREFIXES.some((p) => d.oid === p || d.oid.startsWith(`${p} `)),
+  );
+  const familySize = new Map<string, number>();
+  for (const d of docs) {
+    const f = orderFamily(d.oid);
+    if (f) familySize.set(f.family, (familySize.get(f.family) ?? 0) + 1);
+  }
   return docs
-    .filter(
-      (d) =>
-        !CORE_OID_PREFIXES.some(
-          (p) => d.oid === p || d.oid.startsWith(`${p} `),
-        ),
-    )
-    .map((d) => ({
+    .map((d) => {
+      const f = orderFamily(d.oid);
+      const versioned = f && (familySize.get(f.family) ?? 0) > 1;
+      const stem = d.pdf.replace(/^doe\//, "").replace(/\.pdf$/i, "");
+      return { d, f: versioned ? f : null, stem };
+    })
+    .map(({ d, f, stem }) => ({
       id: d.id,
+      ...(f && {
+        comparisonTextHref: `${base()}/sources/comparison/doe/${stem}.json`,
+        family: f.family,
+        revision: f.revision,
+      }),
       format: "pdf" as const,
       folder: "doe" as const,
       kind: "doe" as const,

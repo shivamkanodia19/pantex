@@ -2,20 +2,18 @@
 
 import { useEffect, useState } from "react";
 import type { SourceDoc } from "@/lib/sources";
-import { DOCUMENT_META, SECTIONS } from "@/lib/document-data";
+import { SECTIONS } from "@/lib/document-data";
 import { useDocStore } from "@/lib/store";
+import { sectionLabel } from "@/lib/section-navigation";
 
 function ProcedurePreview() {
   const { getChange } = useDocStore();
   return (
     <article aria-label="Procedure preview" className="space-y-6 p-4">
-      <p className="text-xs text-ink-muted">
-        {DOCUMENT_META.revision} · Read-only preview of currently approved text
-      </p>
       {SECTIONS.map((section) => (
         <section key={section.id}>
           <h3 className="mb-2 text-sm font-semibold">
-            {section.number} {section.title}
+            {sectionLabel(section)}
           </h3>
           {section.paragraphs.map((p) => (
             <p key={p.id} className="mb-3 text-sm leading-relaxed">
@@ -86,10 +84,6 @@ function BundledPreview({ doc }: { doc: SourceDoc }) {
   if (doc.format === "pdf")
     return (
       <div className="flex min-h-0 flex-1 flex-col">
-        <p className="px-4 py-2 text-xs text-ink-muted">
-          If your browser cannot display this PDF, use “Open source in new tab”
-          above.
-        </p>
         <iframe
           title={`PDF preview: ${doc.shortTitle}`}
           src={doc.href}
@@ -122,7 +116,10 @@ export function SourcePreview({
       <header className="flex shrink-0 items-start justify-between gap-3 border-b border-border p-4">
         <div className="min-w-0">
           <h2 className="text-sm font-semibold">{doc.title}</h2>
-          <p className="mt-1 text-xs text-ink-muted">{doc.docId}</p>
+          {doc.docId &&
+          !doc.title.toLowerCase().includes(doc.docId.toLowerCase()) ? (
+            <p className="mt-1 text-xs text-ink-muted">{doc.docId}</p>
+          ) : null}
           <a
             className="mt-2 inline-block text-xs font-semibold text-accent underline"
             href={doc.href}
@@ -146,10 +143,6 @@ export function SourcePreview({
         ) : doc.format === "external" ? (
           <div className="space-y-3 p-4 text-sm">
             <p>{doc.description}</p>
-            <p className="text-ink-muted">
-              This external library opens in a new tab. Browse it using the
-              source link above.
-            </p>
           </div>
         ) : (
           <BundledPreview key={doc.id} doc={doc} />

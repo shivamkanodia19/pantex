@@ -4,7 +4,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { useComparison } from "@/lib/use-comparison";
 import { ComparisonPreview } from "@/components/comparison-preview";
 import clsx from "clsx";
-import { sourcesByFolder } from "@/lib/sources";
+import { sourcesByFolder, type SourceDoc } from "@/lib/sources";
 import { filterSources, visibleSelection } from "@/lib/source-search";
 import { SourcePreview } from "@/components/source-preview";
 
@@ -16,13 +16,45 @@ export default function SourceSearchPage() {
   const [query, setQuery] = useState("");
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const comparison = useComparison();
-  const comparable = folders.doe.filter((doc) => doc.comparisonTextHref);
+  const families = useMemo(() => {
+    const map = new Map<string, SourceDoc[]>();
+    for (const doc of folders.doe) {
+      if (!doc.comparisonTextHref || !doc.family) continue;
+      map.set(doc.family, [...(map.get(doc.family) ?? []), doc]);
+    }
+    for (const docs of map.values())
+      docs.sort((a, b) => (a.revision ?? "").localeCompare(b.revision ?? ""));
+    return [...map.entries()]
+      .filter(([, docs]) => docs.length > 1)
+      .sort(([a], [b]) =>
+        a.localeCompare(b, undefined, { numeric: true }),
+      );
+  }, [folders]);
+  const [family, setFamily] = useState("DOE O 483.1");
+  const versions = families.find(([f]) => f === family)?.[1] ?? [];
   const [olderId, setOlderId] = useState("src-doe-483-1b");
   const [newerId, setNewerId] = useState("src-doe-483-1c");
+  const olderIndex = versions.findIndex((d) => d.id === olderId);
+  const olderOptions = versions.slice(0, -1);
+  const newerOptions = versions.slice(olderIndex + 1);
   const compareButton = useRef<HTMLButtonElement>(null);
+  function pickFamily(next: string) {
+    const docs = families.find(([f]) => f === next)?.[1] ?? [];
+    comparison.clear();
+    setFamily(next);
+    setOlderId(docs[0]?.id ?? "");
+    setNewerId(docs[docs.length - 1]?.id ?? "");
+  }
+  function pickOlder(id: string) {
+    comparison.clear();
+    setOlderId(id);
+    const i = versions.findIndex((d) => d.id === id);
+    const j = versions.findIndex((d) => d.id === newerId);
+    if (j <= i) setNewerId(versions[versions.length - 1]?.id ?? "");
+  }
   function compare() {
-    const older = comparable.find((d) => d.id === olderId),
-      newer = comparable.find((d) => d.id === newerId);
+    const older = versions.find((d) => d.id === olderId),
+      newer = versions.find((d) => d.id === newerId);
     if (!older || !newer || olderId === newerId) return;
     setSelectedId(null);
     void comparison.run(older, newer);
@@ -53,14 +85,7 @@ export default function SourceSearchPage() {
   return (
     <div>
       <div className="mb-6">
-        <p className="text-[11px] uppercase tracking-wide text-ink-muted">
-          Library
-        </p>
-        <h1 className="mt-1 text-[26px] font-medium">Source Search</h1>
-        <p className="mt-2 text-sm text-ink-muted">
-          Find a Pantex or DOE source and select it to preview alongside your
-          search. Browsing does not run AI analysis.
-        </p>
+        <h1 className="text-[26px] font-medium">Source Search</h1>
       </div>
       <div
         className={clsx(
@@ -72,12 +97,9 @@ export default function SourceSearchPage() {
       >
         <div className="grid min-h-[520px] min-w-0 overflow-hidden rounded-card border border-border bg-surface sm:grid-cols-[160px_minmax(0,1fr)]">
           <aside className="border-b border-border-subtle bg-canvas/60 sm:border-b-0 sm:border-r">
-            <p className="px-4 py-3 text-[10px] font-semibold uppercase tracking-wide text-ink-muted">
-              Libraries
-            </p>
             <nav
               aria-label="Source libraries"
-              className="flex gap-1 px-2 pb-3 sm:flex-col"
+              className="flex gap-1 px-2 py-3 sm:flex-col"
             >
               {(
                 [
@@ -110,26 +132,42 @@ export default function SourceSearchPage() {
             {folder === "doe" && (
               <div className="space-y-3 border-b border-border p-4">
                 <h2 className="text-sm font-semibold">Compare DOE versions</h2>
-                <p className="text-xs text-ink-muted">
-                  Complete-file text comparison · no AI
-                </p>
+                <label className="block text-xs">
+                  Document
+                  <select
+                    value={family}
+                    onChange={(e) => pickFamily(e.target.value)}
+                    className="mt-1 w-full rounded border border-border bg-surface p-2 text-sm"
+                  >
+                    {families.map(([f, docs]) => (
+                      <option key={f} value={f}>
+                        {f} ({docs.map((d) => d.revision || "orig").join(" → ")})
+                      </option>
+                    ))}
+                  </select>
+                </label>
                 {(
                   [
-                    ["Older version", olderId, setOlderId],
-                    ["Newer version", newerId, setNewerId],
+                    ["Older version", olderId, olderOptions, pickOlder],
+                    [
+                      "Newer version",
+                      newerId,
+                      newerOptions,
+                      (id: string) => {
+                        comparison.clear();
+                        setNewerId(id);
+                      },
+                    ],
                   ] as const
-                ).map(([label, value, setValue]) => (
+                ).map(([label, value, options, onPick]) => (
                   <label key={label} className="block text-xs">
                     {label}
                     <select
                       value={value}
-                      onChange={(e) => {
-                        comparison.clear();
-                        setValue(e.target.value);
-                      }}
+                      onChange={(e) => onPick(e.target.value)}
                       className="mt-1 w-full rounded border border-border bg-surface p-2 text-sm"
                     >
-                      {comparable.map((doc) => (
+                      {options.map((doc) => (
                         <option key={doc.id} value={doc.id}>
                           {doc.shortTitle}
                         </option>
@@ -148,11 +186,6 @@ export default function SourceSearchPage() {
                 >
                   Find differences
                 </button>
-                {olderId === newerId && (
-                  <p className="text-xs text-ink-muted">
-                    Choose two different versions.
-                  </p>
-                )}
               </div>
             )}
 

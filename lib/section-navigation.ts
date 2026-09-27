@@ -3,6 +3,17 @@ import type { DocSection, DocChange } from "./document-data";
 export function chapterKey(number: string) {
   return number.trim().match(/^\d+(?=\.|\s|$)/)?.[0] ?? number.trim();
 }
+
+/** Display label — avoid "Intro Introduction" style duplication. */
+export function sectionLabel(section: { number: string; title: string }) {
+  const n = section.number.trim();
+  const t = section.title.trim();
+  if (!n) return t;
+  if (!t) return n;
+  if (/^intro$/i.test(n) && /^introduction$/i.test(t)) return t;
+  if (n.toLowerCase() === t.toLowerCase()) return t;
+  return `${n} ${t}`;
+}
 export function chapterLinks(sections: DocSection[]) {
   const seen = new Set<string>();
   return sections.flatMap((section) => {

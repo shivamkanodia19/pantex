@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "extractionVersion": "pypdf-page-text-v1",
+  "extractor": "pypdf 6.19.0",
+  "sourceFile": "doe_o_456.1b.pdf",
+  "sha256": "df20bd719d867ff545e4dfd07b7bd3d069e2d927c0d75199810ce3f4a1dc0b28",
+  "pages": [
+    {
+      "page": 1,
+      "text": "AVAILABLE ONLINE AT: INITIATED BY: \nwww.directives.doe.gov Office of Environment, H ealth, Safety and Security \nU.S. Department of Energy ORDER \n Washington, D.C.  \nApproved: 08-05-2026 \n \nSUBJECT:  THE SAFE HANDLING OF UNBOUND ENGINEERED NANOPARTICLES \n1. PURPOSE.  This Order ensures that activities involving unbound engineered \nnanoparticles (UNP) are conducted using a risk-informed, performance-based approach \nthat protects workers, the public, and the environment while eliminating redundant and \nlow-value administrative requirements. \n2. CANCELLATION.  Department of Energy (DOE) Order 456.1A, The Safe Handling of \nUnbound Engineered Nanoparticles, dated July 15, 2016. \na. Cancellation of a directive does not, by itself, modify or otherwise affect any \ncontractual or regulatory obligation to comply with the directive. \n3. APPLICABILITY. \na. Departmental Applicability. \nb. This Order applies to DOE elements, including the National Nuclear Security \nAdministration (NNSA), that conduct, manage, or oversee activities involving \nUNP at DOE-owned or DOE-controlled facilities. \nc. The administrator of NNSA must ensure compliance by NNSA employees \nconsistent with Section 3212(d) of Public Law 106-65. \nd. DOE Contractors. \n(1) This Order applies to contractors performing work involving UNP where \nDOE directives are incorporated into the contract pursuant to 48 Code of \nFederal Regulations (CFR) 970.5204-2, Laws, regulations, and DOE \ndirectives, or equivalent mechanisms. \n(2) Contractor requirements are contained directly within this Order.  No \nContractor Requirements Document is issued. \ne. Scope and Limitations. \n(1) This Order applies only to occupational safety and health risks associated \nwith unbound engineered nanoparticles.  The following are excluded:  \n(a) Biomolecules (proteins, nucleic acids, carbohydrates). \nDOE O 456.1B ",
+      "omittedLines": []
+    },
+    {
+      "page": 2,
+      "text": "(b) Nanoscale radiological materials regulated under nuclear safety or \nradiological protection requirements (e.g., 10 CFR § 835, \nOccupational Radiation Protection). \n(c) Incidentally produced nanoparticles. \n(d) Ultrafine combustion particles. \n(2) For non-DOE-specific hazards, compliance must be achieved through \napplicable external regulatory frameworks.  This Order does not restate or \nduplicate regulatory requirements. \n(3) Equivalencies/Exemptions for DOE O 456.1B. \n(a) Equivalencies and exemptions are processed in accordance with \nDOE O 251.1, Departmental Directives Program, current version. \n(b) Equivalency.  In accordance with the responsibilities and \nauthorities assigned by Executive Order 12344, Naval Nuclear \nPropulsion Program, codified at 50 USC § 2406, Deputy \nAdministrator for Naval Reactors, and 2511, Naval Nuclear \nPropulsion Program, and to ensure consistency through the joint \nNavy/DOE Naval Nuclear Propulsion Program, the Deputy \nAdministrator for Naval Reactors (director) will implement and \noversee requirements and practices pertaining to this directive for \nactivities under the director’s cognizance, as deemed appropriate. \n4. REQUIREMENTS. \na. Policies and Procedures. \n(1) Safety and health policies and procedures for activities involving UNP \nmust be established that identify how DOE and contractors will comply \nwith the requirements of this Order.  These policies and procedures should \nbe an integral part of the Worker Protection Program and compliant with \n10 CFR § 851, Worker Safety and Health Program.  To the extent such \nsteps have not occurred, they should be effectuated immediately.  \n(2) Organizations conducting UNP activities must establish written \nprocedures that: \n(a) Define hazard identification and control processes for UNP. \n(b) Integrate UNP activities into existing safety management systems. \n(c) Provide mechanisms for review and update as scientific \nknowledge evolves. ",
+      "omittedLines": [
+        "2 DOE O 456.1B ",
+        " 08-05-2026 "
+      ]
+    },
+    {
+      "page": 3,
+      "text": "b. Training. \n(1) Workers with potential exposure to UNP must receive training prior to \nassignment. \n(2) Training must include, at a minimum: \n(a) Uncertainties of properties and hazards of UNP; \n(b) Differences in reactivity and toxic potential between nanoscale and \nbulk forms of the same material; \n(c) Potential exposure routes and transport of UNP within the body; \n(d) Limitations of available hazard information, including Safety Data \nSheets, for evaluating exposures and environmental releases; \n(e) The importance of minimizing exposure and \nenvironmental release; \n(f) Hazard controls and their limitations; \n(g) Applicable exposure limits or recommended exposure guidance, \nwhen available; and \n(h) Site-specific policies, procedures, and hazard controls for UNP. \n(3) Refresher training must be provided as appropriate when significant \nhazard information or procedural changes occur. \n(4) Training must remain commensurate with the risk and complexity of the \nwork activity. \nc. Exposure Assessment and Monitoring. \n(1) An exposure assessment program for UNP must be established to include \npreliminary qualitative exposure assessments for airborne and dermal \nexposure and consideration of quantitative air monitoring. \n(2) The best available hazard information must be used when conducting an \nexposure assessment for all activities involving UNP. ",
+      "omittedLines": [
+        "DOE O 456.1B  3 ",
+        "08-05-2026 "
+      ]
+    },
+    {
+      "page": 4,
+      "text": "d. Medical Surveillance. \n(1) Workers with occupational exposure to UNP must be evaluated for \nmedical surveillance enrollment consistent with 10 CFR § 851. \n(2) Medical evaluations must be determined by an occupational medicine \nprovider and may include: \n(a) Occupational and medical history, \n(b) Focused physical examination, \n(c) Diagnostic testing as appropriate. \ne. Hazard Communication and Labeling. \n(1) Post signs indicating UNP hazards, at entry points into areas where UNP \nare handled. An area may be an entire laboratory, an area of a laboratory, \nspecific equipment, or a containment device such as a laboratory hood \nor glovebox. \n(2) Label storage and transfer containers to plainly indicate the contents \ninclude UNP and associated hazards in accordance with applicable federal, \nstate and local regulations.  If affixing a label is impractical, alternative \nlabeling schemes may be used in lieu of affixing labels. \nf. Waste Management.  Waste containing UNP must be managed in accordance with \napplicable federal, state, and local disposal regulations. \n5. RESPONSIBILITIES. \na. Departmental Elements Responsible for Program Direction.  \nEnsure implementation of this Order within their programs and establish \nrisk-based oversight. \nb. DOE Field Elements.  Ensure that: \n(1) Contractor UNP activities comply with this Order, \n(2) Oversight plans address UNP hazards where present, \n(3) Approval authority is aligned with hazard and consequence. \nc. Contracting Officers.  Incorporate this Order into applicable contracts and ensure \ncontractual mechanisms support implementation. ",
+      "omittedLines": [
+        "4 DOE O 456.1B ",
+        " 08-05-2026 "
+      ]
+    },
+    {
+      "page": 5,
+      "text": "d. Contractors Performing UNP Activities.  Ensure that: \n(1) Hazards are identified and controlled, \n(2) Training, exposure assessment, and posting/labeling are implemented. \n6. INVOKED STANDARDS.  This Order does not invoke any DOE technical standards or \nindustry standards as required methods.  Note: DOE O 251.1, current version, provides a \ndefinition for “invoked technical standard.” \n7. DEFINITIONS. \na. Engineered nanoparticle.  Intentionally created material with one or more \ndimensions between 1 and 100 nanometers. \nb. Unbound engineered nanoparticles.  Particles that are not contained within a \nmatrix under normal temperature and pressure conditions that would reasonably \nbe expected to prevent the particles from being separately mobile and a potential \nsource of exposure.  An engineered primary nanoscale particle dispersed and \nfixed within a polymer matrix, incapable, as a practical matter, of becoming \nairborne, would be “bound” while such a particle suspended as an aerosol would \nbe “unbound.” \nc. UNP worker.  A worker with potential inhalation or dermal exposure to UNP due \nto assigned duties or work in areas where UNP may become dispersed. \n8. REFERENCES. \nThis Order implements worker protection obligations established under 10 CFR § 851. \na. 10 CFR §851, Worker Safety and Health Program. \nb. 48 CFR (DEAR) 970.5204-2, Laws, regulations and DOE directives. \nc. DOE O 440.1B, Worker Protection Program for DOE (Including NNSA) Federal \nEmployees. \nd. DOE P 450.4A, Integrated Safety Management Policy. \ne. DOE O 251.1, Departmental Directives Program. \nf. Other applicable federal regulations governing occupational health, medical \nqualification standards, transportation, or biological materials where relevant to \nthe specific UNP activity. ",
+      "omittedLines": [
+        "DOE O 456.1B  5 ",
+        "08-05-2026 "
+      ]
+    },
+    {
+      "page": 6,
+      "text": "9. CONTACT.  Questions concerning this Order should be addressed to the Office of \nWorker Safety and Health Policy. \nBY ORDER OF THE SECRETARY OF ENERGY: \n \nJAMES P. DANLY \nDeputy Secretary \n ",
+      "omittedLines": [
+        "6 DOE O 456.1B ",
+        " 08-05-2026 "
+      ]
+    }
+  ]
+}
